@@ -1,0 +1,6 @@
+cache
+log
+*.swp
+*.swo
+*.svn*
+apps/*/config/app.yml
