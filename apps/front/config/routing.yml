@@ -1,3 +1,9 @@
+encuesta:
+  class: sfDoctrineRouteCollection
+  options:
+    model:      Encuesta
+    with_show:  true
+
 # default rules
 homepage:
   url:   /
