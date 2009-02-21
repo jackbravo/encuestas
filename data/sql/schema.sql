@@ -1,3 +1,4 @@
+CREATE TABLE encuesta (id INT AUTO_INCREMENT, encuestador_id INT, nombre VARCHAR(255) NOT NULL, apellido_p VARCHAR(255), apellido_m VARCHAR(255), rfc VARCHAR(50), edad INT, genero VARCHAR(1), telefono VARCHAR(50), celular VARCHAR(50), email VARCHAR(255), estado_id INT, ciudad VARCHAR(50), delegacion VARCHAR(50), municipio VARCHAR(50), colonia VARCHAR(50), calle VARCHAR(50), numero BIGINT, cp BIGINT, created_at DATETIME, updated_at DATETIME, INDEX encuestador_id_idx (encuestador_id), INDEX estado_id_idx (estado_id), PRIMARY KEY(id)) ENGINE = INNODB;
 CREATE TABLE sf_guard_group_permission (group_id INT, permission_id INT, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(group_id, permission_id)) ENGINE = INNODB;
 CREATE TABLE sf_guard_permission (id INT AUTO_INCREMENT, name VARCHAR(255) UNIQUE, description TEXT, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) ENGINE = INNODB;
 CREATE TABLE sf_guard_group (id INT AUTO_INCREMENT, name VARCHAR(255) UNIQUE, description TEXT, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) ENGINE = INNODB;
@@ -5,6 +6,9 @@ CREATE TABLE sf_guard_remember_key (id INT AUTO_INCREMENT, user_id INT, remember
 CREATE TABLE sf_guard_user_group (user_id INT, group_id INT, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(user_id, group_id)) ENGINE = INNODB;
 CREATE TABLE sf_guard_user (id INT AUTO_INCREMENT, username VARCHAR(128) NOT NULL UNIQUE, algorithm VARCHAR(128) DEFAULT 'sha1' NOT NULL, salt VARCHAR(128), password VARCHAR(128), is_active TINYINT(1) DEFAULT '1', is_super_admin TINYINT(1) DEFAULT '0', last_login DATETIME, created_at DATETIME, updated_at DATETIME, INDEX is_active_idx_idx (is_active), PRIMARY KEY(id)) ENGINE = INNODB;
 CREATE TABLE sf_guard_user_permission (user_id INT, permission_id INT, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(user_id, permission_id)) ENGINE = INNODB;
+CREATE TABLE estado (id INT AUTO_INCREMENT, nombre VARCHAR(255) NOT NULL, PRIMARY KEY(id)) ENGINE = INNODB;
+ALTER TABLE encuesta ADD FOREIGN KEY (estado_id) REFERENCES estado(id);
+ALTER TABLE encuesta ADD FOREIGN KEY (encuestador_id) REFERENCES sf_guard_user(id);
 ALTER TABLE sf_guard_group_permission ADD FOREIGN KEY (permission_id) REFERENCES sf_guard_permission(id) ON DELETE CASCADE;
 ALTER TABLE sf_guard_group_permission ADD FOREIGN KEY (group_id) REFERENCES sf_guard_group(id) ON DELETE CASCADE;
 ALTER TABLE sf_guard_remember_key ADD FOREIGN KEY (user_id) REFERENCES sf_guard_user(id) ON DELETE CASCADE;
