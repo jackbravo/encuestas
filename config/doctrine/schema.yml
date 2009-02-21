@@ -1,0 +1,49 @@
+Encuesta:
+  actAs: [Timestampable]
+  columns:
+    id:
+      type:         integer(4)
+      primary:      true
+      autoincrement: true
+    encuestador_id: integer(4)
+
+    # datos
+    nombre:
+      type:         string(255)
+      notnull:      true
+    apellido_p:     string(255)
+    apellido_m:     string(255)
+    rfc:            string(50)
+    edad:           integer(4)
+    genero:         string(1)
+    telefono:       string(50)
+    celular:        string(50)
+    email:          string(255)
+
+    # direccion
+    estado_id:      integer(4)
+    ciudad:         string(50)
+    delegacion:     string(50)
+    municipio:      string(50)
+    colonia:        string(50)
+    calle:          string(50)
+    numero:         integer(10)
+    cp:             integer(10)
+  relations:
+    Encuestador:
+      class:        sfGuardUser
+      local:        encuestador_id
+      foreign:      id
+      foreignAlias: Encuestas
+    Estado:
+      foreignAlias: Encuestas
+
+Estado:
+  columns:
+    id:
+      type:         integer(4)
+      primary:      true
+      autoincrement: true
+    nombre:
+      type:         string(255)
+      notnull:      true
