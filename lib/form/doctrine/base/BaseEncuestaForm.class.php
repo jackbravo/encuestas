@@ -35,8 +35,8 @@ class BaseEncuestaForm extends BaseFormDoctrine
       'updated_at'             => new sfWidgetFormDateTime(),
       'horarios_list'          => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Horario')),
       'areas_interes_list'     => new sfWidgetFormDoctrineChoiceMany(array('model' => 'AreaInteres')),
-      'productos_interes_list' => new sfWidgetFormDoctrineChoiceMany(array('model' => 'AreaInteres')),
-      'medios_contacto_list'   => new sfWidgetFormDoctrineChoiceMany(array('model' => 'AreaInteres')),
+      'productos_interes_list' => new sfWidgetFormDoctrineChoiceMany(array('model' => 'ProductoInteres')),
+      'medios_contacto_list'   => new sfWidgetFormDoctrineChoiceMany(array('model' => 'MedioContacto')),
     ));
 
     $this->setValidators(array(
@@ -63,8 +63,8 @@ class BaseEncuestaForm extends BaseFormDoctrine
       'updated_at'             => new sfValidatorDateTime(array('required' => false)),
       'horarios_list'          => new sfValidatorDoctrineChoiceMany(array('model' => 'Horario', 'required' => false)),
       'areas_interes_list'     => new sfValidatorDoctrineChoiceMany(array('model' => 'AreaInteres', 'required' => false)),
-      'productos_interes_list' => new sfValidatorDoctrineChoiceMany(array('model' => 'AreaInteres', 'required' => false)),
-      'medios_contacto_list'   => new sfValidatorDoctrineChoiceMany(array('model' => 'AreaInteres', 'required' => false)),
+      'productos_interes_list' => new sfValidatorDoctrineChoiceMany(array('model' => 'ProductoInteres', 'required' => false)),
+      'medios_contacto_list'   => new sfValidatorDoctrineChoiceMany(array('model' => 'MedioContacto', 'required' => false)),
     ));
 
     $this->widgetSchema->setNameFormat('encuesta[%s]');

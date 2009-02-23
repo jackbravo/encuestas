@@ -5,5 +5,8 @@
  */
 class Horario extends BaseHorario
 {
-
+  public function __toString()
+  {
+    return $this->descripcion;
+  }
 }

@@ -47,11 +47,11 @@ Encuesta:
       refClass: EncuestaAreaInteres
       foreignAlias: Encuestas
     ProductosInteres:
-      class: AreaInteres
+      class: ProductoInteres
       refClass: EncuestaProductoInteres
       foreignAlias: Encuestas
     MediosContacto:
-      class: AreaInteres
+      class: MedioContacto
       refClass: EncuestaMedioContacto
       foreignAlias: Encuestas
 

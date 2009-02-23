@@ -14,6 +14,10 @@ abstract class BaseProductoInteres extends sfDoctrineRecord
 
     public function setUp()
     {
+        $this->hasMany('Encuesta as Encuestas', array('refClass' => 'EncuestaProductoInteres',
+                                                      'local' => 'producto_interes_id',
+                                                      'foreign' => 'encuesta_id'));
+
         $this->hasMany('EncuestaProductoInteres', array('local' => 'id',
                                                         'foreign' => 'producto_interes_id'));
     }

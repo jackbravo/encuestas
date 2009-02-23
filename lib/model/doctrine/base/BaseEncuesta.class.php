@@ -45,13 +45,13 @@ abstract class BaseEncuesta extends sfDoctrineRecord
                                                             'local' => 'encuesta_id',
                                                             'foreign' => 'area_interes_id'));
 
-        $this->hasMany('AreaInteres as ProductosInteres', array('refClass' => 'EncuestaProductoInteres',
-                                                                'local' => 'encuesta_id',
-                                                                'foreign' => 'area_interes_id'));
+        $this->hasMany('ProductoInteres as ProductosInteres', array('refClass' => 'EncuestaProductoInteres',
+                                                                    'local' => 'encuesta_id',
+                                                                    'foreign' => 'producto_interes_id'));
 
-        $this->hasMany('AreaInteres as MediosContacto', array('refClass' => 'EncuestaMedioContacto',
-                                                              'local' => 'encuesta_id',
-                                                              'foreign' => 'area_interes_id'));
+        $this->hasMany('MedioContacto as MediosContacto', array('refClass' => 'EncuestaMedioContacto',
+                                                                'local' => 'encuesta_id',
+                                                                'foreign' => 'medio_contacto_id'));
 
         $this->hasMany('EncuestaHorario', array('local' => 'id',
                                                 'foreign' => 'encuesta_id'));

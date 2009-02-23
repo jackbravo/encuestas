@@ -5,5 +5,8 @@
  */
 class AreaInteres extends BaseAreaInteres
 {
-
+  public function __toString()
+  {
+    return $this->descripcion;
+  }
 }

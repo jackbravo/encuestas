@@ -5,5 +5,8 @@
  */
 class MedioContacto extends BaseMedioContacto
 {
-
+  public function __toString()
+  {
+    return $this->descripcion;
+  }
 }

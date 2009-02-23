@@ -14,11 +14,13 @@ class BaseProductoInteresFormFilter extends BaseFormFilterDoctrine
   public function setup()
   {
     $this->setWidgets(array(
-      'descripcion' => new sfWidgetFormFilterInput(),
+      'descripcion'    => new sfWidgetFormFilterInput(),
+      'encuestas_list' => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Encuesta')),
     ));
 
     $this->setValidators(array(
-      'descripcion' => new sfValidatorPass(array('required' => false)),
+      'descripcion'    => new sfValidatorPass(array('required' => false)),
+      'encuestas_list' => new sfValidatorDoctrineChoiceMany(array('model' => 'Encuesta', 'required' => false)),
     ));
 
     $this->widgetSchema->setNameFormat('producto_interes_filters[%s]');
@@ -26,6 +28,22 @@ class BaseProductoInteresFormFilter extends BaseFormFilterDoctrine
     $this->errorSchema = new sfValidatorErrorSchema($this->validatorSchema);
 
     parent::setup();
+  }
+
+  public function addEncuestasListColumnQuery(Doctrine_Query $query, $field, $values)
+  {
+    if (!is_array($values))
+    {
+      $values = array($values);
+    }
+
+    if (!count($values))
+    {
+      return;
+    }
+
+    $query->leftJoin('r.EncuestaProductoInteres EncuestaProductoInteres')
+          ->andWhereIn('EncuestaProductoInteres.encuesta_id', $values);
   }
 
   public function getModelName()
@@ -36,8 +54,9 @@ class BaseProductoInteresFormFilter extends BaseFormFilterDoctrine
   public function getFields()
   {
     return array(
-      'id'          => 'Number',
-      'descripcion' => 'Text',
+      'id'             => 'Number',
+      'descripcion'    => 'Text',
+      'encuestas_list' => 'ManyKey',
     );
   }
 }

@@ -5,5 +5,8 @@
  */
 class ProductoInteres extends BaseProductoInteres
 {
-
+  public function __toString()
+  {
+    return $this->descripcion;
+  }
 }

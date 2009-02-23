@@ -36,8 +36,8 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
       'updated_at'             => new sfWidgetFormFilterDate(array('from_date' => new sfWidgetFormDate(), 'to_date' => new sfWidgetFormDate(), 'with_empty' => true)),
       'horarios_list'          => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Horario')),
       'areas_interes_list'     => new sfWidgetFormDoctrineChoiceMany(array('model' => 'AreaInteres')),
-      'productos_interes_list' => new sfWidgetFormDoctrineChoiceMany(array('model' => 'AreaInteres')),
-      'medios_contacto_list'   => new sfWidgetFormDoctrineChoiceMany(array('model' => 'AreaInteres')),
+      'productos_interes_list' => new sfWidgetFormDoctrineChoiceMany(array('model' => 'ProductoInteres')),
+      'medios_contacto_list'   => new sfWidgetFormDoctrineChoiceMany(array('model' => 'MedioContacto')),
     ));
 
     $this->setValidators(array(
@@ -63,8 +63,8 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
       'updated_at'             => new sfValidatorDateRange(array('required' => false, 'from_date' => new sfValidatorDate(array('required' => false)), 'to_date' => new sfValidatorDate(array('required' => false)))),
       'horarios_list'          => new sfValidatorDoctrineChoiceMany(array('model' => 'Horario', 'required' => false)),
       'areas_interes_list'     => new sfValidatorDoctrineChoiceMany(array('model' => 'AreaInteres', 'required' => false)),
-      'productos_interes_list' => new sfValidatorDoctrineChoiceMany(array('model' => 'AreaInteres', 'required' => false)),
-      'medios_contacto_list'   => new sfValidatorDoctrineChoiceMany(array('model' => 'AreaInteres', 'required' => false)),
+      'productos_interes_list' => new sfValidatorDoctrineChoiceMany(array('model' => 'ProductoInteres', 'required' => false)),
+      'medios_contacto_list'   => new sfValidatorDoctrineChoiceMany(array('model' => 'MedioContacto', 'required' => false)),
     ));
 
     $this->widgetSchema->setNameFormat('encuesta_filters[%s]');
@@ -119,7 +119,7 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
     }
 
     $query->leftJoin('r.EncuestaProductoInteres EncuestaProductoInteres')
-          ->andWhereIn('EncuestaProductoInteres.area_interes_id', $values);
+          ->andWhereIn('EncuestaProductoInteres.producto_interes_id', $values);
   }
 
   public function addMediosContactoListColumnQuery(Doctrine_Query $query, $field, $values)
@@ -135,7 +135,7 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
     }
 
     $query->leftJoin('r.EncuestaMedioContacto EncuestaMedioContacto')
-          ->andWhereIn('EncuestaMedioContacto.area_interes_id', $values);
+          ->andWhereIn('EncuestaMedioContacto.medio_contacto_id', $values);
   }
 
   public function getModelName()
