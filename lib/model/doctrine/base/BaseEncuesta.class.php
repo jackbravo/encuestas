@@ -25,8 +25,8 @@ abstract class BaseEncuesta extends sfDoctrineRecord
         $this->hasColumn('municipio', 'string', 50, array('type' => 'string', 'length' => '50'));
         $this->hasColumn('colonia', 'string', 50, array('type' => 'string', 'length' => '50'));
         $this->hasColumn('calle', 'string', 50, array('type' => 'string', 'length' => '50'));
-        $this->hasColumn('numero', 'integer', 10, array('type' => 'integer', 'length' => '10'));
-        $this->hasColumn('cp', 'integer', 10, array('type' => 'integer', 'length' => '10'));
+        $this->hasColumn('numero', 'integer', 4, array('type' => 'integer', 'length' => '4'));
+        $this->hasColumn('cp', 'integer', 4, array('type' => 'integer', 'length' => '4'));
     }
 
     public function setUp()
@@ -36,6 +36,34 @@ abstract class BaseEncuesta extends sfDoctrineRecord
 
         $this->hasOne('Estado', array('local' => 'estado_id',
                                       'foreign' => 'id'));
+
+        $this->hasMany('Horario as Horarios', array('refClass' => 'EncuestaHorario',
+                                                    'local' => 'encuesta_id',
+                                                    'foreign' => 'horario_id'));
+
+        $this->hasMany('AreaInteres as AreasInteres', array('refClass' => 'EncuestaAreaInteres',
+                                                            'local' => 'encuesta_id',
+                                                            'foreign' => 'area_interes_id'));
+
+        $this->hasMany('AreaInteres as ProductosInteres', array('refClass' => 'EncuestaProductoInteres',
+                                                                'local' => 'encuesta_id',
+                                                                'foreign' => 'area_interes_id'));
+
+        $this->hasMany('AreaInteres as MediosContacto', array('refClass' => 'EncuestaMedioContacto',
+                                                              'local' => 'encuesta_id',
+                                                              'foreign' => 'area_interes_id'));
+
+        $this->hasMany('EncuestaHorario', array('local' => 'id',
+                                                'foreign' => 'encuesta_id'));
+
+        $this->hasMany('EncuestaAreaInteres', array('local' => 'id',
+                                                    'foreign' => 'encuesta_id'));
+
+        $this->hasMany('EncuestaProductoInteres', array('local' => 'id',
+                                                        'foreign' => 'encuesta_id'));
+
+        $this->hasMany('EncuestaMedioContacto', array('local' => 'id',
+                                                      'foreign' => 'encuesta_id'));
 
         $timestampable0 = new Doctrine_Template_Timestampable();
         $this->actAs($timestampable0);
