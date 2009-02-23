@@ -8,7 +8,7 @@ encuesta:
 # default rules
 homepage:
   url:   /
-  param: { module: default, action: index }
+  param: { module: encuesta, action: index }
 
 default_index:
   url:   /:module
