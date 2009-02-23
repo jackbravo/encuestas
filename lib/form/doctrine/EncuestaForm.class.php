@@ -21,5 +21,11 @@ class EncuestaForm extends BaseEncuestaForm
       'productos_interes_list' => '¿En qué productos está interesado?',
       'medios_contacto_list' => '¿Cómo se enteró de este número?',
     ));
+
+    $this->widgetSchema['horarios_list']->setOption('expanded', true);
+    $this->widgetSchema['areas_interes_list']->setOption('expanded', true);
+    $this->widgetSchema['productos_interes_list']->setOption('expanded', true);
+    $this->widgetSchema['medios_contacto_list']->setOption('multiple', false);
+    $this->widgetSchema['medios_contacto_list']->setOption('expanded', true);
   }
 }
