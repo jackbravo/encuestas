@@ -27,5 +27,7 @@ class EncuestaForm extends BaseEncuestaForm
     $this->widgetSchema['productos_interes_list']->setOption('expanded', true);
     $this->widgetSchema['medios_contacto_list']->setOption('multiple', false);
     $this->widgetSchema['medios_contacto_list']->setOption('expanded', true);
+
+    $this->validatorSchema['email'] = new sfValidatorEmail(array('required' => false));
   }
 }
