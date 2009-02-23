@@ -8,7 +8,8 @@
 <fieldset>
   <legend>Datos</legend>
   <?php echo $form['nombre']->renderRow() ?>
-  <?php echo $form['nombre']->renderRow() ?>
+  <?php echo $form['apellido_p']->renderRow() ?>
+  <?php echo $form['apellido_m']->renderRow() ?>
   <?php echo $form['rfc']->renderRow() ?>
   <?php echo $form['edad']->renderRow() ?>
   <?php echo $form['genero']->renderRow() ?>
