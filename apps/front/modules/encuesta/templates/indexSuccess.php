@@ -16,7 +16,6 @@
       <th>Email</th>
       <th>Estado</th>
       <th>Ciudad</th>
-      <th>Delegacion</th>
       <th>Municipio</th>
       <th>Colonia</th>
       <th>Calle</th>
@@ -42,7 +41,6 @@
       <td><?php echo $encuesta->getemail() ?></td>
       <td><?php echo $encuesta->getestado_id() ?></td>
       <td><?php echo $encuesta->getciudad() ?></td>
-      <td><?php echo $encuesta->getdelegacion() ?></td>
       <td><?php echo $encuesta->getmunicipio() ?></td>
       <td><?php echo $encuesta->getcolonia() ?></td>
       <td><?php echo $encuesta->getcalle() ?></td>

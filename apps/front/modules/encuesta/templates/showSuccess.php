@@ -53,10 +53,6 @@
       <td><?php echo $encuesta->getciudad() ?></td>
     </tr>
     <tr>
-      <th>Delegacion:</th>
-      <td><?php echo $encuesta->getdelegacion() ?></td>
-    </tr>
-    <tr>
       <th>Municipio:</th>
       <td><?php echo $encuesta->getmunicipio() ?></td>
     </tr>

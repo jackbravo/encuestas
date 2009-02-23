@@ -11,22 +11,21 @@ abstract class BaseEncuesta extends sfDoctrineRecord
         $this->hasColumn('id', 'integer', 4, array('type' => 'integer', 'primary' => true, 'autoincrement' => true, 'length' => '4'));
         $this->hasColumn('encuestador_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('nombre', 'string', 255, array('type' => 'string', 'notnull' => true, 'length' => '255'));
-        $this->hasColumn('apellido_p', 'string', 255, array('type' => 'string', 'length' => '255'));
-        $this->hasColumn('apellido_m', 'string', 255, array('type' => 'string', 'length' => '255'));
+        $this->hasColumn('apellido_p', 'string', 255, array('type' => 'string', 'notnull' => true, 'length' => '255'));
+        $this->hasColumn('apellido_m', 'string', 255, array('type' => 'string', 'notnull' => true, 'length' => '255'));
         $this->hasColumn('rfc', 'string', 50, array('type' => 'string', 'length' => '50'));
-        $this->hasColumn('edad', 'integer', 4, array('type' => 'integer', 'length' => '4'));
-        $this->hasColumn('genero', 'string', 1, array('type' => 'string', 'length' => '1'));
-        $this->hasColumn('telefono', 'string', 50, array('type' => 'string', 'length' => '50'));
+        $this->hasColumn('edad', 'integer', 4, array('type' => 'integer', 'notnull' => true, 'length' => '4'));
+        $this->hasColumn('genero', 'string', 1, array('type' => 'string', 'notnull' => true, 'length' => '1'));
+        $this->hasColumn('telefono', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
         $this->hasColumn('celular', 'string', 50, array('type' => 'string', 'length' => '50'));
         $this->hasColumn('email', 'string', 255, array('type' => 'string', 'length' => '255'));
-        $this->hasColumn('estado_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
-        $this->hasColumn('ciudad', 'string', 50, array('type' => 'string', 'length' => '50'));
-        $this->hasColumn('delegacion', 'string', 50, array('type' => 'string', 'length' => '50'));
-        $this->hasColumn('municipio', 'string', 50, array('type' => 'string', 'length' => '50'));
-        $this->hasColumn('colonia', 'string', 50, array('type' => 'string', 'length' => '50'));
-        $this->hasColumn('calle', 'string', 50, array('type' => 'string', 'length' => '50'));
-        $this->hasColumn('numero', 'integer', 4, array('type' => 'integer', 'length' => '4'));
-        $this->hasColumn('cp', 'integer', 4, array('type' => 'integer', 'length' => '4'));
+        $this->hasColumn('estado_id', 'integer', 4, array('type' => 'integer', 'notnull' => true, 'length' => '4'));
+        $this->hasColumn('ciudad', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
+        $this->hasColumn('municipio', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
+        $this->hasColumn('colonia', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
+        $this->hasColumn('calle', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
+        $this->hasColumn('numero', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
+        $this->hasColumn('cp', 'integer', 4, array('type' => 'integer', 'notnull' => true, 'length' => '4'));
     }
 
     public function setUp()

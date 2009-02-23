@@ -5,7 +5,18 @@ Estado:
 Encuesta:
   0:
     nombre: Juanita
+    apellido_p: Perez
+    apellido_m: González
+    edad: 28
+    genero: m
+    telefono: 3837-3832
     Estado: e1
+    ciudad: Guadalajara
+    municipio: Zapopan
+    colonia: Arboledas
+    calle: Galileo Galilei
+    numero: 3829-1A
+    cp: 45070
 
 Horario:
   h1:
