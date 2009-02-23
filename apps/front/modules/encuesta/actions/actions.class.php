@@ -12,7 +12,29 @@ class encuestaActions extends sfActions
 {
   public function executeIndex(sfWebRequest $request)
   {
-    $this->encuesta_list = $this->getRoute()->getObjects();
+    $this->filter = $this->getFilter($request);
+    $this->pager = $this->getPager($request, $this->filter);
+  }
+
+  public function executeFilter(sfWebRequest $request)
+  {
+    if ($request->hasParameter('_reset'))
+    {
+      $this->getUser()->setAttribute('encuestas_filter', $this->getDefaultFilter());
+      $this->redirect('@encuesta');
+    }
+
+    $this->filter = $this->getFilter($request);
+
+    $this->filter->bind($request->getParameter('encuesta_filters'));
+    if ($this->filter->isValid())
+    {
+      $this->getUser()->setAttribute('encuestas_filter', $this->filter->getValues());
+      $this->redirect('@encuesta');
+    }
+
+    $this->pager = $this->getPager($request, $this->filter);
+    $this->setTemplate('index');
   }
 
   public function executeShow(sfWebRequest $request)
@@ -66,5 +88,35 @@ class encuestaActions extends sfActions
 
       $this->redirect('@encuesta_show?id='.$encuesta['id']);
     }
+  }
+
+  protected function getPager($request, $filter)
+  {
+    $pager = new sfDoctrinePager('Encuesta',
+      sfConfig::get('app_max_encuestas_on_index')
+    );
+    $pager->setQuery($filter->buildQuery(
+      $this->getUser()->getAttribute('encuestas_filter', $this->getDefaultFilter())
+    ));
+    $pager->setPage($request->getParameter('page', 1));
+    //$pager->setTableMethod('getListQuery');
+    $pager->init();
+
+    return $pager;
+  }
+
+  protected function getFilter($request)
+  {
+    $filter = new EncuestaFormFilter(
+      $this->getUser()->getAttribute('encuestas_filter', $this->getDefaultFilter())
+    );
+
+    return $filter;
+  }
+
+  protected function getDefaultFilter()
+  {
+    return array(
+    );
   }
 }

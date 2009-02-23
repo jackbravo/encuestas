@@ -1,2 +1,2 @@
-# default values
-#all:
+all:
+  max_encuestas_on_contacts: 50
