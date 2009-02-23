@@ -11,7 +11,7 @@ default:
 
   stylesheets:    [960/reset.css, 960/text.css, 960/960.css, main]
 
-  javascripts:    []
+  javascripts:    [jquery.js]
 
   has_layout:     on
   layout:         layout
