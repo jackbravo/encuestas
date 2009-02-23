@@ -27,8 +27,8 @@ Encuesta:
     municipio:      string(50)
     colonia:        string(50)
     calle:          string(50)
-    numero:         integer(10)
-    cp:             integer(10)
+    numero:         integer(4)
+    cp:             integer(4)
   relations:
     Encuestador:
       class:        sfGuardUser
@@ -36,6 +36,23 @@ Encuesta:
       foreign:      id
       foreignAlias: Encuestas
     Estado:
+      foreignAlias: Encuestas
+
+    Horarios:
+      class: Horario
+      refClass: EncuestaHorario
+      foreignAlias: Encuestas
+    AreasInteres:
+      class: AreaInteres
+      refClass: EncuestaAreaInteres
+      foreignAlias: Encuestas
+    ProductosInteres:
+      class: AreaInteres
+      refClass: EncuestaProductoInteres
+      foreignAlias: Encuestas
+    MediosContacto:
+      class: AreaInteres
+      refClass: EncuestaMedioContacto
       foreignAlias: Encuestas
 
 Estado:
@@ -47,3 +64,84 @@ Estado:
     nombre:
       type:         string(255)
       notnull:      true
+
+Horario:
+  columns:
+    id:
+      type:         integer(4)
+      primary:      true
+      autoincrement: true
+    descripcion:    string(255)
+
+EncuestaHorario:
+  columns:
+    encuesta_id: { type: integer(4), primary: true }
+    horario_id: { type: integer(4), primary: true }
+  relations:
+    Encuesta:
+      local: encuesta_id
+      onDelete: CASCADE
+    Horario:
+      local: horario_id
+      onDelete: CASCADE
+
+AreaInteres:
+  columns:
+    id:
+      type:         integer(4)
+      primary:      true
+      autoincrement: true
+    descripcion:    string(255)
+
+EncuestaAreaInteres:
+  columns:
+    encuesta_id: { type: integer(4), primary: true }
+    area_interes_id: { type: integer(4), primary: true }
+  relations:
+    Encuesta:
+      local: encuesta_id
+      onDelete: CASCADE
+    AreaInteres:
+      local: area_interes_id
+      onDelete: CASCADE
+
+ProductoInteres:
+  columns:
+    id:
+      type:         integer(4)
+      primary:      true
+      autoincrement: true
+    descripcion:    string(255)
+
+EncuestaProductoInteres:
+  columns:
+    encuesta_id: { type: integer(4), primary: true }
+    producto_interes_id: { type: integer(4), primary: true }
+  relations:
+    Encuesta:
+      local: encuesta_id
+      onDelete: CASCADE
+    ProductoInteres:
+      local: producto_interes_id
+      onDelete: CASCADE
+
+MedioContacto:
+  columns:
+    id:
+      type:         integer(4)
+      primary:      true
+      autoincrement: true
+    descripcion:    string(255)
+
+EncuestaMedioContacto:
+  columns:
+    encuesta_id: { type: integer(4), primary: true }
+    medio_contacto_id: { type: integer(4), primary: true }
+  relations:
+    Encuesta:
+      local: encuesta_id
+      onDelete: CASCADE
+    MedioContacto:
+      local: medio_contacto_id
+      onDelete: CASCADE
+

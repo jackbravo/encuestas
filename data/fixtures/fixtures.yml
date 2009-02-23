@@ -7,3 +7,45 @@ Encuesta:
     nombre: Juanita
     Estado: e1
 
+Horario:
+  h1:
+    descripcion: Temprano en la mañana (8 - 10 a.m.)
+  h2:
+    descripcion: Medio dia (12 - 2 p.m.)
+  h3:
+    descripcion: Temprano por la tarde (2 - 5 p.m.)
+  h4:
+    descripcion: Temprano por la noche (5 - 8 p.m.)
+  h5:
+    descripcion: Por la noche (8 - 10 p.m.)
+
+AreaInteres:
+  ai1:
+    descripcion: Convertirse en distribuidor
+  ai2:
+    descripcion: Únicamente comprar producto
+
+ProductoInteres:
+  pi1:
+    descripcion: Licuados proteínicos y vitaminas
+  pi2:
+    descripcion: Nutrición específica
+  pi3:
+    descripcion: Nutrición de niños
+  pi4:
+    descripcion: Energía y deportes
+  pi5:
+    descripcion: Bocadillos
+  pi6:
+    descripcion: Nutrición externa
+
+MedioContacto:
+  mc1:
+    descripcion: Internet
+  mc2:
+    descripcion: Televisión
+  mc3:
+    descripcion: Radio
+  mc4:
+    descripcion: Otro
+
