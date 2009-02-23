@@ -157,6 +157,34 @@
           <?php echo $form['updated_at'] ?>
         </td>
       </tr>
+      <tr>
+        <th><?php echo $form['horarios_list']->renderLabel() ?></th>
+        <td>
+          <?php echo $form['horarios_list']->renderError() ?>
+          <?php echo $form['horarios_list'] ?>
+        </td>
+      </tr>
+      <tr>
+        <th><?php echo $form['areas_interes_list']->renderLabel() ?></th>
+        <td>
+          <?php echo $form['areas_interes_list']->renderError() ?>
+          <?php echo $form['areas_interes_list'] ?>
+        </td>
+      </tr>
+      <tr>
+        <th><?php echo $form['productos_interes_list']->renderLabel() ?></th>
+        <td>
+          <?php echo $form['productos_interes_list']->renderError() ?>
+          <?php echo $form['productos_interes_list'] ?>
+        </td>
+      </tr>
+      <tr>
+        <th><?php echo $form['medios_contacto_list']->renderLabel() ?></th>
+        <td>
+          <?php echo $form['medios_contacto_list']->renderError() ?>
+          <?php echo $form['medios_contacto_list'] ?>
+        </td>
+      </tr>
     </tbody>
   </table>
 </form>
