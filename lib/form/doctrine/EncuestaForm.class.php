@@ -11,5 +11,6 @@ class EncuestaForm extends BaseEncuestaForm
 {
   public function configure()
   {
+    unset($this['encuestador_id'], $this['created_at'], $this['updated_at']);
   }
 }
