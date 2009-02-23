@@ -14,6 +14,8 @@ class EncuestaForm extends BaseEncuestaForm
     unset($this['encuestador_id'], $this['created_at'], $this['updated_at']);
 
     $this->widgetSchema->setLabels(array(
+      'apellido_p' => 'Apellido Paterno',
+      'apellido_m' => 'Apellido Materno',
       'estado_id' => 'Estado',
       'municipio' => 'Delegación o Municipio',
       'horarios_list' => 'Mejor horario para contactarle',
