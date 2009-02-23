@@ -12,7 +12,9 @@ class EncuestaFormFilter extends BaseEncuestaFormFilter
   public function configure()
   {
     $this->widgetSchema['nombre']->setOption('with_empty', false);
+    $this->widgetSchema['nombre']->setOption('template', '%input%');
     $this->widgetSchema['apellido_p']->setOption('with_empty', false);
+    $this->widgetSchema['apellido_p']->setOption('template', '%input%');
     $this->widgetSchema['estado_id']->setOption('add_empty', 'cualquier estado');
 
     $this->widgetSchema->setLabels(array(

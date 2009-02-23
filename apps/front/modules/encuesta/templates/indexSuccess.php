@@ -9,7 +9,7 @@
   <?php echo $filter['apellido_p']->renderRow() ?>
   <?php echo $filter['estado_id']->renderRow() ?>
 
-  <input type="submit" value="Filter" />
+  <input type="submit" value="Filtrar" />
   &nbsp;<?php echo link_to('Reset', '@encuesta_filter', array('query_string' => '_reset', 'method' => 'post')) ?>
 </form>
 </div>
