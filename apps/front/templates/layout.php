@@ -1,12 +1,82 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-  <head>
-    <?php include_http_metas() ?>
-    <?php include_metas() ?>
-    <?php include_title() ?>
-    <link rel="shortcut icon" href="/favicon.ico" />
-  </head>
-  <body>
-    <?php echo $sf_content ?>
-  </body>
+<head>
+
+<?php include_http_metas() ?>
+<?php include_metas() ?>
+
+<title><?php echo $sf_response->getTitle() ?> | Encuesta Herbalife</title>
+
+<link rel="shortcut icon" href="/favicon.ico" />
+
+</head>
+<body>
+
+<div id="ajax-loader">
+  Loading...
+</div>
+<script type="text/javascript">
+$('#ajax-loader').ajaxStart(function(){
+  $(this).show('normal');
+}).ajaxStop(function(){
+  $(this).hide('normal');
+});
+</script>
+
+<div class="container_12">
+
+<div class="fullspan" id="menu">
+	<h1><?php echo link_to('Encuesta Herbalife', '@homepage') ?></h1>
+  <?php if ($sf_user->isAuthenticated()): ?>
+    <ul>
+    <?php
+      $links = array(
+        'encuesta' => array('label' => 'Encuestas'),
+        'sf_guard_user' => array('label' => 'Usuarios', 'perm' => 'admin'),
+      );
+
+      foreach ($links as $route => $link)
+      {
+        if (isset($link['perm']) && !$sf_user->hasCredential($link['perm'])) {
+          continue;
+        }
+        $current = $sf_request->getParameter('module');
+        $class = $current == $route ? 'active' : '';
+        echo "<li class='$class'>" . link_to($link['label'], $route) . '</li>';
+      }
+    ?>
+    </ul>
+
+    <ul id="user-tools" class="top-right">
+      <li><?php echo link_to('Logout', '@sf_guard_signout') ?></li>
+    </ul>
+  <?php endif; ?>
+
+  <div></div>
+
+</div>
+
+<div id="main" class="fullspan clearfix">
+
+  <?php if ($sf_user->hasFlash('notice')): ?>
+    <div class="box notice">
+      <?php echo $sf_user->getFlash('notice') ?>
+    </div>
+  <?php endif; ?>
+
+  <?php if ($sf_user->hasFlash('error')): ?>
+    <div class="box error">
+      <?php echo $sf_user->getFlash('error') ?>
+    </div>
+  <?php endif; ?>
+
+  <?php echo $sf_content ?>
+</div>
+
+<div id="footer" class="fullspan">
+  Copyright ©2008 <?php echo link_to('Herbalife', 'http://www.herbalife.com') ?>
+</div>
+
+</div> <!-- /container_12 -->
+</body>
 </html>
