@@ -19,6 +19,12 @@ p
 a
 {
   text-decoration: none;
+  color: #090;
+}
+
+a:visited
+{
+  color: #387c2b;
 }
 
 a:hover
@@ -38,7 +44,7 @@ small
   font-size: 12px;
   border: solid 1px #ccc;
   border-top: none;
-  background-color: #0078ae;
+  background-color: #167C14;
   color: #fff;
 }
 
@@ -93,13 +99,13 @@ small
 
 #menu ul li a:hover
 {
-	background-color: #79c9ec;
+	background-color: #8bc63f;
 	color: #fff;
 }
 
 #menu ul li.active, #menu ul li.active a, #menu ul li.active a:hover
 {
-	background-color: #79c9ec;
+	background-color: #8bc63f;
 	color: #333;
 }
 
