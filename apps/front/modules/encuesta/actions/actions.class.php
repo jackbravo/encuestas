@@ -99,7 +99,7 @@ class encuestaActions extends sfActions
       $this->getUser()->getAttribute('encuestas_filter', $this->getDefaultFilter())
     ));
     $pager->setPage($request->getParameter('page', 1));
-    //$pager->setTableMethod('getListQuery');
+    $pager->setTableMethod('getListQuery');
     $pager->init();
 
     return $pager;

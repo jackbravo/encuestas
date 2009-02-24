@@ -296,6 +296,10 @@ fieldset legend {
   padding: 0 5px;
 }
 
+.has-errors input {
+  border: 2px solid red;
+}
+
 /* ------------ misc ------------- */
 
 .info h2

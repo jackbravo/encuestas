@@ -4,5 +4,15 @@
  */
 class EncuestaTable extends Doctrine_Table
 {
+  public function getListQuery(Doctrine_Query $q)
+  {
+    $alias = $q->getRootAlias();
 
+    return $q
+      ->leftJoin("$alias.Estado edo")
+      ->leftJoin("$alias.Encuestador e")
+      ->addOrderBy("$alias.nombre")
+      ->addOrderBy("$alias.apellido_p")
+    ;
+  }
 }
