@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5 {
 #menu
 {
   font-size: 12px;
-  border: solid 1px #ccc;
+  border: solid 1px #cdb;
   border-top: none;
   background-color: #167C14;
   color: #fff;
@@ -238,8 +238,8 @@ table.small td {
 {
   margin: 10px 0;
   padding: 5px 10px;
-  border: 1px solid #ccc;
-  background: #f7f7f7;
+  border: 1px solid #cdb;
+  background: #dec;
   font-size: 11px;
 }
 
@@ -299,16 +299,25 @@ textarea#issue_body {
 }
 
 fieldset {
-  border: 1px solid #ccc;
-  padding: 10px;
+  background-color: #dec;
 }
 
 fieldset legend {
-  padding: 0 5px;
+  padding: 0 5px 0 10px;
+  font-weight: bold;
 }
 
 .has-errors input {
   border: 2px solid red;
+}
+
+.radio_list li, .checkbox_list li {
+  margin-left: 15px;
+  list-style-type: none;
+}
+
+.radio_list li label, .checkbox_list li label {
+  font-weight: normal;
 }
 
 /* ------------ misc ------------- */
@@ -334,7 +343,7 @@ fieldset legend {
 
 .note {
   margin-bottom: 1em;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #cdb;
 }
 
 #ajax-loader {
