@@ -5,6 +5,7 @@
   <?php echo $filter->renderGlobalErrors() ?>
   <?php echo $filter->renderHiddenFields() ?>
 
+  <label for="_id">Id</label> <input type="text" id="_id" name="_id" size="7" />
   <?php echo $filter['nombre']->renderRow() ?>
   <?php echo $filter['apellido_p']->renderRow() ?>
   <?php echo $filter['estado_id']->renderRow() ?>

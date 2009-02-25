@@ -24,6 +24,11 @@ class encuestaActions extends sfActions
       $this->redirect('@encuesta');
     }
 
+    if ($request->hasParameter('_id'))
+    {
+      $this->redirect('@encuesta_show?id=' . $request->getParameter('_id'));
+    }
+
     $this->filter = $this->getFilter($request);
 
     $this->filter->bind($request->getParameter('encuesta_filters'));
