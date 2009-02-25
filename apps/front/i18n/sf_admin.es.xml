@@ -125,7 +125,14 @@
         <source>Forgot your password?</source>
         <target>¿Olvidaste tu contraseña?</target>
       </trans-unit>
-
+      <trans-unit>
+        <source>yes or no</source>
+        <target>sí o no</target>
+      </trans-unit>
+      <trans-unit>
+        <source>yes</source>
+        <target>sí</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
