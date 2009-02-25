@@ -1,0 +1,39 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           sfGuardUser
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          sf_guard_user
+    with_doctrine_route:     1
+
+    config:
+      fields:
+        password_again: { label: "Password (de nuevo)" }
+        is_active: { label: "¿Está activo?" }
+        is_super_admin: { label: "¿Es super usuario?" }
+        created_at: { label: "Creado el" }
+        updated_at: { label: "Actualizado el" }
+        last_login: { label: "Último login" }
+
+      list:
+        title:   Usuarios
+        display: [=username, created_at, updated_at, last_login]
+
+      form:
+        class: sfGuardUserAdminForm
+        display:
+          "NONE":                   [username, password, password_again]
+          "Permissions and groups": [is_active, is_super_admin, groups_list, permissions_list]
+
+      edit:
+        title: Editando a "%%username%%"
+
+      new:
+        title: Nuevo Usuario
+
+      filter:
+        display: [username, is_active, last_login, permissions_list]
