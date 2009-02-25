@@ -14,4 +14,13 @@ class Encuesta extends BaseEncuesta
         ->getAttribute('user_id', null, 'sfGuardSecurityUser');
     }
   }
+
+  public function printGenero()
+  {
+    switch ($this->genero) {
+      case 'm': return 'masculino'; break;
+      case 'f': return 'femenino'; break;
+      default: return '';
+    }
+  }
 }
