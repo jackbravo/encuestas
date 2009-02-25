@@ -24,6 +24,14 @@ class EncuestaForm extends BaseEncuestaForm
       'medios_contacto_list' => '¿Cómo se enteró de este número?',
     ));
 
+    $this->widgetSchema['genero'] = new sfWidgetFormChoice(array(
+      'choices' => array('m' => 'masculino', 'f' => 'femenino'),
+      'expanded' => true,
+    ));
+    $this->validatorSchema['genero'] = new sfValidatorChoice(array(
+      'choices' => array('m', 'f'),
+    ));
+
     $this->widgetSchema['horarios_list']->setOption('expanded', true);
     $this->widgetSchema['areas_interes_list']->setOption('expanded', true);
     $this->widgetSchema['productos_interes_list']->setOption('expanded', true);
@@ -31,5 +39,9 @@ class EncuestaForm extends BaseEncuestaForm
     $this->widgetSchema['medios_contacto_list']->setOption('expanded', true);
 
     $this->validatorSchema['email'] = new sfValidatorEmail(array('required' => false));
+    $this->validatorSchema['horarios_list']->setOption('required', true);
+    $this->validatorSchema['areas_interes_list']->setOption('required', true);
+    $this->validatorSchema['productos_interes_list']->setOption('required', true);
+    $this->validatorSchema['medios_contacto_list']->setOption('required', true);
   }
 }
