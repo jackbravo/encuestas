@@ -53,7 +53,7 @@ $('#ajax-loader').ajaxStart(function(){
     </ul>
 
     <ul id="user-tools" class="top-right">
-      <li><?php echo link_to('Logout', '@sf_guard_signout') ?></li>
+      <li><?php echo link_to('Salir', '@sf_guard_signout') ?></li>
     </ul>
   <?php endif; ?>
 

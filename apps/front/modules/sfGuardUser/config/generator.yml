@@ -18,6 +18,7 @@ generator:
         created_at: { label: "Creado el" }
         updated_at: { label: "Actualizado el" }
         last_login: { label: "Último login" }
+        permissions_list: { label: "Permisos" }
 
       list:
         title:   Usuarios
@@ -36,4 +37,4 @@ generator:
         title: Nuevo Usuario
 
       filter:
-        display: [username, is_active, last_login, permissions_list]
+        display: [username, is_active, permissions_list]
