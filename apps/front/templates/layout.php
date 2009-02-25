@@ -7,7 +7,7 @@
 
 <title><?php echo $sf_response->getTitle() ?> | Encuesta Herbalife</title>
 
-<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="shortcut icon" href="<?php echo image_path('/favicon.ico') ?>" />
 
 </head>
 <body>
@@ -25,8 +25,13 @@ $('#ajax-loader').ajaxStart(function(){
 
 <div class="container_12">
 
+<div class="fullspan clearfix" id="header">
+  <div id="logo" class="grid_12">
+    <?php echo link_to(image_tag('logo_header.gif'), '@homepage') ?>
+  </div>
+</div>
+
 <div class="fullspan" id="menu">
-	<h1><?php echo link_to('Encuesta Herbalife', '@homepage') ?></h1>
   <?php if ($sf_user->isAuthenticated()): ?>
     <ul>
     <?php

@@ -19,12 +19,6 @@ p
 a
 {
   text-decoration: none;
-  color: #090;
-}
-
-a:visited
-{
-  color: #387c2b;
 }
 
 a:hover
@@ -35,6 +29,12 @@ a:hover
 small
 {
   font-size: 80% !important;
+}
+
+/* ---------- header ----------- */
+#logo
+{
+  margin: 10px 0;
 }
 
 /* ---------- menu ----------- */
@@ -188,7 +188,7 @@ table.list tr {
 }
 
 table.list tr.odd {
-  background-color: #eee;
+  background-color: #dec;
 }
 
 table.list th {
@@ -196,7 +196,7 @@ table.list th {
 }
 
 table.list td {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #dec;
   padding: 5px 4px;
 }
 
@@ -348,3 +348,15 @@ fieldset legend {
   width: 150px;
 }
 
+/* ------------- admin -------------- */
+#sf_admin_container th {
+  background-color: #dec;
+}
+
+#sf_admin_container th, #sf_admin_container td {
+  padding: 2px;
+}
+
+#sf_admin_container ul.sf_admin_td_actions li {
+  margin-left: 0px;
+}
