@@ -1,4 +1,11 @@
-<div class="grid_8">
+<div id="content" class="grid_8">
+
+  <div class="subheader">
+    <?php if ($sf_user->hasCredential('admin')): ?>
+      <?php echo link_to('Editar', 'encuesta_edit', $encuesta) ?>
+    <?php endif; ?>
+  </div>
+
   <h2><?php echo $encuesta->id . ': ' . $encuesta->nombre . ' ' . $encuesta->apellido_p . ' ' . $encuesta->apellido_m ?></h2>
   Encuestado por <strong><?php echo $encuesta->Encuestador ?></strong>
   @ <?php echo $encuesta->created_at ?>
@@ -51,9 +58,3 @@
     CP: <?php echo $encuesta->cp ?>
   </div>
 </div> <!-- /grid_4 -->
-
-<div class="grid_12">
-  <a href="<?php echo url_for('encuesta_edit', $encuesta) ?>">Editar</a>
-  &nbsp;
-  <a href="<?php echo url_for('encuesta') ?>">Lista</a>
-</div> <!-- /grid_12 -->
