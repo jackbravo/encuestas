@@ -3,6 +3,9 @@ sfGuardUser:
     username:       admin
     password:       admin
     is_super_admin: true
+  usuario:
+    username:       usuario
+    password:       usuario
 
 sfGuardPermission:
   admin_perm:

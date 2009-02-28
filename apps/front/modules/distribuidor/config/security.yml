@@ -1,0 +1,4 @@
+edit:
+  credentials: [admin]
+delete:
+  credentials: [admin]

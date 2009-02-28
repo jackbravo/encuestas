@@ -1,74 +1,36 @@
-<table>
-  <tbody>
-    <tr>
-      <th>Id:</th>
-      <td><?php echo $distribuidor->getid() ?></td>
-    </tr>
-    <tr>
-      <th>Name:</th>
-      <td><?php echo $distribuidor->getname() ?></td>
-    </tr>
-    <tr>
-      <th>Level:</th>
-      <td><?php echo $distribuidor->getlevel() ?></td>
-    </tr>
-    <tr>
-      <th>City:</th>
-      <td><?php echo $distribuidor->getcity() ?></td>
-    </tr>
-    <tr>
-      <th>State:</th>
-      <td><?php echo $distribuidor->getstate() ?></td>
-    </tr>
-    <tr>
-      <th>Contact1:</th>
-      <td><?php echo $distribuidor->getcontact1() ?></td>
-    </tr>
-    <tr>
-      <th>Contact2:</th>
-      <td><?php echo $distribuidor->getcontact2() ?></td>
-    </tr>
-    <tr>
-      <th>Contact3:</th>
-      <td><?php echo $distribuidor->getcontact3() ?></td>
-    </tr>
-    <tr>
-      <th>Tally:</th>
-      <td><?php echo $distribuidor->gettally() ?></td>
-    </tr>
-    <tr>
-      <th>Performance:</th>
-      <td><?php echo $distribuidor->getperformance() ?></td>
-    </tr>
-    <tr>
-      <th>M1 vp:</th>
-      <td><?php echo $distribuidor->getm1_vp() ?></td>
-    </tr>
-    <tr>
-      <th>M1 ro:</th>
-      <td><?php echo $distribuidor->getm1_ro() ?></td>
-    </tr>
-    <tr>
-      <th>M2 vp:</th>
-      <td><?php echo $distribuidor->getm2_vp() ?></td>
-    </tr>
-    <tr>
-      <th>M2 ro:</th>
-      <td><?php echo $distribuidor->getm2_ro() ?></td>
-    </tr>
-    <tr>
-      <th>M3 vp:</th>
-      <td><?php echo $distribuidor->getm3_vp() ?></td>
-    </tr>
-    <tr>
-      <th>M3 ro:</th>
-      <td><?php echo $distribuidor->getm3_ro() ?></td>
-    </tr>
-  </tbody>
-</table>
+<h2>
+  <?php echo $distribuidor->id . ': ' . $distribuidor->name ?>
+</h2>
+<?php echo $distribuidor->city . ', ' . $distribuidor->state ?>
+
+<hr/>
+
+<strong>Tally: </strong><?php echo $distribuidor->tally ?><br/>
+<strong>Desempeño: </strong><?php echo $distribuidor->performance ?><br/>
+
+<br/>
+
+<strong>Nivel: </strong><?php echo $distribuidor->level ?><br/>
+<strong>Contacto 1: </strong><?php echo $distribuidor->contact1 ?><br/>
+<strong>Contacto 2: </strong><?php echo $distribuidor->contact2 ?><br/>
+<strong>Contacto 3: </strong><?php echo $distribuidor->contact3 ?><br/>
+
+<br/>
+
+<strong>Mes 1</strong><br/>
+VP: <?php echo $distribuidor->m1_vp ?><br/>
+RO: <?php echo $distribuidor->m1_ro ?><br/>
+<strong>Mes 2</strong><br/>
+VP: <?php echo $distribuidor->m2_vp ?><br/>
+RO: <?php echo $distribuidor->m2_ro ?><br/>
+<strong>Mes 3</strong><br/>
+VP: <?php echo $distribuidor->m3_vp ?><br/>
+RO: <?php echo $distribuidor->m3_ro ?><br/>
 
 <hr />
 
-<a href="<?php echo url_for('distribuidor_edit', $distribuidor) ?>">Edit</a>
-&nbsp;
-<a href="<?php echo url_for('distribuidor') ?>">List</a>
+<?php if ($sf_user->hasCredential('admin')): ?>
+  <a href="<?php echo url_for('distribuidor_edit', $distribuidor) ?>">Editar</a>
+  &nbsp;
+<?php endif; ?>
+<a href="<?php echo url_for('distribuidor') ?>">Lista</a>
