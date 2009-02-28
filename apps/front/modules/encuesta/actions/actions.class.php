@@ -24,7 +24,7 @@ class encuestaActions extends sfActions
       $this->redirect('@encuesta');
     }
 
-    if ($request->hasParameter('_id'))
+    if ($request->getParameter('_id') != '')
     {
       $this->redirect('@encuesta_show?id=' . $request->getParameter('_id'));
     }
@@ -45,6 +45,7 @@ class encuestaActions extends sfActions
   public function executeShow(sfWebRequest $request)
   {
     $this->encuesta = $this->getRoute()->getObject();
+    $this->encuesta->lock($this->getUser()->getId());
   }
 
   public function executeNew(sfWebRequest $request)

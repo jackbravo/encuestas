@@ -26,4 +26,31 @@ class Encuesta extends BaseEncuesta
       default: return '';
     }
   }
+
+  public function lock($user_id)
+  {
+    if (! is_numeric($this->viewer_id)) {
+      $conn = $this->getTable()->getConnection();
+
+      $conn->beginTransaction();
+      try
+      {
+        Doctrine_Query::create()
+          ->update('Encuesta e')
+          ->set('e.viewer_id', 'NULL')
+          ->addWhere('e.viewer_id = ?', array($user_id))
+          ->execute();
+
+        $this->viewer_id = $user_id;
+        $this->save();
+
+        $conn->commit();
+      }
+      catch (Exception $e)
+      {
+        $conn->rollBack();
+        throw $e;
+      }
+    }
+  }
 }
