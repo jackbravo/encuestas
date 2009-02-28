@@ -45,6 +45,11 @@ Encuesta:
       foreign:      id
       foreignAlias: Encuestas
 
+    Distribuidores:
+      class: Distribuidor
+      refClass: Seguimiento
+      foreignAlias: Leads
+
     Estado:
       foreignAlias: Encuestas
 
@@ -175,4 +180,31 @@ Distribuidor:
     m2_ro:          integer(4)
     m3_vp:          integer(4)
     m3_ro:          integer(4)
+
+Seguimiento:
+  actAs: [Timestampable]
+  columns:
+    id:
+      type:         integer(4)
+      primary:      true
+      autoincrement: true
+    distribuidor_id: integer(4)
+    lead_id:        integer(4)
+    agente_id:      integer(4)
+    localizo_dist: { type: boolean, notnull: true, default: false }
+    fecha_localizo_dist: timestamp
+    localizo_agente: { type: boolean, notnull: true, default: false }
+    fecha_localizo_agente: timestamp
+    wait: { type: integer(4), notnull: true, default: 48 }
+  relations:
+    Distribuidor:
+      onDelete:     CASCADE
+    Lead:
+      class:        Encuesta
+      local:        lead_id
+      onDelete:     CASCADE 
+    Agente:
+      class:        sfGuardUser
+      local:        agente_id
+      onDelete:     CASCADE 
 
