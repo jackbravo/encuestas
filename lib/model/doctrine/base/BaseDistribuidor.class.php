@@ -16,7 +16,7 @@ abstract class BaseDistribuidor extends sfDoctrineRecord
         $this->hasColumn('contact1', 'string', 100, array('type' => 'string', 'length' => '100'));
         $this->hasColumn('contact2', 'string', 100, array('type' => 'string', 'length' => '100'));
         $this->hasColumn('contact3', 'string', 100, array('type' => 'string', 'length' => '100'));
-        $this->hasColumn('tally', 'integer', 4, array('type' => 'integer', 'length' => '4'));
+        $this->hasColumn('tally', 'integer', 4, array('type' => 'integer', 'notnull' => true, 'default' => 0, 'length' => '4'));
         $this->hasColumn('performance', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('m1_vp', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('m1_ro', 'integer', 4, array('type' => 'integer', 'length' => '4'));

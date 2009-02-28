@@ -39,7 +39,7 @@ class BaseDistribuidorForm extends BaseFormDoctrine
       'contact1'    => new sfValidatorString(array('max_length' => 100, 'required' => false)),
       'contact2'    => new sfValidatorString(array('max_length' => 100, 'required' => false)),
       'contact3'    => new sfValidatorString(array('max_length' => 100, 'required' => false)),
-      'tally'       => new sfValidatorInteger(array('required' => false)),
+      'tally'       => new sfValidatorInteger(),
       'performance' => new sfValidatorInteger(array('required' => false)),
       'm1_vp'       => new sfValidatorInteger(array('required' => false)),
       'm1_ro'       => new sfValidatorInteger(array('required' => false)),

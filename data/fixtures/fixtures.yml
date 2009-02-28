@@ -76,6 +76,7 @@ MedioContacto:
 
 Distribuidor:
   d1:
+    id: 123241
     name: Francisco
     level: President
     city: guadalajara
@@ -84,6 +85,7 @@ Distribuidor:
     contact2: 233232 ext 32
     performance: 100
   d2:
+    id: 2389523
     name: Francisca
     level: Millionaria
     city: Zapotlanejo
@@ -92,6 +94,7 @@ Distribuidor:
     contact2: 233232 ext 32
     performance: 200
   d3:
+    id: 3288329
     name: Pedro
     level: President
     city: guadalajara
