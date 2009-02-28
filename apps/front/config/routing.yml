@@ -15,6 +15,7 @@ distribuidor:
   class: sfDoctrineRouteCollection
   options:
     model: Distribuidor
+    collection_actions: { filter: post }
 
 # default rules
 homepage:

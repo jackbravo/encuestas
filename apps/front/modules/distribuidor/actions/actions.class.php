@@ -12,7 +12,34 @@ class distribuidorActions extends sfActions
 {
   public function executeIndex(sfWebRequest $request)
   {
-    $this->distribuidor_list = $this->getRoute()->getObjects();
+    $this->filter = $this->getFilter($request);
+    $this->pager = $this->getPager($request, $this->filter);
+  }
+
+  public function executeFilter(sfWebRequest $request)
+  {
+    if ($request->hasParameter('_reset'))
+    {
+      $this->getUser()->setAttribute('distribuidor_filter', $this->getDefaultFilter());
+      $this->redirect('@distribuidor');
+    }
+
+    if ($request->getParameter('_id') != '')
+    {
+      $this->redirect('@distribuidor_show?id=' . $request->getParameter('_id'));
+    }
+
+    $this->filter = $this->getFilter($request);
+
+    $this->filter->bind($request->getParameter('distribuidor_filters'));
+    if ($this->filter->isValid())
+    {
+      $this->getUser()->setAttribute('distribuidor_filter', $this->filter->getValues());
+      $this->redirect('@distribuidor');
+    }
+
+    $this->pager = $this->getPager($request, $this->filter);
+    $this->setTemplate('index');
   }
 
   public function executeShow(sfWebRequest $request)
@@ -66,5 +93,35 @@ class distribuidorActions extends sfActions
 
       $this->redirect('@distribuidor_edit?id='.$distribuidor['id']);
     }
+  }
+
+  protected function getPager($request, $filter)
+  {
+    $pager = new sfDoctrinePager('Distribuidor',
+      sfConfig::get('app_max_encuestas_on_index')
+    );
+    $pager->setQuery($filter->buildQuery(
+      $this->getUser()->getAttribute('distribuidor_filter', $this->getDefaultFilter())
+    ));
+    $pager->setPage($request->getParameter('page', 1));
+    $pager->setTableMethod('orderDistQuery');
+    $pager->init();
+
+    return $pager;
+  }
+
+  protected function getFilter($request)
+  {
+    $filter = new DistribuidorFormFilter(
+      $this->getUser()->getAttribute('distribuidor_filter', $this->getDefaultFilter())
+    );
+
+    return $filter;
+  }
+
+  protected function getDefaultFilter()
+  {
+    return array(
+    );
   }
 }
