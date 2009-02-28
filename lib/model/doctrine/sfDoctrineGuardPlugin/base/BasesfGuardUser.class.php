@@ -43,6 +43,9 @@ abstract class BasesfGuardUser extends sfDoctrineRecord
         $this->hasMany('Encuesta as Encuestas', array('local' => 'id',
                                                       'foreign' => 'encuestador_id'));
 
+        $this->hasMany('Encuesta as EncuestasVistas', array('local' => 'id',
+                                                            'foreign' => 'viewer_id'));
+
         $timestampable0 = new Doctrine_Template_Timestampable();
         $this->actAs($timestampable0);
     }

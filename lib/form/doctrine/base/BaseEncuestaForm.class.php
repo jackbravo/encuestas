@@ -13,7 +13,9 @@ class BaseEncuestaForm extends BaseFormDoctrine
   {
     $this->setWidgets(array(
       'id'                     => new sfWidgetFormInputHidden(),
-      'encuestador_id'         => new sfWidgetFormDoctrineSelect(array('model' => 'sfGuardUser', 'add_empty' => true)),
+      'encuestador_id'         => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
+      'viewer_id'              => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
+      'last_dist_id'           => new sfWidgetFormDoctrineChoice(array('model' => 'Distribuidor', 'add_empty' => true)),
       'nombre'                 => new sfWidgetFormInput(),
       'apellido_p'             => new sfWidgetFormInput(),
       'apellido_m'             => new sfWidgetFormInput(),
@@ -23,7 +25,7 @@ class BaseEncuestaForm extends BaseFormDoctrine
       'telefono'               => new sfWidgetFormInput(),
       'celular'                => new sfWidgetFormInput(),
       'email'                  => new sfWidgetFormInput(),
-      'estado_id'              => new sfWidgetFormDoctrineSelect(array('model' => 'Estado', 'add_empty' => false)),
+      'estado_id'              => new sfWidgetFormDoctrineChoice(array('model' => 'Estado', 'add_empty' => false)),
       'ciudad'                 => new sfWidgetFormInput(),
       'municipio'              => new sfWidgetFormInput(),
       'colonia'                => new sfWidgetFormInput(),
@@ -41,6 +43,8 @@ class BaseEncuestaForm extends BaseFormDoctrine
     $this->setValidators(array(
       'id'                     => new sfValidatorDoctrineChoice(array('model' => 'Encuesta', 'column' => 'id', 'required' => false)),
       'encuestador_id'         => new sfValidatorDoctrineChoice(array('model' => 'sfGuardUser', 'required' => false)),
+      'viewer_id'              => new sfValidatorDoctrineChoice(array('model' => 'sfGuardUser', 'required' => false)),
+      'last_dist_id'           => new sfValidatorDoctrineChoice(array('model' => 'Distribuidor', 'required' => false)),
       'nombre'                 => new sfValidatorString(array('max_length' => 255)),
       'apellido_p'             => new sfValidatorString(array('max_length' => 255)),
       'apellido_m'             => new sfValidatorString(array('max_length' => 255)),

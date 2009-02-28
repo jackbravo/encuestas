@@ -10,8 +10,11 @@ class Encuesta extends BaseEncuesta
     $modified = $this->getModified();
     if (!array_key_exists('encuestador_id', $modified))
     {
-      $this->encuestador_id = sfContext::getInstance()->getUser()
-        ->getAttribute('user_id', null, 'sfGuardSecurityUser');
+      try {
+        $this->encuestador_id = sfContext::getInstance()->getUser()
+          ->getAttribute('user_id', null, 'sfGuardSecurityUser');
+      } catch (Exception $e) {
+      }
     }
   }
 

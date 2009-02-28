@@ -4,7 +4,8 @@ CREATE TABLE producto_interes (id INT AUTO_INCREMENT, descripcion VARCHAR(255), 
 CREATE TABLE encuesta_area_interes (encuesta_id INT, area_interes_id INT, PRIMARY KEY(encuesta_id, area_interes_id)) ENGINE = INNODB;
 CREATE TABLE medio_contacto (id INT AUTO_INCREMENT, descripcion VARCHAR(255), PRIMARY KEY(id)) ENGINE = INNODB;
 CREATE TABLE encuesta_medio_contacto (encuesta_id INT, medio_contacto_id INT, PRIMARY KEY(encuesta_id, medio_contacto_id)) ENGINE = INNODB;
-CREATE TABLE encuesta (id INT AUTO_INCREMENT, encuestador_id INT, nombre VARCHAR(255) NOT NULL, apellido_p VARCHAR(255) NOT NULL, apellido_m VARCHAR(255) NOT NULL, rfc VARCHAR(50), edad INT NOT NULL, genero VARCHAR(1) NOT NULL, telefono VARCHAR(50) NOT NULL, celular VARCHAR(50), email VARCHAR(255), estado_id INT NOT NULL, ciudad VARCHAR(50) NOT NULL, municipio VARCHAR(50) NOT NULL, colonia VARCHAR(50) NOT NULL, calle VARCHAR(50) NOT NULL, numero VARCHAR(50) NOT NULL, cp INT NOT NULL, created_at DATETIME, updated_at DATETIME, INDEX encuestador_id_idx (encuestador_id), INDEX estado_id_idx (estado_id), PRIMARY KEY(id)) ENGINE = INNODB;
+CREATE TABLE distribuidor (id INT AUTO_INCREMENT, nombre VARCHAR(255), PRIMARY KEY(id)) ENGINE = INNODB;
+CREATE TABLE encuesta (id INT AUTO_INCREMENT, encuestador_id INT, viewer_id INT, last_dist_id INT, nombre VARCHAR(255) NOT NULL, apellido_p VARCHAR(255) NOT NULL, apellido_m VARCHAR(255) NOT NULL, rfc VARCHAR(50), edad INT NOT NULL, genero VARCHAR(1) NOT NULL, telefono VARCHAR(50) NOT NULL, celular VARCHAR(50), email VARCHAR(255), estado_id INT NOT NULL, ciudad VARCHAR(50) NOT NULL, municipio VARCHAR(50) NOT NULL, colonia VARCHAR(50) NOT NULL, calle VARCHAR(50) NOT NULL, numero VARCHAR(50) NOT NULL, cp INT NOT NULL, created_at DATETIME, updated_at DATETIME, INDEX encuestador_id_idx (encuestador_id), INDEX viewer_id_idx (viewer_id), INDEX last_dist_id_idx (last_dist_id), INDEX estado_id_idx (estado_id), PRIMARY KEY(id)) ENGINE = INNODB;
 CREATE TABLE encuesta_producto_interes (encuesta_id INT, producto_interes_id INT, PRIMARY KEY(encuesta_id, producto_interes_id)) ENGINE = INNODB;
 CREATE TABLE sf_guard_group_permission (group_id INT, permission_id INT, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(group_id, permission_id)) ENGINE = INNODB;
 CREATE TABLE sf_guard_permission (id INT AUTO_INCREMENT, name VARCHAR(255) UNIQUE, description TEXT, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(id)) ENGINE = INNODB;
@@ -21,6 +22,8 @@ ALTER TABLE encuesta_area_interes ADD FOREIGN KEY (encuesta_id) REFERENCES encue
 ALTER TABLE encuesta_area_interes ADD FOREIGN KEY (area_interes_id) REFERENCES area_interes(id) ON DELETE CASCADE;
 ALTER TABLE encuesta_medio_contacto ADD FOREIGN KEY (medio_contacto_id) REFERENCES medio_contacto(id) ON DELETE CASCADE;
 ALTER TABLE encuesta_medio_contacto ADD FOREIGN KEY (encuesta_id) REFERENCES encuesta(id) ON DELETE CASCADE;
+ALTER TABLE encuesta ADD FOREIGN KEY (viewer_id) REFERENCES sf_guard_user(id);
+ALTER TABLE encuesta ADD FOREIGN KEY (last_dist_id) REFERENCES distribuidor(id);
 ALTER TABLE encuesta ADD FOREIGN KEY (estado_id) REFERENCES estado(id);
 ALTER TABLE encuesta ADD FOREIGN KEY (encuestador_id) REFERENCES sf_guard_user(id);
 ALTER TABLE encuesta_producto_interes ADD FOREIGN KEY (producto_interes_id) REFERENCES producto_interes(id) ON DELETE CASCADE;

@@ -10,6 +10,8 @@ abstract class BaseEncuesta extends sfDoctrineRecord
         $this->setTableName('encuesta');
         $this->hasColumn('id', 'integer', 4, array('type' => 'integer', 'primary' => true, 'autoincrement' => true, 'length' => '4'));
         $this->hasColumn('encuestador_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
+        $this->hasColumn('viewer_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
+        $this->hasColumn('last_dist_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('nombre', 'string', 255, array('type' => 'string', 'notnull' => true, 'length' => '255'));
         $this->hasColumn('apellido_p', 'string', 255, array('type' => 'string', 'notnull' => true, 'length' => '255'));
         $this->hasColumn('apellido_m', 'string', 255, array('type' => 'string', 'notnull' => true, 'length' => '255'));
@@ -32,6 +34,12 @@ abstract class BaseEncuesta extends sfDoctrineRecord
     {
         $this->hasOne('sfGuardUser as Encuestador', array('local' => 'encuestador_id',
                                                           'foreign' => 'id'));
+
+        $this->hasOne('sfGuardUser as Viewer', array('local' => 'viewer_id',
+                                                     'foreign' => 'id'));
+
+        $this->hasOne('Distribuidor as LastDist', array('local' => 'last_dist_id',
+                                                        'foreign' => 'id'));
 
         $this->hasOne('Estado', array('local' => 'estado_id',
                                       'foreign' => 'id'));

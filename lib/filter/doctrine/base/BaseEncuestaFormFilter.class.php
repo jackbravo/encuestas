@@ -15,6 +15,8 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
   {
     $this->setWidgets(array(
       'encuestador_id'         => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
+      'viewer_id'              => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
+      'last_dist_id'           => new sfWidgetFormDoctrineChoice(array('model' => 'Distribuidor', 'add_empty' => true)),
       'nombre'                 => new sfWidgetFormFilterInput(),
       'apellido_p'             => new sfWidgetFormFilterInput(),
       'apellido_m'             => new sfWidgetFormFilterInput(),
@@ -41,6 +43,8 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
 
     $this->setValidators(array(
       'encuestador_id'         => new sfValidatorDoctrineChoice(array('required' => false, 'model' => 'sfGuardUser', 'column' => 'id')),
+      'viewer_id'              => new sfValidatorDoctrineChoice(array('required' => false, 'model' => 'sfGuardUser', 'column' => 'id')),
+      'last_dist_id'           => new sfValidatorDoctrineChoice(array('required' => false, 'model' => 'Distribuidor', 'column' => 'id')),
       'nombre'                 => new sfValidatorPass(array('required' => false)),
       'apellido_p'             => new sfValidatorPass(array('required' => false)),
       'apellido_m'             => new sfValidatorPass(array('required' => false)),
@@ -146,6 +150,8 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
     return array(
       'id'                     => 'Number',
       'encuestador_id'         => 'ForeignKey',
+      'viewer_id'              => 'ForeignKey',
+      'last_dist_id'           => 'ForeignKey',
       'nombre'                 => 'Text',
       'apellido_p'             => 'Text',
       'apellido_m'             => 'Text',
