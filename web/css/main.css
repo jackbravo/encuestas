@@ -362,6 +362,11 @@ fieldset legend {
   width: 150px;
 }
 
+/* ---------- seguimiento ----------- */
+.seguimiento {
+  margin-bottom: 1em;
+}
+
 /* ------------- admin -------------- */
 #sf_admin_container th {
   background-color: #dec;
