@@ -6,6 +6,8 @@ Encuesta:
       primary:      true
       autoincrement: true
     encuestador_id: integer(4)
+    viewer_id:      integer(4)
+    last_dist_id:   integer(4)
 
     # datos
     nombre:         { type: string(255), notnull: true }
@@ -32,6 +34,17 @@ Encuesta:
       local:        encuestador_id
       foreign:      id
       foreignAlias: Encuestas
+    Viewer:
+      class:        sfGuardUser
+      local:        viewer_id
+      foreign:      id
+      foreignAlias: EncuestasVistas
+    LastDist:
+      class:        Distribuidor
+      local:        last_dist_id
+      foreign:      id
+      foreignAlias: Encuestas
+
     Estado:
       foreignAlias: Encuestas
 
@@ -141,4 +154,12 @@ EncuestaMedioContacto:
     MedioContacto:
       local: medio_contacto_id
       onDelete: CASCADE
+
+Distribuidor:
+  columns:
+    id:
+      type:         integer(4)
+      primary:      true
+      autoincrement: true
+    nombre:    string(255)
 
