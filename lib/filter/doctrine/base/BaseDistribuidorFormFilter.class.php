@@ -29,6 +29,7 @@ class BaseDistribuidorFormFilter extends BaseFormFilterDoctrine
       'm2_ro'       => new sfWidgetFormFilterInput(),
       'm3_vp'       => new sfWidgetFormFilterInput(),
       'm3_ro'       => new sfWidgetFormFilterInput(),
+      'leads_list'  => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Encuesta')),
     ));
 
     $this->setValidators(array(
@@ -47,6 +48,7 @@ class BaseDistribuidorFormFilter extends BaseFormFilterDoctrine
       'm2_ro'       => new sfValidatorSchemaFilter('text', new sfValidatorInteger(array('required' => false))),
       'm3_vp'       => new sfValidatorSchemaFilter('text', new sfValidatorInteger(array('required' => false))),
       'm3_ro'       => new sfValidatorSchemaFilter('text', new sfValidatorInteger(array('required' => false))),
+      'leads_list'  => new sfValidatorDoctrineChoiceMany(array('model' => 'Encuesta', 'required' => false)),
     ));
 
     $this->widgetSchema->setNameFormat('distribuidor_filters[%s]');
@@ -54,6 +56,22 @@ class BaseDistribuidorFormFilter extends BaseFormFilterDoctrine
     $this->errorSchema = new sfValidatorErrorSchema($this->validatorSchema);
 
     parent::setup();
+  }
+
+  public function addLeadsListColumnQuery(Doctrine_Query $query, $field, $values)
+  {
+    if (!is_array($values))
+    {
+      $values = array($values);
+    }
+
+    if (!count($values))
+    {
+      return;
+    }
+
+    $query->leftJoin('r.Seguimiento Seguimiento')
+          ->andWhereIn('Seguimiento.encuesta_id', $values);
   }
 
   public function getModelName()
@@ -80,6 +98,7 @@ class BaseDistribuidorFormFilter extends BaseFormFilterDoctrine
       'm2_ro'       => 'Number',
       'm3_vp'       => 'Number',
       'm3_ro'       => 'Number',
+      'leads_list'  => 'ManyKey',
     );
   }
 }

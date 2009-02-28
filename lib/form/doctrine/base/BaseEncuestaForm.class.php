@@ -34,6 +34,7 @@ class BaseEncuestaForm extends BaseFormDoctrine
       'cp'                     => new sfWidgetFormInput(),
       'created_at'             => new sfWidgetFormDateTime(),
       'updated_at'             => new sfWidgetFormDateTime(),
+      'distribuidores_list'    => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Distribuidor')),
       'horarios_list'          => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Horario')),
       'areas_interes_list'     => new sfWidgetFormDoctrineChoiceMany(array('model' => 'AreaInteres')),
       'productos_interes_list' => new sfWidgetFormDoctrineChoiceMany(array('model' => 'ProductoInteres')),
@@ -63,6 +64,7 @@ class BaseEncuestaForm extends BaseFormDoctrine
       'cp'                     => new sfValidatorInteger(),
       'created_at'             => new sfValidatorDateTime(array('required' => false)),
       'updated_at'             => new sfValidatorDateTime(array('required' => false)),
+      'distribuidores_list'    => new sfValidatorDoctrineChoiceMany(array('model' => 'Distribuidor', 'required' => false)),
       'horarios_list'          => new sfValidatorDoctrineChoiceMany(array('model' => 'Horario', 'required' => false)),
       'areas_interes_list'     => new sfValidatorDoctrineChoiceMany(array('model' => 'AreaInteres', 'required' => false)),
       'productos_interes_list' => new sfValidatorDoctrineChoiceMany(array('model' => 'ProductoInteres', 'required' => false)),
@@ -84,6 +86,11 @@ class BaseEncuestaForm extends BaseFormDoctrine
   public function updateDefaultsFromObject()
   {
     parent::updateDefaultsFromObject();
+
+    if (isset($this->widgetSchema['distribuidores_list']))
+    {
+      $this->setDefault('distribuidores_list', $this->object->Distribuidores->getPrimaryKeys());
+    }
 
     if (isset($this->widgetSchema['horarios_list']))
     {
@@ -111,10 +118,38 @@ class BaseEncuestaForm extends BaseFormDoctrine
   {
     parent::doSave($con);
 
+    $this->saveDistribuidoresList($con);
     $this->saveHorariosList($con);
     $this->saveAreasInteresList($con);
     $this->saveProductosInteresList($con);
     $this->saveMediosContactoList($con);
+  }
+
+  public function saveDistribuidoresList($con = null)
+  {
+    if (!$this->isValid())
+    {
+      throw $this->getErrorSchema();
+    }
+
+    if (!isset($this->widgetSchema['distribuidores_list']))
+    {
+      // somebody has unset this widget
+      return;
+    }
+
+    if (is_null($con))
+    {
+      $con = $this->getConnection();
+    }
+
+    $this->object->unlink('Distribuidores', array());
+
+    $values = $this->getValue('distribuidores_list');
+    if (is_array($values))
+    {
+      $this->object->link('Distribuidores', $values);
+    }
   }
 
   public function saveHorariosList($con = null)

@@ -35,6 +35,7 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
       'cp'                     => new sfWidgetFormFilterInput(),
       'created_at'             => new sfWidgetFormFilterDate(array('from_date' => new sfWidgetFormDate(), 'to_date' => new sfWidgetFormDate(), 'with_empty' => true)),
       'updated_at'             => new sfWidgetFormFilterDate(array('from_date' => new sfWidgetFormDate(), 'to_date' => new sfWidgetFormDate(), 'with_empty' => true)),
+      'distribuidores_list'    => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Distribuidor')),
       'horarios_list'          => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Horario')),
       'areas_interes_list'     => new sfWidgetFormDoctrineChoiceMany(array('model' => 'AreaInteres')),
       'productos_interes_list' => new sfWidgetFormDoctrineChoiceMany(array('model' => 'ProductoInteres')),
@@ -63,6 +64,7 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
       'cp'                     => new sfValidatorSchemaFilter('text', new sfValidatorInteger(array('required' => false))),
       'created_at'             => new sfValidatorDateRange(array('required' => false, 'from_date' => new sfValidatorDate(array('required' => false)), 'to_date' => new sfValidatorDate(array('required' => false)))),
       'updated_at'             => new sfValidatorDateRange(array('required' => false, 'from_date' => new sfValidatorDate(array('required' => false)), 'to_date' => new sfValidatorDate(array('required' => false)))),
+      'distribuidores_list'    => new sfValidatorDoctrineChoiceMany(array('model' => 'Distribuidor', 'required' => false)),
       'horarios_list'          => new sfValidatorDoctrineChoiceMany(array('model' => 'Horario', 'required' => false)),
       'areas_interes_list'     => new sfValidatorDoctrineChoiceMany(array('model' => 'AreaInteres', 'required' => false)),
       'productos_interes_list' => new sfValidatorDoctrineChoiceMany(array('model' => 'ProductoInteres', 'required' => false)),
@@ -74,6 +76,22 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
     $this->errorSchema = new sfValidatorErrorSchema($this->validatorSchema);
 
     parent::setup();
+  }
+
+  public function addDistribuidoresListColumnQuery(Doctrine_Query $query, $field, $values)
+  {
+    if (!is_array($values))
+    {
+      $values = array($values);
+    }
+
+    if (!count($values))
+    {
+      return;
+    }
+
+    $query->leftJoin('r.Seguimiento Seguimiento')
+          ->andWhereIn('Seguimiento.distribuidor_id', $values);
   }
 
   public function addHorariosListColumnQuery(Doctrine_Query $query, $field, $values)
@@ -170,6 +188,7 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
       'cp'                     => 'Number',
       'created_at'             => 'Date',
       'updated_at'             => 'Date',
+      'distribuidores_list'    => 'ManyKey',
       'horarios_list'          => 'ManyKey',
       'areas_interes_list'     => 'ManyKey',
       'productos_interes_list' => 'ManyKey',

@@ -28,6 +28,7 @@ class BaseDistribuidorForm extends BaseFormDoctrine
       'm2_ro'       => new sfWidgetFormInput(),
       'm3_vp'       => new sfWidgetFormInput(),
       'm3_ro'       => new sfWidgetFormInput(),
+      'leads_list'  => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Encuesta')),
     ));
 
     $this->setValidators(array(
@@ -47,6 +48,7 @@ class BaseDistribuidorForm extends BaseFormDoctrine
       'm2_ro'       => new sfValidatorInteger(array('required' => false)),
       'm3_vp'       => new sfValidatorInteger(array('required' => false)),
       'm3_ro'       => new sfValidatorInteger(array('required' => false)),
+      'leads_list'  => new sfValidatorDoctrineChoiceMany(array('model' => 'Encuesta', 'required' => false)),
     ));
 
     $this->widgetSchema->setNameFormat('distribuidor[%s]');
@@ -59,6 +61,51 @@ class BaseDistribuidorForm extends BaseFormDoctrine
   public function getModelName()
   {
     return 'Distribuidor';
+  }
+
+  public function updateDefaultsFromObject()
+  {
+    parent::updateDefaultsFromObject();
+
+    if (isset($this->widgetSchema['leads_list']))
+    {
+      $this->setDefault('leads_list', $this->object->Leads->getPrimaryKeys());
+    }
+
+  }
+
+  protected function doSave($con = null)
+  {
+    parent::doSave($con);
+
+    $this->saveLeadsList($con);
+  }
+
+  public function saveLeadsList($con = null)
+  {
+    if (!$this->isValid())
+    {
+      throw $this->getErrorSchema();
+    }
+
+    if (!isset($this->widgetSchema['leads_list']))
+    {
+      // somebody has unset this widget
+      return;
+    }
+
+    if (is_null($con))
+    {
+      $con = $this->getConnection();
+    }
+
+    $this->object->unlink('Leads', array());
+
+    $values = $this->getValue('leads_list');
+    if (is_array($values))
+    {
+      $this->object->link('Leads', $values);
+    }
   }
 
 }

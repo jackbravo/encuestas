@@ -41,6 +41,10 @@ abstract class BaseEncuesta extends sfDoctrineRecord
         $this->hasOne('Distribuidor as LastDist', array('local' => 'last_dist_id',
                                                         'foreign' => 'id'));
 
+        $this->hasMany('Distribuidor as Distribuidores', array('refClass' => 'Seguimiento',
+                                                               'local' => 'encuesta_id',
+                                                               'foreign' => 'distribuidor_id'));
+
         $this->hasOne('Estado', array('local' => 'estado_id',
                                       'foreign' => 'id'));
 
@@ -71,6 +75,9 @@ abstract class BaseEncuesta extends sfDoctrineRecord
 
         $this->hasMany('EncuestaMedioContacto', array('local' => 'id',
                                                       'foreign' => 'encuesta_id'));
+
+        $this->hasMany('Seguimiento', array('local' => 'id',
+                                            'foreign' => 'lead_id'));
 
         $timestampable0 = new Doctrine_Template_Timestampable();
         $this->actAs($timestampable0);

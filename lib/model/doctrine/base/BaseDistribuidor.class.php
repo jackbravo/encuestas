@@ -30,5 +30,12 @@ abstract class BaseDistribuidor extends sfDoctrineRecord
     {
         $this->hasMany('Encuesta as Encuestas', array('local' => 'id',
                                                       'foreign' => 'last_dist_id'));
+
+        $this->hasMany('Encuesta as Leads', array('refClass' => 'Seguimiento',
+                                                  'local' => 'distribuidor_id',
+                                                  'foreign' => 'encuesta_id'));
+
+        $this->hasMany('Seguimiento', array('local' => 'id',
+                                            'foreign' => 'distribuidor_id'));
     }
 }
