@@ -21,6 +21,7 @@ class BaseSeguimientoForm extends BaseFormDoctrine
       'localizo_agente'       => new sfWidgetFormInputCheckbox(),
       'fecha_localizo_agente' => new sfWidgetFormDateTime(),
       'intento'               => new sfWidgetFormInput(),
+      'notas'                 => new sfWidgetFormInput(),
       'created_at'            => new sfWidgetFormDateTime(),
       'updated_at'            => new sfWidgetFormDateTime(),
     ));
@@ -35,6 +36,7 @@ class BaseSeguimientoForm extends BaseFormDoctrine
       'localizo_agente'       => new sfValidatorBoolean(),
       'fecha_localizo_agente' => new sfValidatorDateTime(array('required' => false)),
       'intento'               => new sfValidatorInteger(),
+      'notas'                 => new sfValidatorString(array('max_length' => 255, 'required' => false)),
       'created_at'            => new sfValidatorDateTime(array('required' => false)),
       'updated_at'            => new sfValidatorDateTime(array('required' => false)),
     ));

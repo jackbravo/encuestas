@@ -196,6 +196,7 @@ Seguimiento:
     localizo_agente: { type: boolean, notnull: true, default: false }
     fecha_localizo_agente: timestamp
     intento: { type: integer(4), notnull: true }
+    notas:          string(255)
   indexes:
     intento_idx:
       fields:       [intento]
