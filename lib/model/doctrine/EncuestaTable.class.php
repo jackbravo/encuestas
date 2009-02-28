@@ -4,6 +4,18 @@
  */
 class EncuestaTable extends Doctrine_Table
 {
+  public function getLeadsQuery(Doctrine_Query $q)
+  {
+    $alias = $q->getRootAlias();
+
+    return $q
+      ->leftJoin("$alias.Estado edo")
+      ->leftJoin("$alias.Encuestador e")
+      ->addWhere("$alias.last_dist_id IS NULL")
+      ->addOrderBy("$alias.created_at")
+    ;
+  }
+
   public function getListQuery(Doctrine_Query $q)
   {
     $alias = $q->getRootAlias();

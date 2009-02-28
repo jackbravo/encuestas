@@ -5,6 +5,12 @@ encuesta:
     with_show:  true
     collection_actions: { filter: post }
 
+leads:
+  class: sfDoctrineRouteCollection
+  options:
+    model:      Encuesta
+    collection_actions: { filter: post }
+
 # default rules
 homepage:
   url:   /

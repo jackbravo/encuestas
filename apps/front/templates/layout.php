@@ -37,6 +37,7 @@ $('#ajax-loader').ajaxStart(function(){
     <?php
       $links = array(
         'encuesta' => array('label' => 'Encuestas'),
+        'leads' => array('label' => 'Leads sin distribuidor'),
         'sf_guard_user' => array('label' => 'Usuarios', 'perm' => 'admin'),
       );
 
@@ -45,7 +46,7 @@ $('#ajax-loader').ajaxStart(function(){
         if (isset($link['perm']) && !$sf_user->hasCredential($link['perm'])) {
           continue;
         }
-        $current = $sf_request->getParameter('module');
+        $current = sfContext::getInstance()->getRouting()->getCurrentRouteName();
         $class = $current == $route ? 'active' : '';
         echo "<li class='$class'>" . link_to($link['label'], $route) . '</li>';
       }

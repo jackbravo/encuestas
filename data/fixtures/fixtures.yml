@@ -8,7 +8,7 @@ Encuesta:
     apellido_p: Perez
     apellido_m: González
     edad: 28
-    genero: m
+    genero: f
     telefono: 3837-3832
     Estado: e1
     ciudad: Guadalajara
@@ -16,6 +16,20 @@ Encuesta:
     colonia: Arboledas
     calle: Galileo Galilei
     numero: 3829-1A
+    cp: 45070
+  1:
+    nombre: Fulanito
+    apellido_p: de Tal
+    apellido_m: González
+    edad: 28
+    genero: m
+    telefono: 3337-3932
+    Estado: e2
+    ciudad: Guadalajara
+    municipio: Zapopan
+    colonia: Arboledas
+    calle: Galileo Galilei
+    numero: 1829-1A
     cp: 45070
 
 Horario:
