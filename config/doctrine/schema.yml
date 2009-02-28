@@ -160,6 +160,19 @@ Distribuidor:
     id:
       type:         integer(4)
       primary:      true
-      autoincrement: true
-    nombre:    string(255)
+    name:           string(255)
+    level:          string(50)
+    city:           string(100)
+    state:          string(100)
+    contact1:       string(100)
+    contact2:       string(100)
+    contact3:       string(100)
+    tally: { type: integer(4), notnull: true, default: 0 }
+    performance:    integer(4)
+    m1_vp:          integer(4)
+    m1_ro:          integer(4)
+    m2_vp:          integer(4)
+    m2_ro:          integer(4)
+    m3_vp:          integer(4)
+    m3_ro:          integer(4)
 
