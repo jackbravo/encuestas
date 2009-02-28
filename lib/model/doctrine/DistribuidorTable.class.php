@@ -4,5 +4,30 @@
  */
 class DistribuidorTable extends Doctrine_Table
 {
+  public function findNextDist($lead)
+  {
+    $q = $this->createQuery('d')
+      ->addWhere('d.city = ?', $lead->ciudad)
+      ->limit(1);
 
+    $dist = $this->orderDistQuery($q)->fetchOne();
+
+    if ($dist) return $dist;
+
+    $q = $this->createQuery('d')
+      ->addWhere('d.state = ?', $lead->Estado->nombre)
+      ->limit(1);
+
+    return $dist = $this->orderDistQuery($q)->fetchOne();
+  }
+
+  public function orderDistQuery(Doctrine_Query $q)
+  {
+    $alias = $q->getRootAlias();
+
+    return $q
+      ->addOrderBy("$alias.tally asc")
+      ->addOrderBy("$alias.performance desc")
+    ;
+  }
 }

@@ -11,6 +11,11 @@ leads:
     model:      Encuesta
     collection_actions: { filter: post }
 
+distribuidor:
+  class: sfDoctrineRouteCollection
+  options:
+    model: Distribuidor
+
 # default rules
 homepage:
   url:   /
