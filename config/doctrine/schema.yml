@@ -195,7 +195,10 @@ Seguimiento:
     fecha_localizo_dist: timestamp
     localizo_agente: { type: boolean, notnull: true, default: false }
     fecha_localizo_agente: timestamp
-    wait: { type: integer(4), notnull: true, default: 48 }
+    intento: { type: integer(4), notnull: true }
+  indexes:
+    intento_idx:
+      fields:       [intento]
   relations:
     Distribuidor:
       onDelete:     CASCADE

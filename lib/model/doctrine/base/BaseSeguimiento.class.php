@@ -16,7 +16,10 @@ abstract class BaseSeguimiento extends sfDoctrineRecord
         $this->hasColumn('fecha_localizo_dist', 'timestamp', null, array('type' => 'timestamp'));
         $this->hasColumn('localizo_agente', 'boolean', null, array('type' => 'boolean', 'notnull' => true, 'default' => false));
         $this->hasColumn('fecha_localizo_agente', 'timestamp', null, array('type' => 'timestamp'));
-        $this->hasColumn('wait', 'integer', 4, array('type' => 'integer', 'notnull' => true, 'default' => '48', 'length' => '4'));
+        $this->hasColumn('intento', 'integer', 4, array('type' => 'integer', 'notnull' => true, 'length' => '4'));
+
+
+        $this->index('intento_idx', array('fields' => array(0 => 'intento')));
     }
 
     public function setUp()

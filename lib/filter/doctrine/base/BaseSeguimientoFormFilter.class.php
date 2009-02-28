@@ -21,7 +21,7 @@ class BaseSeguimientoFormFilter extends BaseFormFilterDoctrine
       'fecha_localizo_dist'   => new sfWidgetFormFilterDate(array('from_date' => new sfWidgetFormDate(), 'to_date' => new sfWidgetFormDate(), 'with_empty' => true)),
       'localizo_agente'       => new sfWidgetFormChoice(array('choices' => array('' => 'yes or no', 1 => 'yes', 0 => 'no'))),
       'fecha_localizo_agente' => new sfWidgetFormFilterDate(array('from_date' => new sfWidgetFormDate(), 'to_date' => new sfWidgetFormDate(), 'with_empty' => true)),
-      'wait'                  => new sfWidgetFormFilterInput(),
+      'intento'               => new sfWidgetFormFilterInput(),
       'created_at'            => new sfWidgetFormFilterDate(array('from_date' => new sfWidgetFormDate(), 'to_date' => new sfWidgetFormDate(), 'with_empty' => true)),
       'updated_at'            => new sfWidgetFormFilterDate(array('from_date' => new sfWidgetFormDate(), 'to_date' => new sfWidgetFormDate(), 'with_empty' => true)),
     ));
@@ -34,7 +34,7 @@ class BaseSeguimientoFormFilter extends BaseFormFilterDoctrine
       'fecha_localizo_dist'   => new sfValidatorDateRange(array('required' => false, 'from_date' => new sfValidatorDate(array('required' => false)), 'to_date' => new sfValidatorDate(array('required' => false)))),
       'localizo_agente'       => new sfValidatorChoice(array('required' => false, 'choices' => array('', 1, 0))),
       'fecha_localizo_agente' => new sfValidatorDateRange(array('required' => false, 'from_date' => new sfValidatorDate(array('required' => false)), 'to_date' => new sfValidatorDate(array('required' => false)))),
-      'wait'                  => new sfValidatorSchemaFilter('text', new sfValidatorInteger(array('required' => false))),
+      'intento'               => new sfValidatorSchemaFilter('text', new sfValidatorInteger(array('required' => false))),
       'created_at'            => new sfValidatorDateRange(array('required' => false, 'from_date' => new sfValidatorDate(array('required' => false)), 'to_date' => new sfValidatorDate(array('required' => false)))),
       'updated_at'            => new sfValidatorDateRange(array('required' => false, 'from_date' => new sfValidatorDate(array('required' => false)), 'to_date' => new sfValidatorDate(array('required' => false)))),
     ));
@@ -62,7 +62,7 @@ class BaseSeguimientoFormFilter extends BaseFormFilterDoctrine
       'fecha_localizo_dist'   => 'Date',
       'localizo_agente'       => 'Boolean',
       'fecha_localizo_agente' => 'Date',
-      'wait'                  => 'Number',
+      'intento'               => 'Number',
       'created_at'            => 'Date',
       'updated_at'            => 'Date',
     );
