@@ -122,6 +122,11 @@ h1, h2, h3, h4, h5 {
   font-weight: normal;
 }
 
+#menu ul.top-right li {
+  margin-right: 0px;
+  margin-left: 5px;
+}
+
 /* ------------ content ------------ */
 
 #content h1 {
