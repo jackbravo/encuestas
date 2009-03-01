@@ -17,6 +17,12 @@ distribuidor:
     model: Distribuidor
     collection_actions: { filter: post }
 
+seguimiento_create:
+  url: /seguimiento/:id/create
+  class: sfDoctrineRoute
+  options: { model: Encuesta, type: object, method: getForSeguimiento }
+  param: { module: seguimiento, action: create }
+
 # default rules
 homepage:
   url:   /

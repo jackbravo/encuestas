@@ -31,22 +31,15 @@
 
   <div class="historial">
   <?php foreach ($encuesta->Seguimiento as $seguimiento): ?>
-    <div class="seguimiento">
-      <p class="seguimiento-timestamp">
-        <strong><?php echo $seguimiento->Agente ?></strong> asignó a
-        <strong><?php echo $seguimiento->Distribuidor ?></strong>
-        <small><?php echo $seguimiento->created_at ?></small>
-      </p>
-      <?php echo simple_format_text($seguimiento->notas) ?>
-    </div>
+    <?php include_partial('seguimiento/show', array('seguimiento' => $seguimiento)) ?>
   <?php endforeach ?>
   </div>
 
   <div class="actions">
   <?php if ($encuesta->viewer_id != $sf_user->getId()): ?>
-    Este encuestado está siendo editado por <?php $encuesta->Viewer->username ?>
+    Este encuestado está siendo editado por <strong><?php echo $encuesta->Viewer->username ?></strong>
   <?php else: ?>
-    HOla
+    <?php echo link_to('Solicitar nuevo distribuidor', 'seguimiento_create', array('id' => $encuesta->id)) ?>
   <?php endif; ?>
   </div>
 
