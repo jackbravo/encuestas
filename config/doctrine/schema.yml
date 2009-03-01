@@ -195,11 +195,11 @@ Seguimiento:
     fecha_localizo_dist: timestamp
     localizo_lead: { type: boolean, notnull: true, default: false }
     fecha_localizo_lead: timestamp
-    intento: { type: integer(4), notnull: true }
+    intento: { type: integer(2), notnull: true }
     notas:          string(255)
   indexes:
-    intento_idx:
-      fields:       [intento]
+    localizo_intento_idx:
+      fields:       [localizo_dist, localizo_lead, intento]
   relations:
     Distribuidor:
       onDelete:     CASCADE
