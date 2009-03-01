@@ -30,17 +30,30 @@
   <hr />
 
   <div class="historial">
-  <?php foreach ($encuesta->Seguimiento as $seguimiento): ?>
+  <?php foreach ($encuesta['Seguimiento'] as $seguimiento): ?>
     <?php include_partial('seguimiento/show', array('seguimiento' => $seguimiento)) ?>
   <?php endforeach ?>
   </div>
 
   <div class="actions">
-  <?php if ($encuesta->viewer_id != $sf_user->getId()): ?>
+  <?php if ($encuesta->viewer_id != $sf_user->getId()) { ?>
     Este encuestado está siendo editado por <strong><?php echo $encuesta->Viewer->username ?></strong>
-  <?php else: ?>
+  <?php } else { ?>
+
+    <?php
+      if (sizeof($encuesta['Seguimiento']) > 0) {
+        $last_seguimiento = $encuesta['Seguimiento'][sizeof($encuesta['Seguimiento']) - 1];
+        if (!$last_seguimiento->localizo_dist) {
+          echo link_to('Se contactó al distribuidor', 'seguimiento_localizoDist', array('id' => $last_seguimiento->id));
+        } else {
+          echo link_to('Se conctactó al lead', 'seguimiento_localizoLead', array('id' => $last_seguimiento->id));
+        }
+      }
+    ?>
+
     <?php echo link_to('Solicitar nuevo distribuidor', 'seguimiento_create', array('id' => $encuesta->id)) ?>
-  <?php endif; ?>
+
+  <?php } ?>
   </div>
 
 </div> <!-- /grid_8 -->

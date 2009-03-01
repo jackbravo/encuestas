@@ -23,6 +23,18 @@ seguimiento_create:
   options: { model: Encuesta, type: object, method: getForSeguimiento }
   param: { module: seguimiento, action: create }
 
+seguimiento_localizoDist:
+  url: /seguimiento/:id/localizoDist
+  class: sfDoctrineRoute
+  options: { model: Seguimiento, type: object }
+  param: { module: seguimiento, action: localizoDist }
+
+seguimiento_localizoLead:
+  url: /seguimiento/:id/localizoLead
+  class: sfDoctrineRoute
+  options: { model: Seguimiento, type: object }
+  param: { module: seguimiento, action: localizoLead }
+
 # default rules
 homepage:
   url:   /

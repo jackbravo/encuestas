@@ -385,6 +385,15 @@ fieldset legend {
   margin-top: -5px;
 }
 
+.actions a {
+  margin: 5px;
+  padding: 5px 10px;
+  border: 1px solid #bdd;
+  background: #def;
+  font-size: 11px;
+  font-weight: bold;
+}
+
 /* ------------- admin -------------- */
 #sf_admin_container th {
   background-color: #dec;
