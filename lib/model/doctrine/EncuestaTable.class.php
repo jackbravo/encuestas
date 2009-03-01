@@ -27,4 +27,30 @@ class EncuestaTable extends Doctrine_Table
       ->addOrderBy("$alias.apellido_p")
     ;
   }
+
+  /**
+   * Debe regresar seguimiento_count
+   */
+  public function getForSeguimiento($params)
+  {
+    $encuesta = $this->createQuery('e')
+      ->select('e.nombre, e.ciudad, edo.nombre, e.viewer_id')
+      ->addSelect('COUNT(s.id) AS seguimiento_count')
+      ->leftJoin('e.Estado edo')
+      ->leftJoin('e.Seguimiento s')
+      ->addWhere('e.id = ?', $params['id'])
+      ->fetchOne();
+    $encuesta->Seguimiento = new Doctrine_Collection('Seguimiento');
+
+    return $encuesta;
+  }
+
+  public function unlockAll($agent_id)
+  {
+    return Doctrine_Query::create()
+      ->update('Encuesta e')
+      ->set('e.viewer_id', 'NULL')
+      ->addWhere('e.viewer_id = ?', $agent_id)
+      ->execute();
+  }
 }

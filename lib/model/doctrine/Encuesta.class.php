@@ -10,11 +10,7 @@ class Encuesta extends BaseEncuesta
     $modified = $this->getModified();
     if (!array_key_exists('encuestador_id', $modified))
     {
-      try {
-        $this->encuestador_id = sfContext::getInstance()->getUser()
-          ->getAttribute('user_id', null, 'sfGuardSecurityUser');
-      } catch (Exception $e) {
-      }
+      $this->encuestador_id = myUser::getCurrentId();
     }
   }
 
@@ -30,27 +26,42 @@ class Encuesta extends BaseEncuesta
   public function lock($user_id)
   {
     if (! is_numeric($this->viewer_id)) {
-      $conn = $this->getTable()->getConnection();
-
-      $conn->beginTransaction();
-      try
-      {
-        Doctrine_Query::create()
-          ->update('Encuesta e')
-          ->set('e.viewer_id', 'NULL')
-          ->addWhere('e.viewer_id = ?', array($user_id))
-          ->execute();
-
-        $this->viewer_id = $user_id;
-        $this->save();
-
-        $conn->commit();
-      }
-      catch (Exception $e)
-      {
-        $conn->rollBack();
-        throw $e;
-      }
+      $this->getTable()->unlockAll($user_id);
+      $this->viewer_id = $user_id;
+      $this->save();
+    } else if ($this->viewer_id != $user_id) {
+      $this->getTable()->unlockAll($user_id);
     }
+  }
+
+  public function agregarDistribuidor($dist)
+  {
+    $conn = $this->getTable()->getConnection();
+
+    $seguimiento = new Seguimiento();
+    $seguimiento->Distribuidor = $dist;
+    $seguimiento->Lead = $this;
+    $seguimiento->agente_id = myUser::getCurrentId();
+    $seguimiento->intento = $this->seguimiento_count + 1;
+
+    $this->last_dist_id = $dist->id;
+    $dist->tally++;
+
+    $conn->beginTransaction();
+    try
+    {
+      $seguimiento->save();
+      $this->save();
+      $dist->save();
+
+      $conn->commit();
+    }
+    catch (Exception $e)
+    {
+      $conn->rollBack();
+      throw $e;
+    }
+
+    return $seguimiento;
   }
 }
