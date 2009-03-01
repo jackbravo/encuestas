@@ -45,13 +45,13 @@
         $last_seguimiento = $encuesta['Seguimiento'][sizeof($encuesta['Seguimiento']) - 1];
         if (!$last_seguimiento->localizo_dist) {
           echo link_to('Se contactó al distribuidor', 'seguimiento_localizoDist', array('id' => $last_seguimiento->id));
-        } else {
+        } else if (!$last_seguimiento->localizo_lead) {
           echo link_to('Se conctactó al lead', 'seguimiento_localizoLead', array('id' => $last_seguimiento->id));
         }
       }
-    ?>
 
-    <?php echo link_to('Solicitar nuevo distribuidor', 'seguimiento_create', array('id' => $encuesta->id)) ?>
+      echo link_to('Solicitar nuevo distribuidor', 'seguimiento_create', array('id' => $encuesta->id));
+    ?>
 
   <?php } ?>
   </div>

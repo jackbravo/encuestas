@@ -37,4 +37,24 @@ class seguimientoActions extends sfActions
       $this->redirect('@encuesta_show?id=' . $lead->id);
     }
   }
+
+  public function executeLocalizoDist(sfWebRequest $request)
+  {
+    $seguimiento = $this->getRoute()->getObject();
+    $seguimiento->localizo_dist = true;
+    $seguimiento->fecha_localizo_dist = new Doctrine_Expression('NOW()');
+    $seguimiento->save();
+
+    $this->redirect('@encuesta_show?id=' . $seguimiento->lead_id);
+  }
+
+  public function executeLocalizoLead(sfWebRequest $request)
+  {
+    $seguimiento = $this->getRoute()->getObject();
+    $seguimiento->localizo_lead = true;
+    $seguimiento->fecha_localizo_lead = new Doctrine_Expression('NOW()');
+    $seguimiento->save();
+
+    $this->redirect('@encuesta_show?id=' . $seguimiento->lead_id);
+  }
 }
