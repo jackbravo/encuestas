@@ -386,7 +386,7 @@ fieldset legend {
 }
 
 .actions a {
-  margin: 5px;
+  margin: 7px 7px 7px 0;
   padding: 5px 10px;
   border: 1px solid #bdd;
   background: #def;

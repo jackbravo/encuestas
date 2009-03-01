@@ -9,7 +9,7 @@
   <?php echo $filter['state']->renderRow() ?>
 
   <input type="submit" value="Filtrar" />
-  &nbsp;<?php echo link_to('Reset', '@distribuidor_filter', array('query_string' => '_reset', 'method' => 'post')) ?>
+  &nbsp;<?php echo link_to('Quitar filtros', '@distribuidor_filter', array('query_string' => '_reset', 'method' => 'post')) ?>
 </form>
 </div>
 
@@ -17,12 +17,12 @@
   <thead>
     <tr>
       <th>Id</th>
-      <th>Name</th>
-      <th>Level</th>
-      <th>City</th>
-      <th>State</th>
+      <th>Nombre</th>
+      <th>Nivel</th>
+      <th>Estado</th>
+      <th>Ciudad</th>
       <th>Tally</th>
-      <th>Performance</th>
+      <th>Desempeño</th>
     </tr>
   </thead>
   <tbody>
@@ -33,8 +33,8 @@
       <td><?php echo link_to($distribuidor['id'], '@distribuidor_show?id=' . $distribuidor['id']) ?></td>
       <td><?php echo link_to($distribuidor['name'], '@distribuidor_show?id=' . $distribuidor['id']) ?></a></td>
       <td><?php echo $distribuidor['level'] ?></td>
-      <td><?php echo $distribuidor['city'] ?></td>
       <td><?php echo $distribuidor['state'] ?></td>
+      <td><?php echo $distribuidor['city'] ?></td>
       <td><?php echo $distribuidor['tally'] ?></td>
       <td><?php echo $distribuidor['performance'] ?></td>
     </tr>

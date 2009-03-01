@@ -11,6 +11,8 @@ class EncuestaFormFilter extends BaseEncuestaFormFilter
 {
   public function configure()
   {
+    $this->widgetSchema->setFormFormatterName('div');
+
     $this->widgetSchema['nombre']->setOption('with_empty', false);
     $this->widgetSchema['nombre']->setOption('template', '%input%');
     $this->widgetSchema['nombre']->setAttribute('size', '15');
