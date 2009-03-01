@@ -47,7 +47,7 @@
 
 <div class="grid_4">
   <div class="box">
-    <h4>Datos de contacto</h4>
+    <h2>Información del Lead</h2>
     <?php if ($encuesta->telefono) echo '<strong>Telefono: </strong>' . $encuesta->telefono . '<br/>' ?>
     <?php if ($encuesta->celular) echo '<strong>Celular: </strong>' . $encuesta->celular . '<br/>' ?>
     <?php if ($encuesta->email) echo '<strong>Email: </strong>' . $encuesta->email . '<br/>' ?>
@@ -57,12 +57,8 @@
       <li><?php echo $horario ?></li>
     <?php endforeach; ?>
     </ul>
-  </div>
-
-  <div class="box">
-    <h4>Información personal</h4>
     <?php if ($encuesta->rfc) echo '<strong>RFC: </strong>' . $encuesta->rfc . '<br/>' ?>
-    <?php if ($encuesta->edad) echo '<strong>Edad: </strong>' . $encuesta->edad . '<br/>' ?>
+    <?php if ($encuesta->edad) echo '<strong>Edad: </strong>' . $encuesta->edad . ' años<br/>' ?>
     <?php if ($encuesta->genero) echo '<strong>Genero: </strong>' . $encuesta->printGenero() . '<br/>' ?>
 
     <strong>Dirección:</strong><br/>
@@ -72,4 +68,16 @@
     (en la ciudad de <?php echo $encuesta->ciudad ?>)<br/>
     CP: <?php echo $encuesta->cp ?>
   </div>
+
+  <?php if ($encuesta->last_dist_id): ?>
+    <?php $dist = $encuesta->LastDist ?>
+    <div class="box">
+      <h2>Distribuidor #<?php echo $dist->id ?></h2>
+      <strong><?php echo $dist->name ?></strong>, <?php echo $dist->level ?><br/>
+      <?php echo $dist->city . ', ' . $dist->state ?><br/><br/>
+      <?php if ($dist->contact1) echo '<strong>Contacto 1: </strong>' . $dist->contact1 . '<br/>' ?>
+      <?php if ($dist->contact2) echo '<strong>Contacto 2: </strong>' . $dist->contact2 . '<br/>' ?>
+      <?php if ($dist->contact3) echo '<strong>Contacto 3: </strong>' . $dist->contact3 . '<br/>' ?>
+    </div>
+  <?php endif; ?>
 </div> <!-- /grid_4 -->

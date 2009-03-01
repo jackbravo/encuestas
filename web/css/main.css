@@ -36,6 +36,10 @@ h1, h2, h3, h4, h5 {
   color: green;
 }
 
+ul {
+  list-style-type: disc;
+}
+
 /* ---------- header ----------- */
 #logo
 {
@@ -268,6 +272,11 @@ div.error {
   color: #fff;
 }
 
+.dist-box {
+  border-color: #bdc;
+  background-color: #ced;
+}
+
 /* ----------- forms ----------- */
 
 .form-item {
@@ -370,6 +379,10 @@ fieldset legend {
 /* ---------- seguimiento ----------- */
 .seguimiento {
   margin-bottom: 1em;
+}
+
+.seguimiento blockquote {
+  margin-top: -5px;
 }
 
 /* ------------- admin -------------- */
