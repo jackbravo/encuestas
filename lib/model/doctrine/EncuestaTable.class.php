@@ -9,9 +9,11 @@ class EncuestaTable extends Doctrine_Table
     $alias = $q->getRootAlias();
 
     return $q
+      ->select("$alias.id, $alias.nombre, $alias.apellido_p, $alias.apellido_m")
+      ->addSelect("$alias.ciudad, edo.nombre, $alias.updated_at")
       ->leftJoin("$alias.Estado edo")
-      ->leftJoin("$alias.Agente e")
       ->addWhere("$alias.last_dist_id IS NULL")
+      ->addWhere("$alias.viewer_id IS NULL")
       ->addOrderBy("$alias.created_at")
     ;
   }
@@ -21,8 +23,9 @@ class EncuestaTable extends Doctrine_Table
     $alias = $q->getRootAlias();
 
     return $q
+      ->select("$alias.id, $alias.nombre, $alias.apellido_p, $alias.apellido_m")
+      ->addSelect("$alias.ciudad, edo.nombre, $alias.updated_at")
       ->leftJoin("$alias.Estado edo")
-      ->leftJoin("$alias.Agente e")
       ->addOrderBy("$alias.nombre")
       ->addOrderBy("$alias.apellido_p")
     ;
