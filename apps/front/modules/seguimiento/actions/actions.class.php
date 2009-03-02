@@ -12,6 +12,7 @@ class seguimientoActions extends sfActions
 {
   public function executeIndex(sfWebRequest $request)
   {
+    Doctrine::getTable('Encuesta')->unlockAll($this->getUser()->getId());
     $this->seguimientos1 = Doctrine::getTable('Seguimiento')->findVuelta1();
     $this->seguimientos2 = Doctrine::getTable('Seguimiento')->findVuelta2();
   }
@@ -52,6 +53,7 @@ class seguimientoActions extends sfActions
   public function executeLocalizoLead(sfWebRequest $request)
   {
     $seguimiento = $this->getRoute()->getObject();
+    $seguimiento->status = 0;
     $seguimiento->localizo_lead = true;
     $seguimiento->fecha_localizo_lead = new Doctrine_Expression('NOW()');
     $seguimiento->save();
