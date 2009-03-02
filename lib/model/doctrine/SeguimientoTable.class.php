@@ -14,4 +14,43 @@ class SeguimientoTable extends Doctrine_Table
       ->orderBy('s.created_at')
       ->execute();
   }
+
+  public function findVuelta1()
+  {
+    return $this->findVueltaQuery()
+      ->addWhere('s.intento = 1')
+      ->addWhere('s.fecha_localizo_dist < (NOW() - interval 2 day)')
+      ->execute(array(), Doctrine::HYDRATE_ARRAY);
+  }
+
+  public function findVuelta2()
+  {
+    return $this->findVueltaQuery()
+      ->addWhere('s.intento >= 2')
+      ->addWhere('s.fecha_localizo_dist < (NOW() - interval 1 day)')
+      ->execute(array(), Doctrine::HYDRATE_ARRAY);
+  }
+
+  public function findVueltaQuery()
+  {
+    return Doctrine::getTable('Encuesta')->createQuery('l')
+      ->select('l.id, l.nombre, l.apellido_p, l.apellido_m, edo.nombre, l.ciudad')
+      ->addSelect('s.fecha_localizo_dist, d.name')
+      ->leftJoin('l.Seguimiento s')
+      ->leftJoin('l.Estado edo')
+      ->leftJoin('s.Distribuidor d')
+      ->addWhere('l.viewer_id IS NULL')
+      ->addWhere('s.status = 1')
+      ->addOrderBy('s.fecha_localizo_dist ASC')
+      ->limit(100);
+  }
+
+  public function closeForLead($lead_id)
+  {
+    return $this->createQuery('s')
+      ->update()
+      ->set('s.status', 0)
+      ->where('s.lead_id = ?', $lead_id)
+      ->execute();
+  }
 }
