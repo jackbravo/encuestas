@@ -10,11 +10,12 @@
  */
 class seguimientoActions extends sfActions
 {
- /**
-  * Executes index action
-  *
-  * @param sfRequest $request A request object
-  */
+  public function executeIndex(sfWebRequest $request)
+  {
+    $this->seguimientos1 = Doctrine::getTable('Seguimiento')->findVuelta1();
+    $this->seguimientos2 = Doctrine::getTable('Seguimiento')->findVuelta2();
+  }
+
   public function executeCreate(sfWebRequest $request)
   {
     $lead = $this->getRoute()->getObject();

@@ -18,6 +18,10 @@ distribuidor:
     model: Distribuidor
     collection_actions: { filter: post }
 
+seguimiento:
+  url: /segumiento
+  param: { module: seguimiento, action: index }
+
 seguimiento_create:
   url: /seguimiento/:id/create
   class: sfDoctrineRoute
