@@ -8,7 +8,7 @@
       <th>Nombre</th>
       <th>Estado</th>
       <th>Ciudad</th>
-      <th>Última actualización</th>
+      <th>Fecha de Registro</th>
     </tr>
   </thead>
   <tbody>
@@ -20,7 +20,7 @@
       <td><?php echo link_to($encuesta['nombre'] . ' ' . $encuesta['apellido_p'] . ' ' . $encuesta['apellido_m'], '@encuesta_show?id=' . $encuesta['id']) ?></td>
       <td><?php echo $encuesta['Estado']['nombre'] ?></td>
       <td><?php echo $encuesta['ciudad'] ?></td>
-      <td><?php echo $encuesta['updated_at'] ?></td>
+      <td><?php echo $encuesta['created_at'] ?></td>
     </tr>
     <?php endforeach; ?>
   </tbody>

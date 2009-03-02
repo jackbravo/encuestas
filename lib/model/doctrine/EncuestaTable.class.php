@@ -10,7 +10,7 @@ class EncuestaTable extends Doctrine_Table
 
     return $q
       ->select("$alias.id, $alias.nombre, $alias.apellido_p, $alias.apellido_m")
-      ->addSelect("$alias.ciudad, edo.nombre, $alias.updated_at")
+      ->addSelect("$alias.ciudad, edo.nombre, $alias.created_at")
       ->leftJoin("$alias.Estado edo")
       ->addWhere("$alias.last_dist_id IS NULL")
       ->addWhere("$alias.viewer_id IS NULL")
@@ -24,7 +24,7 @@ class EncuestaTable extends Doctrine_Table
 
     return $q
       ->select("$alias.id, $alias.nombre, $alias.apellido_p, $alias.apellido_m")
-      ->addSelect("$alias.ciudad, edo.nombre, $alias.updated_at")
+      ->addSelect("$alias.ciudad, edo.nombre, $alias.created_at")
       ->leftJoin("$alias.Estado edo")
       ->addOrderBy("$alias.nombre")
       ->addOrderBy("$alias.apellido_p")
