@@ -1,36 +1,58 @@
 Estado:
-  e1: { nombre: DF }
-  e2: { nombre: Jalisco }
+  edo1: { nombre: DF }
+  edo2: { nombre: Jalisco }
 
 Encuesta:
-  0:
+  e1:
+    Agente: usuario
+    LastDist: d1
     nombre: Juanita
     apellido_p: Perez
     apellido_m: González
     edad: 28
     genero: f
     telefono: 3837-3832
-    Estado: e1
+    Estado: edo1
     ciudad: Guadalajara
     municipio: Zapopan
     colonia: Arboledas
     calle: Galileo Galilei
     numero: 3829-1A
     cp: 45070
-  1:
+  e2:
+    Agente: usuario
     nombre: Fulanito
     apellido_p: de Tal
     apellido_m: González
     edad: 28
     genero: m
     telefono: 3337-3932
-    Estado: e2
+    Estado: edo2
     ciudad: Guadalajara
     municipio: Zapopan
     colonia: Arboledas
     calle: Galileo Galilei
     numero: 1829-1A
     cp: 45070
+  e3:
+    Agente: usuario
+    LastDist: d3
+    nombre: Alvaro
+    apellido_p: Bravo
+    apellido_m: Contreras
+    rfc: RFC83293-233
+    edad: '23'
+    genero: m
+    telefono: '383283'
+    celular: '383829383'
+    email: alvaro@mail.com
+    Estado: edo2
+    ciudad: Guadalajara
+    municipio: Zapopan
+    colonia: Arboledas
+    calle: 'Galileo Galilei'
+    numero: 3829-1A
+    cp: '45070'
 
 Horario:
   h1:
@@ -84,6 +106,7 @@ Distribuidor:
     contact1: 234432315
     contact2: 233232 ext 32
     performance: 100
+    tally: 2
   d2:
     id: 2389523
     name: Francisca
@@ -102,3 +125,50 @@ Distribuidor:
     contact1: 234432315
     contact2: 233232 ext 32
     performance: 329
+    tally: 2
+
+Seguimiento:
+  Seguimiento_1:
+    Distribuidor: d3
+    Lead: e3
+    Agente: usuario
+    localizo_dist: false
+    fecha_localizo_dist: '2009-02-28 17:39:17'
+    localizo_lead: false
+    fecha_localizo_lead: null
+    intento: '1'
+    created_at: '2009-03-01 17:38:30'
+    updated_at: '2009-03-01 17:39:17'
+  Seguimiento_2:
+    Distribuidor: d1
+    Lead: e1
+    Agente: usuario
+    localizo_dist: false
+    fecha_localizo_dist: '2009-03-01 18:05:07'
+    localizo_lead: false
+    fecha_localizo_lead: null
+    intento: '1'
+    created_at: '2009-03-01 18:02:17'
+    updated_at: '2009-03-01 18:05:07'
+  Seguimiento_3:
+    Distribuidor: d3
+    Lead: e1
+    Agente: usuario
+    localizo_dist: false
+    fecha_localizo_dist: null
+    localizo_lead: false
+    fecha_localizo_lead: null
+    intento: '2'
+    created_at: '2009-03-01 18:05:11'
+    updated_at: '2009-03-01 18:05:11'
+  Seguimiento_4:
+    Distribuidor: d1
+    Lead: e3
+    Agente: usuario
+    localizo_dist: true
+    fecha_localizo_dist: '2009-02-28 18:10:36'
+    localizo_lead: false
+    fecha_localizo_lead: null
+    intento: '3'
+    created_at: '2009-03-01 18:10:36'
+    updated_at: '2009-03-01 18:10:36'
