@@ -9,7 +9,7 @@
 
   <h2><?php echo $encuesta->id . ': ' . $encuesta->nombre . ' ' . $encuesta->apellido_p . ' ' . $encuesta->apellido_m ?></h2>
   Encuestado por <strong><?php echo $encuesta->Agente ?></strong>
-  @ <?php echo $encuesta->created_at ?>
+  <small><?php echo $encuesta->created_at ?></small>
 
   <hr />
 
