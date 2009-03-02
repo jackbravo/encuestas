@@ -35,7 +35,7 @@ class EncuestaTable extends Doctrine_Table
   {
     $encuesta = $this->createQuery('e')
       ->select('e.nombre, e.ciudad, edo.nombre, e.viewer_id')
-      ->addSelect('COUNT(s.id) AS seguimiento_count')
+      ->addSelect('SUM(s.localizo_dist) AS seguimiento_count')
       ->leftJoin('e.Estado edo')
       ->leftJoin('e.Seguimiento s')
       ->addWhere('e.id = ?', $params['id'])
