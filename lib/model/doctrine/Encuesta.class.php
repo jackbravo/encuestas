@@ -50,6 +50,7 @@ class Encuesta extends BaseEncuesta
     $conn->beginTransaction();
     try
     {
+      Doctrine::getTable('Seguimiento')->closeForLead($this->id);
       $seguimiento->save();
       $this->save();
       $dist->save();
