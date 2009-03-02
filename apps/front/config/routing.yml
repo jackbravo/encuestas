@@ -4,6 +4,7 @@ encuesta:
     model:      Encuesta
     with_show:  true
     collection_actions: { filter: post }
+    model_methods: { object: getForShow }
 
 leads:
   class: sfDoctrineRouteCollection

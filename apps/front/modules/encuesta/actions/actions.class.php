@@ -46,6 +46,7 @@ class encuestaActions extends sfActions
   {
     $this->encuesta = $this->getRoute()->getObject();
     $this->encuesta->lock($this->getUser()->getId());
+    $this->seguimientos = Doctrine::getTable('Seguimiento')->findForLead($this->encuesta->id);
   }
 
   public function executeNew(sfWebRequest $request)

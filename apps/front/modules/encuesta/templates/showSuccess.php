@@ -30,7 +30,7 @@
   <hr />
 
   <div class="historial">
-  <?php foreach ($encuesta['Seguimiento'] as $seguimiento): ?>
+  <?php foreach ($seguimientos as $seguimiento): ?>
     <?php include_partial('seguimiento/show', array('seguimiento' => $seguimiento)) ?>
   <?php endforeach ?>
   </div>
@@ -41,8 +41,8 @@
   <?php } else { ?>
 
     <?php
-      if (sizeof($encuesta['Seguimiento']) > 0) {
-        $last_seguimiento = $encuesta['Seguimiento'][sizeof($encuesta['Seguimiento']) - 1];
+      if (sizeof($seguimientos) > 0) {
+        $last_seguimiento = $seguimientos[sizeof($seguimientos) - 1];
         if (!$last_seguimiento->localizo_dist) {
           echo link_to('Se contactó al distribuidor', 'seguimiento_localizoDist', array('id' => $last_seguimiento->id));
         } else if (!$last_seguimiento->localizo_lead) {

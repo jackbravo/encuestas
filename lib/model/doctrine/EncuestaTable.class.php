@@ -45,6 +45,20 @@ class EncuestaTable extends Doctrine_Table
     return $encuesta;
   }
 
+  public function getForShow($params)
+  {
+    return $this->createQuery('e')
+      ->leftJoin('e.Encuestador')
+      ->leftJoin('e.Estado')
+      ->leftJoin('e.LastDist')
+      ->leftJoin('e.Horarios')
+      ->leftJoin('e.AreasInteres')
+      ->leftJoin('e.ProductosInteres')
+      ->leftJoin('e.MediosContacto')
+      ->addWhere('e.id = ?', $params['id'])
+      ->fetchOne();
+  }
+
   public function unlockAll($agent_id)
   {
     return Doctrine_Query::create()
