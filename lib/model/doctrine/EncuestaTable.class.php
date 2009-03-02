@@ -10,7 +10,7 @@ class EncuestaTable extends Doctrine_Table
 
     return $q
       ->leftJoin("$alias.Estado edo")
-      ->leftJoin("$alias.Encuestador e")
+      ->leftJoin("$alias.Agente e")
       ->addWhere("$alias.last_dist_id IS NULL")
       ->addOrderBy("$alias.created_at")
     ;
@@ -22,7 +22,7 @@ class EncuestaTable extends Doctrine_Table
 
     return $q
       ->leftJoin("$alias.Estado edo")
-      ->leftJoin("$alias.Encuestador e")
+      ->leftJoin("$alias.Agente e")
       ->addOrderBy("$alias.nombre")
       ->addOrderBy("$alias.apellido_p")
     ;
@@ -48,7 +48,7 @@ class EncuestaTable extends Doctrine_Table
   public function getForShow($params)
   {
     return $this->createQuery('e')
-      ->leftJoin('e.Encuestador')
+      ->leftJoin('e.Agente')
       ->leftJoin('e.Estado')
       ->leftJoin('e.LastDist')
       ->leftJoin('e.Horarios')

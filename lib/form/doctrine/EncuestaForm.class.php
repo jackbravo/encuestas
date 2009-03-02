@@ -11,7 +11,7 @@ class EncuestaForm extends BaseEncuestaForm
 {
   public function configure()
   {
-    unset($this['encuestador_id'], $this['created_at'], $this['updated_at'],
+    unset($this['agente_id'], $this['created_at'], $this['updated_at'],
       $this['viewer_id'], $this['last_dist_id'], $this['distribuidores_list']);
 
     $this->widgetSchema->setLabels(array(

@@ -13,7 +13,7 @@ class BaseEncuestaForm extends BaseFormDoctrine
   {
     $this->setWidgets(array(
       'id'                     => new sfWidgetFormInputHidden(),
-      'encuestador_id'         => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
+      'agente_id'              => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
       'viewer_id'              => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
       'last_dist_id'           => new sfWidgetFormDoctrineChoice(array('model' => 'Distribuidor', 'add_empty' => true)),
       'nombre'                 => new sfWidgetFormInput(),
@@ -43,7 +43,7 @@ class BaseEncuestaForm extends BaseFormDoctrine
 
     $this->setValidators(array(
       'id'                     => new sfValidatorDoctrineChoice(array('model' => 'Encuesta', 'column' => 'id', 'required' => false)),
-      'encuestador_id'         => new sfValidatorDoctrineChoice(array('model' => 'sfGuardUser', 'required' => false)),
+      'agente_id'              => new sfValidatorDoctrineChoice(array('model' => 'sfGuardUser', 'required' => false)),
       'viewer_id'              => new sfValidatorDoctrineChoice(array('model' => 'sfGuardUser', 'required' => false)),
       'last_dist_id'           => new sfValidatorDoctrineChoice(array('model' => 'Distribuidor', 'required' => false)),
       'nombre'                 => new sfValidatorString(array('max_length' => 255)),

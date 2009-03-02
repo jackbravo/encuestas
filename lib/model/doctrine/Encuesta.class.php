@@ -8,9 +8,9 @@ class Encuesta extends BaseEncuesta
   public function preInsert($event)
   {
     $modified = $this->getModified();
-    if (!array_key_exists('encuestador_id', $modified))
+    if (!array_key_exists('agente_id', $modified))
     {
-      $this->encuestador_id = myUser::getCurrentId();
+      $this->agente_id = myUser::getCurrentId();
     }
   }
 

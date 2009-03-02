@@ -5,7 +5,7 @@ Encuesta:
       type:         integer(4)
       primary:      true
       autoincrement: true
-    encuestador_id: integer(4)
+    agente_id: integer(4)
     viewer_id:      integer(4)
     last_dist_id:   integer(4)
 
@@ -29,9 +29,9 @@ Encuesta:
     numero:         { type: string(50), notnull: true }
     cp:             { type: integer(4), notnull: true }
   relations:
-    Encuestador:
+    Agente:
       class:        sfGuardUser
-      local:        encuestador_id
+      local:        agente_id
       foreign:      id
       foreignAlias: Encuestas
     Viewer:

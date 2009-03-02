@@ -9,7 +9,7 @@ abstract class BaseEncuesta extends sfDoctrineRecord
     {
         $this->setTableName('encuesta');
         $this->hasColumn('id', 'integer', 4, array('type' => 'integer', 'primary' => true, 'autoincrement' => true, 'length' => '4'));
-        $this->hasColumn('encuestador_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
+        $this->hasColumn('agente_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('viewer_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('last_dist_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('nombre', 'string', 255, array('type' => 'string', 'notnull' => true, 'length' => '255'));
@@ -32,8 +32,8 @@ abstract class BaseEncuesta extends sfDoctrineRecord
 
     public function setUp()
     {
-        $this->hasOne('sfGuardUser as Encuestador', array('local' => 'encuestador_id',
-                                                          'foreign' => 'id'));
+        $this->hasOne('sfGuardUser as Agente', array('local' => 'agente_id',
+                                                     'foreign' => 'id'));
 
         $this->hasOne('sfGuardUser as Viewer', array('local' => 'viewer_id',
                                                      'foreign' => 'id'));

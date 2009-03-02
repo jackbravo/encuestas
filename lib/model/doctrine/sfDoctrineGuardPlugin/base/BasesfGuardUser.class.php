@@ -41,7 +41,7 @@ abstract class BasesfGuardUser extends sfDoctrineRecord
                                                                   'foreign' => 'user_id'));
 
         $this->hasMany('Encuesta as Encuestas', array('local' => 'id',
-                                                      'foreign' => 'encuestador_id'));
+                                                      'foreign' => 'agente_id'));
 
         $this->hasMany('Encuesta as EncuestasVistas', array('local' => 'id',
                                                             'foreign' => 'viewer_id'));
