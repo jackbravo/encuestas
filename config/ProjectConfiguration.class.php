@@ -10,4 +10,9 @@ class ProjectConfiguration extends sfProjectConfiguration
     // for compatibility / remove and enable only the plugins you want
     $this->enableAllPluginsExcept(array('sfPropelPlugin', 'sfCompat10Plugin', 'sfProtoculousPlugin'));
   }
+
+  public function configureDoctrine(Doctrine_Manager $manager)
+  {
+    $manager->setAttribute(Doctrine::ATTR_QUERY_LIMIT, Doctrine::LIMIT_ROWS);
+  }
 }
