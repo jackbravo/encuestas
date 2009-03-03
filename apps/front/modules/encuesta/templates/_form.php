@@ -75,6 +75,7 @@
   <?php echo $form['areas_interes_list']->renderRow() ?>
   <?php echo $form['productos_interes_list']->renderRow() ?>
   <?php echo $form['medios_contacto_list']->renderRow() ?>
+  <?php echo $form['notas']->renderRow() ?>
   </div>
 </fieldset>
 

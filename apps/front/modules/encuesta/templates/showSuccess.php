@@ -78,7 +78,9 @@
     <?php echo $encuesta->municipio ?>,
     <?php echo $encuesta->Estado ?>
     (en la ciudad de <?php echo $encuesta->ciudad ?>)<br/>
-    CP: <?php echo $encuesta->cp ?>
+    CP: <?php echo $encuesta->cp ?><br/>
+    <strong>Notas:</strong><br/>
+    <?php echo $encuesta->notas ?>
   </div>
 
   <?php if (sizeof($seguimientos) > 0) {

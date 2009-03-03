@@ -25,6 +25,10 @@ class EncuestaForm extends BaseEncuestaForm
       'medios_contacto_list' => '¿Cómo se enteró de este número?',
     ));
 
+    $this->widgetSchema['notas'] = new sfWidgetFormTextarea(array(), array(
+      'rows' => '5', 'cols' => '50'
+    ));
+    $this->validatorSchema['notas']->setOption('required', false);
     $this->widgetSchema['genero'] = new sfWidgetFormChoice(array(
       'choices' => array('m' => 'masculino', 'f' => 'femenino'),
       'expanded' => true,
