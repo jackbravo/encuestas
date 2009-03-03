@@ -86,4 +86,24 @@ class seguimientoActions extends sfActions
 
     $this->redirect('@encuesta_show?id=' . $seguimiento->lead_id);
   }
+
+  public function executeEdit(sfWebRequest $request)
+  {
+    $this->form = new SeguimientoForm($this->getRoute()->getObject());
+  }
+
+  public function executeUpdate(sfWebRequest $request)
+  {
+    $this->form = new SeguimientoForm($this->getRoute()->getObject());
+
+    $this->form->bind($request->getParameter($this->form->getName()));
+    if ($this->form->isValid())
+    {
+      $seguimiento = $this->form->save();
+
+      $this->redirect('@encuesta_show?id='.$seguimiento['lead_id']);
+    }
+
+    $this->setTemplate('edit');
+  }
 }

@@ -18,33 +18,17 @@ distribuidor:
     model: Distribuidor
     collection_actions: { filter: post }
 
-seguimiento:
-  url: /seguimiento
-  param: { module: seguimiento, action: index }
-
-seguimiento_create:
+seguimiento_createForLead:
   url: /seguimiento/:id/create
   class: sfDoctrineRoute
   options: { model: Encuesta, type: object, method: getForSeguimiento }
   param: { module: seguimiento, action: create }
 
-seguimiento_finalizar:
-  url: /seguimiento/:id/finalizar
-  class: sfDoctrineRoute
-  options: { model: Seguimiento, type: object }
-  param: { module: seguimiento, action: finalizar }
-
-seguimiento_localizoDist:
-  url: /seguimiento/:id/localizoDist
-  class: sfDoctrineRoute
-  options: { model: Seguimiento, type: object }
-  param: { module: seguimiento, action: localizoDist }
-
-seguimiento_localizoLead:
-  url: /seguimiento/:id/localizoLead
-  class: sfDoctrineRoute
-  options: { model: Seguimiento, type: object }
-  param: { module: seguimiento, action: localizoLead }
+seguimiento:
+  class: sfDoctrineRouteCollection
+  options:
+    model: Seguimiento
+    object_actions: { finalizar: get, localizoDist: get, localizoLead: get }
 
 # default rules
 homepage:

@@ -57,13 +57,16 @@
           if ($last_seguimiento->intento > 1)
             echo link_to("$no Finalizar seguimiento", 'seguimiento_finalizar', array('id' => $last_seguimiento->id));
         }
+
+        $editar = image_tag('/sf/sf_admin/images/edit.png');
+        echo link_to("$editar Editar", 'seguimiento_edit', array('id' => $last_seguimiento->id));
       }
 
       if ($last_seguimiento == false || (
         ! $last_seguimiento->localizo_lead && ($last_seguimiento->intento < 2 || ! $last_seguimiento->localizo_dist)
         )) {
         $new = image_tag('/sf/sf_admin/images/default_icon.png');
-        echo link_to("$new Solicitar nuevo distribuidor", 'seguimiento_create', array('id' => $encuesta->id));
+        echo link_to("$new Solicitar nuevo distribuidor", 'seguimiento_createForLead', array('id' => $encuesta->id));
       }
 
     ?>
