@@ -196,7 +196,7 @@ Seguimiento:
     localizo_lead: { type: boolean, notnull: true, default: false }
     fecha_localizo_lead: timestamp
     intento: { type: integer(2), notnull: true }
-    status: { type: integer(1), notnull: true, default: 1 }
+    status: { type: integer(1), notnull: true, default: 0 }
     notas:          string(255)
   indexes:
     localizo_intento_idx:
