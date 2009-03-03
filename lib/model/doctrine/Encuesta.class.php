@@ -53,6 +53,7 @@ class Encuesta extends BaseEncuesta
     $seguimiento->agente_id = myUser::getCurrentId();
     $seguimiento->intento = $this->seguimiento_count + 1;
 
+    $this->last_dist_id = null;
     $dist->tally++;
 
     $conn->beginTransaction();
@@ -60,6 +61,7 @@ class Encuesta extends BaseEncuesta
     {
       Doctrine::getTable('Seguimiento')->closeForLead($this->id);
       $seguimiento->save();
+      $this->save();
       $dist->save();
 
       $conn->commit();
