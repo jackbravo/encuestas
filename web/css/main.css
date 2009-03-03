@@ -394,6 +394,10 @@ fieldset legend {
   font-weight: bold;
 }
 
+.actions a img {
+  margin-bottom: -2px;
+}
+
 /* ------------- admin -------------- */
 #sf_admin_container th {
   background-color: #dec;
