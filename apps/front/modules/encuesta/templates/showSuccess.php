@@ -41,16 +41,27 @@
   <?php } else { ?>
 
     <?php
-      if (sizeof($seguimientos) > 0) {
-        $last_seguimiento = $seguimientos[sizeof($seguimientos) - 1];
-        if (!$last_seguimiento->localizo_dist) {
+      $last_seguimiento = (sizeof($seguimientos) > 0) ? $seguimientos[sizeof($seguimientos) - 1] : false;
+
+      if ($last_seguimiento == false || (
+        ! $last_seguimiento->localizo_lead && ($last_seguimiento->intento < 2 || ! $last_seguimiento->localizo_dist)
+        ))
+        echo link_to('Solicitar nuevo distribuidor', 'seguimiento_create', array('id' => $encuesta->id));
+
+      if ($last_seguimiento)
+      {
+        if (! $last_seguimiento->localizo_dist)
           echo link_to('Se contactó al distribuidor', 'seguimiento_localizoDist', array('id' => $last_seguimiento->id));
-        } else if (!$last_seguimiento->localizo_lead) {
+
+        if ($last_seguimiento->localizo_dist && $last_seguimiento->status == 1)
+        {
           echo link_to('Se conctactó al lead', 'seguimiento_localizoLead', array('id' => $last_seguimiento->id));
+
+          if ($last_seguimiento->intento > 1)
+            echo link_to('Finalizar seguimiento', 'seguimiento_finalizar', array('id' => $last_seguimiento->id));
         }
       }
 
-      echo link_to('Solicitar nuevo distribuidor', 'seguimiento_create', array('id' => $encuesta->id));
     ?>
 
   <?php } ?>

@@ -28,6 +28,12 @@ seguimiento_create:
   options: { model: Encuesta, type: object, method: getForSeguimiento }
   param: { module: seguimiento, action: create }
 
+seguimiento_finalizar:
+  url: /seguimiento/:id/finalizar
+  class: sfDoctrineRoute
+  options: { model: Seguimiento, type: object }
+  param: { module: seguimiento, action: finalizar }
+
 seguimiento_localizoDist:
   url: /seguimiento/:id/localizoDist
   class: sfDoctrineRoute
