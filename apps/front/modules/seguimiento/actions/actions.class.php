@@ -22,12 +22,7 @@ class seguimientoActions extends sfActions
     $lead = $this->getRoute()->getObject();
     $this->forward404unless($lead->viewer_id == $this->getUser()->getId());
 
-    $dist = Doctrine::getTable('Distribuidor')->findNextDist($lead);
-    if (! $dist) {
-      throw new Exception('No se encontro distribuidor para el lead ' . $lead->id);
-    }
-
-    $seguimiento = $lead->agregarDistribuidor($dist);
+    $seguimiento = $lead->agregarDistribuidor();
 
     if ($request->isXmlHttpRequest())
     {
@@ -43,9 +38,22 @@ class seguimientoActions extends sfActions
   public function executeLocalizoDist(sfWebRequest $request)
   {
     $seguimiento = $this->getRoute()->getObject();
+    $seguimiento->status = 1;
     $seguimiento->localizo_dist = true;
     $seguimiento->fecha_localizo_dist = new Doctrine_Expression('NOW()');
-    $seguimiento->save();
+
+    $conn = $seguimiento->getTable()->getConnection();
+    $conn->beginTransaction();
+    try
+    {
+      Doctrine::getTable('Encuesta')->setLastDist($seguimiento->lead_id, $seguimiento->dist_id);
+      $seguimiento->save();
+      $conn->commit();
+    }
+    catch (Exception $e)
+    {
+      throw $e;
+    }
 
     $this->redirect('@encuesta_show?id=' . $seguimiento->lead_id);
   }
@@ -56,7 +64,19 @@ class seguimientoActions extends sfActions
     $seguimiento->status = 0;
     $seguimiento->localizo_lead = true;
     $seguimiento->fecha_localizo_lead = new Doctrine_Expression('NOW()');
-    $seguimiento->save();
+
+    $conn = $seguimiento->getTable()->getConnection();
+    $conn->beginTransaction();
+    try
+    {
+      Doctrine::getTable('Encuesta')->unsetLastDist($seguimiento->lead_id);
+      $seguimiento->save();
+      $conn->commit();
+    }
+    catch (Exception $e)
+    {
+      throw $e;
+    }
 
     $this->redirect('@encuesta_show?id=' . $seguimiento->lead_id);
   }

@@ -34,8 +34,17 @@ class Encuesta extends BaseEncuesta
     }
   }
 
-  public function agregarDistribuidor($dist)
+  /**
+   * pre: este lead necesita ser obtenido con el query EncuestaTable::getForSeguimiento
+   *   para tener la variable 'seguimiento_count' y funcionar bien
+   */
+  public function agregarDistribuidor()
   {
+    $dist = Doctrine::getTable('Distribuidor')->findNextDist($this);
+    if (! $dist) {
+      throw new Exception('No se encontro distribuidor para el lead ' . $lead->id);
+    }
+
     $conn = $this->getTable()->getConnection();
 
     $seguimiento = new Seguimiento();
@@ -44,7 +53,6 @@ class Encuesta extends BaseEncuesta
     $seguimiento->agente_id = myUser::getCurrentId();
     $seguimiento->intento = $this->seguimiento_count + 1;
 
-    $this->last_dist_id = $dist->id;
     $dist->tally++;
 
     $conn->beginTransaction();
@@ -52,7 +60,6 @@ class Encuesta extends BaseEncuesta
     {
       Doctrine::getTable('Seguimiento')->closeForLead($this->id);
       $seguimiento->save();
-      $this->save();
       $dist->save();
 
       $conn->commit();

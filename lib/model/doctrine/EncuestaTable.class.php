@@ -70,4 +70,22 @@ class EncuestaTable extends Doctrine_Table
       ->addWhere('e.viewer_id = ?', $agent_id)
       ->execute();
   }
+
+  public function setLastDist($lead_id, $dist_id)
+  {
+    $this->createQuery('l')
+      ->update()
+      ->set('last_dist_id', $dist_id)
+      ->where('l.id = ?', $lead_id)
+      ->execute();
+  }
+
+  public function unsetLastDist($lead_id)
+  {
+    $this->createQuery('l')
+      ->update()
+      ->set('last_dist_id', 'NULL')
+      ->where('l.id = ?', $lead_id)
+      ->execute();
+  }
 }

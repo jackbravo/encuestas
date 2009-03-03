@@ -7,7 +7,7 @@ class SeguimientoTable extends Doctrine_Table
   public function findForLead($lead_id)
   {
     return $this->createQuery('s')
-      ->select('s.*, a.username, d.name')
+      ->select('s.*, a.username, d.*')
       ->leftJoin('s.Agente a')
       ->leftJoin('s.Distribuidor d')
       ->addWhere('s.lead_id = ?', $lead_id)

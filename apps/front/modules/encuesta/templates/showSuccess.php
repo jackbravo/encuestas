@@ -82,8 +82,8 @@
     CP: <?php echo $encuesta->cp ?>
   </div>
 
-  <?php if ($encuesta->last_dist_id): ?>
-    <?php $dist = $encuesta->LastDist ?>
+  <?php if (sizeof($seguimientos) > 0) {
+          $dist = $seguimientos[sizeof($seguimientos) - 1]['Distribuidor']; ?>
     <div class="box">
       <h2>Distribuidor #<?php echo $dist->id ?></h2>
       <strong><?php echo $dist->name ?></strong>, <?php echo $dist->level ?><br/>
@@ -92,5 +92,5 @@
       <?php if ($dist->contact2) echo '<strong>Contacto 2: </strong>' . $dist->contact2 . '<br/>' ?>
       <?php if ($dist->contact3) echo '<strong>Contacto 3: </strong>' . $dist->contact3 . '<br/>' ?>
     </div>
-  <?php endif; ?>
+  <?php } ?>
 </div> <!-- /grid_4 -->
