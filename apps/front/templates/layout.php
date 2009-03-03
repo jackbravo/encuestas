@@ -38,7 +38,7 @@ $('#ajax-loader').ajaxStart(function(){
       $links = array(
         'encuesta' => array('label' => 'Encuestas'),
         'leads' => array('label' => 'Leads sin distribuidor'),
-        '@seguimiento' => array('label' => 'Seguimiento'),
+        'seguimiento' => array('label' => 'Seguimiento'),
         'sf_guard_user' => array('label' => 'Usuarios', 'perm' => 'admin'),
       );
 

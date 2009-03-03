@@ -19,7 +19,7 @@ distribuidor:
     collection_actions: { filter: post }
 
 seguimiento:
-  url: /segumiento
+  url: /seguimiento
   param: { module: seguimiento, action: index }
 
 seguimiento_create:
