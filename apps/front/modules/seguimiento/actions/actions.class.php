@@ -73,19 +73,7 @@ class seguimientoActions extends sfActions
     $seguimiento->status = 0;
     $seguimiento->localizo_lead = true;
     $seguimiento->fecha_localizo_lead = new Doctrine_Expression('NOW()');
-
-    $conn = $seguimiento->getTable()->getConnection();
-    $conn->beginTransaction();
-    try
-    {
-      Doctrine::getTable('Encuesta')->unsetLastDist($seguimiento->lead_id);
-      $seguimiento->save();
-      $conn->commit();
-    }
-    catch (Exception $e)
-    {
-      throw $e;
-    }
+    $seguimiento->save();
 
     $this->redirect('@encuesta_show?id=' . $seguimiento->lead_id);
   }
