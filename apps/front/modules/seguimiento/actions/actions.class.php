@@ -20,9 +20,18 @@ class seguimientoActions extends sfActions
   public function executeCreate(sfWebRequest $request)
   {
     $lead = $this->getRoute()->getObject();
-    $this->forward404unless($lead->viewer_id == $this->getUser()->getId());
+    if ($lead->viewer_id != $this->getUser()->getId()) {
+      $this->getUser()->setFlash('notice', 'Este lead está siendo editado por otro usuario');
+      $this->redirect('@encuesta_show?id=' . $lead->id);
+    }
 
-    $seguimiento = $lead->agregarDistribuidor();
+    $dist = Doctrine::getTable('Distribuidor')->findNextDist($lead);
+    if (! $dist) {
+      $this->getUser()->setFlash('notice', 'No se encontro distribuidor para el lead ' . $lead->id);
+      $this->redirect('@encuesta_show?id=' . $lead->id);
+    }
+
+    $seguimiento = $lead->agregarDistribuidor($dist);
 
     if ($request->isXmlHttpRequest())
     {

@@ -38,13 +38,8 @@ class Encuesta extends BaseEncuesta
    * pre: este lead necesita ser obtenido con el query EncuestaTable::getForSeguimiento
    *   para tener la variable 'seguimiento_count' y funcionar bien
    */
-  public function agregarDistribuidor()
+  public function agregarDistribuidor($dist)
   {
-    $dist = Doctrine::getTable('Distribuidor')->findNextDist($this);
-    if (! $dist) {
-      throw new Exception('No se encontro distribuidor para el lead ' . $lead->id);
-    }
-
     $conn = $this->getTable()->getConnection();
 
     $seguimiento = new Seguimiento();
