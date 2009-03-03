@@ -18,12 +18,9 @@
   </div>
 
   <div class="grid_4">
-  <?php echo $form['rfc']->renderRow() ?>
-  </div>
-  <div class="grid_8">
   <?php echo $form['edad']->renderRow() ?>
   </div>
-  <div class="grid_12">
+  <div class="grid_8">
   <?php echo $form['genero']->renderRow() ?>
   </div>
 </fieldset>

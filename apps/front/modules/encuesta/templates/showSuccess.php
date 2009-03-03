@@ -70,7 +70,6 @@
       <li><?php echo $horario ?></li>
     <?php endforeach; ?>
     </ul>
-    <?php if ($encuesta->rfc) echo '<strong>RFC: </strong>' . $encuesta->rfc . '<br/>' ?>
     <?php if ($encuesta->edad) echo '<strong>Edad: </strong>' . $encuesta->edad . ' años<br/>' ?>
     <?php if ($encuesta->genero) echo '<strong>Genero: </strong>' . $encuesta->printGenero() . '<br/>' ?>
 

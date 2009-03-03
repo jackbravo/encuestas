@@ -13,12 +13,11 @@ Encuesta:
     nombre:         { type: string(255), notnull: true }
     apellido_p:     { type: string(255), notnull: true }
     apellido_m:     { type: string(255), notnull: true }
-    rfc:            string(50)
     edad:           { type: integer(4), notnull: true }
     genero:         { type: string(1), notnull: true }
     telefono:       { type: string(50), notnull: true }
     celular:        string(50)
-    email:          string(255)
+    email:          string(50)
 
     # direccion
     estado_id:      { type: integer(4), notnull: true }
@@ -28,6 +27,7 @@ Encuesta:
     calle:          { type: string(50), notnull: true }
     numero:         { type: string(50), notnull: true }
     cp:             { type: integer(4), notnull: true }
+    notas:          { type: string(255), notnull: true, default: "" }
   relations:
     Agente:
       class:        sfGuardUser
