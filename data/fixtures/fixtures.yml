@@ -21,6 +21,7 @@ Encuesta:
     cp: 45070
   e2:
     Agente: usuario
+    LastDist: d2
     nombre: Fulanito
     apellido_p: de Tal
     apellido_m: González
