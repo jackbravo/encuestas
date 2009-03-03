@@ -75,10 +75,9 @@
 
     <strong>Dirección:</strong><br/>
     <?php echo $encuesta->calle . ' ' . $encuesta->numero . ' Col. ' . $encuesta->colonia ?><br/>
-    <?php echo $encuesta->municipio ?>,
-    <?php echo $encuesta->Estado ?>
-    (en la ciudad de <?php echo $encuesta->ciudad ?>)<br/>
-    CP: <?php echo $encuesta->cp ?><br/>
+    <?php echo $encuesta->ciudad ?>,
+    <?php echo $encuesta->Estado ?> - 
+    CP <?php echo $encuesta->cp ?><br/>
     <strong>Notas:</strong><br/>
     <?php echo $encuesta->notas ?>
   </div>

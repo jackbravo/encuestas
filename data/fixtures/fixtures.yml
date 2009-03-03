@@ -14,7 +14,6 @@ Encuesta:
     telefono: 3837-3832
     Estado: edo1
     ciudad: Guadalajara
-    municipio: Zapopan
     colonia: Arboledas
     calle: Galileo Galilei
     numero: 3829-1A
@@ -30,7 +29,6 @@ Encuesta:
     telefono: 3337-3932
     Estado: edo2
     ciudad: Guadalajara
-    municipio: Zapopan
     colonia: Arboledas
     calle: Galileo Galilei
     numero: 1829-1A
@@ -48,7 +46,6 @@ Encuesta:
     email: alvaro@mail.com
     Estado: edo2
     ciudad: Guadalajara
-    municipio: Zapopan
     colonia: Arboledas
     calle: 'Galileo Galilei'
     numero: 3829-1A

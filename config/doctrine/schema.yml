@@ -22,7 +22,6 @@ Encuesta:
     # direccion
     estado_id:      { type: integer(4), notnull: true }
     ciudad:         { type: string(50), notnull: true }
-    municipio:      { type: string(50), notnull: true }
     colonia:        { type: string(50), notnull: true }
     calle:          { type: string(50), notnull: true }
     numero:         { type: string(50), notnull: true }

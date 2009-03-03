@@ -22,7 +22,6 @@ abstract class BaseEncuesta extends sfDoctrineRecord
         $this->hasColumn('email', 'string', 50, array('type' => 'string', 'length' => '50'));
         $this->hasColumn('estado_id', 'integer', 4, array('type' => 'integer', 'notnull' => true, 'length' => '4'));
         $this->hasColumn('ciudad', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
-        $this->hasColumn('municipio', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
         $this->hasColumn('colonia', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
         $this->hasColumn('calle', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
         $this->hasColumn('numero', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));

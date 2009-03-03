@@ -41,13 +41,9 @@
   <?php echo $form['ciudad']->renderRow() ?>
   </div>
   <div class="grid_4">
-  <?php echo $form['municipio']->renderRow() ?>
-  </div>
-  <div class="grid_4">
   <?php echo $form['estado_id']->renderRow() ?>
   </div>
-
-  <div class="grid_12">
+  <div class="grid_4">
   <?php echo $form['cp']->renderRow() ?>
   </div>
 </fieldset>
