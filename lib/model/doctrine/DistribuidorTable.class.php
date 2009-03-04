@@ -31,4 +31,12 @@ class DistribuidorTable extends Doctrine_Table
       ->addOrderBy("$alias.performance desc")
     ;
   }
+
+  public function getForShow($params)
+  {
+    return $this->createQuery('d')
+      ->leftJoin('d.Encuestas e')
+      ->addWhere('d.id = ?', $params['id'])
+      ->fetchOne();
+  }
 }
