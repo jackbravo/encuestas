@@ -8,6 +8,7 @@ class DistribuidorTable extends Doctrine_Table
   {
     $q = $this->createQuery('d')
       ->addWhere('d.city = ?', $lead->ciudad)
+      ->addWhere('d.state = ?', $lead->Estado->nombre)
       ->limit(1);
 
     $dist = $this->orderDistQuery($q)->fetchOne();
