@@ -17,5 +17,10 @@ class SeguimientoForm extends BaseSeguimientoForm
       $this['fecha_localizo_dist'], $this['fecha_localizo_lead']);
 
     $this->widgetSchema['notas'] = new sfWidgetFormTextarea();
+
+    $this->widgetSchema->setLabels(array(
+      'localizo_dist' => '¿Localizó al distribuidor?',
+      'localizo_lead' => '¿Localizó al lead?',
+    ));
   }
 }
