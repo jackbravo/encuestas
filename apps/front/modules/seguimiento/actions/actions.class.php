@@ -47,22 +47,8 @@ class seguimientoActions extends sfActions
   public function executeLocalizoDist(sfWebRequest $request)
   {
     $seguimiento = $this->getRoute()->getObject();
-    $seguimiento->status = 1;
     $seguimiento->localizo_dist = true;
-    $seguimiento->fecha_localizo_dist = new Doctrine_Expression('NOW()');
-
-    $conn = $seguimiento->getTable()->getConnection();
-    $conn->beginTransaction();
-    try
-    {
-      Doctrine::getTable('Encuesta')->setLastDist($seguimiento->lead_id, $seguimiento->distribuidor_id);
-      $seguimiento->save();
-      $conn->commit();
-    }
-    catch (Exception $e)
-    {
-      throw $e;
-    }
+    $seguimiento->save();
 
     $this->redirect('@encuesta_show?id=' . $seguimiento->lead_id);
   }
@@ -70,14 +56,15 @@ class seguimientoActions extends sfActions
   public function executeLocalizoLead(sfWebRequest $request)
   {
     $seguimiento = $this->getRoute()->getObject();
-    $seguimiento->status = 0;
     $seguimiento->localizo_lead = true;
-    $seguimiento->fecha_localizo_lead = new Doctrine_Expression('NOW()');
     $seguimiento->save();
 
     $this->redirect('@encuesta_show?id=' . $seguimiento->lead_id);
   }
 
+  /**
+   * esto se ejecuta para que aunque SIN HABER LOCALIZADO AL LEAD se finalize el seguimiento
+   */
   public function executeFinalizar(sfWebRequest $request)
   {
     $seguimiento = $this->getRoute()->getObject();
