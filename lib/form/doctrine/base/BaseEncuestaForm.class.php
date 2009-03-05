@@ -13,9 +13,9 @@ class BaseEncuestaForm extends BaseFormDoctrine
   {
     $this->setWidgets(array(
       'id'                     => new sfWidgetFormInputHidden(),
-      'agente_id'              => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
-      'viewer_id'              => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
-      'last_dist_id'           => new sfWidgetFormDoctrineChoice(array('model' => 'Distribuidor', 'add_empty' => true)),
+      'agente_id'              => new sfWidgetFormDoctrineSelect(array('model' => 'sfGuardUser', 'add_empty' => true)),
+      'viewer_id'              => new sfWidgetFormDoctrineSelect(array('model' => 'sfGuardUser', 'add_empty' => true)),
+      'last_dist_id'           => new sfWidgetFormDoctrineSelect(array('model' => 'Distribuidor', 'add_empty' => true)),
       'nombre'                 => new sfWidgetFormInput(),
       'apellido_p'             => new sfWidgetFormInput(),
       'apellido_m'             => new sfWidgetFormInput(),
@@ -24,7 +24,7 @@ class BaseEncuestaForm extends BaseFormDoctrine
       'telefono'               => new sfWidgetFormInput(),
       'celular'                => new sfWidgetFormInput(),
       'email'                  => new sfWidgetFormInput(),
-      'estado_id'              => new sfWidgetFormDoctrineChoice(array('model' => 'Estado', 'add_empty' => false)),
+      'estado_id'              => new sfWidgetFormDoctrineSelect(array('model' => 'Estado', 'add_empty' => false)),
       'ciudad'                 => new sfWidgetFormInput(),
       'colonia'                => new sfWidgetFormInput(),
       'calle'                  => new sfWidgetFormInput(),
