@@ -23,11 +23,11 @@
       </trans-unit>
       <trans-unit>
         <source>Save</source>
-        <target>Guardar</target>
+        <target>Enviar</target>
       </trans-unit>
       <trans-unit>
         <source>Save and add</source>
-        <target>Guardar y agregar otro</target>
+        <target>Enviar y agregar otro</target>
       </trans-unit>
       <trans-unit>
         <source>Cancel</source>

@@ -12,6 +12,6 @@
 
 &nbsp;<a href="<?php echo url_for('encuesta_show', array('id' => $form->getObject()->lead_id)) ?>">Cancelar</a>
 &nbsp;<?php echo link_to('Borrar', 'seguimiento_delete', $form->getObject(), array('method' => 'delete', 'confirm' => '¿Estás seguro?')) ?>
-&nbsp;<input type="submit" value="Guardar" />
+&nbsp;<input type="submit" value="Enviar" />
 
 </form>

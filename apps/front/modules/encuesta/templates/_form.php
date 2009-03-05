@@ -79,5 +79,5 @@
   <?php if (!$form->getObject()->isNew()): ?>
     &nbsp;<?php echo link_to('Borrar', 'encuesta_delete', $form->getObject(), array('method' => 'delete', 'confirm' => '¿Estás seguro?')) ?>
   <?php endif; ?>
-  <input type="submit" value="Guardar" />
+  <input type="submit" value="Enviar" />
 </form>
