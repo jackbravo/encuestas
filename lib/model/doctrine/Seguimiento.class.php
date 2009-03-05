@@ -9,7 +9,7 @@ class Seguimiento extends BaseSeguimiento
   {
     $modified = $this->getModified();
 
-    if (array_key_exists('localizo_dist', $modified))
+    if (array_key_exists('localizo_dist', $modified) && php_sapi_name() != 'cli')
     {
       if ($this->localizo_dist) {
         Doctrine::getTable('Encuesta')->setLastDist($this->lead_id, $this->distribuidor_id);
