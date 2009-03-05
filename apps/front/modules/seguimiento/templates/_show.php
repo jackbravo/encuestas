@@ -8,12 +8,14 @@
     <ol>
       <li>
         ¿Se contactó al distribuidor?
-        <?php echo $seguimiento->localizo_dist ? '<strong>Sí</strong> <small>' . $seguimiento->fecha_localizo_dist . '</small>': 'No' ?>
+        <?php if ($seguimiento->localizo_dist !== null)
+                echo $seguimiento->localizo_dist ? '<strong>Sí</strong> <small>' . $seguimiento->fecha_localizo_dist . '</small>': '<strong>No</strong>' ?>
       </li>
       <?php if ($seguimiento->localizo_dist): ?>
       <li>
         ¿Se contactó al lead?
-        <?php echo $seguimiento->localizo_lead ? '<strong>Sí</strong> <small>' . $seguimiento->fecha_localizo_lead . '</small>': 'No' ?>
+        <?php if ($seguimiento->localizo_lead !== null)
+                echo $seguimiento->localizo_lead ? '<strong>Sí</strong> <small>' . $seguimiento->fecha_localizo_lead . '</small>': '<strong>No</strong>' ?>
       </li>
       <?php endif; ?>
     </ol>

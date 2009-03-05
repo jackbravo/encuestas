@@ -47,18 +47,33 @@ class seguimientoActions extends sfActions
   public function executeLocalizoDist(sfWebRequest $request)
   {
     $seguimiento = $this->getRoute()->getObject();
-    $seguimiento->localizo_dist = true;
+
+    if ($request->hasParameter('_no'))
+      $seguimiento->localizo_dist = false;
+    else
+      $seguimiento->localizo_dist = true;
+
     $seguimiento->save();
 
+    if ($seguimiento->localizo_dist && $seguimiento->intento <= 2)
+      $this->getUser()->setFlash('notice', "Ahora puede esperar el periodo para la vuelta $seguimiento->intento");
     $this->redirect('@encuesta_show?id=' . $seguimiento->lead_id);
   }
 
   public function executeLocalizoLead(sfWebRequest $request)
   {
     $seguimiento = $this->getRoute()->getObject();
-    $seguimiento->localizo_lead = true;
+
+    if ($request->hasParameter('_no'))
+      $seguimiento->localizo_lead = false;
+    else
+      $seguimiento->localizo_lead = true;
+
     $seguimiento->save();
 
+    if ($seguimiento->localizo_lead === true ||
+        $seguimiento->localizo_lead === false && $seguimiento->intento == 2)
+      $this->getUser()->setFlash('notice', "El seguimiento ha terminado");
     $this->redirect('@encuesta_show?id=' . $seguimiento->lead_id);
   }
 

@@ -41,32 +41,36 @@
   <?php } else { ?>
 
     <?php
-      $last_seguimiento = (sizeof($seguimientos) > 0) ? $seguimientos[sizeof($seguimientos) - 1] : false;
+      $last_segui = (sizeof($seguimientos) > 0) ? $seguimientos[sizeof($seguimientos) - 1] : false;
 
-      if ($last_seguimiento)
+      if ($last_segui)
       {
         $yes = image_tag('/sf/sf_admin/images/save.png');
         $no = image_tag('/sf/sf_admin/images/cancel.png');
-        if (! $last_seguimiento->localizo_dist)
-          echo link_to("$yes Se contactó al distribuidor", 'seguimiento_localizoDist', array('id' => $last_seguimiento->id));
-
-        if ($last_seguimiento->localizo_dist && $last_seguimiento->status == 1)
-        {
-          echo link_to("$yes Se conctactó al lead", 'seguimiento_localizoLead', array('id' => $last_seguimiento->id));
-
-          if ($last_seguimiento->intento > 1)
-            echo link_to("$no Finalizar seguimiento", 'seguimiento_finalizar', array('id' => $last_seguimiento->id));
+        if ($last_segui->localizo_dist === null) {
+          echo link_to("$yes Sí", 'seguimiento_localizoDist', array('id' => $last_segui->id));
+          echo link_to("$no No", 'seguimiento_localizoDist', array('id' => $last_segui->id, '_no' => ''));
         }
 
-        $editar = image_tag('/sf/sf_admin/images/edit.png');
-        echo link_to("$editar Editar", 'seguimiento_edit', array('id' => $last_seguimiento->id));
+        if ($last_segui->localizo_dist && $last_segui->localizo_lead === null && $last_segui->status == 1)
+        {
+          echo link_to("$yes Sí", 'seguimiento_localizoLead', array('id' => $last_segui->id));
+          echo link_to("$no No", 'seguimiento_localizoLead', array('id' => $last_segui->id, '_no' => ''));
+        }
       }
 
-      if ($last_seguimiento == false || (
-        ! $last_seguimiento->localizo_lead && ($last_seguimiento->intento < 2 || ! $last_seguimiento->localizo_dist)
-        )) {
+      if ( $last_segui == false ||
+           ( $last_segui->localizo_dist === false ) ||
+           ( $last_segui->localizo_lead === false && $last_segui->intento < 2 )
+        ) {
         $new = image_tag('/sf/sf_admin/images/default_icon.png');
         echo link_to("$new Solicitar nuevo distribuidor", 'seguimiento_createForLead', array('id' => $encuesta->id));
+      }
+
+      if ($last_segui)
+      {
+        $editar = image_tag('/sf/sf_admin/images/edit.png');
+        echo link_to("$editar Editar", 'seguimiento_edit', array('id' => $last_segui->id));
       }
 
     ?>

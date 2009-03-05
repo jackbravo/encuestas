@@ -12,9 +12,9 @@ abstract class BaseSeguimiento extends sfDoctrineRecord
         $this->hasColumn('distribuidor_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('lead_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('agente_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
-        $this->hasColumn('localizo_dist', 'boolean', null, array('type' => 'boolean', 'notnull' => true, 'default' => false));
+        $this->hasColumn('localizo_dist', 'boolean', null, array('type' => 'boolean'));
         $this->hasColumn('fecha_localizo_dist', 'timestamp', null, array('type' => 'timestamp'));
-        $this->hasColumn('localizo_lead', 'boolean', null, array('type' => 'boolean', 'notnull' => true, 'default' => false));
+        $this->hasColumn('localizo_lead', 'boolean', null, array('type' => 'boolean'));
         $this->hasColumn('fecha_localizo_lead', 'timestamp', null, array('type' => 'timestamp'));
         $this->hasColumn('intento', 'integer', 2, array('type' => 'integer', 'notnull' => true, 'length' => '2'));
         $this->hasColumn('status', 'integer', 1, array('type' => 'integer', 'notnull' => true, 'default' => 0, 'length' => '1'));

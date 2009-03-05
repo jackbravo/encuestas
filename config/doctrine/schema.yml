@@ -190,9 +190,9 @@ Seguimiento:
     distribuidor_id: integer(4)
     lead_id:        integer(4)
     agente_id:      integer(4)
-    localizo_dist: { type: boolean, notnull: true, default: false }
+    localizo_dist:  boolean
     fecha_localizo_dist: timestamp
-    localizo_lead: { type: boolean, notnull: true, default: false }
+    localizo_lead:  boolean
     fecha_localizo_lead: timestamp
     intento: { type: integer(2), notnull: true }
     status: { type: integer(1), notnull: true, default: 0 }
