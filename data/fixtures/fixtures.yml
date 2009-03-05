@@ -1,6 +1,68 @@
 Estado:
-  edo1: { nombre: DF }
-  edo2: { nombre: Jalisco }
+  Estado_1:
+    nombre: AGUASCALIENTES
+  Estado_2:
+    nombre: 'BAJA CALIFORNIA NORTE'
+  Estado_3:
+    nombre: 'BAJA CALIFORNIA SUR'
+  Estado_4:
+    nombre: CAMPECHE
+  Estado_5:
+    nombre: CHIAPAS
+  Estado_6:
+    nombre: CHIHUAHUA
+  Estado_7:
+    nombre: COAHUILA
+  Estado_8:
+    nombre: COLIMA
+  Estado_9:
+    nombre: DF
+  Estado_10:
+    nombre: DURANGO
+  Estado_11:
+    nombre: GUANAJUATO
+  Estado_12:
+    nombre: GUERRERO
+  Estado_13:
+    nombre: HIDALGO
+  Estado_14:
+    nombre: JALISCO
+  Estado_15:
+    nombre: MÉXICO
+  Estado_16:
+    nombre: MICHOACAN
+  Estado_17:
+    nombre: MORELOS
+  Estado_18:
+    nombre: NAYARIT
+  Estado_19:
+    nombre: 'NUEVO LEON'
+  Estado_20:
+    nombre: OAXACA
+  Estado_21:
+    nombre: PUEBLA
+  Estado_22:
+    nombre: QUERETARO
+  Estado_23:
+    nombre: 'QUINTANA ROO'
+  Estado_24:
+    nombre: 'SAN LUIS POTOSI'
+  Estado_25:
+    nombre: SINALOA
+  Estado_26:
+    nombre: SONORA
+  Estado_27:
+    nombre: TABASCO
+  Estado_28:
+    nombre: TAMAULIPAS
+  Estado_29:
+    nombre: TLAXCALA
+  Estado_30:
+    nombre: VERACRUZ
+  Estado_31:
+    nombre: YUCATAN
+  Estado_32:
+    nombre: ZACATECAS
 
 Encuesta:
   e1:
@@ -12,7 +74,7 @@ Encuesta:
     edad: 28
     genero: f
     telefono: 3837-3832
-    Estado: edo1
+    Estado: Estado_1
     ciudad: Guadalajara
     colonia: Arboledas
     calle: Galileo Galilei
@@ -27,7 +89,7 @@ Encuesta:
     edad: 28
     genero: m
     telefono: 3337-3932
-    Estado: edo2
+    Estado: Estado_14
     ciudad: Guadalajara
     colonia: Arboledas
     calle: Galileo Galilei
@@ -44,7 +106,7 @@ Encuesta:
     telefono: '383283'
     celular: '383829383'
     email: alvaro@mail.com
-    Estado: edo2
+    Estado: Estado_14
     ciudad: Guadalajara
     colonia: Arboledas
     calle: 'Galileo Galilei'
