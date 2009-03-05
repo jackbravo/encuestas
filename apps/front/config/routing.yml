@@ -34,7 +34,7 @@ seguimiento:
 # default rules
 homepage:
   url:   /
-  param: { module: encuesta, action: index }
+  param: { module: leads, action: index }
 
 default_index:
   url:   /:module

@@ -75,7 +75,7 @@
   </div>
 </fieldset>
 
-  &nbsp;<a href="<?php echo url_for('encuesta') ?>">Cancel</a>
+  &nbsp;<a href="<?php echo url_for('@homepage') ?>">Cancelar</a>
   <?php if (!$form->getObject()->isNew()): ?>
     &nbsp;<?php echo link_to('Borrar', 'encuesta_delete', $form->getObject(), array('method' => 'delete', 'confirm' => '¿Estás seguro?')) ?>
   <?php endif; ?>

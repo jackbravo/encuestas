@@ -36,7 +36,8 @@ $('#ajax-loader').ajaxStart(function(){
     <ul>
     <?php
       $links = array(
-        'encuesta' => array('label' => 'Encuestas'),
+        'encuesta_new' => array('label' => 'Nueva Encuesta'),
+        'encuesta' => array('label' => 'Encuestas', 'perm' => 'admin'),
         'leads' => array('label' => 'Leads sin distribuidor'),
         'seguimiento' => array('label' => 'Seguimiento'),
       );
