@@ -5,7 +5,7 @@
     <small><?php echo $seguimiento['created_at'] ?></small>
   </p>
   <blockquote>
-    <ul>
+    <ol>
       <li>
         ¿Se contactó al distribuidor?
         <?php echo $seguimiento->localizo_dist ? '<strong>Sí</strong> <small>' . $seguimiento->fecha_localizo_dist . '</small>': 'No' ?>
@@ -16,7 +16,7 @@
         <?php echo $seguimiento->localizo_lead ? '<strong>Sí</strong> <small>' . $seguimiento->fecha_localizo_lead . '</small>': 'No' ?>
       </li>
       <?php endif; ?>
-    </ul>
+    </ol>
   </blockquote>
   <?php echo simple_format_text($seguimiento['notas']) ?>
 </div>
