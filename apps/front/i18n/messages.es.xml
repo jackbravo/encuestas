@@ -129,6 +129,10 @@
         <source>The item was deleted successfully.</source>
         <target>El elemento se borró correctamente.</target>
       </trans-unit>
+      <trans-unit>
+        <source>Required.</source>
+        <target>Requerido.</target>
+      </trans-unit>
 
       <!-- sfGuardAuth -->
       <trans-unit>
