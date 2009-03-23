@@ -8,6 +8,7 @@ Encuesta:
     agente_id: integer(4)
     viewer_id:      integer(4)
     last_dist_id:   integer(4)
+    origen_datos:   integer(1)
 
     # datos
     nombre:         { type: string(255), notnull: true }
