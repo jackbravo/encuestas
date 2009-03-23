@@ -25,6 +25,8 @@ class EncuestaForm extends BaseEncuestaForm
       'medios_contacto_list' => '¿Cómo se enteró de este número?',
     ));
 
+    $this->widgetSchema['estado_id']->setOption('add_empty', true);
+
     $this->widgetSchema['notas'] = new sfWidgetFormTextarea(array(), array(
       'rows' => '5', 'cols' => '50'
     ));
