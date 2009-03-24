@@ -80,6 +80,7 @@ Encuesta:
     calle: Galileo Galilei
     numero: 3829-1A
     cp: 45070
+    origen_datos: 1
   e2:
     Agente: usuario
     LastDist: d2
@@ -95,6 +96,7 @@ Encuesta:
     calle: Galileo Galilei
     numero: 1829-1A
     cp: 45070
+    origen_datos: 1
   e3:
     Agente: usuario
     LastDist: d3
@@ -112,6 +114,7 @@ Encuesta:
     calle: 'Galileo Galilei'
     numero: 3829-1A
     cp: '45070'
+    origen_datos: 1
   e4:
     Agente: usuario
     nombre: Cesar
@@ -128,6 +131,7 @@ Encuesta:
     calle: 'Tezozomoc'
     numero: 3289
     cp: '45070'
+    origen_datos: 2
 
 Horario:
   h1:

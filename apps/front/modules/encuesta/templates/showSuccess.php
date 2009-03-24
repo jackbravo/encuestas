@@ -13,6 +13,8 @@
 
   <hr />
 
+  <p>Encuestado por <strong><?php echo $encuesta->printOrigenDatos() ?></strong></p>
+  
   <strong>Áreas de interes</strong>
   <ul>
   <?php foreach ($encuesta->AreasInteres as $area): ?>
@@ -26,7 +28,7 @@
     <li><?php echo $producto ?></li>
   <?php endforeach; ?>
   </ul>
-  
+
   <hr />
 
   <div class="historial">

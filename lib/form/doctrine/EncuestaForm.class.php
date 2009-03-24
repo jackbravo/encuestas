@@ -14,17 +14,6 @@ class EncuestaForm extends BaseEncuestaForm
     unset($this['agente_id'], $this['created_at'], $this['updated_at'],
       $this['viewer_id'], $this['last_dist_id'], $this['distribuidores_list']);
 
-    $this->widgetSchema->setLabels(array(
-      'apellido_p' => 'Apellido Paterno',
-      'apellido_m' => 'Apellido Materno',
-      'estado_id' => 'Estado',
-      'ciudad' => 'Ciudad o población',
-      'horarios_list' => 'Mejor horario para contactarle',
-      'areas_interes_list' => '¿A usted le gustaría..?',
-      'productos_interes_list' => '¿En qué productos está interesado?',
-      'medios_contacto_list' => '¿Cómo se enteró de este número?',
-    ));
-
     $this->widgetSchema['estado_id']->setOption('add_empty', true);
 
     $this->widgetSchema['notas'] = new sfWidgetFormTextarea(array(), array(
@@ -38,6 +27,13 @@ class EncuestaForm extends BaseEncuestaForm
     $this->validatorSchema['genero'] = new sfValidatorChoice(array(
       'choices' => array('m', 'f'),
     ));
+    $this->widgetSchema['origen_datos'] = new sfWidgetFormChoice(array(
+      'choices' => array('1' => 'teléfono', '2' => 'email'),
+      'expanded' => true,
+    ));
+    $this->validatorSchema['origen_datos'] = new sfValidatorChoice(array(
+      'choices' => array('1', '2'),
+    ));
 
     $this->widgetSchema['horarios_list']->setOption('expanded', true);
     $this->widgetSchema['areas_interes_list']->setOption('expanded', true);
@@ -50,5 +46,17 @@ class EncuestaForm extends BaseEncuestaForm
     $this->validatorSchema['areas_interes_list']->setOption('required', true);
     $this->validatorSchema['productos_interes_list']->setOption('required', true);
     $this->validatorSchema['medios_contacto_list']->setOption('required', true);
+
+    $this->widgetSchema->setLabels(array(
+      'apellido_p' => 'Apellido Paterno',
+      'apellido_m' => 'Apellido Materno',
+      'estado_id' => 'Estado',
+      'ciudad' => 'Ciudad o población',
+      'horarios_list' => 'Mejor horario para contactarle',
+      'areas_interes_list' => '¿A usted le gustaría..?',
+      'productos_interes_list' => '¿En qué productos está interesado?',
+      'medios_contacto_list' => '¿Cómo se enteró de este número?',
+      'origen_datos' => 'Origen de los datos',
+    ));
   }
 }

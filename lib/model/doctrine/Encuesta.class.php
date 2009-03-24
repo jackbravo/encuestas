@@ -23,6 +23,15 @@ class Encuesta extends BaseEncuesta
     }
   }
 
+  public function printOrigenDatos()
+  {
+    switch ($this->origen_datos) {
+      case '1': return 'teléfono'; break;
+      case '2': return 'email'; break;
+      default: return '';
+    }
+  }
+
   public function lock($user_id)
   {
     if (! is_numeric($this->viewer_id)) {
