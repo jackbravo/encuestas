@@ -16,7 +16,7 @@ CREATE TABLE sf_guard_user_group (user_id INT, group_id INT, created_at DATETIME
 CREATE TABLE sf_guard_user (id INT AUTO_INCREMENT, username VARCHAR(128) NOT NULL UNIQUE, algorithm VARCHAR(128) DEFAULT 'sha1' NOT NULL, salt VARCHAR(128), password VARCHAR(128), is_active TINYINT(1) DEFAULT '1', is_super_admin TINYINT(1) DEFAULT '0', last_login DATETIME, created_at DATETIME, updated_at DATETIME, INDEX is_active_idx_idx (is_active), PRIMARY KEY(id)) ENGINE = INNODB;
 CREATE TABLE sf_guard_user_permission (user_id INT, permission_id INT, created_at DATETIME, updated_at DATETIME, PRIMARY KEY(user_id, permission_id)) ENGINE = INNODB;
 CREATE TABLE estado (id INT AUTO_INCREMENT, nombre VARCHAR(255) NOT NULL, PRIMARY KEY(id)) ENGINE = INNODB;
-CREATE TABLE horario (id INT AUTO_INCREMENT, descripcion VARCHAR(255), PRIMARY KEY(id)) ENGINE = INNODB;
+CREATE TABLE horario (id INT AUTO_INCREMENT, descripcion VARCHAR(255), rango VARCHAR(10), PRIMARY KEY(id)) ENGINE = INNODB;
 ALTER TABLE encuesta_horario ADD FOREIGN KEY (horario_id) REFERENCES horario(id) ON DELETE CASCADE;
 ALTER TABLE encuesta_horario ADD FOREIGN KEY (encuesta_id) REFERENCES encuesta(id) ON DELETE CASCADE;
 ALTER TABLE encuesta_area_interes ADD FOREIGN KEY (encuesta_id) REFERENCES encuesta(id) ON DELETE CASCADE;

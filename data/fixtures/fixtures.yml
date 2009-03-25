@@ -82,6 +82,7 @@ Encuesta:
     numero: 3829-1A
     cp: 45070
     origen_datos: 1
+    Horarios: [h1]
   e2:
     Agente: usuario
     LastDist: d2
@@ -99,6 +100,7 @@ Encuesta:
     numero: 1829-1A
     cp: 45070
     origen_datos: 1
+    Horarios: [h2,h3]
   e3:
     Agente: usuario
     LastDist: d3
@@ -119,6 +121,7 @@ Encuesta:
     numero: 3829-1A
     cp: '45070'
     origen_datos: 1
+    Horarios: [h5]
   e4:
     Agente: usuario
     nombre: Cesar
@@ -139,18 +142,27 @@ Encuesta:
     numero: 3289
     cp: '45070'
     origen_datos: 2
+    Horarios: [h1,h2,h3]
 
 Horario:
   h1:
-    descripcion: Temprano en la mañana (8 - 10 a.m.)
+    descripcion: Temprano en la mañana (8 a.m. - 10 a.m.)
+    rango: 8..10
   h2:
-    descripcion: Medio dia (12 - 2 p.m.)
+    descripcion: Media mañana (10 a.m. - 12 p.m.)
+    rango: 10..12
   h3:
-    descripcion: Temprano por la tarde (2 - 5 p.m.)
+    descripcion: Medio dia (12 p.m. - 2 p.m.)
+    rango: 12..14
   h4:
-    descripcion: Temprano por la noche (5 - 8 p.m.)
+    descripcion: Temprano en la tarde (2 - 5 p.m.)
+    rango: 14..17
   h5:
-    descripcion: Por la noche (8 - 10 p.m.)
+    descripcion: Temprano en la noche (5 - 8 p.m.)
+    rango: 17..20
+  h6:
+    descripcion: Tarde en la noche (8 - 10 p.m.)
+    rango: 20..22
 
 AreaInteres:
   ai1:

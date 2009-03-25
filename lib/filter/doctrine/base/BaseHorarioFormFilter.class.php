@@ -15,11 +15,13 @@ class BaseHorarioFormFilter extends BaseFormFilterDoctrine
   {
     $this->setWidgets(array(
       'descripcion'    => new sfWidgetFormFilterInput(),
+      'rango'          => new sfWidgetFormFilterInput(),
       'encuestas_list' => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Encuesta')),
     ));
 
     $this->setValidators(array(
       'descripcion'    => new sfValidatorPass(array('required' => false)),
+      'rango'          => new sfValidatorPass(array('required' => false)),
       'encuestas_list' => new sfValidatorDoctrineChoiceMany(array('model' => 'Encuesta', 'required' => false)),
     ));
 
@@ -56,6 +58,7 @@ class BaseHorarioFormFilter extends BaseFormFilterDoctrine
     return array(
       'id'             => 'Number',
       'descripcion'    => 'Text',
+      'rango'          => 'Text',
       'encuestas_list' => 'ManyKey',
     );
   }

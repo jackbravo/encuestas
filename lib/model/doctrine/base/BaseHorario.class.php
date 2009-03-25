@@ -10,6 +10,7 @@ abstract class BaseHorario extends sfDoctrineRecord
         $this->setTableName('horario');
         $this->hasColumn('id', 'integer', 4, array('type' => 'integer', 'primary' => true, 'autoincrement' => true, 'length' => '4'));
         $this->hasColumn('descripcion', 'string', 255, array('type' => 'string', 'length' => '255'));
+        $this->hasColumn('rango', 'string', 10, array('type' => 'string', 'length' => '10'));
     }
 
     public function setUp()

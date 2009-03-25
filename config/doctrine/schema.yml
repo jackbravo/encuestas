@@ -94,6 +94,7 @@ Horario:
       primary:      true
       autoincrement: true
     descripcion:    string(255)
+    rango:          string(10)
 
 EncuestaHorario:
   columns:
