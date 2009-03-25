@@ -18,8 +18,15 @@ abstract class BaseEncuesta extends sfDoctrineRecord
         $this->hasColumn('apellido_m', 'string', 255, array('type' => 'string', 'notnull' => true, 'length' => '255'));
         $this->hasColumn('edad', 'integer', 4, array('type' => 'integer', 'notnull' => true, 'length' => '4'));
         $this->hasColumn('genero', 'string', 1, array('type' => 'string', 'notnull' => true, 'length' => '1'));
-        $this->hasColumn('telefono', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
-        $this->hasColumn('celular', 'string', 50, array('type' => 'string', 'length' => '50'));
+        $this->hasColumn('telefono1', 'integer', 4, array('type' => 'integer', 'notnull' => true, 'length' => '4'));
+        $this->hasColumn('ext1', 'string', 10, array('type' => 'string', 'length' => '10'));
+        $this->hasColumn('tel_tipo1', 'integer', 1, array('type' => 'integer', 'length' => '1'));
+        $this->hasColumn('telefono2', 'integer', 4, array('type' => 'integer', 'length' => '4'));
+        $this->hasColumn('ext2', 'string', 10, array('type' => 'string', 'length' => '10'));
+        $this->hasColumn('tel_tipo2', 'integer', 1, array('type' => 'integer', 'length' => '1'));
+        $this->hasColumn('telefono3', 'integer', 4, array('type' => 'integer', 'length' => '4'));
+        $this->hasColumn('ext3', 'string', 10, array('type' => 'string', 'length' => '10'));
+        $this->hasColumn('tel_tipo3', 'integer', 1, array('type' => 'integer', 'length' => '1'));
         $this->hasColumn('email', 'string', 50, array('type' => 'string', 'length' => '50'));
         $this->hasColumn('estado_id', 'integer', 4, array('type' => 'integer', 'notnull' => true, 'length' => '4'));
         $this->hasColumn('ciudad', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));

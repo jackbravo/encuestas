@@ -47,6 +47,18 @@ class EncuestaForm extends BaseEncuestaForm
     $this->validatorSchema['productos_interes_list']->setOption('required', true);
     $this->validatorSchema['medios_contacto_list']->setOption('required', true);
 
+    foreach (array(1, 2, 3) as $num)
+    {
+      $this->widgetSchema['tel_tipo' . $num] = new sfWidgetFormChoice(array(
+        'choices' => array(1 => 'casa', 2 => 'oficina', 3 => 'celular', 4 => 'nextel'),
+      ));
+      $this->widgetSchema['ext' . $num]->setAttribute('size', 5);
+      $this->validatorSchema['telefono' . $num]->setOption('min', 1000000000);
+      $this->validatorSchema['telefono' . $num]->setOption('max', 9999999999);
+      $this->validatorSchema['telefono' . $num]->setMessage('min', 'El teléfono debe de ser de 10 digitos');
+      $this->validatorSchema['telefono' . $num]->setMessage('max', 'El teléfono debe de ser de 10 digitos');
+    }
+
     $this->widgetSchema->setLabels(array(
       'apellido_p' => 'Apellido Paterno',
       'apellido_m' => 'Apellido Materno',

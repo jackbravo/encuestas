@@ -32,6 +32,18 @@ class Encuesta extends BaseEncuesta
     }
   }
 
+  public function printTipo($tel)
+  {
+    $tipo_tel = 'tel_tipo' . $tel;
+    switch ($this->$tipo_tel) {
+      case '1': return 'casa'; break;
+      case '2': return 'oficina'; break;
+      case '3': return 'celular'; break;
+      case '4': return 'nextel'; break;
+      default: return '';
+    }
+  }
+
   public function lock($user_id)
   {
     if (! is_numeric($this->viewer_id)) {

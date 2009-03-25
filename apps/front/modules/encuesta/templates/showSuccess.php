@@ -85,8 +85,27 @@
 <div class="grid_4">
   <div class="box">
     <h2>Información del Lead</h2>
-    <?php if ($encuesta->telefono) echo '<strong>Telefono: </strong>' . $encuesta->telefono . '<br/>' ?>
-    <?php if ($encuesta->celular) echo '<strong>Celular: </strong>' . $encuesta->celular . '<br/>' ?>
+    <?php
+      if ($encuesta->telefono1) {
+        echo '<strong>Teléfono 1: </strong>' . $encuesta->telefono1 . " ";
+        if ($encuesta->ext1) echo " ext. " . $encuesta->ext1 . " ";
+        echo $encuesta->printTipo(1) . '<br/>';
+      }
+    ?>
+    <?php
+      if ($encuesta->telefono2) {
+        echo '<strong>Teléfono 2: </strong>' . $encuesta->telefono2 . " ";
+        if ($encuesta->ext2) echo " ext. " . $encuesta->ext2 . " ";
+        echo $encuesta->printTipo(2) . '<br/>';
+      }
+    ?>
+    <?php
+      if ($encuesta->telefono3) {
+        echo '<strong>Teléfono 3: </strong>' . $encuesta->telefono3 . " ";
+        if ($encuesta->ext3) echo " ext. " . $encuesta->ext3 . " ";
+        echo $encuesta->printTipo(3) . '<br/>';
+      }
+    ?>
     <?php if ($encuesta->email) echo '<strong>Email: </strong>' . $encuesta->email . '<br/>' ?>
     <strong>Horario de contacto:</strong>
     <ul>
