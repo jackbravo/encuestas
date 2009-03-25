@@ -57,8 +57,8 @@ $('#ajax-loader').ajaxStart(function(){
     <ul id="user-tools" class="top-right">
       <?php if ($sf_user->hasCredential('admin')): ?>
         <li><?php echo link_to('Usuarios', '@sf_guard_user') ?></li>
+        <li><?php echo link_to('Distribuidores', '@distribuidor') ?></li>
       <?php endif ?>
-      <li><?php echo link_to('Distribuidores', '@distribuidor') ?></li>
       <li><?php echo link_to('Salir', '@sf_guard_signout') ?></li>
     </ul>
   <?php endif; ?>

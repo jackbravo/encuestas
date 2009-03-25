@@ -2,3 +2,5 @@ edit:
   credentials: [admin]
 delete:
   credentials: [admin]
+index:
+  credentials: [admin]
