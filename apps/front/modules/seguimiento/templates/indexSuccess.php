@@ -7,7 +7,7 @@
     <tr>
       <th>Interacción #</th>
       <th>Nombre lead</th>
-      <th>Nombre distribuidor</th>
+      <th>Nombre TAB</th>
       <th>Estado</th>
       <th>Ciudad</th>
       <th>Fecha de Localización</th>
@@ -35,7 +35,7 @@
     <tr>
       <th>Interacción #</th>
       <th>Nombre lead</th>
-      <th>Nombre distribuidor</th>
+      <th>Nombre TAB</th>
       <th>Estado</th>
       <th>Ciudad</th>
       <th>Fecha de Localización</th>

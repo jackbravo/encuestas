@@ -38,7 +38,7 @@ $('#ajax-loader').ajaxStart(function(){
       $links = array(
         'encuesta_new' => array('label' => 'Nueva Encuesta'),
         'encuesta' => array('label' => 'Encuestas', 'perm' => 'admin'),
-        'leads' => array('label' => 'Leads sin distribuidor'),
+        'leads' => array('label' => 'Leads sin TAB'),
         'seguimiento' => array('label' => 'Seguimiento'),
       );
 
@@ -57,7 +57,7 @@ $('#ajax-loader').ajaxStart(function(){
     <ul id="user-tools" class="top-right">
       <?php if ($sf_user->hasCredential('admin')): ?>
         <li><?php echo link_to('Usuarios', '@sf_guard_user') ?></li>
-        <li><?php echo link_to('Distribuidores', '@distribuidor') ?></li>
+        <li><?php echo link_to('TAB Team', '@distribuidor') ?></li>
       <?php endif ?>
       <li><?php echo link_to('Salir', '@sf_guard_signout') ?></li>
     </ul>

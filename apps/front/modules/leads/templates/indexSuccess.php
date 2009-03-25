@@ -1,5 +1,5 @@
 <div class="grid_9">
-<h1>Leads sin Distribuidor</h1>
+<h1>Leads sin TAB</h1>
 
 <table class="list">
   <thead>

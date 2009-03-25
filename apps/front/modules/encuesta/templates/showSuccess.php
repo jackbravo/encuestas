@@ -66,7 +66,7 @@
            ( $last_segui->localizo_lead === false && $last_segui->intento < 2 )
         ) {
         $new = image_tag('/sf/sf_admin/images/default_icon.png');
-        echo link_to("$new Solicitar nuevo distribuidor", 'seguimiento_createForLead', array('id' => $encuesta->id));
+        echo link_to("$new Asignar Miembro TAB", 'seguimiento_createForLead', array('id' => $encuesta->id));
       }
 
       if ($last_segui)
@@ -128,7 +128,7 @@
   <?php if (sizeof($seguimientos) > 0) {
           $dist = $seguimientos[sizeof($seguimientos) - 1]['Distribuidor']; ?>
     <div class="box">
-      <h2>Distribuidor #<?php echo $dist->id ?></h2>
+      <h2>TAB #<?php echo $dist->id ?></h2>
       <strong><?php echo $dist->name ?></strong>, <?php echo $dist->level ?><br/>
       <?php echo $dist->city . ', ' . $dist->state ?><br/><br/>
       <?php if ($dist->contact1) echo '<strong>Contacto 1: </strong>' . $dist->contact1 . '<br/>' ?>

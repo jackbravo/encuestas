@@ -7,7 +7,7 @@
   <blockquote>
     <ol>
       <li>
-        ¿Se contactó al distribuidor?
+        ¿Se contactó al miembro TAB?
         <?php if ($seguimiento->localizo_dist !== null)
                 echo $seguimiento->localizo_dist ? '<strong>Sí</strong> <small>' . $seguimiento->fecha_localizo_dist . '</small>': '<strong>No</strong>' ?>
       </li>
