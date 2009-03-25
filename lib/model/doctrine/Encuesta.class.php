@@ -107,4 +107,15 @@ class Encuesta extends BaseEncuesta
 
     return $ids;
   }
+
+  public static function dentroDeHorario($horarios)
+  {
+    foreach ($horarios as $horario)
+    {
+      list ($h_min, $h_max) = explode('..', $horario['rango']);
+      if (date('H') >= $h_min && date('H') < $h_max) return true;
+    }
+
+    return false;
+  }
 }

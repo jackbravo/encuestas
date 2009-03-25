@@ -17,6 +17,7 @@
     <?php foreach ($seguimientos2 as $i => $encuesta): ?>
     <tr class="<?php
         echo fmod($i,2) == 0 ? 'even' : 'odd';
+        echo Encuesta::dentroDeHorario($encuesta['Horarios']) ? ' ok' : ' not-ok';
       ?>">
       <td><?php echo link_to($encuesta['id'], '@encuesta_show?id=' . $encuesta['id']) ?></td>
       <td><?php echo link_to($encuesta['nombre'] . ' ' . $encuesta['apellido_p'] . ' ' . $encuesta['apellido_m'], '@encuesta_show?id=' . $encuesta['id']) ?></td>
@@ -45,6 +46,7 @@
     <?php foreach ($seguimientos1 as $i => $encuesta): ?>
     <tr class="<?php
         echo fmod($i,2) == 0 ? 'even' : 'odd';
+        echo Encuesta::dentroDeHorario($encuesta['Horarios']) ? ' ok' : ' not-ok';
       ?>">
       <td><?php echo link_to($encuesta['id'], '@encuesta_show?id=' . $encuesta['id']) ?></td>
       <td><?php echo link_to($encuesta['nombre'] . ' ' . $encuesta['apellido_p'] . ' ' . $encuesta['apellido_m'], '@encuesta_show?id=' . $encuesta['id']) ?></td>

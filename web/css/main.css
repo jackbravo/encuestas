@@ -205,6 +205,10 @@ table.list tr.odd {
   background-color: #dec;
 }
 
+table.list tr.not-ok a {
+  text-decoration: line-through;
+}
+
 table.list th {
   padding: 0 4px;
 }

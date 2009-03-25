@@ -11,6 +11,10 @@
   Encuestado por <strong><?php echo $encuesta->Agente ?></strong>
   <small><?php echo $encuesta->created_at ?></small>
 
+  <?php if (! Encuesta::dentroDeHorario($encuesta->Horarios)): ?>
+    <div class="box notice">Estas fuera del horario de contacto de este lead</div>
+  <?php endif ?>
+
   <hr />
 
   <p>Encuestado por <strong><?php echo $encuesta->printOrigenDatos() ?></strong></p>
