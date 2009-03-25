@@ -91,7 +91,7 @@ class encuestaActions extends sfActions
     $form->bind($request->getParameter($form->getName()));
     if ($form->isValid())
     {
-      if (! $form->yaExiste())
+      if ($request->hasParameter('id') || ! $form->yaExiste())
       {
         $encuesta = $form->save();
 
