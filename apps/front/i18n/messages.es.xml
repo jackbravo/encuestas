@@ -133,6 +133,10 @@
         <source>Required.</source>
         <target>Requerido.</target>
       </trans-unit>
+      <trans-unit>
+        <source>"%value%" is not an integer.</source>
+        <target>"%value%" debe contener sólo números.</target>
+      </trans-unit>
 
       <!-- sfGuardAuth -->
       <trans-unit>
