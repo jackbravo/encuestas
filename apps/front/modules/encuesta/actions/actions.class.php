@@ -91,9 +91,16 @@ class encuestaActions extends sfActions
     $form->bind($request->getParameter($form->getName()));
     if ($form->isValid())
     {
-      $encuesta = $form->save();
+      if (! $form->yaExiste())
+      {
+        $encuesta = $form->save();
 
-      $this->redirect('@encuesta_show?id='.$encuesta['id']);
+        $this->redirect('@encuesta_show?id='.$encuesta['id']);
+      }
+      else
+      {
+        $this->getUser()->setFlash('error', 'El lead especificado ya existe en la base de datos');
+      }
     }
   }
 

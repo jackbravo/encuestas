@@ -5,7 +5,7 @@
   <caption>Segunda vuelta</caption>
   <thead>
     <tr>
-      <th>Id</th>
+      <th>Interacción #</th>
       <th>Nombre lead</th>
       <th>Nombre distribuidor</th>
       <th>Estado</th>
@@ -33,7 +33,7 @@
   <caption>Primera vuelta</caption>
   <thead>
     <tr>
-      <th>Id</th>
+      <th>Interacción #</th>
       <th>Nombre lead</th>
       <th>Nombre distribuidor</th>
       <th>Estado</th>
