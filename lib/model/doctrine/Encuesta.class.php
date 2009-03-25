@@ -90,4 +90,21 @@ class Encuesta extends BaseEncuesta
 
     return $seguimiento;
   }
+
+  public function getIdsDistribuidores()
+  {
+    $distribuidores = Doctrine::getTable('Distribuidor')->createQuery('d')
+      ->select('d.id')
+      ->leftJoin('d.Seguimiento s')
+      ->where('s.lead_id = ?', $this->id)
+      ->execute();
+
+    $ids = array();
+    foreach ($distribuidores as $dist)
+    {
+      $ids[] = $dist->id;
+    }
+
+    return $ids;
+  }
 }

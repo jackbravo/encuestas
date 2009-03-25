@@ -6,9 +6,12 @@ class DistribuidorTable extends Doctrine_Table
 {
   public function findNextDist($lead)
   {
+    $prev_dist = $lead->getIdsDistribuidores();
+
     $q = $this->createQuery('d')
       ->addWhere('d.city = ?', $lead->ciudad)
       ->addWhere('d.state = ?', $lead->Estado->nombre)
+      ->andWhereNotIn('d.id', $prev_dist)
       ->limit(1);
 
     $dist = $this->orderDistQuery($q)->fetchOne();
@@ -17,6 +20,7 @@ class DistribuidorTable extends Doctrine_Table
 
     $q = $this->createQuery('d')
       ->addWhere('d.state = ?', $lead->Estado->nombre)
+      ->andWhereNotIn('d.id', $prev_dist)
       ->limit(1);
 
     return $dist = $this->orderDistQuery($q)->fetchOne();
