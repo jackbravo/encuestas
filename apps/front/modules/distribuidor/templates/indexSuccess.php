@@ -1,4 +1,4 @@
-<h1>Distribuidores</h1>
+<h1>TAB Team</h1>
 
 <div id="filters">
 <form action="<?php echo url_for('@distribuidor_filter') ?>" method="post">

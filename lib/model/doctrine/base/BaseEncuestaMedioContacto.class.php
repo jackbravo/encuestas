@@ -5,21 +5,21 @@
  */
 abstract class BaseEncuestaMedioContacto extends sfDoctrineRecord
 {
-  public function setTableDefinition()
-  {
-    $this->setTableName('encuesta_medio_contacto');
-    $this->hasColumn('encuesta_id', 'integer', 4, array('type' => 'integer', 'primary' => true, 'length' => '4'));
-    $this->hasColumn('medio_contacto_id', 'integer', 4, array('type' => 'integer', 'primary' => true, 'length' => '4'));
-  }
+    public function setTableDefinition()
+    {
+        $this->setTableName('encuesta_medio_contacto');
+        $this->hasColumn('encuesta_id', 'integer', 4, array('type' => 'integer', 'primary' => true, 'length' => '4'));
+        $this->hasColumn('medio_contacto_id', 'integer', 4, array('type' => 'integer', 'primary' => true, 'length' => '4'));
+    }
 
-  public function setUp()
-  {
-    $this->hasOne('Encuesta', array('local' => 'encuesta_id',
-                                    'foreign' => 'id',
-                                    'onDelete' => 'CASCADE'));
+    public function setUp()
+    {
+        $this->hasOne('Encuesta', array('local' => 'encuesta_id',
+                                        'foreign' => 'id',
+                                        'onDelete' => 'CASCADE'));
 
-    $this->hasOne('MedioContacto', array('local' => 'medio_contacto_id',
-                                         'foreign' => 'id',
-                                         'onDelete' => 'CASCADE'));
-  }
+        $this->hasOne('MedioContacto', array('local' => 'medio_contacto_id',
+                                             'foreign' => 'id',
+                                             'onDelete' => 'CASCADE'));
+    }
 }

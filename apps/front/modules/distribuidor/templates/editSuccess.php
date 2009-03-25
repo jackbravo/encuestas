@@ -1,3 +1,3 @@
-<h1>Edit Distribuidor</h1>
+<h1>Editar miembro TAB</h1>
 
 <?php include_partial('form', array('form' => $form)) ?>

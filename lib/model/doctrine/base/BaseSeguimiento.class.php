@@ -5,40 +5,40 @@
  */
 abstract class BaseSeguimiento extends sfDoctrineRecord
 {
-  public function setTableDefinition()
-  {
-    $this->setTableName('seguimiento');
-    $this->hasColumn('id', 'integer', 4, array('type' => 'integer', 'primary' => true, 'autoincrement' => true, 'length' => '4'));
-    $this->hasColumn('distribuidor_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
-    $this->hasColumn('lead_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
-    $this->hasColumn('agente_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
-    $this->hasColumn('localizo_dist', 'boolean', null, array('type' => 'boolean'));
-    $this->hasColumn('fecha_localizo_dist', 'timestamp', null, array('type' => 'timestamp'));
-    $this->hasColumn('localizo_lead', 'boolean', null, array('type' => 'boolean'));
-    $this->hasColumn('fecha_localizo_lead', 'timestamp', null, array('type' => 'timestamp'));
-    $this->hasColumn('intento', 'integer', 2, array('type' => 'integer', 'notnull' => true, 'length' => '2'));
-    $this->hasColumn('status', 'integer', 1, array('type' => 'integer', 'notnull' => true, 'default' => 0, 'length' => '1'));
-    $this->hasColumn('notas', 'string', 255, array('type' => 'string', 'length' => '255'));
+    public function setTableDefinition()
+    {
+        $this->setTableName('seguimiento');
+        $this->hasColumn('id', 'integer', 4, array('type' => 'integer', 'primary' => true, 'autoincrement' => true, 'length' => '4'));
+        $this->hasColumn('distribuidor_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
+        $this->hasColumn('lead_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
+        $this->hasColumn('agente_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
+        $this->hasColumn('localizo_dist', 'boolean', null, array('type' => 'boolean'));
+        $this->hasColumn('fecha_localizo_dist', 'timestamp', null, array('type' => 'timestamp'));
+        $this->hasColumn('localizo_lead', 'boolean', null, array('type' => 'boolean'));
+        $this->hasColumn('fecha_localizo_lead', 'timestamp', null, array('type' => 'timestamp'));
+        $this->hasColumn('intento', 'integer', 2, array('type' => 'integer', 'notnull' => true, 'length' => '2'));
+        $this->hasColumn('status', 'integer', 1, array('type' => 'integer', 'notnull' => true, 'default' => 0, 'length' => '1'));
+        $this->hasColumn('notas', 'string', 255, array('type' => 'string', 'length' => '255'));
 
 
-    $this->index('localizo_intento_idx', array('fields' => array(0 => 'status', 1 => 'intento')));
-  }
+        $this->index('localizo_intento_idx', array('fields' => array(0 => 'status', 1 => 'intento')));
+    }
 
-  public function setUp()
-  {
-    $this->hasOne('Distribuidor', array('local' => 'distribuidor_id',
-                                        'foreign' => 'id',
-                                        'onDelete' => 'CASCADE'));
-
-    $this->hasOne('Encuesta as Lead', array('local' => 'lead_id',
+    public function setUp()
+    {
+        $this->hasOne('Distribuidor', array('local' => 'distribuidor_id',
                                             'foreign' => 'id',
                                             'onDelete' => 'CASCADE'));
 
-    $this->hasOne('sfGuardUser as Agente', array('local' => 'agente_id',
-                                                 'foreign' => 'id',
-                                                 'onDelete' => 'CASCADE'));
+        $this->hasOne('Encuesta as Lead', array('local' => 'lead_id',
+                                                'foreign' => 'id',
+                                                'onDelete' => 'CASCADE'));
 
-    $timestampable0 = new Doctrine_Template_Timestampable();
-    $this->actAs($timestampable0);
-  }
+        $this->hasOne('sfGuardUser as Agente', array('local' => 'agente_id',
+                                                     'foreign' => 'id',
+                                                     'onDelete' => 'CASCADE'));
+
+        $timestampable0 = new Doctrine_Template_Timestampable();
+        $this->actAs($timestampable0);
+    }
 }

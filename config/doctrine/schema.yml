@@ -8,6 +8,7 @@ Encuesta:
     agente_id: integer(4)
     viewer_id:      integer(4)
     last_dist_id:   integer(4)
+    origen_datos:   integer(1)
 
     # datos
     nombre:         { type: string(255), notnull: true }
@@ -15,8 +16,15 @@ Encuesta:
     apellido_m:     { type: string(255), notnull: true }
     edad:           { type: integer(4), notnull: true }
     genero:         { type: string(1), notnull: true }
-    telefono:       { type: string(50), notnull: true }
-    celular:        string(50)
+    telefono1:      { type: integer(4), notnull: true }
+    ext1:           string(10)
+    tel_tipo1:      integer(1)
+    telefono2:      integer(4)
+    ext2:           string(10)
+    tel_tipo2:      integer(1)
+    telefono3:      integer(4)
+    ext3:           string(10)
+    tel_tipo3:      integer(1)
     email:          string(50)
 
     # direccion
@@ -86,6 +94,7 @@ Horario:
       primary:      true
       autoincrement: true
     descripcion:    string(255)
+    rango:          string(10)
 
 EncuestaHorario:
   columns:

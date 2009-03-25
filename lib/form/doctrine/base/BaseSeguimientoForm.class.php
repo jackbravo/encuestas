@@ -13,9 +13,9 @@ class BaseSeguimientoForm extends BaseFormDoctrine
   {
     $this->setWidgets(array(
       'id'                  => new sfWidgetFormInputHidden(),
-      'distribuidor_id'     => new sfWidgetFormDoctrineSelect(array('model' => 'Distribuidor', 'add_empty' => true)),
-      'lead_id'             => new sfWidgetFormDoctrineSelect(array('model' => 'Encuesta', 'add_empty' => true)),
-      'agente_id'           => new sfWidgetFormDoctrineSelect(array('model' => 'sfGuardUser', 'add_empty' => true)),
+      'distribuidor_id'     => new sfWidgetFormDoctrineChoice(array('model' => 'Distribuidor', 'add_empty' => true)),
+      'lead_id'             => new sfWidgetFormDoctrineChoice(array('model' => 'Encuesta', 'add_empty' => true)),
+      'agente_id'           => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
       'localizo_dist'       => new sfWidgetFormInputCheckbox(),
       'fecha_localizo_dist' => new sfWidgetFormDateTime(),
       'localizo_lead'       => new sfWidgetFormInputCheckbox(),

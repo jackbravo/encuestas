@@ -1,10 +1,10 @@
 <div class="grid_9">
-<h1>Leads sin Distribuidor</h1>
+<h1>Leads sin TAB</h1>
 
 <table class="list">
   <thead>
     <tr>
-      <th>Id</th>
+      <th>Interacción #</th>
       <th>Nombre</th>
       <th>Estado</th>
       <th>Ciudad</th>
@@ -38,7 +38,7 @@
   <?php echo $filter->renderHiddenFields() ?>
 
   <div class="form-item">
-    <label for="_id">Id</label><br/> <input type="text" id="_id" name="_id" size="7" />
+    <label for="_id">Interacción #</label><br/> <input type="text" id="_id" name="_id" size="7" />
   </div>
   <?php echo $filter['nombre']->renderRow() ?>
   <?php echo $filter['apellido_p']->renderRow() ?>

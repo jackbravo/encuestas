@@ -129,6 +129,14 @@
         <source>The item was deleted successfully.</source>
         <target>El elemento se borró correctamente.</target>
       </trans-unit>
+      <trans-unit>
+        <source>Required.</source>
+        <target>Requerido.</target>
+      </trans-unit>
+      <trans-unit>
+        <source>"%value%" is not an integer.</source>
+        <target>"%value%" debe contener sólo números.</target>
+      </trans-unit>
 
       <!-- sfGuardAuth -->
       <trans-unit>

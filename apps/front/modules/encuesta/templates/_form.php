@@ -50,18 +50,42 @@
 
 <h4>Contacto</h4>
 <fieldset>
-  <div class="grid_4">
-  <?php echo $form['telefono']->renderRow() ?>
-  </div>
-  <div class="grid_4">
-  <?php echo $form['celular']->renderRow() ?>
-  </div>
-  <div class="grid_4">
-  <?php echo $form['email']->renderRow() ?>
-  </div>
-
   <div class="grid_12">
-  <?php echo $form['horarios_list']->renderRow() ?>
+    <div class="grid_4 alpha">
+      <?php echo $form['telefono1']->renderRow() ?>
+    </div>
+    <div class="grid_1">
+      <?php echo $form['ext1']->renderRow() ?>
+    </div>
+    <div class="grid_7 omega">
+      <?php echo $form['tel_tipo1']->renderRow() ?>
+    </div>
+  </div>
+  <div class="grid_12">
+    <div class="grid_4 alpha">
+      <?php echo $form['telefono2']->renderRow() ?>
+    </div>
+    <div class="grid_1">
+      <?php echo $form['ext2']->renderRow() ?>
+    </div>
+    <div class="grid_7 omega">
+      <?php echo $form['tel_tipo2']->renderRow() ?>
+    </div>
+  </div>
+  <div class="grid_12">
+    <div class="grid_4 alpha">
+      <?php echo $form['telefono3']->renderRow() ?>
+    </div>
+    <div class="grid_1">
+      <?php echo $form['ext3']->renderRow() ?>
+    </div>
+    <div class="grid_7 omega">
+      <?php echo $form['tel_tipo3']->renderRow() ?>
+    </div>
+  </div>
+  <div class="grid_12">
+    <?php echo $form['email']->renderRow() ?>
+    <?php echo $form['horarios_list']->renderRow() ?>
   </div>
 </fieldset>
 
@@ -72,6 +96,13 @@
   <?php echo $form['productos_interes_list']->renderRow() ?>
   <?php echo $form['medios_contacto_list']->renderRow() ?>
   <?php echo $form['notas']->renderRow() ?>
+  </div>
+</fieldset>
+
+<h4>Sólo para el agente</h4>
+<fieldset>
+  <div class="grid_12">
+  <?php echo $form['origen_datos']->renderRow() ?>
   </div>
 </fieldset>
 

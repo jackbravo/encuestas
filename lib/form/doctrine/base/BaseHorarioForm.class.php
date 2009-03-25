@@ -14,12 +14,14 @@ class BaseHorarioForm extends BaseFormDoctrine
     $this->setWidgets(array(
       'id'             => new sfWidgetFormInputHidden(),
       'descripcion'    => new sfWidgetFormInput(),
+      'rango'          => new sfWidgetFormInput(),
       'encuestas_list' => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Encuesta')),
     ));
 
     $this->setValidators(array(
       'id'             => new sfValidatorDoctrineChoice(array('model' => 'Horario', 'column' => 'id', 'required' => false)),
       'descripcion'    => new sfValidatorString(array('max_length' => 255, 'required' => false)),
+      'rango'          => new sfValidatorString(array('max_length' => 10, 'required' => false)),
       'encuestas_list' => new sfValidatorDoctrineChoiceMany(array('model' => 'Encuesta', 'required' => false)),
     ));
 

@@ -5,20 +5,20 @@
  */
 abstract class BaseProductoInteres extends sfDoctrineRecord
 {
-  public function setTableDefinition()
-  {
-    $this->setTableName('producto_interes');
-    $this->hasColumn('id', 'integer', 4, array('type' => 'integer', 'primary' => true, 'autoincrement' => true, 'length' => '4'));
-    $this->hasColumn('descripcion', 'string', 255, array('type' => 'string', 'length' => '255'));
-  }
+    public function setTableDefinition()
+    {
+        $this->setTableName('producto_interes');
+        $this->hasColumn('id', 'integer', 4, array('type' => 'integer', 'primary' => true, 'autoincrement' => true, 'length' => '4'));
+        $this->hasColumn('descripcion', 'string', 255, array('type' => 'string', 'length' => '255'));
+    }
 
-  public function setUp()
-  {
-    $this->hasMany('Encuesta as Encuestas', array('refClass' => 'EncuestaProductoInteres',
-                                                  'local' => 'producto_interes_id',
-                                                  'foreign' => 'encuesta_id'));
+    public function setUp()
+    {
+        $this->hasMany('Encuesta as Encuestas', array('refClass' => 'EncuestaProductoInteres',
+                                                      'local' => 'producto_interes_id',
+                                                      'foreign' => 'encuesta_id'));
 
-    $this->hasMany('EncuestaProductoInteres', array('local' => 'id',
-                                                    'foreign' => 'producto_interes_id'));
-  }
+        $this->hasMany('EncuestaProductoInteres', array('local' => 'id',
+                                                        'foreign' => 'producto_interes_id'));
+    }
 }
