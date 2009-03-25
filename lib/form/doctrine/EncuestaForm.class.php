@@ -71,4 +71,14 @@ class EncuestaForm extends BaseEncuestaForm
       'origen_datos' => 'Origen de los datos',
     ));
   }
+
+  public function yaExiste()
+  {
+    return $this->getObject()->getTable()->createQuery('e')
+      ->addWhere('e.nombre = ?', $this->getValue('nombre'))
+      ->addWhere('e.apellido_p = ?', $this->getValue('apellido_p'))
+      ->addWhere('e.apellido_m = ?', $this->getValue('apellido_m'))
+      ->addWhere('e.edad = ?', $this->getValue('edad'))
+      ->fetchOne();
+  }
 }
