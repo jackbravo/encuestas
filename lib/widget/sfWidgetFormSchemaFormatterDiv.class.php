@@ -23,6 +23,7 @@ class sfWidgetFormSchemaFormatterDiv extends sfWidgetFormSchemaFormatter
     $prepend .= (sizeof($errors) > 0) ? ' has-errors' : '';
     $prepend .= "'>";
     $append = '</div>';
+    $label .= strpos($field, 'required') ? '*' : '';
     return strtr($prepend . $this->getRowFormat() . $append, array(
       '%label%'         => $label,
       '%field%'         => $field,
