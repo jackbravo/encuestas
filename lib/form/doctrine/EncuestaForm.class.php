@@ -49,7 +49,6 @@ class EncuestaForm extends BaseEncuestaForm
     $this->validatorSchema['email'] = new sfValidatorEmail(array('required' => false));
     $this->validatorSchema['horarios_list']->setOption('required', true);
     $this->validatorSchema['areas_interes_list']->setOption('required', true);
-    $this->validatorSchema['productos_interes_list']->setOption('required', true);
     $this->validatorSchema['medios_contacto_list']->setOption('required', true);
 
     foreach (array(1, 2, 3) as $num)
