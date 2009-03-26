@@ -117,7 +117,7 @@
       <li><?php echo $horario ?></li>
     <?php endforeach; ?>
     </ul>
-    <?php if ($encuesta->edad) echo '<strong>Edad: </strong>' . $encuesta->edad . ' años<br/>' ?>
+    <?php if ($encuesta->nacimiento) echo '<strong>Fecha de Nacimiento: </strong>' . $encuesta->nacimiento . '<br/>' ?>
     <?php if ($encuesta->genero) echo '<strong>Genero: </strong>' . $encuesta->printGenero() . '<br/>' ?>
 
     <strong>Dirección:</strong><br/>

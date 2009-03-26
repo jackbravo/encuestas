@@ -35,6 +35,11 @@ class EncuestaForm extends BaseEncuestaForm
       'choices' => array('1', '2'),
     ));
 
+    $years = range(1900, date('Y'));
+    $this->widgetSchema['nacimiento'] = new sfWidgetFormI18nDate(array(
+      'culture' => 'es_MX',
+      'years' => array_combine($years, $years),
+    ));
     $this->widgetSchema['horarios_list']->setOption('expanded', true);
     $this->widgetSchema['areas_interes_list']->setOption('expanded', true);
     $this->widgetSchema['productos_interes_list']->setOption('expanded', true);
@@ -63,6 +68,7 @@ class EncuestaForm extends BaseEncuestaForm
       'apellido_p' => 'Apellido Paterno',
       'apellido_m' => 'Apellido Materno',
       'estado_id' => 'Estado',
+      'nacimiento' => 'Fecha de Nacimiento',
       'ciudad' => 'Ciudad o población',
       'horarios_list' => 'Mejor horario para contactarle',
       'areas_interes_list' => '¿A usted le gustaría..?',
@@ -78,7 +84,7 @@ class EncuestaForm extends BaseEncuestaForm
       ->addWhere('e.nombre = ?', $this->getValue('nombre'))
       ->addWhere('e.apellido_p = ?', $this->getValue('apellido_p'))
       ->addWhere('e.apellido_m = ?', $this->getValue('apellido_m'))
-      ->addWhere('e.edad = ?', $this->getValue('edad'))
+      ->addWhere('e.nacimiento = ?', $this->getValue('nacimiento'))
       ->fetchOne();
   }
 }

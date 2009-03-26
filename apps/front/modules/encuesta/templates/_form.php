@@ -18,7 +18,7 @@
   </div>
 
   <div class="grid_4">
-  <?php echo $form['edad']->renderRow() ?>
+  <?php echo $form['nacimiento']->renderRow() ?>
   </div>
   <div class="grid_8">
   <?php echo $form['genero']->renderRow() ?>

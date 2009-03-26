@@ -71,7 +71,7 @@ Encuesta:
     nombre: Juanita
     apellido_p: Perez
     apellido_m: González
-    edad: 28
+    nacimiento: '1957-06-12'
     genero: f
     telefono1: 3338373832
     tel_tipo1: 1
@@ -89,7 +89,7 @@ Encuesta:
     nombre: Fulanito
     apellido_p: de Tal
     apellido_m: González
-    edad: 28
+    nacimiento: '1960-12-12'
     genero: m
     telefono1: 3333373932
     tel_tipo1: 1
@@ -107,7 +107,7 @@ Encuesta:
     nombre: Alvaro
     apellido_p: Bravo
     apellido_m: Contreras
-    edad: '23'
+    nacimiento: '1985-07-04'
     genero: m
     telefono1: 3312383283
     tel_tipo1: 1
@@ -127,7 +127,7 @@ Encuesta:
     nombre: Cesar
     apellido_p: Romo
     apellido_m: Rangel
-    edad: '26'
+    nacimiento: '1982-04-20'
     genero: m
     telefono1: 3323828493
     ext1: 32

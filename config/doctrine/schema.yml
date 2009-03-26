@@ -14,7 +14,7 @@ Encuesta:
     nombre:         { type: string(255), notnull: true }
     apellido_p:     { type: string(255), notnull: true }
     apellido_m:     { type: string(255), notnull: true }
-    edad:           { type: integer(4), notnull: true }
+    nacimiento:     { type: date, notnull: true }
     genero:         { type: string(1), notnull: true }
     telefono1:      { type: integer(4), notnull: true }
     ext1:           string(10)
