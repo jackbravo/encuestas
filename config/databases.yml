@@ -2,7 +2,7 @@ all:
   encuesta1:
     class:        sfDoctrineDatabase
     param:
-      dsn:        mysql:dbname=encuesta1;host=localhost
-      username:   root
-      password:   
+      dsn:        mysql:dbname=tvpresence;host=localhost
+      username:   tvpresence_usr
+      password:   tvpresence_pwd
       encoding:   utf8
