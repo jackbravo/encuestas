@@ -17,5 +17,6 @@ class reportesActions extends sfActions
   */
   public function executeIndex(sfWebRequest $request)
   {
+    $this->filter = new ReportFilter();
   }
 }
