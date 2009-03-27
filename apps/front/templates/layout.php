@@ -56,6 +56,7 @@ $('#ajax-loader').ajaxStart(function(){
 
     <ul id="user-tools" class="top-right">
       <?php if ($sf_user->hasCredential('admin')): ?>
+        <li><?php echo link_to('Reportes', 'reportes/index') ?></li>
         <li><?php echo link_to('Usuarios', '@sf_guard_user') ?></li>
         <li><?php echo link_to('TAB Team', '@distribuidor') ?></li>
       <?php endif ?>

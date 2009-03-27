@@ -1,0 +1,3 @@
+all:
+  stylesheets: [start/jquery-ui.custom.css]
+  javascripts: [jquery-ui.js, ui.datepicker-es.js]
