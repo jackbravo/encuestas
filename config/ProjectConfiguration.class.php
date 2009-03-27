@@ -9,6 +9,7 @@ class ProjectConfiguration extends sfProjectConfiguration
   {
     // for compatibility / remove and enable only the plugins you want
     $this->enableAllPluginsExcept(array('sfPropelPlugin', 'sfCompat10Plugin', 'sfProtoculousPlugin'));
+    date_default_timezone_set('America/Mexico_City');
   }
 
   public function configureDoctrine(Doctrine_Manager $manager)

@@ -112,11 +112,8 @@ class Encuesta extends BaseEncuesta
   {
     foreach ($horarios as $horario)
     {
-      $timezone = date_default_timezone_get();
-      date_default_timezone_set('America/Mexico_City');
       list ($h_min, $h_max) = explode('..', $horario['rango']);
       if (date('H') >= $h_min && date('H') < $h_max) return true;
-      date_default_timezone_set($timezone);
     }
 
     return false;
