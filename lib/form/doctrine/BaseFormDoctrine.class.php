@@ -10,7 +10,7 @@ abstract class BaseFormDoctrine extends sfFormDoctrine
 {
   public function __construct($object = null, $options = array(), $CSRFSecret = null)
   {
-    parent::__construct($object = null, $options = array(), $CSRFSecret = null);
+    parent::__construct($object, $options, $CSRFSecret);
 
     foreach ($this->validatorSchema->getFields() as $name => $validator)
     {
