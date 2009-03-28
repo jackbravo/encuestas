@@ -64,10 +64,12 @@ class seguimientoActions extends sfActions
   {
     $seguimiento = $this->getRoute()->getObject();
 
-    if ($request->hasParameter('_no'))
+    if ($request->hasParameter('_no')) {
       $seguimiento->localizo_lead = false;
-    else
+      $seguimiento->status = 0;
+    } else {
       $seguimiento->localizo_lead = true;
+    }
 
     $seguimiento->save();
 
