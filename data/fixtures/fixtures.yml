@@ -121,7 +121,7 @@ Encuesta:
     numero: 3829-1A
     cp: '45070'
     origen_datos: 1
-    Horarios: [h5]
+    Horarios: [h4]
   e4:
     Agente: usuario
     nombre: Cesar
