@@ -54,10 +54,10 @@
     <div class="grid_4 alpha">
       <?php echo $form['telefono1']->renderRow() ?>
     </div>
-    <div class="grid_1">
+    <div class="grid_4">
       <?php echo $form['ext1']->renderRow() ?>
     </div>
-    <div class="grid_7 omega">
+    <div class="grid_4 omega">
       <?php echo $form['tel_tipo1']->renderRow() ?>
     </div>
   </div>
@@ -65,10 +65,10 @@
     <div class="grid_4 alpha">
       <?php echo $form['telefono2']->renderRow() ?>
     </div>
-    <div class="grid_1">
+    <div class="grid_4">
       <?php echo $form['ext2']->renderRow() ?>
     </div>
-    <div class="grid_7 omega">
+    <div class="grid_4 omega">
       <?php echo $form['tel_tipo2']->renderRow() ?>
     </div>
   </div>
@@ -76,10 +76,10 @@
     <div class="grid_4 alpha">
       <?php echo $form['telefono3']->renderRow() ?>
     </div>
-    <div class="grid_1">
+    <div class="grid_4">
       <?php echo $form['ext3']->renderRow() ?>
     </div>
-    <div class="grid_7 omega">
+    <div class="grid_4 omega">
       <?php echo $form['tel_tipo3']->renderRow() ?>
     </div>
   </div>
