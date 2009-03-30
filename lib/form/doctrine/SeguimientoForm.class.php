@@ -14,7 +14,8 @@ class SeguimientoForm extends BaseSeguimientoForm
     unset($this['created_at'], $this['updated_at'], $this['agente_id'],
       $this['intento'], $this['status'],
       $this['distribuidor_id'], $this['lead_id'],
-      $this['fecha_localizo_dist'], $this['fecha_localizo_lead']);
+      $this['fecha_localizo_dist'], $this['fecha_localizo_lead'],
+      $this['agent_localizo_dist'], $this['agent_localizo_lead']);
 
     $this->widgetSchema['notas'] = new sfWidgetFormTextarea();
 
