@@ -23,9 +23,11 @@ class ReportFilter extends sfForm
 
     $this->widgetSchema->setDefaults(array(
       'fecha' => array(
-        'from' => array('day' => date('d'), 'month' => date('n'), 'year' => date('Y')),
-        'to' => array('day' => date('d'), 'month' => date('n'), 'year' => date('Y')),
+        'from' => date('Y-m-d'),
+        'to' => date('Y-m-d'),
       ),
     ));
+
+    $this->widgetSchema->setNameFormat('filter[%s]');
   }
 }
