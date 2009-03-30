@@ -96,7 +96,6 @@ class EncuestaTable extends Doctrine_Table
       FROM sf_guard_user a LEFT JOIN encuesta e ON e.agente_id = a.id
       WHERE e.created_at BETWEEN ? AND ? + interval 1 day
       GROUP BY e.agente_id
-      ORDER BY a.username
     ");
     $stmt->execute(array($from, $to));
 

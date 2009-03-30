@@ -32,12 +32,12 @@
       <tr>
         <td><?php echo $agent ?></td>
         <td title="Leads por agente"><?php if (isset($leads_per_agent[$agent])) echo $leads_per_agent[$agent] ?></td>
-        <td title="Asignaciones de TAB por agente (24 hrs.)"><?php if (isset($tab_tries_per_agent[$agent])) echo $tab_tries_per_agent[$agent] ?></td>
-        <td title="Asignaciones de TAB por agente (48 hrs.)"><?php if (isset($tab_tries_per_agent_2[$agent])) echo $tab_tries_per_agent_2[$agent] ?></td>
-        <td title="Asignaciones exitosas de TAB por agente (24 hrs.)"><?php if (isset($tab_per_agent[$agent])) echo $tab_per_agent[$agent] ?></td>
-        <td title="Asignaciones exitosas de TAB por agente (48 hrs.)"><?php if (isset($tab_per_agent_2[$agent])) echo $tab_per_agent_2[$agent] ?></td>
-        <td title="Seguimientos a leads por agente (24 hrs.)"><?php if (isset($lead_per_agent[$agent])) echo $lead_per_agent[$agent] ?></td>
-        <td title="Seguimientos a leads por agente (48 hrs.)"><?php if (isset($lead_per_agent_2[$agent])) echo $lead_per_agent_2[$agent] ?></td>
+        <td title="Asignaciones de TAB por agente (48 hrs.)"><?php if (isset($tab_tries_per_agent[$agent])) echo $tab_tries_per_agent[$agent] ?></td>
+        <td title="Asignaciones de TAB por agente (24 hrs.)"><?php if (isset($tab_tries_per_agent_2[$agent])) echo $tab_tries_per_agent_2[$agent] ?></td>
+        <td title="Asignaciones exitosas de TAB por agente (48 hrs.)"><?php if (isset($tab_per_agent[$agent])) echo $tab_per_agent[$agent] ?></td>
+        <td title="Asignaciones exitosas de TAB por agente (24 hrs.)"><?php if (isset($tab_per_agent_2[$agent])) echo $tab_per_agent_2[$agent] ?></td>
+        <td title="Seguimientos a leads por agente (48 hrs.)"><?php if (isset($lead_per_agent[$agent])) echo $lead_per_agent[$agent] ?></td>
+        <td title="Seguimientos a leads por agente (24 hrs.)"><?php if (isset($lead_per_agent_2[$agent])) echo $lead_per_agent_2[$agent] ?></td>
       </tr>
     <?php endforeach ?>
   </tbody>
