@@ -13,20 +13,15 @@ class Seguimiento extends BaseSeguimiento
     {
       if ($this->localizo_dist) {
         Doctrine::getTable('Encuesta')->setLastDist($this->lead_id, $this->distribuidor_id);
-        $this->fecha_localizo_dist = new Doctrine_Expression('NOW()');
       } else {
         Doctrine::getTable('Encuesta')->unsetLastDist($this->lead_id);
-        $this->fecha_localizo_dist = null;
       }
+      $this->fecha_localizo_dist = new Doctrine_Expression('NOW()');
     }
 
     if (array_key_exists('localizo_lead', $modified))
     {
-      if ($this->localizo_dist) {
-        $this->fecha_localizo_lead = new Doctrine_Expression('NOW()');
-      } else {
-        $this->fecha_localizo_lead = null;
-      }
+      $this->fecha_localizo_lead = new Doctrine_Expression('NOW()');
     }
 
     if (!array_key_exists('status', $modified))
