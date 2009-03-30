@@ -57,11 +57,15 @@ class EncuestaForm extends BaseEncuestaForm
         'choices' => array(1 => 'casa', 2 => 'oficina', 3 => 'celular', 4 => 'nextel'),
       ));
       $this->widgetSchema['ext' . $num]->setAttribute('size', 5);
-      $this->validatorSchema['telefono' . $num]->setOption('min', 1000000000);
-      $this->validatorSchema['telefono' . $num]->setOption('max', 9999999999);
-      $this->validatorSchema['telefono' . $num]->setMessage('min', 'El teléfono debe de ser de 10 digitos');
-      $this->validatorSchema['telefono' . $num]->setMessage('max', 'El teléfono debe de ser de 10 digitos');
+      $this->validatorSchema['telefono' . $num] = new sfValidatorAnd(
+        array(
+          new sfValidatorRegex(array('pattern' => '/^(\d)+$/'), array('invalid' => 'No debe contener letras')),
+          new sfValidatorString(array('max_length' => '10', 'min_length' => 10), array('max_length' => 'Muy largo, debe tener 10 caracteres', 'min_length' => 'Muy corto, debe contener 10 caracteres')),
+        ),
+        array('required' => false)
+      );
     }
+    $this->validatorSchema['telefono1']->setOption('required', true);
 
     $this->widgetSchema->setLabels(array(
       'apellido_p' => 'Apellido Paterno',

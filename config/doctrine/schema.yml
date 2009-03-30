@@ -16,13 +16,13 @@ Encuesta:
     apellido_m:     { type: string(255), notnull: true }
     nacimiento:     { type: date, notnull: true }
     genero:         { type: string(1), notnull: true }
-    telefono1:      { type: integer(4), notnull: true }
+    telefono1:      { type: string(10), notnull: true }
     ext1:           string(10)
     tel_tipo1:      integer(1)
-    telefono2:      integer(4)
+    telefono2:      string(10)
     ext2:           string(10)
     tel_tipo2:      integer(1)
-    telefono3:      integer(4)
+    telefono3:      string(10)
     ext3:           string(10)
     tel_tipo3:      integer(1)
     email:          string(50)
