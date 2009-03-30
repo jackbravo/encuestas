@@ -43,4 +43,13 @@ class DistribuidorTable extends Doctrine_Table
       ->addWhere('d.id = ?', $params['id'])
       ->fetchOne();
   }
+
+  public function getTabNames()
+  {
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare("SELECT id, name FROM distribuidor");
+    $stmt->execute();
+
+    return axaiToolkit::toKeyValueArray('id', 'name', $stmt->fetchAll());
+  }
 }

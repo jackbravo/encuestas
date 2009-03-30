@@ -42,6 +42,26 @@ class reportesActions extends sfActions
       ->getLeadPerAgents($fecha['from'], $fecha['to'], 2);
   }
 
+  public function executeTabs(sfWebRequest $request)
+  {
+    $this->filter = $this->getFilter($request);
+    $fecha = $this->filter->getValue('fecha');
+
+    $this->tabs = Doctrine::getTable('Distribuidor')->getTabNames();
+
+    // vuelta 1
+    $this->lead_per_tab = Doctrine::getTable('Seguimiento')
+      ->getLeadPerTab($fecha['from'], $fecha['to']);
+    $this->seg_per_tab = Doctrine::getTable('Seguimiento')
+      ->getSegPerTab($fecha['from'], $fecha['to']);
+
+    // vuelta 2
+    $this->lead_per_tab_2 = Doctrine::getTable('Seguimiento')
+      ->getLeadPerTab($fecha['from'], $fecha['to'], 2);
+    $this->seg_per_tab_2 = Doctrine::getTable('Seguimiento')
+      ->getSegPerTab($fecha['from'], $fecha['to'], 2);
+  }
+
   public function getFilter($request)
   {
     $filter = new ReportFilter();

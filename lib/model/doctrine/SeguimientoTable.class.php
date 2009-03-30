@@ -62,7 +62,6 @@ class SeguimientoTable extends Doctrine_Table
       FROM sf_guard_user a LEFT JOIN seguimiento s ON s.agente_id = a.id
       WHERE s.created_at BETWEEN ? AND ? + interval 1 day AND intento = ?
       GROUP BY s.agente_id
-      ORDER BY a.username
     ");
     $stmt->execute(array($from, $to, $vuelta));
 
@@ -74,10 +73,9 @@ class SeguimientoTable extends Doctrine_Table
     $dbh = $this->getConnection();
     $stmt = $dbh->prepare("SELECT COUNT(s.id) count, a.username
       FROM sf_guard_user a LEFT JOIN seguimiento s ON s.agent_localizo_dist = a.id
-      WHERE s.created_at BETWEEN ? AND ? + interval 1 day AND intento = ?
+      WHERE s.fecha_localizo_dist BETWEEN ? AND ? + interval 1 day AND intento = ?
         AND s.localizo_dist = 1
       GROUP BY s.agent_localizo_dist
-      ORDER BY a.username
     ");
     $stmt->execute(array($from, $to, $vuelta));
 
@@ -89,12 +87,38 @@ class SeguimientoTable extends Doctrine_Table
     $dbh = $this->getConnection();
     $stmt = $dbh->prepare("SELECT COUNT(s.id) count, a.username
       FROM sf_guard_user a LEFT JOIN seguimiento s ON s.agent_localizo_lead = a.id
-      WHERE s.created_at BETWEEN ? AND ? + interval 1 day AND intento = ?
+      WHERE s.fecha_localizo_lead BETWEEN ? AND ? + interval 1 day AND intento = ?
       GROUP BY s.agent_localizo_lead
-      ORDER BY a.username
     ");
     $stmt->execute(array($from, $to, $vuelta));
 
     return axaiToolkit::toKeyValueArray('username', 'count', $stmt->fetchAll());
+  }
+
+  public function getLeadPerTab($from, $to, $vuelta = 1)
+  {
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare("SELECT COUNT(s.id) count, d.id
+      FROM distribuidor d LEFT JOIN seguimiento s ON s.distribuidor_id = d.id
+      WHERE s.created_at BETWEEN ? AND ? + interval 1 day AND intento = ?
+      GROUP BY s.distribuidor_id
+    ");
+    $stmt->execute(array($from, $to, $vuelta));
+
+    return axaiToolkit::toKeyValueArray('id', 'count', $stmt->fetchAll());
+  }
+
+  public function getSegPerTab($from, $to, $vuelta = 1)
+  {
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare("SELECT COUNT(s.id) count, d.id
+      FROM distribuidor d LEFT JOIN seguimiento s ON s.distribuidor_id = d.id
+      WHERE s.created_at BETWEEN ? AND ? + interval 1 day AND intento = ?
+        AND localizo_lead = 1
+      GROUP BY s.distribuidor_id
+    ");
+    $stmt->execute(array($from, $to, $vuelta));
+
+    return axaiToolkit::toKeyValueArray('id', 'count', $stmt->fetchAll());
   }
 }
