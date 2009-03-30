@@ -17,6 +17,26 @@ class reportesActions extends sfActions
   */
   public function executeIndex(sfWebRequest $request)
   {
-    $this->filter = new ReportFilter();
+    $this->filter = $this->getFilter($request);
+    $fecha = $this->filter->getValue('fecha');
+
+    $this->agents = Doctrine::getTable('sfGuardUser')->getAgentsNames();
+
+    $this->leads_per_agent = Doctrine::getTable('Encuesta')
+      ->getLeadsPerAgents($fecha['from'], $fecha['to']);
+    $this->tab_tries_per_agent = Doctrine::getTable('Seguimiento')
+      ->getTabTriesPerAgents($fecha['from'], $fecha['to']);
+  }
+
+  public function getFilter($request)
+  {
+    $filter = new ReportFilter();
+
+    if ($request->hasParameter('filter'))
+    {
+      $filter->bind($request->getParameter('filter'));
+    }
+
+    return $filter;
   }
 }

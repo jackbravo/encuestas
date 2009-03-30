@@ -88,4 +88,18 @@ class EncuestaTable extends Doctrine_Table
       ->where('l.id = ?', $lead_id)
       ->execute();
   }
+
+  public function getLeadsPerAgents($from, $to)
+  {
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare("SELECT COUNT(e.id) count, a.username
+      FROM sf_guard_user a LEFT JOIN encuesta e ON e.agente_id = a.id
+      WHERE e.created_at BETWEEN ? AND ? + interval 1 day
+      GROUP BY e.agente_id
+      ORDER BY a.username
+    ");
+    $stmt->execute(array($from, $to));
+
+    return axaiToolkit::toKeyValueArray('username', 'count', $stmt->fetchAll());
+  }
 }

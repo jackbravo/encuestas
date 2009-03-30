@@ -4,5 +4,12 @@
  */
 class sfGuardUserTable extends PluginsfGuardUserTable
 {
+  public function getAgentsNames()
+  {
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare("SELECT id, username FROM sf_guard_user");
+    $stmt->execute();
 
+    return axaiToolkit::toKeyValueArray('id', 'username', $stmt->fetchAll());
+  }
 }

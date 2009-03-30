@@ -54,4 +54,18 @@ class SeguimientoTable extends Doctrine_Table
       ->where('s.lead_id = ?', $lead_id)
       ->execute();
   }
+
+  public function getTabTriesPerAgents($from, $to)
+  {
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare("SELECT COUNT(s.id) count, a.username
+      FROM sf_guard_user a LEFT JOIN seguimiento s ON s.agente_id = a.id
+      WHERE s.created_at BETWEEN ? AND ? + interval 1 day
+      GROUP BY s.agente_id
+      ORDER BY a.username
+    ");
+    $stmt->execute(array($from, $to));
+
+    return axaiToolkit::toKeyValueArray('username', 'count', $stmt->fetchAll());
+  }
 }
