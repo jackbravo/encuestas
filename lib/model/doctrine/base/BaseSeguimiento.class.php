@@ -14,8 +14,10 @@ abstract class BaseSeguimiento extends sfDoctrineRecord
         $this->hasColumn('agente_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('localizo_dist', 'boolean', null, array('type' => 'boolean'));
         $this->hasColumn('fecha_localizo_dist', 'timestamp', null, array('type' => 'timestamp'));
+        $this->hasColumn('agent_localizo_dist', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('localizo_lead', 'boolean', null, array('type' => 'boolean'));
         $this->hasColumn('fecha_localizo_lead', 'timestamp', null, array('type' => 'timestamp'));
+        $this->hasColumn('agent_localizo_lead', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('intento', 'integer', 2, array('type' => 'integer', 'notnull' => true, 'length' => '2'));
         $this->hasColumn('status', 'integer', 1, array('type' => 'integer', 'notnull' => true, 'default' => 0, 'length' => '1'));
         $this->hasColumn('notas', 'string', 255, array('type' => 'string', 'length' => '255'));
@@ -37,6 +39,14 @@ abstract class BaseSeguimiento extends sfDoctrineRecord
         $this->hasOne('sfGuardUser as Agente', array('local' => 'agente_id',
                                                      'foreign' => 'id',
                                                      'onDelete' => 'CASCADE'));
+
+        $this->hasOne('sfGuardUser as AgenteLocalizoDist', array('local' => 'agent_localizo_dist',
+                                                                 'foreign' => 'id',
+                                                                 'onDelete' => 'CASCADE'));
+
+        $this->hasOne('sfGuardUser as AgenteLocalizoLead', array('local' => 'agent_localizo_lead',
+                                                                 'foreign' => 'id',
+                                                                 'onDelete' => 'CASCADE'));
 
         $timestampable0 = new Doctrine_Template_Timestampable();
         $this->actAs($timestampable0);

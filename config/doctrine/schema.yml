@@ -201,8 +201,10 @@ Seguimiento:
     agente_id:      integer(4)
     localizo_dist:  boolean
     fecha_localizo_dist: timestamp
+    agent_localizo_dist: integer(4)
     localizo_lead:  boolean
     fecha_localizo_lead: timestamp
+    agent_localizo_lead: integer(4)
     intento: { type: integer(2), notnull: true }
     status: { type: integer(1), notnull: true, default: 0 }
     notas:          string(255)
@@ -215,9 +217,17 @@ Seguimiento:
     Lead:
       class:        Encuesta
       local:        lead_id
-      onDelete:     CASCADE 
+      onDelete:     CASCADE
     Agente:
       class:        sfGuardUser
       local:        agente_id
-      onDelete:     CASCADE 
+      onDelete:     CASCADE
+    AgenteLocalizoDist:
+      class:        sfGuardUser
+      local:        agent_localizo_dist
+      onDelete:     CASCADE
+    AgenteLocalizoLead:
+      class:        sfGuardUser
+      local:        agent_localizo_lead
+      onDelete:     CASCADE
 
