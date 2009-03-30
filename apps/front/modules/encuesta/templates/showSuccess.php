@@ -31,12 +31,11 @@
   <?php foreach ($encuesta->ProductosInteres as $producto): ?>
     <li><?php echo $producto ?></li>
   <?php endforeach; ?>
+  </ul>
 
   <strong>Medio de Contacto</strong>
   <ul>
-  <?php foreach ($encuesta->MediosContacto as $medio): ?>
-    <li><?php echo $medio ?></li>
-  <?php endforeach; ?>
+    <li><?php echo $encuesta->MedioContacto ?></li>
   </ul>
 
   <hr />

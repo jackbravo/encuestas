@@ -14,13 +14,11 @@ class BaseMedioContactoFormFilter extends BaseFormFilterDoctrine
   public function setup()
   {
     $this->setWidgets(array(
-      'descripcion'    => new sfWidgetFormFilterInput(),
-      'encuestas_list' => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Encuesta')),
+      'descripcion' => new sfWidgetFormFilterInput(),
     ));
 
     $this->setValidators(array(
-      'descripcion'    => new sfValidatorPass(array('required' => false)),
-      'encuestas_list' => new sfValidatorDoctrineChoiceMany(array('model' => 'Encuesta', 'required' => false)),
+      'descripcion' => new sfValidatorPass(array('required' => false)),
     ));
 
     $this->widgetSchema->setNameFormat('medio_contacto_filters[%s]');
@@ -28,22 +26,6 @@ class BaseMedioContactoFormFilter extends BaseFormFilterDoctrine
     $this->errorSchema = new sfValidatorErrorSchema($this->validatorSchema);
 
     parent::setup();
-  }
-
-  public function addEncuestasListColumnQuery(Doctrine_Query $query, $field, $values)
-  {
-    if (!is_array($values))
-    {
-      $values = array($values);
-    }
-
-    if (!count($values))
-    {
-      return;
-    }
-
-    $query->leftJoin('r.EncuestaMedioContacto EncuestaMedioContacto')
-          ->andWhereIn('EncuestaMedioContacto.encuesta_id', $values);
   }
 
   public function getModelName()
@@ -54,9 +36,8 @@ class BaseMedioContactoFormFilter extends BaseFormFilterDoctrine
   public function getFields()
   {
     return array(
-      'id'             => 'Number',
-      'descripcion'    => 'Text',
-      'encuestas_list' => 'ManyKey',
+      'id'          => 'Number',
+      'descripcion' => 'Text',
     );
   }
 }

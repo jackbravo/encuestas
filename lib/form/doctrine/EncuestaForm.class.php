@@ -43,13 +43,13 @@ class EncuestaForm extends BaseEncuestaForm
     $this->widgetSchema['horarios_list']->setOption('expanded', true);
     $this->widgetSchema['areas_interes_list']->setOption('expanded', true);
     $this->widgetSchema['productos_interes_list']->setOption('expanded', true);
-    $this->widgetSchema['medios_contacto_list']->setOption('multiple', false);
-    $this->widgetSchema['medios_contacto_list']->setOption('expanded', true);
+    $this->widgetSchema['medio_contacto_id']->setOption('expanded', true);
+    $this->widgetSchema['medio_contacto_id']->setOption('add_empty', false);
 
     $this->validatorSchema['email'] = new sfValidatorEmail(array('required' => false));
     $this->validatorSchema['horarios_list']->setOption('required', true);
     $this->validatorSchema['areas_interes_list']->setOption('required', true);
-    $this->validatorSchema['medios_contacto_list']->setOption('required', true);
+    $this->validatorSchema['medio_contacto_id']->setOption('required', true);
 
     foreach (array(1, 2, 3) as $num)
     {
@@ -76,7 +76,7 @@ class EncuestaForm extends BaseEncuestaForm
       'horarios_list' => 'Mejor horario para contactarle',
       'areas_interes_list' => '¿A usted le gustaría..?',
       'productos_interes_list' => '¿En qué productos está interesado?',
-      'medios_contacto_list' => '¿Cómo se enteró de este número?',
+      'medio_contacto_id' => '¿Cómo se enteró de este número?',
       'origen_datos' => 'Origen de los datos',
     ));
   }

@@ -83,6 +83,7 @@ Encuesta:
     cp: 45070
     origen_datos: 1
     Horarios: [h1]
+    MedioContacto: mc1
   e2:
     Agente: usuario
     LastDist: d2
@@ -101,6 +102,7 @@ Encuesta:
     cp: 45070
     origen_datos: 1
     Horarios: [h2,h3]
+    MedioContacto: mc2
   e3:
     Agente: usuario
     LastDist: d3
@@ -122,6 +124,7 @@ Encuesta:
     cp: '45070'
     origen_datos: 1
     Horarios: [h4]
+    MedioContacto: mc4
   e4:
     Agente: usuario
     nombre: Cesar
@@ -143,6 +146,7 @@ Encuesta:
     cp: '45070'
     origen_datos: 2
     Horarios: [h1,h2,h3]
+    MedioContacto: mc1
 
 Horario:
   h1:

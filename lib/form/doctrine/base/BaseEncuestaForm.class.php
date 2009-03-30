@@ -16,6 +16,7 @@ class BaseEncuestaForm extends BaseFormDoctrine
       'agente_id'              => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
       'viewer_id'              => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
       'last_dist_id'           => new sfWidgetFormDoctrineChoice(array('model' => 'Distribuidor', 'add_empty' => true)),
+      'medio_contacto_id'      => new sfWidgetFormDoctrineChoice(array('model' => 'MedioContacto', 'add_empty' => true)),
       'origen_datos'           => new sfWidgetFormInput(),
       'nombre'                 => new sfWidgetFormInput(),
       'apellido_p'             => new sfWidgetFormInput(),
@@ -45,7 +46,6 @@ class BaseEncuestaForm extends BaseFormDoctrine
       'horarios_list'          => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Horario')),
       'areas_interes_list'     => new sfWidgetFormDoctrineChoiceMany(array('model' => 'AreaInteres')),
       'productos_interes_list' => new sfWidgetFormDoctrineChoiceMany(array('model' => 'ProductoInteres')),
-      'medios_contacto_list'   => new sfWidgetFormDoctrineChoiceMany(array('model' => 'MedioContacto')),
     ));
 
     $this->setValidators(array(
@@ -53,6 +53,7 @@ class BaseEncuestaForm extends BaseFormDoctrine
       'agente_id'              => new sfValidatorDoctrineChoice(array('model' => 'sfGuardUser', 'required' => false)),
       'viewer_id'              => new sfValidatorDoctrineChoice(array('model' => 'sfGuardUser', 'required' => false)),
       'last_dist_id'           => new sfValidatorDoctrineChoice(array('model' => 'Distribuidor', 'required' => false)),
+      'medio_contacto_id'      => new sfValidatorDoctrineChoice(array('model' => 'MedioContacto', 'required' => false)),
       'origen_datos'           => new sfValidatorInteger(array('required' => false)),
       'nombre'                 => new sfValidatorString(array('max_length' => 255)),
       'apellido_p'             => new sfValidatorString(array('max_length' => 255)),
@@ -82,7 +83,6 @@ class BaseEncuestaForm extends BaseFormDoctrine
       'horarios_list'          => new sfValidatorDoctrineChoiceMany(array('model' => 'Horario', 'required' => false)),
       'areas_interes_list'     => new sfValidatorDoctrineChoiceMany(array('model' => 'AreaInteres', 'required' => false)),
       'productos_interes_list' => new sfValidatorDoctrineChoiceMany(array('model' => 'ProductoInteres', 'required' => false)),
-      'medios_contacto_list'   => new sfValidatorDoctrineChoiceMany(array('model' => 'MedioContacto', 'required' => false)),
     ));
 
     $this->widgetSchema->setNameFormat('encuesta[%s]');
@@ -121,11 +121,6 @@ class BaseEncuestaForm extends BaseFormDoctrine
       $this->setDefault('productos_interes_list', $this->object->ProductosInteres->getPrimaryKeys());
     }
 
-    if (isset($this->widgetSchema['medios_contacto_list']))
-    {
-      $this->setDefault('medios_contacto_list', $this->object->MediosContacto->getPrimaryKeys());
-    }
-
   }
 
   protected function doSave($con = null)
@@ -136,7 +131,6 @@ class BaseEncuestaForm extends BaseFormDoctrine
     $this->saveHorariosList($con);
     $this->saveAreasInteresList($con);
     $this->saveProductosInteresList($con);
-    $this->saveMediosContactoList($con);
   }
 
   public function saveDistribuidoresList($con = null)
@@ -244,33 +238,6 @@ class BaseEncuestaForm extends BaseFormDoctrine
     if (is_array($values))
     {
       $this->object->link('ProductosInteres', $values);
-    }
-  }
-
-  public function saveMediosContactoList($con = null)
-  {
-    if (!$this->isValid())
-    {
-      throw $this->getErrorSchema();
-    }
-
-    if (!isset($this->widgetSchema['medios_contacto_list']))
-    {
-      // somebody has unset this widget
-      return;
-    }
-
-    if (is_null($con))
-    {
-      $con = $this->getConnection();
-    }
-
-    $this->object->unlink('MediosContacto', array());
-
-    $values = $this->getValue('medios_contacto_list');
-    if (is_array($values))
-    {
-      $this->object->link('MediosContacto', $values);
     }
   }
 

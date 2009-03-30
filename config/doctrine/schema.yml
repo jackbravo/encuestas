@@ -8,6 +8,7 @@ Encuesta:
     agente_id: integer(4)
     viewer_id:      integer(4)
     last_dist_id:   integer(4)
+    medio_contacto_id: { type: integer(4) }
     origen_datos:   integer(1)
 
     # datos
@@ -52,6 +53,9 @@ Encuesta:
       foreign:      id
       foreignAlias: Encuestas
 
+    MedioContacto:
+      foreignAlias: Encuestas
+
     Distribuidores:
       class: Distribuidor
       refClass: Seguimiento
@@ -71,10 +75,6 @@ Encuesta:
     ProductosInteres:
       class: ProductoInteres
       refClass: EncuestaProductoInteres
-      foreignAlias: Encuestas
-    MediosContacto:
-      class: MedioContacto
-      refClass: EncuestaMedioContacto
       foreignAlias: Encuestas
 
 Estado:
@@ -155,18 +155,6 @@ MedioContacto:
       primary:      true
       autoincrement: true
     descripcion:    string(255)
-
-EncuestaMedioContacto:
-  columns:
-    encuesta_id: { type: integer(4), primary: true }
-    medio_contacto_id: { type: integer(4), primary: true }
-  relations:
-    Encuesta:
-      local: encuesta_id
-      onDelete: CASCADE
-    MedioContacto:
-      local: medio_contacto_id
-      onDelete: CASCADE
 
 Distribuidor:
   columns:

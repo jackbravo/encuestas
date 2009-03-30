@@ -12,6 +12,7 @@ abstract class BaseEncuesta extends sfDoctrineRecord
         $this->hasColumn('agente_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('viewer_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('last_dist_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
+        $this->hasColumn('medio_contacto_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('origen_datos', 'integer', 1, array('type' => 'integer', 'length' => '1'));
         $this->hasColumn('nombre', 'string', 255, array('type' => 'string', 'notnull' => true, 'length' => '255'));
         $this->hasColumn('apellido_p', 'string', 255, array('type' => 'string', 'notnull' => true, 'length' => '255'));
@@ -48,6 +49,9 @@ abstract class BaseEncuesta extends sfDoctrineRecord
         $this->hasOne('Distribuidor as LastDist', array('local' => 'last_dist_id',
                                                         'foreign' => 'id'));
 
+        $this->hasOne('MedioContacto', array('local' => 'medio_contacto_id',
+                                             'foreign' => 'id'));
+
         $this->hasMany('Distribuidor as Distribuidores', array('refClass' => 'Seguimiento',
                                                                'local' => 'encuesta_id',
                                                                'foreign' => 'distribuidor_id'));
@@ -67,10 +71,6 @@ abstract class BaseEncuesta extends sfDoctrineRecord
                                                                     'local' => 'encuesta_id',
                                                                     'foreign' => 'producto_interes_id'));
 
-        $this->hasMany('MedioContacto as MediosContacto', array('refClass' => 'EncuestaMedioContacto',
-                                                                'local' => 'encuesta_id',
-                                                                'foreign' => 'medio_contacto_id'));
-
         $this->hasMany('EncuestaHorario', array('local' => 'id',
                                                 'foreign' => 'encuesta_id'));
 
@@ -79,9 +79,6 @@ abstract class BaseEncuesta extends sfDoctrineRecord
 
         $this->hasMany('EncuestaProductoInteres', array('local' => 'id',
                                                         'foreign' => 'encuesta_id'));
-
-        $this->hasMany('EncuestaMedioContacto', array('local' => 'id',
-                                                      'foreign' => 'encuesta_id'));
 
         $this->hasMany('Seguimiento', array('local' => 'id',
                                             'foreign' => 'lead_id'));

@@ -94,7 +94,7 @@
   <div class="grid_12">
   <?php echo $form['areas_interes_list']->renderRow() ?>
   <?php echo $form['productos_interes_list']->renderRow() ?>
-  <?php echo $form['medios_contacto_list']->renderRow() ?>
+  <?php echo $form['medio_contacto_id']->renderRow() ?>
   <?php echo $form['notas']->renderRow() ?>
   </div>
 </fieldset>

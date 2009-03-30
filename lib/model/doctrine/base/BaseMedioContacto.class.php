@@ -14,11 +14,7 @@ abstract class BaseMedioContacto extends sfDoctrineRecord
 
     public function setUp()
     {
-        $this->hasMany('Encuesta as Encuestas', array('refClass' => 'EncuestaMedioContacto',
-                                                      'local' => 'medio_contacto_id',
-                                                      'foreign' => 'encuesta_id'));
-
-        $this->hasMany('EncuestaMedioContacto', array('local' => 'id',
+        $this->hasMany('Encuesta as Encuestas', array('local' => 'id',
                                                       'foreign' => 'medio_contacto_id'));
     }
 }

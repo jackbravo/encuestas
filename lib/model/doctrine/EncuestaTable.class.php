@@ -57,7 +57,7 @@ class EncuestaTable extends Doctrine_Table
       ->leftJoin('e.Horarios')
       ->leftJoin('e.AreasInteres')
       ->leftJoin('e.ProductosInteres')
-      ->leftJoin('e.MediosContacto')
+      ->leftJoin('e.MedioContacto')
       ->addWhere('e.id = ?', $params['id'])
       ->fetchOne();
   }

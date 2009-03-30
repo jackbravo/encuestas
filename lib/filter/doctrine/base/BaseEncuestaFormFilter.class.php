@@ -17,6 +17,7 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
       'agente_id'              => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
       'viewer_id'              => new sfWidgetFormDoctrineChoice(array('model' => 'sfGuardUser', 'add_empty' => true)),
       'last_dist_id'           => new sfWidgetFormDoctrineChoice(array('model' => 'Distribuidor', 'add_empty' => true)),
+      'medio_contacto_id'      => new sfWidgetFormDoctrineChoice(array('model' => 'MedioContacto', 'add_empty' => true)),
       'origen_datos'           => new sfWidgetFormFilterInput(),
       'nombre'                 => new sfWidgetFormFilterInput(),
       'apellido_p'             => new sfWidgetFormFilterInput(),
@@ -46,13 +47,13 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
       'horarios_list'          => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Horario')),
       'areas_interes_list'     => new sfWidgetFormDoctrineChoiceMany(array('model' => 'AreaInteres')),
       'productos_interes_list' => new sfWidgetFormDoctrineChoiceMany(array('model' => 'ProductoInteres')),
-      'medios_contacto_list'   => new sfWidgetFormDoctrineChoiceMany(array('model' => 'MedioContacto')),
     ));
 
     $this->setValidators(array(
       'agente_id'              => new sfValidatorDoctrineChoice(array('required' => false, 'model' => 'sfGuardUser', 'column' => 'id')),
       'viewer_id'              => new sfValidatorDoctrineChoice(array('required' => false, 'model' => 'sfGuardUser', 'column' => 'id')),
       'last_dist_id'           => new sfValidatorDoctrineChoice(array('required' => false, 'model' => 'Distribuidor', 'column' => 'id')),
+      'medio_contacto_id'      => new sfValidatorDoctrineChoice(array('required' => false, 'model' => 'MedioContacto', 'column' => 'id')),
       'origen_datos'           => new sfValidatorSchemaFilter('text', new sfValidatorInteger(array('required' => false))),
       'nombre'                 => new sfValidatorPass(array('required' => false)),
       'apellido_p'             => new sfValidatorPass(array('required' => false)),
@@ -82,7 +83,6 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
       'horarios_list'          => new sfValidatorDoctrineChoiceMany(array('model' => 'Horario', 'required' => false)),
       'areas_interes_list'     => new sfValidatorDoctrineChoiceMany(array('model' => 'AreaInteres', 'required' => false)),
       'productos_interes_list' => new sfValidatorDoctrineChoiceMany(array('model' => 'ProductoInteres', 'required' => false)),
-      'medios_contacto_list'   => new sfValidatorDoctrineChoiceMany(array('model' => 'MedioContacto', 'required' => false)),
     ));
 
     $this->widgetSchema->setNameFormat('encuesta_filters[%s]');
@@ -156,22 +156,6 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
           ->andWhereIn('EncuestaProductoInteres.producto_interes_id', $values);
   }
 
-  public function addMediosContactoListColumnQuery(Doctrine_Query $query, $field, $values)
-  {
-    if (!is_array($values))
-    {
-      $values = array($values);
-    }
-
-    if (!count($values))
-    {
-      return;
-    }
-
-    $query->leftJoin('r.EncuestaMedioContacto EncuestaMedioContacto')
-          ->andWhereIn('EncuestaMedioContacto.medio_contacto_id', $values);
-  }
-
   public function getModelName()
   {
     return 'Encuesta';
@@ -184,6 +168,7 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
       'agente_id'              => 'ForeignKey',
       'viewer_id'              => 'ForeignKey',
       'last_dist_id'           => 'ForeignKey',
+      'medio_contacto_id'      => 'ForeignKey',
       'origen_datos'           => 'Number',
       'nombre'                 => 'Text',
       'apellido_p'             => 'Text',
@@ -213,7 +198,6 @@ class BaseEncuestaFormFilter extends BaseFormFilterDoctrine
       'horarios_list'          => 'ManyKey',
       'areas_interes_list'     => 'ManyKey',
       'productos_interes_list' => 'ManyKey',
-      'medios_contacto_list'   => 'ManyKey',
     );
   }
 }
