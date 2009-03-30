@@ -53,6 +53,7 @@ class seguimientoActions extends sfActions
     else
       $seguimiento->localizo_dist = true;
 
+    $seguimiento->agent_localizo_dist = $this->getUser()->getId();
     $seguimiento->save();
 
     if ($seguimiento->localizo_dist && $seguimiento->intento <= 2)
@@ -71,6 +72,7 @@ class seguimientoActions extends sfActions
       $seguimiento->localizo_lead = true;
     }
 
+    $seguimiento->agent_localizo_lead = $this->getUser()->getId();
     $seguimiento->save();
 
     if ($seguimiento->localizo_lead === true ||
