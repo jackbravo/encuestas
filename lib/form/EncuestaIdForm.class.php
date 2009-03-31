@@ -10,5 +10,15 @@ class EncuestaIdForm extends BaseEncuestaForm
     }
     $this->validatorSchema['my_dist_id']->setOption('required', true);
     $this->widgetSchema->setLabel('my_dist_id', 'ID de distribuidor');
+
+    $this->validatorSchema->setPostValidator(new sfValidatorDoctrineUnique(
+      array(
+        'model' => 'Encuesta',
+        'column' => 'my_dist_id',
+      ),
+      array(
+        'invalid' => 'Ya existe un lead con ese ID'
+      )
+    ));
   }
 }
