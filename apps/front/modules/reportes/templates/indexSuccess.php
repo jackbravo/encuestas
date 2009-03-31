@@ -19,12 +19,12 @@
     <tr>
       <th>Agente</th>
       <th>Leads por agente</th>
-      <th>Asignaciones de TAB por agente (24 hrs.)</th>
-      <th>48 hrs.</th>
-      <th>Asignaciones exitosas de TAB por agente (24 hrs.)</th>
-      <th>48 hrs.</th>
-      <th>Seguimientos a lead por agente (24 hrs.)</th>
-      <th>48 hrs.</th>
+      <th>Asignaciones de TAB por agente (48 hrs.)</th>
+      <th>24 hrs.</th>
+      <th>Asignaciones exitosas de TAB por agente (48 hrs.)</th>
+      <th>24 hrs.</th>
+      <th>Seguimientos a lead por agente (48 hrs.)</th>
+      <th>24 hrs.</th>
     </tr>
   </thead>
   <tbody>
