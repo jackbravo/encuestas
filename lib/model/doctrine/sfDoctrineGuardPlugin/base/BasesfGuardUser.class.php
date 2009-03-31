@@ -46,6 +46,9 @@ abstract class BasesfGuardUser extends sfDoctrineRecord
         $this->hasMany('Encuesta as EncuestasVistas', array('local' => 'id',
                                                             'foreign' => 'viewer_id'));
 
+        $this->hasMany('Encuesta as LeadsConvertidos', array('local' => 'id',
+                                                             'foreign' => 'agent_my_dist_id'));
+
         $this->hasMany('Seguimiento', array('local' => 'id',
                                             'foreign' => 'agente_id'));
 

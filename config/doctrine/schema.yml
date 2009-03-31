@@ -10,7 +10,8 @@ Encuesta:
     last_dist_id:   integer(4)
     medio_contacto_id: { type: integer(4) }
     origen_datos:   integer(1)
-    my_dist_id:     integer(4)
+    my_dist_id:     integer
+    agent_my_dist_id: integer(4)
 
     # datos
     nombre:         { type: string(255), notnull: true }
@@ -53,6 +54,11 @@ Encuesta:
       local:        last_dist_id
       foreign:      id
       foreignAlias: Encuestas
+    AgenteDistId:
+      class:        sfGuardUser
+      local:        agent_my_dist_id
+      foreign:      id
+      foreignAlias: LeadsConvertidos
 
     MedioContacto:
       foreignAlias: Encuestas
