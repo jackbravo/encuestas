@@ -14,6 +14,7 @@ abstract class BaseEncuesta extends sfDoctrineRecord
         $this->hasColumn('last_dist_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('medio_contacto_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('origen_datos', 'integer', 1, array('type' => 'integer', 'length' => '1'));
+        $this->hasColumn('my_dist_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('nombre', 'string', 255, array('type' => 'string', 'notnull' => true, 'length' => '255'));
         $this->hasColumn('apellido_p', 'string', 255, array('type' => 'string', 'notnull' => true, 'length' => '255'));
         $this->hasColumn('apellido_m', 'string', 255, array('type' => 'string', 'notnull' => true, 'length' => '255'));

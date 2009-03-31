@@ -12,7 +12,8 @@ class EncuestaForm extends BaseEncuestaForm
   public function configure()
   {
     unset($this['agente_id'], $this['created_at'], $this['updated_at'],
-      $this['viewer_id'], $this['last_dist_id'], $this['distribuidores_list']);
+      $this['viewer_id'], $this['last_dist_id'], $this['distribuidores_list'],
+      $this['my_dist_id']);
 
     $this->widgetSchema['estado_id']->setOption('add_empty', true);
 

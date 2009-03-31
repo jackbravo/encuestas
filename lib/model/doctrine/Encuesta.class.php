@@ -118,4 +118,9 @@ class Encuesta extends BaseEncuesta
 
     return false;
   }
+
+  public function __toString()
+  {
+    return $this->nombre . ' ' . $this->apellido_p . ' ' . $this->apellido_m;
+  }
 }

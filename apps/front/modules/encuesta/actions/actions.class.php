@@ -77,6 +77,20 @@ class encuestaActions extends sfActions
     $this->setTemplate('edit');
   }
 
+  public function executeEditId(sfWebRequest $request)
+  {
+    $this->form = new EncuestaIdForm($this->getRoute()->getObject());
+  }
+
+  public function executeUpdateId(sfWebRequest $request)
+  {
+    $this->form = new EncuestaIdForm($this->getRoute()->getObject());
+
+    $this->processForm($request, $this->form);
+
+    $this->setTemplate('editId');
+  }
+
   public function executeDelete(sfWebRequest $request)
   {
     $request->checkCSRFProtection();

@@ -2,12 +2,16 @@
 <div id="content" class="grid_8">
 
   <div class="subheader">
+    <?php echo link_to('Asignar ID', 'encuesta_editId', $encuesta) ?>
     <?php if ($sf_user->hasCredential('admin')): ?>
-      <?php echo link_to('Editar', 'encuesta_edit', $encuesta) ?>
+      | <?php echo link_to('Editar', 'encuesta_edit', $encuesta) ?>
     <?php endif; ?>
   </div>
 
-  <h2><?php echo $encuesta->id . ': ' . $encuesta->nombre . ' ' . $encuesta->apellido_p . ' ' . $encuesta->apellido_m ?></h2>
+  <h2>
+    <?php echo $encuesta->id . ': ' . $encuesta ?>
+    <?php if ($encuesta->my_dist_id) echo '<small>(ID '.$encuesta->my_dist_id.')</small>' ?>
+  </h2>
   Encuestado por <strong><?php echo $encuesta->Agente ?></strong>
   <small><?php echo $encuesta->created_at ?></small>
 
