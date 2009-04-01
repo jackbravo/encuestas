@@ -43,6 +43,14 @@ class reportesActions extends sfActions
       ->getTabPerAgents($fecha['from'], $fecha['to'], 2);
     $this->lead_per_agent_2 = Doctrine::getTable('Seguimiento')
       ->getLeadPerAgents($fecha['from'], $fecha['to'], 2);
+
+    if ($request->hasParameter('_export'))
+    {
+      $this->getResponse()->setContentType('text/csv');
+      $this->getResponse()->setHttpHeader('Content-Disposition', 'attachment; filename=agentes.csv');
+      $this->setLayout(false);
+      $this->setTemplate('index.csv'); return '';
+    }
   }
 
   public function executeTabs(sfWebRequest $request)

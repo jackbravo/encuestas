@@ -10,6 +10,7 @@
 <form method="get">
 <?php echo $filter ?>
 <input type="submit" value="Filtrar" />
+<input type="submit" value="Exportar" name="_export" />
 </form>
 
 <br/>
