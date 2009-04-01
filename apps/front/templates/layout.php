@@ -37,9 +37,9 @@ $('#ajax-loader').ajaxStart(function(){
     <?php
       $links = array(
         'encuesta_new' => array('label' => 'Nueva Encuesta'),
-        'encuesta' => array('label' => 'Encuestas', 'perm' => 'admin'),
         'leads' => array('label' => 'Leads sin TAB'),
         'seguimiento' => array('label' => 'Seguimiento'),
+        'encuesta' => array('label' => 'Encuestas'),
       );
 
       foreach ($links as $route => $link)
