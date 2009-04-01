@@ -3,7 +3,7 @@
 
   <div class="subheader">
     <?php if (!is_numeric($encuesta->my_dist_id) || $sf_user->hasCredential('admin'))
-            echo link_to('Asignar ID', 'encuesta_editId', $encuesta) ?>
+            echo link_to('Asignar ID', '@encuesta_editId?id=', $encuesta->id) ?>
     <?php if ($sf_user->hasCredential('admin')): ?>
       | <?php echo link_to('Editar', 'encuesta_edit', $encuesta) ?>
     <?php endif; ?>
