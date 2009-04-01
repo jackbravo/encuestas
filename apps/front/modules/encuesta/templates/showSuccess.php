@@ -2,7 +2,8 @@
 <div id="content" class="grid_8">
 
   <div class="subheader">
-    <?php echo link_to('Asignar ID', 'encuesta_editId', $encuesta) ?>
+    <?php if (!is_numeric($encuesta->my_dist_id) || $sf_user->hasCredential('admin'))
+            echo link_to('Asignar ID', 'encuesta_editId', $encuesta) ?>
     <?php if ($sf_user->hasCredential('admin')): ?>
       | <?php echo link_to('Editar', 'encuesta_edit', $encuesta) ?>
     <?php endif; ?>
