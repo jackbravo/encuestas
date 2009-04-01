@@ -14,6 +14,16 @@ class Encuesta extends BaseEncuesta
     }
   }
 
+  public function preSave($event)
+  {
+    $modified = $this->getModified();
+    if (array_key_exists('my_dist_id', $modified))
+    {
+      $this->agent_my_dist_id = myUser::getCurrentId();
+      $this->fecha_my_dist_id = date('Y-m-d H:m:i');
+    }
+  }
+
   public function printGenero()
   {
     switch ($this->genero) {

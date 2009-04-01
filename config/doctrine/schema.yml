@@ -12,6 +12,7 @@ Encuesta:
     origen_datos:   integer(1)
     my_dist_id:     integer
     agent_my_dist_id: integer(4)
+    fecha_my_dist_id: timestamp
 
     # datos
     nombre:         { type: string(255), notnull: true }
