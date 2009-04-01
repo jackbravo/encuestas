@@ -74,6 +74,14 @@ class reportesActions extends sfActions
       ->getLeadPerTab($fecha['from'], $fecha['to'], 2);
     $this->seg_per_tab_2 = Doctrine::getTable('Seguimiento')
       ->getSegPerTab($fecha['from'], $fecha['to'], 2);
+
+    if ($request->hasParameter('_export'))
+    {
+      $this->getResponse()->setContentType('text/csv');
+      $this->getResponse()->setHttpHeader('Content-Disposition', 'attachment; filename=tabs.csv');
+      $this->setLayout(false);
+      $this->setTemplate('tabs.csv'); return '';
+    }
   }
 
   public function getFilter($request)
