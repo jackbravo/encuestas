@@ -25,6 +25,9 @@ class reportesActions extends sfActions
     $this->leads_per_agent = Doctrine::getTable('Encuesta')
       ->getLeadsPerAgents($fecha['from'], $fecha['to']);
 
+    $this->leads_to_dist = Doctrine::getTable('Encuesta')
+      ->getLeadsToDistPerAgents($fecha['from'], $fecha['to']);
+
     // vuelta 1
     $this->tab_tries_per_agent = Doctrine::getTable('Seguimiento')
       ->getTabTriesPerAgents($fecha['from'], $fecha['to']);
@@ -48,6 +51,9 @@ class reportesActions extends sfActions
     $fecha = $this->filter->getValue('fecha');
 
     $this->tabs = Doctrine::getTable('Distribuidor')->getTabNames();
+
+    $this->leads_to_dist = Doctrine::getTable('Encuesta')
+      ->getLeadsToDistPerTabs($fecha['from'], $fecha['to']);
 
     // vuelta 1
     $this->lead_per_tab = Doctrine::getTable('Seguimiento')

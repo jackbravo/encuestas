@@ -101,4 +101,30 @@ class EncuestaTable extends Doctrine_Table
 
     return axaiToolkit::toKeyValueArray('username', 'count', $stmt->fetchAll());
   }
+
+  public function getLeadsToDistPerAgents($from, $to)
+  {
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare("SELECT COUNT(e.id) count, a.username
+      FROM sf_guard_user a LEFT JOIN encuesta e ON e.agent_my_dist_id = a.id
+      WHERE e.fecha_my_dist_id BETWEEN ? AND ? + interval 1 day
+      GROUP BY e.agent_my_dist_id
+    ");
+    $stmt->execute(array($from, $to));
+
+    return axaiToolkit::toKeyValueArray('username', 'count', $stmt->fetchAll());
+  }
+
+  public function getLeadsToDistPerTabs($from, $to)
+  {
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare("SELECT COUNT(*) count, e.last_dist_id id
+      FROM encuesta e
+      WHERE e.my_dist_id IS NOT NULL
+      GROUP BY e.last_dist_id
+    ");
+    $stmt->execute(array($from, $to));
+
+    return axaiToolkit::toKeyValueArray('id', 'count', $stmt->fetchAll());
+  }
 }

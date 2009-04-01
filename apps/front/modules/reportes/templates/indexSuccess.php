@@ -25,6 +25,7 @@
       <th>24 hrs.</th>
       <th>Seguimientos a lead por agente (48 hrs.)</th>
       <th>24 hrs.</th>
+      <th>IDs de distribuidor asignados</th>
     </tr>
   </thead>
   <tbody>
@@ -38,6 +39,7 @@
         <td title="Asignaciones exitosas de TAB por agente (24 hrs.)"><?php if (isset($tab_per_agent_2[$agent])) echo $tab_per_agent_2[$agent] ?></td>
         <td title="Seguimientos a leads por agente (48 hrs.)"><?php if (isset($lead_per_agent[$agent])) echo $lead_per_agent[$agent] ?></td>
         <td title="Seguimientos a leads por agente (24 hrs.)"><?php if (isset($lead_per_agent_2[$agent])) echo $lead_per_agent_2[$agent] ?></td>
+        <td title="IDs de distribuidor ssignados"><?php if (isset($leads_to_dist[$agent])) echo $leads_to_dist[$agent] ?></td>
       </tr>
     <?php endforeach ?>
   </tbody>
