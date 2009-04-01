@@ -32,7 +32,7 @@ class leadsActions extends sfActions
 
     if ($request->getParameter('_id') != '')
     {
-      $this->redirect('@encuesta_show?id=' . $request->getParameter('_id'));
+      $this->goToEncuesta($request->getParameter('_id'));
     }
 
     $this->filter = $this->getFilter($request);
@@ -46,6 +46,15 @@ class leadsActions extends sfActions
 
     $this->pager = $this->getPager($request, $this->filter);
     $this->setTemplate('index');
+  }
+
+  public function goToEncuesta($id)
+  {
+    if (is_numeric($id)) {
+      $this->redirect('@encuesta_show?id=' . $id);
+    } else {
+      $this->getUser()->setFlash('error', 'Interacción # debe ser sólo números');
+    }
   }
 
   protected function getPager($request, $filter)
