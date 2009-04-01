@@ -34,10 +34,9 @@ class SeguimientoTable extends Doctrine_Table
   public function findVueltaQuery()
   {
     return Doctrine::getTable('Encuesta')->createQuery('l')
-      ->select('l.id, l.nombre, l.apellido_p, l.apellido_m, edo.nombre, l.ciudad')
-      ->addSelect('s.fecha_localizo_dist, d.name, h.rango')
+      ->select('l.id, l.nombre, l.apellido_p, l.apellido_m, d.state, l.ciudad')
+      ->addSelect('s.fecha_localizo_dist, d.name, h.rango, l.rangos_horario')
       ->leftJoin('l.Seguimiento s')
-      ->leftJoin('l.Estado edo')
       ->leftJoin('l.Horarios h')
       ->leftJoin('s.Distribuidor d')
       ->addWhere('l.viewer_id IS NULL')

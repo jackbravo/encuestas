@@ -7,6 +7,7 @@
     <tr>
       <th>Int #</th>
       <th>Nombre lead</th>
+      <th>Horario</th>
       <th>Nombre TAB</th>
       <th>Estado</th>
       <th>Ciudad</th>
@@ -21,8 +22,9 @@
       ?>">
       <td><?php echo link_to($encuesta['id'], '@encuesta_show?id=' . $encuesta['id']) ?></td>
       <td><?php echo link_to($encuesta['nombre'] . ' ' . $encuesta['apellido_p'] . ' ' . $encuesta['apellido_m'], '@encuesta_show?id=' . $encuesta['id']) ?></td>
+      <td><?php echo $encuesta['rangos_horario'] ?></td>
       <td><?php echo $encuesta['Seguimiento'][0]['Distribuidor']['name'] ?></td>
-      <td><?php echo $encuesta['Estado']['nombre'] ?></td>
+      <td><?php echo $encuesta['Seguimiento'][0]['Distribuidor']['state'] ?></td>
       <td><?php echo $encuesta['ciudad'] ?></td>
       <td><?php echo $encuesta['Seguimiento'][0]['fecha_localizo_dist'] ?></td>
     </tr>
@@ -36,6 +38,7 @@
     <tr>
       <th>Int #</th>
       <th>Nombre lead</th>
+      <th>Horario</th>
       <th>Nombre TAB</th>
       <th>Estado</th>
       <th>Ciudad</th>
@@ -50,8 +53,9 @@
       ?>">
       <td><?php echo link_to($encuesta['id'], '@encuesta_show?id=' . $encuesta['id']) ?></td>
       <td><?php echo link_to($encuesta['nombre'] . ' ' . $encuesta['apellido_p'] . ' ' . $encuesta['apellido_m'], '@encuesta_show?id=' . $encuesta['id']) ?></td>
+      <td><?php echo $encuesta['rangos_horario'] ?></td>
       <td><?php echo $encuesta['Seguimiento'][0]['Distribuidor']['name'] ?></td>
-      <td><?php echo $encuesta['Estado']['nombre'] ?></td>
+      <td><?php echo $encuesta['Seguimiento'][0]['Distribuidor']['state'] ?></td>
       <td><?php echo $encuesta['ciudad'] ?></td>
       <td><?php echo $encuesta['Seguimiento'][0]['fecha_localizo_dist'] ?></td>
     </tr>
