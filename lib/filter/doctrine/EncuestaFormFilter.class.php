@@ -13,6 +13,18 @@ class EncuestaFormFilter extends BaseEncuestaFormFilter
   {
     $this->widgetSchema->setFormFormatterName('div');
 
+    $this->widgetSchema['nacimiento'] = new sfWidgetFormDateRange(array(
+      'from_date' => new sfWidgetFormJQueryDate(array(
+        'culture' => 'es_MX', 'format' => '%day%/%month%/%year%',
+        'image' => '/tvpresence/images/calendar.gif',
+      )),
+      'to_date' => new sfWidgetFormJQueryDate(array(
+        'culture' => 'es_MX', 'format' => '%day%/%month%/%year%',
+        'image' => '/tvpresence/images/calendar.gif',
+      )),
+      'template' => '%from_date% -<br/>%to_date%',
+    ));
+
     $this->widgetSchema['nombre']->setOption('with_empty', false);
     $this->widgetSchema['nombre']->setOption('template', '%input%');
     $this->widgetSchema['nombre']->setAttribute('size', '15');
