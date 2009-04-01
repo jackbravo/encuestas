@@ -13,6 +13,7 @@ Encuesta:
     my_dist_id:     integer
     agent_my_dist_id: integer(4)
     fecha_my_dist_id: timestamp
+    rangos_horario: string(40)
 
     # datos
     nombre:         { type: string(255), notnull: true }

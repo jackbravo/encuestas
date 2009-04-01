@@ -22,6 +22,13 @@ class Encuesta extends BaseEncuesta
       $this->agent_my_dist_id = myUser::getCurrentId();
       $this->fecha_my_dist_id = date('Y-m-d H:m:i');
     }
+
+    $horarios = array();
+    foreach ($this->Horarios as $horario) {
+      $horarios[] = $horario->rango;
+    }
+    sort($horarios);
+    $this->rangos_horario = implode(',', $horarios);
   }
 
   public function printGenero()
