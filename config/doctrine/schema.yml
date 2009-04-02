@@ -10,7 +10,7 @@ Encuesta:
     last_dist_id:   integer(4)
     medio_contacto_id: { type: integer(4) }
     origen_datos:   integer(1)
-    my_dist_id:     integer
+    my_dist_id:     string(10)
     agent_my_dist_id: integer(4)
     fecha_my_dist_id: timestamp
     rangos_horario: string(40)
