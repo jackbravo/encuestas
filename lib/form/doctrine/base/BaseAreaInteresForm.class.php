@@ -71,12 +71,23 @@ class BaseAreaInteresForm extends BaseFormDoctrine
       $con = $this->getConnection();
     }
 
-    $this->object->unlink('Encuestas', array());
-
+    $existing = $this->object->Encuestas->getPrimaryKeys();
     $values = $this->getValue('encuestas_list');
-    if (is_array($values))
+    if (!is_array($values))
     {
-      $this->object->link('Encuestas', $values);
+      $values = array();
+    }
+
+    $unlink = array_diff($existing, $values);
+    if (count($unlink))
+    {
+      $this->object->unlink('Encuestas', array_values($unlink));
+    }
+
+    $link = array_diff($values, $existing);
+    if (count($link))
+    {
+      $this->object->link('Encuestas', array_values($link));
     }
   }
 

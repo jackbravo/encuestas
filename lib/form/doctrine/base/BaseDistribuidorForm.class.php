@@ -99,12 +99,23 @@ class BaseDistribuidorForm extends BaseFormDoctrine
       $con = $this->getConnection();
     }
 
-    $this->object->unlink('Leads', array());
-
+    $existing = $this->object->Leads->getPrimaryKeys();
     $values = $this->getValue('leads_list');
-    if (is_array($values))
+    if (!is_array($values))
     {
-      $this->object->link('Leads', $values);
+      $values = array();
+    }
+
+    $unlink = array_diff($existing, $values);
+    if (count($unlink))
+    {
+      $this->object->unlink('Leads', array_values($unlink));
+    }
+
+    $link = array_diff($values, $existing);
+    if (count($link))
+    {
+      $this->object->link('Leads', array_values($link));
     }
   }
 
