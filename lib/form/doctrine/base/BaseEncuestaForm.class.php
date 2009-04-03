@@ -159,12 +159,23 @@ class BaseEncuestaForm extends BaseFormDoctrine
       $con = $this->getConnection();
     }
 
-    $this->object->unlink('Distribuidores', array());
-
+    $existing = $this->object->Distribuidores->getPrimaryKeys();
     $values = $this->getValue('distribuidores_list');
-    if (is_array($values))
+    if (!is_array($values))
     {
-      $this->object->link('Distribuidores', $values);
+      $values = array();
+    }
+
+    $unlink = array_diff($existing, $values);
+    if (count($unlink))
+    {
+      $this->object->unlink('Distribuidores', array_values($unlink));
+    }
+
+    $link = array_diff($values, $existing);
+    if (count($link))
+    {
+      $this->object->link('Distribuidores', array_values($link));
     }
   }
 
@@ -186,12 +197,23 @@ class BaseEncuestaForm extends BaseFormDoctrine
       $con = $this->getConnection();
     }
 
-    $this->object->unlink('Horarios', array());
-
+    $existing = $this->object->Horarios->getPrimaryKeys();
     $values = $this->getValue('horarios_list');
-    if (is_array($values))
+    if (!is_array($values))
     {
-      $this->object->link('Horarios', $values);
+      $values = array();
+    }
+
+    $unlink = array_diff($existing, $values);
+    if (count($unlink))
+    {
+      $this->object->unlink('Horarios', array_values($unlink));
+    }
+
+    $link = array_diff($values, $existing);
+    if (count($link))
+    {
+      $this->object->link('Horarios', array_values($link));
     }
   }
 
@@ -213,12 +235,23 @@ class BaseEncuestaForm extends BaseFormDoctrine
       $con = $this->getConnection();
     }
 
-    $this->object->unlink('AreasInteres', array());
-
+    $existing = $this->object->AreasInteres->getPrimaryKeys();
     $values = $this->getValue('areas_interes_list');
-    if (is_array($values))
+    if (!is_array($values))
     {
-      $this->object->link('AreasInteres', $values);
+      $values = array();
+    }
+
+    $unlink = array_diff($existing, $values);
+    if (count($unlink))
+    {
+      $this->object->unlink('AreasInteres', array_values($unlink));
+    }
+
+    $link = array_diff($values, $existing);
+    if (count($link))
+    {
+      $this->object->link('AreasInteres', array_values($link));
     }
   }
 
@@ -240,12 +273,23 @@ class BaseEncuestaForm extends BaseFormDoctrine
       $con = $this->getConnection();
     }
 
-    $this->object->unlink('ProductosInteres', array());
-
+    $existing = $this->object->ProductosInteres->getPrimaryKeys();
     $values = $this->getValue('productos_interes_list');
-    if (is_array($values))
+    if (!is_array($values))
     {
-      $this->object->link('ProductosInteres', $values);
+      $values = array();
+    }
+
+    $unlink = array_diff($existing, $values);
+    if (count($unlink))
+    {
+      $this->object->unlink('ProductosInteres', array_values($unlink));
+    }
+
+    $link = array_diff($values, $existing);
+    if (count($link))
+    {
+      $this->object->link('ProductosInteres', array_values($link));
     }
   }
 
