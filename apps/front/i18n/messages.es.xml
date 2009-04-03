@@ -134,6 +134,10 @@
         <target>Requerido.</target>
       </trans-unit>
       <trans-unit>
+        <source>Invalid.</source>
+        <target>Tipo de dato inválido.</target>
+      </trans-unit>
+      <trans-unit>
         <source>"%value%" is not an integer.</source>
         <target>"%value%" debe contener sólo números.</target>
       </trans-unit>
