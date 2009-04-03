@@ -27,7 +27,6 @@ class Encuesta extends BaseEncuesta
     foreach ($this->Horarios as $horario) {
       $horarios[] = $horario->rango;
     }
-    sort($horarios);
     $this->rangos_horario = implode(',', $horarios);
   }
 
