@@ -10,12 +10,19 @@
  */
 class helpActions extends sfActions
 {
- /**
-  * Executes index action
-  *
-  * @param sfRequest $request A request object
-  */
+  public function preExecute()
+  {
+    include(sfConfig::get('sf_lib_dir')
+      . DIRECTORY_SEPARATOR . 'vendor'
+      . DIRECTORY_SEPARATOR . 'Markdown'
+      . DIRECTORY_SEPARATOR . 'markdown.php');
+  }
+
   public function executeIndex(sfWebRequest $request)
+  {
+  }
+
+  public function executeAdmin(sfWebRequest $request)
   {
   }
 }

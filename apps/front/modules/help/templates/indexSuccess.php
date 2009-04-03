@@ -1,14 +1,14 @@
+<h1>TV Presence - Sistema de encuestas</h1>
+
+<ul>
+  <?php if ($sf_user->hasCredential('admin')): ?>
+    <li><?php echo link_to('Documentación para administradores', 'help/admin') ?></li>
+  <?php endif ?>
+</ul>
+
 <?php
 
-include(sfConfig::get('sf_lib_dir')
-  . DIRECTORY_SEPARATOR . 'vendor'
-  . DIRECTORY_SEPARATOR . 'Markdown'
-  . DIRECTORY_SEPARATOR . 'markdown.php');
-
 echo Markdown(<<<EOD
-
-TV Presence - Sistema de encuestas
-==================================
 
 ### Registrar un lead
 
@@ -91,6 +91,7 @@ Si el distribuidor no ha contactado al lead después de esas 48 horas, el agente
 deberá asignará a otro distribuidor mediante la opción `Solicitar nuevo distribuidor`,
 de esta manera el lead pasa a la `Segunda vuelta`.
 
+
 ### Seguimiento segunda vuelta
 
 Esta lista, dentro de la sección `Seguimiento` muestra los leads a los que les fué
@@ -102,6 +103,27 @@ afirmativo se selecciona la casilla `Sí` y aquí termina el proceso.
 Si este segundo distribuidor no ha contactado al lead después de esas 24 horas,
 el agente deberá seleccionar la casilla `No` y aquí termina el proceso.
 
+
+### Asignar un ID de distribuidor a un lead
+
+Los miembros del TAB Team que logren convertir en distribuidor a un lead enviarán el
+ID de distribuidor de esos leads a los agentes del call center. Estos deben ingresar
+estos IDs en el sistema.
+
+Para esto se necesita buscar al lead, lo cuál se puede hacer a través de la página de
+`Encuestas`, que permite ver a todos los leads registrados en el sistema. Esta vista
+cuenta con filtros de:
+
+- Nombre
+- Apellido Paterno
+- Fecha de Nacimiento
+- Estado
+- Ciudad
+
+Una vez localizado al lead se da click en su nombre para ir a la página del lead. Ahí,
+en la parte superior derecha hay un link de `Asignar ID` que nos lleva a una forma
+que nos permite ingresar el número de distribuidor que se le asignó a ese lead.
+__Una vez ingresado un número no puede ser cambiado más que por un administrador.__
 
 Glosario
 ========
