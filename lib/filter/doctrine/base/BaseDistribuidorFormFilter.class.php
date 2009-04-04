@@ -29,6 +29,7 @@ class BaseDistribuidorFormFilter extends BaseFormFilterDoctrine
       'm2_ro'       => new sfWidgetFormFilterInput(),
       'm3_vp'       => new sfWidgetFormFilterInput(),
       'm3_ro'       => new sfWidgetFormFilterInput(),
+      'total_vp'    => new sfWidgetFormFilterInput(),
       'leads_list'  => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Encuesta')),
     ));
 
@@ -48,6 +49,7 @@ class BaseDistribuidorFormFilter extends BaseFormFilterDoctrine
       'm2_ro'       => new sfValidatorSchemaFilter('text', new sfValidatorInteger(array('required' => false))),
       'm3_vp'       => new sfValidatorSchemaFilter('text', new sfValidatorInteger(array('required' => false))),
       'm3_ro'       => new sfValidatorSchemaFilter('text', new sfValidatorInteger(array('required' => false))),
+      'total_vp'    => new sfValidatorSchemaFilter('text', new sfValidatorInteger(array('required' => false))),
       'leads_list'  => new sfValidatorDoctrineChoiceMany(array('model' => 'Encuesta', 'required' => false)),
     ));
 
@@ -82,7 +84,7 @@ class BaseDistribuidorFormFilter extends BaseFormFilterDoctrine
   public function getFields()
   {
     return array(
-      'id'          => 'Number',
+      'id'          => 'Text',
       'name'        => 'Text',
       'level'       => 'Text',
       'city'        => 'Text',
@@ -98,6 +100,7 @@ class BaseDistribuidorFormFilter extends BaseFormFilterDoctrine
       'm2_ro'       => 'Number',
       'm3_vp'       => 'Number',
       'm3_ro'       => 'Number',
+      'total_vp'    => 'Number',
       'leads_list'  => 'ManyKey',
     );
   }

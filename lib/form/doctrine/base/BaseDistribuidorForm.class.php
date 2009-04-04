@@ -28,6 +28,7 @@ class BaseDistribuidorForm extends BaseFormDoctrine
       'm2_ro'       => new sfWidgetFormInput(),
       'm3_vp'       => new sfWidgetFormInput(),
       'm3_ro'       => new sfWidgetFormInput(),
+      'total_vp'    => new sfWidgetFormInput(),
       'leads_list'  => new sfWidgetFormDoctrineChoiceMany(array('model' => 'Encuesta')),
     ));
 
@@ -37,9 +38,9 @@ class BaseDistribuidorForm extends BaseFormDoctrine
       'level'       => new sfValidatorString(array('max_length' => 50, 'required' => false)),
       'city'        => new sfValidatorString(array('max_length' => 100, 'required' => false)),
       'state'       => new sfValidatorString(array('max_length' => 100, 'required' => false)),
-      'contact1'    => new sfValidatorString(array('max_length' => 100, 'required' => false)),
-      'contact2'    => new sfValidatorString(array('max_length' => 100, 'required' => false)),
-      'contact3'    => new sfValidatorString(array('max_length' => 100, 'required' => false)),
+      'contact1'    => new sfValidatorString(array('max_length' => 50, 'required' => false)),
+      'contact2'    => new sfValidatorString(array('max_length' => 50, 'required' => false)),
+      'contact3'    => new sfValidatorString(array('max_length' => 50, 'required' => false)),
       'tally'       => new sfValidatorInteger(),
       'performance' => new sfValidatorInteger(array('required' => false)),
       'm1_vp'       => new sfValidatorInteger(array('required' => false)),
@@ -48,6 +49,7 @@ class BaseDistribuidorForm extends BaseFormDoctrine
       'm2_ro'       => new sfValidatorInteger(array('required' => false)),
       'm3_vp'       => new sfValidatorInteger(array('required' => false)),
       'm3_ro'       => new sfValidatorInteger(array('required' => false)),
+      'total_vp'    => new sfValidatorInteger(array('required' => false)),
       'leads_list'  => new sfValidatorDoctrineChoiceMany(array('model' => 'Encuesta', 'required' => false)),
     ));
 
