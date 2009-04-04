@@ -1,5 +1,6 @@
 <div class="grid_12">
 <h1>Seguimiento</h1>
+<p class="help">Leads que necesitan ser localizados para comprobar si su TAB Team los pudo contactar.</p>
 
 <table class="list">
   <caption>Segunda vuelta</caption>

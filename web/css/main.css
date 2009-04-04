@@ -402,6 +402,13 @@ fieldset legend {
   margin-bottom: -2px;
 }
 
+.help {
+  color: #666;
+  margin-top: -10px;
+  margin-bottom: 10px;
+  font-size: 90%;
+}
+
 /* ------------- admin -------------- */
 #sf_admin_container th {
   background-color: #dec;
