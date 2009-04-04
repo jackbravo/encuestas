@@ -1,5 +1,6 @@
 <div class="grid_9">
 <h1>Leads sin TAB</h1>
+<p class="help">Son leads a los que todavía no se les asigna un TAB team o que el TAB Team que se le asignó no ha sido localizado todavía.</p>
 
 <table class="list">
   <thead>

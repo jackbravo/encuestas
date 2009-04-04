@@ -27,7 +27,7 @@ class seguimientoActions extends sfActions
 
     $dist = Doctrine::getTable('Distribuidor')->findNextDist($lead);
     if (! $dist) {
-      $this->getUser()->setFlash('notice', 'No se encontro distribuidor para el lead ' . $lead->id);
+      $this->getUser()->setFlash('notice', 'No se encontro distribuidor para el lead.');
       $this->redirect('@encuesta_show?id=' . $lead->id);
     }
 
@@ -40,6 +40,7 @@ class seguimientoActions extends sfActions
     }
     else
     {
+      $this->getUser()->setFlash('notice', 'Ahora tienes que localizar al miembro TAB para darle los datos del lead. Los datos del TAB aparecen en el bloque inferior de la derecha. Utiliza todos tus recursos disponibles para localizarlo.');
       $this->redirect('@encuesta_show?id=' . $lead->id);
     }
   }
@@ -56,8 +57,11 @@ class seguimientoActions extends sfActions
     $seguimiento->agent_localizo_dist = $this->getUser()->getId();
     $seguimiento->save();
 
-    if ($seguimiento->localizo_dist && $seguimiento->intento <= 2)
-      $this->getUser()->setFlash('notice', "Ahora puede esperar el periodo para la vuelta $seguimiento->intento");
+    if (!$seguimiento->localizo_dist) {
+      $this->getUser()->setFlash('notice', "Si a pesar de todo no pudiste localizar al miembro TAB entonces asigna otro miembro TAB.");
+    } else if ($seguimiento->localizo_dist && $seguimiento->intento <= 2) {
+      $this->getUser()->setFlash('notice', "No necesitas hacer nada más hasta que pase el periodo de espera para la vuelta $seguimiento->intento.");
+    }
     $this->redirect('@encuesta_show?id=' . $seguimiento->lead_id);
   }
 
@@ -76,8 +80,11 @@ class seguimientoActions extends sfActions
     $seguimiento->save();
 
     if ($seguimiento->localizo_lead === true ||
-        $seguimiento->localizo_lead === false && $seguimiento->intento == 2)
-      $this->getUser()->setFlash('notice', "El seguimiento ha terminado");
+        $seguimiento->localizo_lead === false && $seguimiento->intento == 2) {
+      $this->getUser()->setFlash('notice', "El seguimiento ha terminado.");
+    } else {
+      $this->getUser()->setFlash('notice', "Necesitas asignarle otro miembro TAB.");
+    }
     $this->redirect('@encuesta_show?id=' . $seguimiento->lead_id);
   }
 

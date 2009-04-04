@@ -1,5 +1,6 @@
 <div class="grid_9">
 <h1>Encuestas</h1>
+<p class="help">Desde aquí puedes buscar a un lead que haya sido convertido en distribuidor para asignarle su número de ID.</p>
 
 <table class="list">
   <thead>
