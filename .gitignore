@@ -3,6 +3,7 @@ log
 *.swp
 *.swo
 *.svn*
+*~
 apps/*/config/app.yml
 data/sql/schema.sql
 lib/vendor/symfony
