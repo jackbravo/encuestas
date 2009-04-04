@@ -1,4 +1,5 @@
 <h1>TAB Team</h1>
+<p class="help">Esta tabla muestra a todos los miembros del TAB team registrados en el sistema durante el momento de la consulta. Los distribuidores están ordenados de la misma manera en que se ordenan al solicitar un nuevo TAB team para un lead.</p>
 
 <div id="filters">
 <form action="<?php echo url_for('@distribuidor_filter') ?>" method="post">

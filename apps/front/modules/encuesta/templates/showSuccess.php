@@ -13,12 +13,19 @@
     <?php echo $encuesta->id . ': ' . $encuesta ?>
     <?php if ($encuesta->my_dist_id) echo '<small>(ID '.$encuesta->my_dist_id.')</small>' ?>
   </h2>
-  Encuestado por <strong><?php echo $encuesta->Agente ?></strong>
-  <small><?php echo $encuesta->created_at ?></small>
+  <p class="help">Encuestado por <strong><?php echo $encuesta->Agente ?></strong>
+  <small><?php echo $encuesta->created_at ?></small></p>
 
   <?php if (! Encuesta::dentroDeHorario($encuesta->Horarios)): ?>
     <div class="box notice">Estas fuera del horario de contacto de este lead</div>
   <?php endif ?>
+
+  <strong>Horario de contacto:</strong>
+  <ul>
+  <?php foreach ($encuesta->Horarios as $horario): ?>
+    <li><?php echo $horario ?></li>
+  <?php endforeach; ?>
+  </ul>
 
   <hr />
 
@@ -121,12 +128,6 @@
       }
     ?>
     <?php if ($encuesta->email) echo '<strong>Email: </strong>' . $encuesta->email . '<br/>' ?>
-    <strong>Horario de contacto:</strong>
-    <ul>
-    <?php foreach ($encuesta->Horarios as $horario): ?>
-      <li><?php echo $horario ?></li>
-    <?php endforeach; ?>
-    </ul>
     <?php if ($encuesta->nacimiento) echo '<strong>Fecha de Nacimiento: </strong>' . $encuesta->nacimiento . '<br/>' ?>
     <?php if ($encuesta->genero) echo '<strong>Genero: </strong>' . $encuesta->printGenero() . '<br/>' ?>
 
