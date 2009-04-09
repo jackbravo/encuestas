@@ -29,6 +29,16 @@
   </thead>
   <tbody>
     <?php foreach($tabs as $id => $tab): ?>
+      <?php if (fmod($id, 15) == 0): ?>
+        <tr>
+          <th>TAB</th>
+          <th>Leads por TAB (48 hrs.)</th>
+          <th>24 hrs.</th>
+          <th>Seguimientos por TAB (48 hrs.)</th>
+          <th>24 hrs.</th>
+          <th>IDs de distribuidor asignados</th>
+        </tr>
+      <?php endif ?>
       <tr>
         <td><?php echo link_to($tab, '@distribuidor_show?id=' . $id) ?></td>
         <td title="Leads por TAB (48 hrs.)"><?php if(isset($lead_per_tab[$id])) echo $lead_per_tab[$id] ?></td>

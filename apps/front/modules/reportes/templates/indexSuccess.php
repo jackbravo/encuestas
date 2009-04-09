@@ -32,6 +32,19 @@
   </thead>
   <tbody>
     <?php foreach($agents as $id => $agent): ?>
+      <?php if (fmod($id, 15) == 0): ?>
+        <tr>
+          <th>Agente</th>
+          <th>Leads por agente</th>
+          <th>Asignaciones de TAB por agente (48 hrs.)</th>
+          <th>24 hrs.</th>
+          <th>Asignaciones exitosas de TAB por agente (48 hrs.)</th>
+          <th>24 hrs.</th>
+          <th>Seguimientos a lead por agente (48 hrs.)</th>
+          <th>24 hrs.</th>
+          <th>IDs de distribuidor asignados</th>
+        </tr>
+      <?php endif ?>
       <tr>
         <td><?php echo $agent ?></td>
         <td title="Leads por agente"><?php if (isset($leads_per_agent[$agent])) echo $leads_per_agent[$agent] ?></td>
