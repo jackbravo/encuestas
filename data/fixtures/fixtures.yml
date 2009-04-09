@@ -172,7 +172,7 @@ AreaInteres:
   ai1:
     descripcion: Convertirse en distribuidor
   ai2:
-    descripcion: Únicamente comprar producto
+    descripcion: Comprar producto
 
 ProductoInteres:
   pi2:
