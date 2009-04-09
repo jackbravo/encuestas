@@ -90,12 +90,14 @@ class EncuestaTable extends Doctrine_Table
 
   public function getLeadsPerAgents($from, $to)
   {
+    $sql = "SELECT COUNT(e.id) count, a.username
+      FROM sf_guard_user a LEFT JOIN encuesta e ON e.agente_id = a.id";
+    if ($from !== null) {
+      $sql .= " WHERE e.created_at BETWEEN ? AND ? + interval 1 day";
+    }
+    $sql .= " GROUP BY e.agente_id";
     $dbh = $this->getConnection();
-    $stmt = $dbh->prepare("SELECT COUNT(e.id) count, a.username
-      FROM sf_guard_user a LEFT JOIN encuesta e ON e.agente_id = a.id
-      WHERE e.created_at BETWEEN ? AND ? + interval 1 day
-      GROUP BY e.agente_id
-    ");
+    $stmt = $dbh->prepare($sql);
     $stmt->execute(array($from, $to));
 
     return axaiToolkit::toKeyValueArray('username', 'count', $stmt->fetchAll());
@@ -103,12 +105,14 @@ class EncuestaTable extends Doctrine_Table
 
   public function getLeadsToDistPerAgents($from, $to)
   {
+    $sql = "SELECT COUNT(e.id) count, a.username
+      FROM sf_guard_user a LEFT JOIN encuesta e ON e.agent_my_dist_id = a.id";
+    if ($from !== null) {
+      $sql .= " WHERE e.fecha_my_dist_id BETWEEN ? AND ? + interval 1 day";
+    }
+    $sql .= " GROUP BY e.agent_my_dist_id";
     $dbh = $this->getConnection();
-    $stmt = $dbh->prepare("SELECT COUNT(e.id) count, a.username
-      FROM sf_guard_user a LEFT JOIN encuesta e ON e.agent_my_dist_id = a.id
-      WHERE e.fecha_my_dist_id BETWEEN ? AND ? + interval 1 day
-      GROUP BY e.agent_my_dist_id
-    ");
+    $stmt = $dbh->prepare($sql);
     $stmt->execute(array($from, $to));
 
     return axaiToolkit::toKeyValueArray('username', 'count', $stmt->fetchAll());

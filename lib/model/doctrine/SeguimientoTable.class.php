@@ -56,67 +56,90 @@ class SeguimientoTable extends Doctrine_Table
 
   public function getTabTriesPerAgents($from, $to, $vuelta = 1)
   {
-    $dbh = $this->getConnection();
-    $stmt = $dbh->prepare("SELECT COUNT(s.id) count, a.username
+    $params = array($vuelta);
+    $sql = "SELECT COUNT(s.id) count, a.username
       FROM sf_guard_user a LEFT JOIN seguimiento s ON s.agente_id = a.id
-      WHERE s.created_at BETWEEN ? AND ? + interval 1 day AND intento = ?
-      GROUP BY s.agente_id
-    ");
-    $stmt->execute(array($from, $to, $vuelta));
+      WHERE intento = ?";
+    if ($from !== null) {
+      $sql .= " AND s.created_at BETWEEN ? AND ? + interval 1 day";
+      $params = array($vuelta, $from, $to);
+    }
+    $sql .= " GROUP BY s.agente_id";
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute($params);
 
     return axaiToolkit::toKeyValueArray('username', 'count', $stmt->fetchAll());
   }
 
   public function getTabPerAgents($from, $to, $vuelta = 1)
   {
-    $dbh = $this->getConnection();
-    $stmt = $dbh->prepare("SELECT COUNT(s.id) count, a.username
+    $params = array($vuelta);
+    $sql = "SELECT COUNT(s.id) count, a.username
       FROM sf_guard_user a LEFT JOIN seguimiento s ON s.agent_localizo_dist = a.id
-      WHERE s.fecha_localizo_dist BETWEEN ? AND ? + interval 1 day AND intento = ?
-        AND s.localizo_dist = 1
-      GROUP BY s.agent_localizo_dist
-    ");
-    $stmt->execute(array($from, $to, $vuelta));
+      WHERE  intento = ? AND s.localizo_dist = 1";
+    if ($from !== null) {
+      $sql .= " AND s.fecha_localizo_dist BETWEEN ? AND ? + interval 1 day";
+      $params = array($vuelta, $from, $to);
+    }
+    $sql .= " GROUP BY s.agent_localizo_dist";
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute($params);
 
     return axaiToolkit::toKeyValueArray('username', 'count', $stmt->fetchAll());
   }
 
   public function getLeadPerAgents($from, $to, $vuelta = 1)
   {
-    $dbh = $this->getConnection();
-    $stmt = $dbh->prepare("SELECT COUNT(s.id) count, a.username
+    $params = array($vuelta);
+    $sql = "SELECT COUNT(s.id) count, a.username
       FROM sf_guard_user a LEFT JOIN seguimiento s ON s.agent_localizo_lead = a.id
-      WHERE s.fecha_localizo_lead BETWEEN ? AND ? + interval 1 day AND intento = ?
-      GROUP BY s.agent_localizo_lead
-    ");
-    $stmt->execute(array($from, $to, $vuelta));
+      WHERE intento = ?";
+    if ($from !== null) {
+      $sql .= " AND s.fecha_localizo_lead BETWEEN ? AND ? + interval 1 day";
+      $params = array($vuelta, $from, $to);
+    }
+    $sql .= " GROUP BY s.agent_localizo_lead";
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute($params);
 
     return axaiToolkit::toKeyValueArray('username', 'count', $stmt->fetchAll());
   }
 
   public function getLeadPerTab($from, $to, $vuelta = 1)
   {
-    $dbh = $this->getConnection();
-    $stmt = $dbh->prepare("SELECT COUNT(s.id) count, d.id
+    $params = array($vuelta);
+    $sql = "SELECT COUNT(s.id) count, d.id
       FROM distribuidor d LEFT JOIN seguimiento s ON s.distribuidor_id = d.id
-      WHERE s.created_at BETWEEN ? AND ? + interval 1 day AND intento = ?
-      GROUP BY s.distribuidor_id
-    ");
-    $stmt->execute(array($from, $to, $vuelta));
+      WHERE intento = ?";
+    if ($from !== null) {
+      $sql .= " AND s.created_at BETWEEN ? AND ? + interval 1 day";
+      $params = array($vuelta, $from, $to);
+    }
+    $sql .= " GROUP BY s.distribuidor_id";
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute($params);
 
     return axaiToolkit::toKeyValueArray('id', 'count', $stmt->fetchAll());
   }
 
   public function getSegPerTab($from, $to, $vuelta = 1)
   {
-    $dbh = $this->getConnection();
-    $stmt = $dbh->prepare("SELECT COUNT(s.id) count, d.id
+    $params = array($vuelta);
+    $sql = "SELECT COUNT(s.id) count, d.id
       FROM distribuidor d LEFT JOIN seguimiento s ON s.distribuidor_id = d.id
-      WHERE s.created_at BETWEEN ? AND ? + interval 1 day AND intento = ?
-        AND localizo_lead = 1
-      GROUP BY s.distribuidor_id
-    ");
-    $stmt->execute(array($from, $to, $vuelta));
+      WHERE intento = ? AND localizo_lead = 1";
+    if ($from !== null) {
+      $sql .= " AND s.created_at BETWEEN ? AND ? + interval 1 day";
+      $params = array($vuelta, $from, $to);
+    }
+    $sql .= " GROUP BY s.distribuidor_id";
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute($params);
 
     return axaiToolkit::toKeyValueArray('id', 'count', $stmt->fetchAll());
   }
