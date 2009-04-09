@@ -126,6 +126,24 @@ class SeguimientoTable extends Doctrine_Table
     return axaiToolkit::toKeyValueArray('id', 'count', $stmt->fetchAll());
   }
 
+  public function getAsignPerTab($from, $to, $vuelta = 1)
+  {
+    $params = array($vuelta);
+    $sql = "SELECT COUNT(s.id) count, d.id
+      FROM distribuidor d LEFT JOIN seguimiento s ON s.distribuidor_id = d.id
+      WHERE intento = ? AND localizo_dist = 1";
+    if ($from !== null) {
+      $sql .= " AND s.created_at BETWEEN ? AND ? + interval 1 day";
+      $params = array($vuelta, $from, $to);
+    }
+    $sql .= " GROUP BY s.distribuidor_id";
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute($params);
+
+    return axaiToolkit::toKeyValueArray('id', 'count', $stmt->fetchAll());
+  }
+
   public function getSegPerTab($from, $to, $vuelta = 1)
   {
     $params = array($vuelta);

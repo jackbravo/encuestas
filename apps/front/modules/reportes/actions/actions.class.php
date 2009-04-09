@@ -67,12 +67,16 @@ class reportesActions extends sfActions
     // vuelta 1
     $this->lead_per_tab = Doctrine::getTable('Seguimiento')
       ->getLeadPerTab($fecha['from'], $fecha['to']);
+    $this->asign_per_tab = Doctrine::getTable('Seguimiento')
+      ->getAsignPerTab($fecha['from'], $fecha['to']);
     $this->seg_per_tab = Doctrine::getTable('Seguimiento')
       ->getSegPerTab($fecha['from'], $fecha['to']);
 
     // vuelta 2
     $this->lead_per_tab_2 = Doctrine::getTable('Seguimiento')
       ->getLeadPerTab($fecha['from'], $fecha['to'], 2);
+    $this->asign_per_tab_2 = Doctrine::getTable('Seguimiento')
+      ->getAsignPerTab($fecha['from'], $fecha['to'], 2);
     $this->seg_per_tab_2 = Doctrine::getTable('Seguimiento')
       ->getSegPerTab($fecha['from'], $fecha['to'], 2);
 

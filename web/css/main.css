@@ -218,6 +218,11 @@ table.list td {
   padding: 5px 4px;
 }
 
+table.table th, table.table td {
+  text-align: center;
+  border: 1px solid #167C14;
+}
+
 /** table small **/
 
 table.small {
