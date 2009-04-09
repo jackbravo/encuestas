@@ -122,13 +122,6 @@
           <?php echo $form['m3_ro'] ?>
         </td>
       </tr>
-      <tr>
-        <th><?php echo $form['leads_list']->renderLabel() ?></th>
-        <td>
-          <?php echo $form['leads_list']->renderError() ?>
-          <?php echo $form['leads_list'] ?>
-        </td>
-      </tr>
     </tbody>
   </table>
 </form>

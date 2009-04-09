@@ -11,5 +11,6 @@ class DistribuidorForm extends BaseDistribuidorForm
 {
   public function configure()
   {
+    unset($this['leads_list']);
   }
 }

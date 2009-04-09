@@ -92,7 +92,7 @@ class distribuidorActions extends sfActions
     {
       $distribuidor = $form->save();
 
-      $this->redirect('@distribuidor_edit?id='.$distribuidor['id']);
+      $this->redirect('@distribuidor_show?id='.$distribuidor['id']);
     }
   }
 
