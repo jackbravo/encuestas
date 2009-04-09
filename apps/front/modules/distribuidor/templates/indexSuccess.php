@@ -20,8 +20,8 @@
       <th>Id</th>
       <th>Nombre</th>
       <th>Nivel</th>
-      <th>Estado</th>
       <th>Ciudad</th>
+      <th>Estado</th>
       <th>Tally</th>
       <th>Desempeño</th>
     </tr>
@@ -34,8 +34,8 @@
       <td><?php echo link_to($distribuidor['id'], '@distribuidor_show?id=' . $distribuidor['id']) ?></td>
       <td><?php echo link_to($distribuidor['name'], '@distribuidor_show?id=' . $distribuidor['id']) ?></a></td>
       <td><?php echo $distribuidor['level'] ?></td>
-      <td><?php echo $distribuidor['state'] ?></td>
       <td><?php echo $distribuidor['city'] ?></td>
+      <td><?php echo $distribuidor['state'] ?></td>
       <td><?php echo $distribuidor['tally'] ?></td>
       <td><?php echo $distribuidor['performance'] ?></td>
     </tr>
