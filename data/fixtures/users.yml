@@ -50,3 +50,7 @@ sfGuardPermission:
     name:           admin
     description:    Administrator permission
 
+  user_perm:
+    name:           usuario
+    description:    User permission
+
