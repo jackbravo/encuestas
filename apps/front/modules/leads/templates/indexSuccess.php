@@ -43,6 +43,7 @@
   </div>
   <?php echo $filter['nombre']->renderRow() ?>
   <?php echo $filter['apellido_p']->renderRow() ?>
+  <?php echo $filter['apellido_m']->renderRow() ?>
   <?php echo $filter['nacimiento']->renderRow() ?>
   <?php echo $filter['estado_id']->renderRow() ?>
   <?php echo $filter['ciudad']->renderRow() ?>
