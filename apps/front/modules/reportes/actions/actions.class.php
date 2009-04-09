@@ -17,6 +17,7 @@ class reportesActions extends sfActions
   */
   public function executeIndex(sfWebRequest $request)
   {
+    Doctrine::getTable('Encuesta')->unlockAll($this->getUser()->getId());
     $this->filter = $this->getFilter($request);
     $fecha = $this->filter->getValue('fecha');
 

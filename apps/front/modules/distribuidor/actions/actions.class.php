@@ -12,6 +12,7 @@ class distribuidorActions extends sfActions
 {
   public function executeIndex(sfWebRequest $request)
   {
+    Doctrine::getTable('Encuesta')->unlockAll($this->getUser()->getId());
     $this->filter = $this->getFilter($request);
     $this->pager = $this->getPager($request, $this->filter);
   }

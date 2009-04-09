@@ -12,6 +12,7 @@ class helpActions extends sfActions
 {
   public function preExecute()
   {
+    Doctrine::getTable('Encuesta')->unlockAll($this->getUser()->getId());
     include(sfConfig::get('sf_lib_dir')
       . DIRECTORY_SEPARATOR . 'vendor'
       . DIRECTORY_SEPARATOR . 'Markdown'

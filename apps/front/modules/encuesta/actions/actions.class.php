@@ -60,6 +60,7 @@ class encuestaActions extends sfActions
 
   public function executeNew(sfWebRequest $request)
   {
+    Doctrine::getTable('Encuesta')->unlockAll($this->getUser()->getId());
     $this->form = new EncuestaForm();
   }
 
