@@ -9,7 +9,7 @@ abstract class BaseSeguimiento extends sfDoctrineRecord
     {
         $this->setTableName('seguimiento');
         $this->hasColumn('id', 'integer', 4, array('type' => 'integer', 'primary' => true, 'autoincrement' => true, 'length' => '4'));
-        $this->hasColumn('distribuidor_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
+        $this->hasColumn('distribuidor_id', 'string', 15, array('type' => 'string', 'length' => '15'));
         $this->hasColumn('lead_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('agente_id', 'integer', 4, array('type' => 'integer', 'length' => '4'));
         $this->hasColumn('localizo_dist', 'boolean', null, array('type' => 'boolean'));

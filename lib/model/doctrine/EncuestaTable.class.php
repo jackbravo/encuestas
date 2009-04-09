@@ -73,11 +73,10 @@ class EncuestaTable extends Doctrine_Table
 
   public function setLastDist($lead_id, $dist_id)
   {
-    $this->createQuery('l')
-      ->update()
-      ->set('last_dist_id', $dist_id)
-      ->where('l.id = ?', $lead_id)
-      ->execute();
+    // TODO: report bug to doctrine
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare("UPDATE encuesta SET last_dist_id = ? WHERE id = ?");
+    $stmt->execute(array($dist_id, $lead_id));
   }
 
   public function unsetLastDist($lead_id)

@@ -3,9 +3,47 @@ sfGuardUser:
     username:       admin
     password:       admin
     is_super_admin: true
+  adminmkt:
+    username:       adminmkt
+    password:       adminmkt
+    is_super_admin: true
+  admindso:
+    username:       admindso
+    password:       admindso
+    is_super_admin: true
   usuario:
     username:       usuario
     password:       usuario
+  usuario1:
+    username:       usuario1
+    password:       usuario1
+  usuario2:
+    username:       usuario2
+    password:       usuario2
+  usuario3:
+    username:       usuario3
+    password:       usuario3
+  usuario4:
+    username:       usuario4
+    password:       usuario4
+  usuario5:
+    username:       usuario5
+    password:       usuario5
+  usuario6:
+    username:       usuario6
+    password:       usuario6
+  usuario7:
+    username:       usuario7
+    password:       usuario7
+  usuario8:
+    username:       usuario8
+    password:       usuario8
+  usuario9:
+    username:       usuario9
+    password:       usuario9
+  usuario10:
+    username:       usuario10
+    password:       usuario10
 
 sfGuardPermission:
   admin_perm:

@@ -7,10 +7,10 @@ Encuesta:
       autoincrement: true
     agente_id: integer(4)
     viewer_id:      integer(4)
-    last_dist_id:   integer(4)
+    last_dist_id:   string(15)
     medio_contacto_id: { type: integer(4) }
     origen_datos:   integer(1)
-    my_dist_id:     string(10)
+    my_dist_id:     string(15)
     agent_my_dist_id: integer(4)
     fecha_my_dist_id: timestamp
     rangos_horario: string(40)
@@ -168,15 +168,15 @@ MedioContacto:
 Distribuidor:
   columns:
     id:
-      type:         integer(4)
+      type:         string(15)
       primary:      true
     name:           string(255)
     level:          string(50)
     city:           string(100)
     state:          string(100)
-    contact1:       string(100)
-    contact2:       string(100)
-    contact3:       string(100)
+    contact1:       string(50)
+    contact2:       string(50)
+    contact3:       string(50)
     tally: { type: integer(4), notnull: true, default: 0 }
     performance:    integer(4)
     m1_vp:          integer(4)
@@ -185,6 +185,7 @@ Distribuidor:
     m2_ro:          integer(4)
     m3_vp:          integer(4)
     m3_ro:          integer(4)
+    total_vp:       integer(4)
 
 Seguimiento:
   actAs: [Timestampable]
@@ -193,7 +194,7 @@ Seguimiento:
       type:         integer(4)
       primary:      true
       autoincrement: true
-    distribuidor_id: integer(4)
+    distribuidor_id: string(15)
     lead_id:        integer(4)
     agente_id:      integer(4)
     localizo_dist:  boolean

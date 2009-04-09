@@ -59,7 +59,7 @@ class BaseEncuestaForm extends BaseFormDoctrine
       'last_dist_id'           => new sfValidatorDoctrineChoice(array('model' => 'Distribuidor', 'required' => false)),
       'medio_contacto_id'      => new sfValidatorDoctrineChoice(array('model' => 'MedioContacto', 'required' => false)),
       'origen_datos'           => new sfValidatorInteger(array('required' => false)),
-      'my_dist_id'             => new sfValidatorString(array('max_length' => 10, 'required' => false)),
+      'my_dist_id'             => new sfValidatorString(array('max_length' => 15, 'required' => false)),
       'agent_my_dist_id'       => new sfValidatorDoctrineChoice(array('model' => 'sfGuardUser', 'required' => false)),
       'fecha_my_dist_id'       => new sfValidatorDateTime(array('required' => false)),
       'rangos_horario'         => new sfValidatorString(array('max_length' => 40, 'required' => false)),

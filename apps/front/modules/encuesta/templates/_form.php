@@ -1,7 +1,13 @@
 <?php include_stylesheets_for_form($form) ?>
 <?php include_javascripts_for_form($form) ?>
 
-<?php echo form_tag_for($form, '@encuesta') ?>
+<?php if ($form->getObject()->isNew()): ?>
+  <form action="<?php echo url_for('@encuesta_create') ?>" method="post" >
+<?php else: ?>
+  <form action="<?php echo url_for('@encuesta_update?id=' . $form->getObject()->id) ?>" method="post" >
+    <input type="hidden" name="sf_method" value="put" />
+<?php endif; ?>
+
   <?php echo $form->renderHiddenFields() ?>
   <?php echo $form->renderGlobalErrors() ?>
 
@@ -108,7 +114,7 @@
 
   &nbsp;<a href="<?php echo url_for('@homepage') ?>">Cancelar</a>
   <?php if (!$form->getObject()->isNew()): ?>
-    &nbsp;<?php echo link_to('Borrar', 'encuesta_delete', $form->getObject(), array('method' => 'delete', 'confirm' => '¿Estás seguro?')) ?>
+    &nbsp;<?php echo link_to('Borrar', '@encuesta_delete?id=' . $form->getObject()->id, array('method' => 'delete', 'confirm' => '¿Estás seguro?')) ?>
   <?php endif; ?>
   <input type="submit" value="Enviar" />
 </form>
