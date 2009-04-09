@@ -11,6 +11,7 @@
 <?php echo $filter ?>
 <input type="submit" value="Filtrar" />
 <input type="submit" value="Exportar" name="_export" />
+&nbsp;<?php echo link_to('Quitar filtros', 'reportes/tabs') ?>
 </form>
 
 <br/>
