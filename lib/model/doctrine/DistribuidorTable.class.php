@@ -39,6 +39,7 @@ class DistribuidorTable extends Doctrine_Table
   public function getForShow($params)
   {
     return $this->createQuery('d')
+      ->select('d.*, e.nombre, e.apellido_p, e.apellido_m, e.id')
       ->leftJoin('d.Encuestas e')
       ->addWhere('d.id = ?', $params['id'])
       ->fetchOne();

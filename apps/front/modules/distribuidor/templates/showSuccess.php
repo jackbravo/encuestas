@@ -34,7 +34,7 @@
 <h3>Leads asignados</h3>
 <?php foreach ($distribuidor->Encuestas as $lead): ?>
 <ul>
-  <li><?php echo link_to("#$lead->id, $lead->nombre", 'encuesta_show', $lead) ?></li>
+  <li><?php echo link_to("#$lead->id, $lead", 'encuesta_show', $lead) ?></li>
 </ul>
 <?php endforeach ?>
 
