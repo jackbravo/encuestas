@@ -47,6 +47,7 @@
   <?php echo $filter['nacimiento']->renderRow() ?>
   <?php echo $filter['estado_id']->renderRow() ?>
   <?php echo $filter['ciudad']->renderRow() ?>
+  <?php echo $filter['created_at']->renderRow() ?>
 
   <input type="submit" value="Filtrar" />
   &nbsp;<?php echo link_to('Quitar filtros', '@leads_filter', array('query_string' => '_reset', 'method' => 'post')) ?>

@@ -13,16 +13,30 @@ class EncuestaFormFilter extends BaseEncuestaFormFilter
   {
     $this->widgetSchema->setFormFormatterName('div');
 
-    $this->widgetSchema['nacimiento'] = new sfWidgetFormDateRange(array(
-      'from_date' => new sfWidgetFormJQueryDate(array(
-        'culture' => 'es_MX', 'format' => '%day%/%month%/%year%',
-        'image' => '/tvpresence/images/calendar.gif',
+    $years = range(1900, date('Y'));
+    $this->widgetSchema['created_at'] = new sfWidgetFormFilterDate(array(
+      'from_date' => new sfWidgetFormDate(array(
+        'format' => '%day%/%month%/%year%',
+        'years' => array_combine($years, $years),
       )),
-      'to_date' => new sfWidgetFormJQueryDate(array(
-        'culture' => 'es_MX', 'format' => '%day%/%month%/%year%',
-        'image' => '/tvpresence/images/calendar.gif',
+      'to_date' => new sfWidgetFormDate(array(
+        'format' => '%day%/%month%/%year%',
+        'years' => array_combine($years, $years),
       )),
       'template' => '%from_date% -<br/>%to_date%',
+      'with_empty' => false,
+    ));
+    $this->widgetSchema['nacimiento'] = new sfWidgetFormFilterDate(array(
+      'from_date' => new sfWidgetFormDate(array(
+        'format' => '%day%/%month%/%year%',
+        'years' => array_combine($years, $years),
+      )),
+      'to_date' => new sfWidgetFormDate(array(
+        'format' => '%day%/%month%/%year%',
+        'years' => array_combine($years, $years),
+      )),
+      'template' => '%from_date% -<br/>%to_date%',
+      'with_empty' => false,
     ));
 
     $this->widgetSchema['nombre']->setOption('with_empty', false);
@@ -38,6 +52,7 @@ class EncuestaFormFilter extends BaseEncuestaFormFilter
       'apellido_p' => 'Apellido Paterno',
       'apellido_m' => 'Apellido Materno',
       'estado_id' => 'en',
+      'created_at' => 'Fecha de Registro',
     ));
   }
 }
