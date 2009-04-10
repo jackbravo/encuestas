@@ -127,6 +127,15 @@ class reportesActions extends sfActions
     $this->setLayout(false);
   }
 
+  public function executeEncuestas(sfWebRequest $request)
+  {
+    $this->segs = Doctrine::getTable('Encuesta')->getForExport();
+
+    $this->getResponse()->setContentType('text/csv');
+    $this->getResponse()->setHttpHeader('Content-Disposition', 'attachment; filename=encuestas.csv');
+    $this->setLayout(false);
+  }
+
   public function getFilter($request)
   {
     $filter = new ReportFilter();

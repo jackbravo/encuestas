@@ -147,4 +147,49 @@ class EncuestaTable extends Doctrine_Table
 
     return $stmt->fetchAll();
   }
+
+  public function getForExport()
+  {
+    $sql = "
+      SELECT e.id AS interaccion, u.username AS agente, d.id AS distribuidor_id,
+        CASE WHEN origen_datos = 1 then 'tel'
+             WHEN origen_datos = 2 then 'mail'
+        END AS origen_datos,
+        mc.descripcion, rangos_horario, e.nombre, e.apellido_p, e.apellido_m,
+        nacimiento, genero, telefono1, ext1,
+        CASE WHEN tel_tipo1 = 1 then 'casa'
+             WHEN tel_tipo1 = 2 then 'oficina'
+             WHEN tel_tipo1 = 3 then 'celular'
+             WHEN tel_tipo1 = 4 then 'nextel'
+        END AS tel_tipo_1,
+        telefono2, ext2,
+        CASE WHEN tel_tipo2 = 1 then 'casa'
+             WHEN tel_tipo2 = 2 then 'oficina'
+             WHEN tel_tipo2 = 3 then 'celular'
+             WHEN tel_tipo2 = 4 then 'nextel'
+        END AS tel_tipo_2,
+        telefono3, ext3,
+        CASE WHEN tel_tipo3 = 1 then 'casa'
+             WHEN tel_tipo3 = 2 then 'oficina'
+             WHEN tel_tipo3 = 3 then 'celular'
+             WHEN tel_tipo3 = 4 then 'nextel'
+        END AS tel_tipo_3,
+        e.email, ciudad, edo.nombre as estado, colonia, calle, numero, cp, notas,
+        ai.descripcion AS area_interes, pi.descripcion AS producto_interes
+      FROM encuesta e
+        LEFT JOIN sf_guard_user u ON u.id = e.agente_id
+        LEFT JOIN distribuidor d ON d.id = e.last_dist_id
+        LEFT JOIN medio_contacto mc ON mc.id = e.medio_contacto_id
+        LEFT JOIN estado edo ON edo.id = e.estado_id
+        LEFT JOIN encuesta_area_interes eai ON eai.encuesta_id = e.id
+        LEFT JOIN area_interes ai ON ai.id = eai.area_interes_id
+        LEFT JOIN encuesta_producto_interes epi ON epi.encuesta_id = e.id
+        LEFT JOIN producto_interes pi ON pi.id = epi.producto_interes_id
+    ";
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute();
+
+    return $stmt->fetchAll(PDO::FETCH_ASSOC);
+  }
 }
