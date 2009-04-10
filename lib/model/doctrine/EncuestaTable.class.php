@@ -141,6 +141,7 @@ class EncuestaTable extends Doctrine_Table
     if ($from !== null) {
       $sql .= " AND e.created_at BETWEEN ? AND ? + interval 1 day";
     }
+    $sql .= " ORDER BY edo.nombre, e.ciudad, e.nombre";
     $dbh = $this->getConnection();
     $stmt = $dbh->prepare($sql);
     $stmt->execute(array($from, $to));

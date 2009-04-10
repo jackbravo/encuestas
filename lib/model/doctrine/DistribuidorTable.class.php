@@ -59,7 +59,8 @@ class DistribuidorTable extends Doctrine_Table
     $sql = "SELECT d.id, d.name, d.city, d.state
       FROM distribuidor d
         LEFT JOIN seguimiento s ON s.distribuidor_id = d.id
-      WHERE s.distribuidor_id IS NULL";
+      WHERE s.distribuidor_id IS NULL
+      ORDER BY d.state, d.city, d.name";
     $dbh = $this->getConnection();
     $stmt = $dbh->prepare($sql);
     $stmt->execute();
