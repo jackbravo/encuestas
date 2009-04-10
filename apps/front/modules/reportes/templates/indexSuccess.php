@@ -14,32 +14,35 @@
 <br/>
 
 <table class="list table">
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th colspan="3">Asignaciones de TAB</th>
-      <th colspan="3">Asignaciones exitosas de TAB</th>
-      <th colspan="3">Seguimientos<br><small>Monitoreo de seguimientos a leads</small></th>
-      <th></th>
-    </tr>
-    <tr>
-      <th>Agente</th>
-      <th>Leads registrados</th>
-      <th>1a vuelta</th>
-      <th>2a vuelta</th>
-      <th>Total</th>
-      <th>1a vuelta</th>
-      <th>2a vuelta</th>
-      <th>Total</th>
-      <th>1a vuelta</th>
-      <th>2a vuelta</th>
-      <th>Total</th>
-      <th>IDs de distribuidor asignados</th>
-    </tr>
-  </thead>
   <tbody>
-    <?php foreach($agents as $id => $agent): ?>
+    <?php
+      $i = -1;
+      foreach($agents as $id => $agent):
+        $i++;
+        if (fmod($i, 15) == 0): ?>
+            <tr>
+              <th></th>
+              <th></th>
+              <th colspan="3">Asignaciones de TAB</th>
+              <th colspan="3">Asignaciones exitosas de TAB</th>
+              <th colspan="3">Seguimientos<br><small>Monitoreo de seguimientos a leads</small></th>
+              <th></th>
+            </tr>
+            <tr>
+              <th>Agente</th>
+              <th>Leads registrados</th>
+              <th>1a vuelta</th>
+              <th>2a vuelta</th>
+              <th>Total</th>
+              <th>1a vuelta</th>
+              <th>2a vuelta</th>
+              <th>Total</th>
+              <th>1a vuelta</th>
+              <th>2a vuelta</th>
+              <th>Total</th>
+              <th>IDs de distribuidor asignados</th>
+            </tr>
+      <?php endif ?>
       <tr>
         <td><?php echo $agent ?></td>
         <td><?php if (isset($leads_per_agent[$agent])) echo $leads_per_agent[$agent] ?></td>

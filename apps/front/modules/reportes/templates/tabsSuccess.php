@@ -14,7 +14,12 @@
 <br/>
 
 <table class="list table">
-  <thead>
+  <tbody>
+    <?php
+      $i = -1;
+      foreach($tabs as $id => $tab):
+        $i++;
+        if (fmod($i, 15) == 0): ?>
     <tr>
       <th></th>
       <th colspan="3">Asignaciones<br><small>Total histórico</small></th>
@@ -35,10 +40,6 @@
       <th>Total</th>
       <th>Total</th>
     </tr>
-  </thead>
-  <tbody>
-    <?php foreach($tabs as $id => $tab): ?>
-      <?php if (fmod($id, 15) == 0): ?>
       <?php endif ?>
       <tr>
         <td><?php echo link_to($tab, '@distribuidor_show?id=' . $id) ?></td>
