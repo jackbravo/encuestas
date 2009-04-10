@@ -53,4 +53,17 @@ class DistribuidorTable extends Doctrine_Table
 
     return axaiToolkit::toKeyValueArray('id', 'name', $stmt->fetchAll());
   }
+
+  public function getTabsNoAsign()
+  {
+    $sql = "SELECT d.id, d.name, d.city, d.state
+      FROM distribuidor d
+        LEFT JOIN seguimiento s ON s.distribuidor_id = d.id
+      WHERE s.distribuidor_id IS NULL";
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute();
+
+    return $stmt->fetchAll();
+  }
 }

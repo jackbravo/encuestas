@@ -105,6 +105,19 @@ class reportesActions extends sfActions
     }
   }
 
+  public function executeTabsNoAsign(sfWebRequest $request)
+  {
+    $this->tabs = Doctrine::getTable('Distribuidor')->getTabsNoAsign();
+
+    if ($request->hasParameter('_export'))
+    {
+      $this->getResponse()->setContentType('text/csv');
+      $this->getResponse()->setHttpHeader('Content-Disposition', 'attachment; filename=tabs_no_asign.csv');
+      $this->setLayout(false);
+      $this->setTemplate('tabsNoAsign.csv'); return '';
+    }
+  }
+
   public function getFilter($request)
   {
     $filter = new ReportFilter();
