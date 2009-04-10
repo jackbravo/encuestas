@@ -6,8 +6,11 @@
 
 <p>
 Distribuidores a los que no se les ha asignado ningún lead.
-<?php echo link_to('Exportar', 'reportes/tabsNoAsign', array('query_string' => '_export=1')) ?>.
 </p>
+
+<form method="get">
+<input type="submit" value="Exportar" name="_export" />
+</form>
 
 <br/>
 
