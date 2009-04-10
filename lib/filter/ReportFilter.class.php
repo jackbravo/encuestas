@@ -23,11 +23,33 @@ class ReportFilter extends sfForm
 
     $this->widgetSchema->setDefaults(array(
       'fecha' => array(
-        'from' => date('Y-m-d'),
+        'from' => date('Y-m-d', time() - 60 * 60 * 24 * 30),
         'to' => date('Y-m-d'),
       ),
     ));
 
     $this->widgetSchema->setNameFormat('filter[%s]');
+  }
+
+  public function getValues()
+  {
+    $values = parent::getValues();
+
+    if (empty($values)) {
+      return $this->widgetSchema->getDefaults();
+    } else {
+      return $values;
+    }
+  }
+
+  public function getValue($name)
+  {
+    $value = parent::getValue($name);
+
+    if (empty($value)) {
+      return $this->widgetSchema->getDefault($name);
+    } else {
+      return $value;
+    }
   }
 }
