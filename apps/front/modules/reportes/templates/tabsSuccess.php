@@ -1,9 +1,6 @@
 <h1>Reportes del TAB team</h1>
 
-<div class="tabs">
-  <?php echo link_to('Agentes', 'reportes/index') ?>
-  &nbsp;<?php echo link_to('TAB Team', 'reportes/tabs') ?>
-</div>
+<?php include_partial('nav') ?>
 
 <br/>
 

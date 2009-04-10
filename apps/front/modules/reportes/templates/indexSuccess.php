@@ -1,9 +1,6 @@
 <h1>Reportes de Agentes</h1>
 
-<div class="tabs">
-  <?php echo link_to('Agentes', 'reportes/index') ?>
-  &nbsp;<?php echo link_to('TAB Team', 'reportes/tabs') ?>
-</div>
+<?php include_partial('nav') ?>
 
 <br/>
 
@@ -16,7 +13,7 @@
 
 <br/>
 
-<table class="list">
+<table class="list table">
   <thead>
     <tr>
       <th>Agente</th>
