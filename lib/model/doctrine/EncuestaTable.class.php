@@ -130,4 +130,21 @@ class EncuestaTable extends Doctrine_Table
 
     return axaiToolkit::toKeyValueArray('id', 'count', $stmt->fetchAll());
   }
+
+  public function getLeadsNoAsign($from, $to)
+  {
+    $sql = "SELECT e.id, e.nombre, e.apellido_p, e.apellido_m, e.ciudad, edo.nombre AS edo
+      FROM encuesta e
+        LEFT JOIN seguimiento s ON s.lead_id = e.id
+        LEFT JOIN estado edo ON edo.id = e.estado_id
+      WHERE s.intento = 2 AND s.localizo_lead = false";
+    if ($from !== null) {
+      $sql .= " AND e.created_at BETWEEN ? AND ? + interval 1 day";
+    }
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute(array($from, $to));
+
+    return $stmt->fetchAll();
+  }
 }

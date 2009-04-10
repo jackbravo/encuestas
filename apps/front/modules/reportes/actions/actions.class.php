@@ -89,6 +89,14 @@ class reportesActions extends sfActions
     }
   }
 
+  public function executeLeadsNoAsign(sfWebRequest $request)
+  {
+    $this->filter = $this->getFilter($request);
+    $fecha = $this->filter->getValue('fecha');
+
+    $this->leads = Doctrine::getTable('Encuesta')->getLeadsNoAsign($fecha['from'], $fecha['to']);
+  }
+
   public function getFilter($request)
   {
     $filter = new ReportFilter();
