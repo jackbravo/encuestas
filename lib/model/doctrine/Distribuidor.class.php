@@ -5,5 +5,14 @@
  */
 class Distribuidor extends BaseDistribuidor
 {
-
+  public function getLeadsAsignadosExitosos()
+  {
+    return Doctrine::getTable('Encuesta')->createQuery('e')
+	    ->select('e.id, e.nombre, e.apellido_p, e.apellido_m')
+	    ->leftJoin('e.Seguimiento s')
+	    ->addWhere('s.localizo_lead = 1')
+	    ->addWhere('s.distribuidor_id = ?', array($this->id))
+	    ->addOrderBy('e.nombre, e.apellido_p')
+	    ->execute();
+  }
 }
