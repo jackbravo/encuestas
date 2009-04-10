@@ -133,7 +133,7 @@ class SeguimientoTable extends Doctrine_Table
       FROM distribuidor d LEFT JOIN seguimiento s ON s.distribuidor_id = d.id
       WHERE intento = ? AND localizo_dist = 1";
     if ($from !== null) {
-      $sql .= " AND s.created_at BETWEEN ? AND ? + interval 1 day";
+      $sql .= " AND s.fecha_localizo_dist BETWEEN ? AND ? + interval 1 day";
       $params = array($vuelta, $from, $to);
     }
     $sql .= " GROUP BY s.distribuidor_id";
@@ -151,7 +151,7 @@ class SeguimientoTable extends Doctrine_Table
       FROM distribuidor d LEFT JOIN seguimiento s ON s.distribuidor_id = d.id
       WHERE intento = ? AND localizo_lead = 1";
     if ($from !== null) {
-      $sql .= " AND s.created_at BETWEEN ? AND ? + interval 1 day";
+      $sql .= " AND s.fecha_localizo_lead BETWEEN ? AND ? + interval 1 day";
       $params = array($vuelta, $from, $to);
     }
     $sql .= " GROUP BY s.distribuidor_id";
