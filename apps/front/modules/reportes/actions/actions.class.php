@@ -95,6 +95,14 @@ class reportesActions extends sfActions
     $fecha = $this->filter->getValue('fecha');
 
     $this->leads = Doctrine::getTable('Encuesta')->getLeadsNoAsign($fecha['from'], $fecha['to']);
+
+    if ($request->hasParameter('_export'))
+    {
+      $this->getResponse()->setContentType('text/csv');
+      $this->getResponse()->setHttpHeader('Content-Disposition', 'attachment; filename=leads_no_asign.csv');
+      $this->setLayout(false);
+      $this->setTemplate('leadsNoAsign.csv'); return '';
+    }
   }
 
   public function getFilter($request)

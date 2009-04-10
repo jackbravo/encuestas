@@ -1,4 +1,4 @@
-<h1>Reportes de Agentes</h1>
+<h1>Leads no Asignados</h1>
 
 <?php include_partial('nav') ?>
 
@@ -10,6 +10,10 @@
 <input type="submit" value="Exportar" name="_export" />
 &nbsp;<?php echo link_to('Quitar filtros', 'reportes/leadsNoAsign') ?>
 </form>
+
+<p>
+Leads que después de la segunda vuelta de seguimiento no fueron contactados por ningún TAB
+</p>
 
 <br/>
 
