@@ -24,4 +24,16 @@ class SeguimientoForm extends BaseSeguimientoForm
       'localizo_lead' => '¿Localizó al lead?',
     ));
   }
+
+  public function updateLocalizoDistColumn($value)
+  {
+    if ($value) return $value;
+    else return null;
+  }
+
+  public function updateLocalizoLeadColumn($value)
+  {
+    if ($value) return $value;
+    else return null;
+  }
 }
