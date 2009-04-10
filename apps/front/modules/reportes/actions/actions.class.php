@@ -118,6 +118,15 @@ class reportesActions extends sfActions
     }
   }
 
+  public function executeSeguimientos(sfWebRequest $request)
+  {
+    $this->segs = Doctrine::getTable('Seguimiento')->getForExport();
+
+    $this->getResponse()->setContentType('text/csv');
+    $this->getResponse()->setHttpHeader('Content-Disposition', 'attachment; filename=seguimientos.csv');
+    $this->setLayout(false);
+  }
+
   public function getFilter($request)
   {
     $filter = new ReportFilter();

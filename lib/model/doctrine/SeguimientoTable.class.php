@@ -161,4 +161,23 @@ class SeguimientoTable extends Doctrine_Table
 
     return axaiToolkit::toKeyValueArray('id', 'count', $stmt->fetchAll());
   }
+
+  public function getForExport()
+  {
+    $sql = "
+      SELECT s.id AS seguimiento_id, s.distribuidor_id, lead_id, u.username AS agente_creo,
+        localizo_dist, user_dist.username AS agente_localizo_dist, fecha_localizo_dist,
+        localizo_lead, user_lead.username AS agente_localizo_lead, fecha_localizo_lead,
+        intento AS vuelta 
+      FROM seguimiento AS s
+        LEFT JOIN sf_guard_user AS u ON u.id = s.agente_id
+        LEFT JOIN sf_guard_user AS user_dist ON user_dist.id = s.agent_localizo_dist
+        LEFT JOIN sf_guard_user AS user_lead ON user_lead.id = s.agent_localizo_lead
+    ";
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute();
+
+    return $stmt->fetchAll(PDO::FETCH_ASSOC);
+  }
 }
