@@ -133,7 +133,7 @@ class EncuestaTable extends Doctrine_Table
 
   public function getLeadsNoAsign($from, $to)
   {
-    $sql = "SELECT e.id, e.nombre, e.apellido_p, e.apellido_m, e.ciudad, edo.nombre AS edo
+    $sql = "SELECT DISTINCT e.id, e.nombre, e.apellido_p, e.apellido_m, e.ciudad, edo.nombre AS edo
       FROM encuesta e
         LEFT JOIN seguimiento s ON s.lead_id = e.id
         LEFT JOIN estado edo ON edo.id = e.estado_id
@@ -155,7 +155,7 @@ class EncuestaTable extends Doctrine_Table
         CASE WHEN origen_datos = 1 then 'tel'
              WHEN origen_datos = 2 then 'mail'
         END AS origen_datos,
-        mc.descripcion, rangos_horario, e.nombre, e.apellido_p, e.apellido_m,
+        mc.descripcion medio_contacto, rangos_horario, e.nombre, e.apellido_p, e.apellido_m,
         nacimiento, genero, telefono1, ext1,
         CASE WHEN tel_tipo1 = 1 then 'casa'
              WHEN tel_tipo1 = 2 then 'oficina'
