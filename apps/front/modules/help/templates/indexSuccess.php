@@ -8,6 +8,11 @@
 
 <?php ob_start('Markdown') ?>
 
+### Manuales en formato PDF
+
+- [Scripts de llamada](<?php echo _compute_public_path('script.pdf', 'files', 'pdf') ?>)
+- [Manual de llamada](<?php echo _compute_public_path('manual.pdf', 'files', 'pdf') ?>)
+
 ### Registrar un lead
 
 Un lead llama al call center para registrar sus datos, al mismo tiempo se le
