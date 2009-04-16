@@ -1,10 +1,6 @@
-<h1>TV Presence - Sistema de encuestas</h1>
-
-<ul>
-  <li><?php echo link_to('Documentación para usuarios', 'help/index') ?></li>
-</ul>
-
 <?php ob_start('Markdown') ?>
+
+# Manual de Administrador
 
 Un administrador puede hacer todo lo que un usuario puede hacer y además puede:
 

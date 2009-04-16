@@ -23,6 +23,10 @@ class helpActions extends sfActions
   {
   }
 
+  public function executeUser(sfWebRequest $request)
+  {
+  }
+
   public function executeAdmin(sfWebRequest $request)
   {
   }
