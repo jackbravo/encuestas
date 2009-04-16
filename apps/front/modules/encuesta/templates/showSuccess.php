@@ -2,8 +2,14 @@
 <div id="content" class="grid_8">
 
   <div class="subheader">
-    <?php if (!is_numeric($encuesta->my_dist_id) || $sf_user->hasCredential('admin'))
-            echo link_to('Asignar ID', '@encuesta_editId?id=' . $encuesta->id) ?>
+    <?php
+    if (!is_numeric($encuesta->my_dist_id) || $sf_user->hasCredential('admin')) {
+      $last_seg = $seguimientos->getLast();
+      if ($last_seg && ($last_seg->localizo_lead || ($last_seg->intento == 2 && $last_seg->localizo_lead !== null))) {
+        echo link_to('Asignar ID', '@encuesta_editId?id=' . $encuesta->id);
+      }
+    }
+    ?>
     <?php if ($sf_user->hasCredential('admin')): ?>
       | <?php echo link_to('Editar', 'encuesta_edit', $encuesta) ?>
     <?php endif; ?>
