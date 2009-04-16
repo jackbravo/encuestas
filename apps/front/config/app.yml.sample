@@ -1,2 +1,6 @@
 all:
   max_encuestas_on_contacts: 50
+
+  sf_guard_plugin:
+    success_signin_url: @homepage
+    success_signout_url: @homepage
