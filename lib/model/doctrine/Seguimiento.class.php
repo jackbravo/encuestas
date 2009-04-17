@@ -15,13 +15,16 @@ class Seguimiento extends BaseSeguimiento
         Doctrine::getTable('Encuesta')->setLastDist($this->lead_id, $this->distribuidor_id);
       } else {
         Doctrine::getTable('Encuesta')->unsetLastDist($this->lead_id);
-	$this->localizo_lead = null;
+        $this->localizo_lead = null;
       }
       $this->fecha_localizo_dist = new Doctrine_Expression('NOW()');
     }
 
     if (array_key_exists('localizo_lead', $modified))
     {
+      if ($this->localizo_lead === false && $this->intento == 1) {
+        Doctrine::getTable('Encuesta')->unsetLastDist($this->lead_id);
+      }
       $this->fecha_localizo_lead = new Doctrine_Expression('NOW()');
     }
 
