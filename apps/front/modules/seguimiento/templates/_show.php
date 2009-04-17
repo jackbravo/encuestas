@@ -13,9 +13,13 @@
       </li>
       <?php if ($seguimiento->localizo_dist): ?>
       <li>
-        ¿Se contactó al lead?
-        <?php if ($seguimiento->localizo_lead !== null)
-                echo $seguimiento->localizo_lead ? '<strong>Sí</strong> <small>' . $seguimiento->fecha_localizo_lead . '</small>': '<strong>No</strong>' ?>
+        <?php if ($seguimiento->pasoTiempoVuelta() || $seguimiento->localizo_lead !== null): ?>
+          ¿Se contactó al lead?
+          <?php if ($seguimiento->localizo_lead !== null)
+                  echo $seguimiento->localizo_lead ? '<strong>Sí</strong> <small>' . $seguimiento->fecha_localizo_lead . '</small>': '<strong>No</strong>' ?>
+        <?php else: ?>
+          Espere a que pase el tiempo de seguimiento para esta vuelta.
+        <?php endif; ?>
       </li>
       <?php endif; ?>
     </ol>

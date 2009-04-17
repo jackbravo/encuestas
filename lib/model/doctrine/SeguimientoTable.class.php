@@ -19,7 +19,7 @@ class SeguimientoTable extends Doctrine_Table
   {
     return $this->findVueltaQuery()
       ->addWhere('s.intento = 1')
-      ->addWhere('s.fecha_localizo_dist < (NOW() - interval 30 second)') // 2 day
+      ->addWhere('s.fecha_localizo_dist < (NOW() - interval ' . sfConfig::get('app_tiempo_espera_vuelta_1') . ')') // 2 day
       ->execute(array(), Doctrine::HYDRATE_ARRAY);
   }
 
@@ -27,7 +27,7 @@ class SeguimientoTable extends Doctrine_Table
   {
     return $this->findVueltaQuery()
       ->addWhere('s.intento >= 2')
-      ->addWhere('s.fecha_localizo_dist < (NOW() - interval 30 second)') // 1 day
+      ->addWhere('s.fecha_localizo_dist < (NOW() - interval ' . sfConfig::get('app_tiempo_espera_vuelta_2') . ')') // 1 day
       ->execute(array(), Doctrine::HYDRATE_ARRAY);
   }
 

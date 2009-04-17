@@ -34,4 +34,19 @@ class Seguimiento extends BaseSeguimiento
       }
     }
   }
+
+  public function pasoTiempoVuelta()
+  {
+    if ($this->intento == 1)
+    {
+      $tiempo_espera = sfConfig::get('app_tiempo_espera_vuelta_1');
+    }
+    else if ($this->intento > 1)
+    {
+      $tiempo_espera = sfConfig::get('app_tiempo_espera_vuelta_2');
+    }
+    else return false;
+
+    return strtotime($this->fecha_localizo_dist . "+$tiempo_espera") < time();
+  }
 }

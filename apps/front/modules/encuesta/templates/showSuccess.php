@@ -3,9 +3,9 @@
 
   <div class="subheader">
     <?php
+    $last_segui = (sizeof($seguimientos) > 0) ? $seguimientos[sizeof($seguimientos) - 1] : false;
     if (!is_numeric($encuesta->my_dist_id) || $sf_user->hasCredential('admin')) {
-      $last_seg = $seguimientos->getLast();
-      if ($last_seg && ($last_seg->localizo_lead || ($last_seg->intento == 2 && $last_seg->localizo_lead !== null))) {
+      if ($last_segui && ($last_segui->localizo_lead || ($last_segui->intento == 2 && $last_segui->localizo_lead !== null))) {
         echo link_to('Asignar ID', '@encuesta_editId?id=' . $encuesta->id);
       }
     }
@@ -70,8 +70,6 @@
   <?php } else { ?>
 
     <?php
-      $last_segui = (sizeof($seguimientos) > 0) ? $seguimientos[sizeof($seguimientos) - 1] : false;
-
       if ($last_segui)
       {
         $yes = image_tag('/sf/sf_admin/images/save.png');
@@ -81,7 +79,8 @@
           echo link_to("$no No", 'seguimiento_localizoDist', array('id' => $last_segui->id, '_no' => ''));
         }
 
-        if ($last_segui->localizo_dist && $last_segui->localizo_lead === null && $last_segui->status == 1)
+        if ($last_segui->localizo_dist && $last_segui->localizo_lead === null && $last_segui->status == 1
+          && $last_segui->pasoTiempoVuelta())
         {
           echo link_to("$yes Sí", 'seguimiento_localizoLead', array('id' => $last_segui->id));
           echo link_to("$no No", 'seguimiento_localizoLead', array('id' => $last_segui->id, '_no' => ''));
