@@ -126,9 +126,9 @@ class Encuesta extends BaseEncuesta
 
   public static function dentroDeHorario($horarios)
   {
-    foreach ($horarios as $horario)
+    foreach (explode(',', $horarios) as $horario)
     {
-      list ($h_min, $h_max) = explode('..', $horario['rango']);
+      list ($h_min, $h_max) = explode('..', $horario);
       if (date('H') >= $h_min && date('H') < $h_max) return true;
     }
 

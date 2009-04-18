@@ -16,7 +16,6 @@ Encuesta:
     numero: 3829-1A
     cp: 45070
     origen_datos: 1
-    # Horarios: [h1]
     medio_contacto_id: 1
   e2:
     agente_id: 4
@@ -35,7 +34,6 @@ Encuesta:
     numero: 1829-1A
     cp: 45070
     origen_datos: 1
-    # Horarios: [h2,h3]
     medio_contacto_id: 2
   e3:
     agente_id: 4
@@ -57,7 +55,6 @@ Encuesta:
     numero: 3829-1A
     cp: '45070'
     origen_datos: 1
-    # Horarios: [h4]
     medio_contacto_id: 4
   e4:
     agente_id: 4
@@ -79,8 +76,24 @@ Encuesta:
     numero: 3289
     cp: '45070'
     origen_datos: 2
-    # Horarios: [h1,h2,h3]
     medio_contacto_id: 1
+
+EncuestaHorario:
+  eh1:
+    Encuesta: e1
+    horario_id: 1
+  eh2:
+    Encuesta: e2
+    horario_id: 1
+  eh3:
+    Encuesta: e3
+    horario_id: 1
+  eh4:
+    Encuesta: e4
+    horario_id: 1
+  eh6:
+    Encuesta: e2
+    horario_id: 2
 
 Distribuidor:
   d1:

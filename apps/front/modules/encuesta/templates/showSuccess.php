@@ -22,7 +22,7 @@
   <p class="help">Encuestado por <strong><?php echo $encuesta->Agente ?></strong>
   <small><?php echo $encuesta->created_at ?></small></p>
 
-  <?php if (! Encuesta::dentroDeHorario($encuesta->Horarios)): ?>
+  <?php if (! Encuesta::dentroDeHorario($encuesta->rangos_horario)): ?>
     <div class="box notice">Estas fuera del horario de contacto de este lead</div>
   <?php endif ?>
 
