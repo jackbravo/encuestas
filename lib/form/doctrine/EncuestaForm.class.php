@@ -73,7 +73,7 @@ class EncuestaForm extends BaseEncuestaForm
       'apellido_m' => 'Apellido Materno',
       'estado_id' => 'Estado',
       'nacimiento' => 'Fecha de Nacimiento',
-      'ciudad' => 'Ciudad o población',
+      'ciudad_id' => 'Ciudad o población',
       'horarios_list' => 'Mejor horario para contactarle',
       'areas_interes_list' => '¿A usted le gustaría..?',
       'productos_interes_list' => '¿En qué productos está interesado?',

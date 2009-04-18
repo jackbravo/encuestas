@@ -9,7 +9,7 @@ class DistribuidorTable extends Doctrine_Table
     $prev_dist = $lead->getIdsDistribuidores();
 
     $q = $this->createQuery('d')
-      ->addWhere('d.city = ?', $lead->ciudad)
+      ->addWhere('d.city = ?', $lead->Ciudad->nombre)
       ->addWhere('d.state = ?', $lead->Estado->nombre)
       ->andWhereNotIn('d.id', $prev_dist)
       ->limit(1);

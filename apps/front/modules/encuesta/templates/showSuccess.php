@@ -138,7 +138,7 @@
 
     <strong>Dirección:</strong><br/>
     <?php echo $encuesta->calle . ' ' . $encuesta->numero . ' Col. ' . $encuesta->colonia ?><br/>
-    <?php echo $encuesta->ciudad ?>,
+    <?php echo $encuesta->Ciudad ?>,
     <?php echo $encuesta->Estado ?> - 
     CP <?php echo $encuesta->cp ?><br/>
     <strong>Notas:</strong><br/>

@@ -20,7 +20,7 @@
       <td><?php echo link_to($encuesta['id'], '@encuesta_show?id=' . $encuesta['id']) ?></td>
       <td><?php echo link_to($encuesta['nombre'] . ' ' . $encuesta['apellido_p'] . ' ' . $encuesta['apellido_m'], '@encuesta_show?id=' . $encuesta['id']) ?></td>
       <td><?php echo $encuesta['Estado']['nombre'] ?></td>
-      <td><?php echo $encuesta['ciudad'] ?></td>
+      <td><?php echo $encuesta['Ciudad']['nombre'] ?></td>
       <td><?php echo $encuesta['created_at'] ?></td>
     </tr>
     <?php endforeach; ?>
@@ -46,7 +46,7 @@
   <?php echo $filter['apellido_m']->renderRow() ?>
   <?php echo $filter['nacimiento']->renderRow() ?>
   <?php echo $filter['estado_id']->renderRow() ?>
-  <?php echo $filter['ciudad']->renderRow() ?>
+  <?php echo $filter['ciudad_id']->renderRow() ?>
   <?php echo $filter['created_at']->renderRow() ?>
 
   <input type="submit" value="Filtrar" />

@@ -46,7 +46,6 @@ class EncuestaFormFilter extends BaseEncuestaFormFilter
     $this->widgetSchema['apellido_m']->setOption('with_empty', false);
     $this->widgetSchema['apellido_m']->setAttribute('size', '15');
     $this->widgetSchema['estado_id']->setOption('add_empty', 'cualquier estado');
-    $this->widgetSchema['ciudad']->setOption('with_empty', false);
 
     $this->widgetSchema->setLabels(array(
       'apellido_p' => 'Apellido Paterno',

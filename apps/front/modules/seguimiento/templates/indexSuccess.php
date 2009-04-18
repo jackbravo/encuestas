@@ -26,7 +26,7 @@
       <td><?php echo $encuesta['rangos_horario'] ?></td>
       <td><?php echo $encuesta['Seguimiento'][0]['Distribuidor']['name'] ?></td>
       <td><?php echo $encuesta['Seguimiento'][0]['Distribuidor']['state'] ?></td>
-      <td><?php echo $encuesta['ciudad'] ?></td>
+      <td><?php echo $encuesta['Ciudad']['nombre'] ?></td>
       <td><?php echo $encuesta['Seguimiento'][0]['fecha_localizo_dist'] ?></td>
     </tr>
     <?php endforeach; ?>
@@ -57,7 +57,7 @@
       <td><?php echo $encuesta['rangos_horario'] ?></td>
       <td><?php echo $encuesta['Seguimiento'][0]['Distribuidor']['name'] ?></td>
       <td><?php echo $encuesta['Seguimiento'][0]['Distribuidor']['state'] ?></td>
-      <td><?php echo $encuesta['ciudad'] ?></td>
+      <td><?php echo $encuesta['Ciudad']['nombre'] ?></td>
       <td><?php echo $encuesta['Seguimiento'][0]['fecha_localizo_dist'] ?></td>
     </tr>
     <?php endforeach; ?>

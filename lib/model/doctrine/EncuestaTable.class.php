@@ -10,8 +10,9 @@ class EncuestaTable extends Doctrine_Table
 
     return $q
       ->select("$alias.id, $alias.nombre, $alias.apellido_p, $alias.apellido_m")
-      ->addSelect("$alias.ciudad, edo.nombre, $alias.created_at")
+      ->addSelect("c.nombre, edo.nombre, $alias.created_at")
       ->leftJoin("$alias.Estado edo")
+      ->leftJoin("$alias.Ciudad c")
       ->addWhere("$alias.last_dist_id IS NULL")
       ->addWhere("$alias.viewer_id IS NULL")
       ->addOrderBy("$alias.created_at")
@@ -24,8 +25,9 @@ class EncuestaTable extends Doctrine_Table
 
     return $q
       ->select("$alias.id, $alias.nombre, $alias.apellido_p, $alias.apellido_m")
-      ->addSelect("$alias.ciudad, edo.nombre, $alias.created_at")
+      ->addSelect("c.nombre, edo.nombre, $alias.created_at")
       ->leftJoin("$alias.Estado edo")
+      ->leftJoin("$alias.Ciudad c")
       ->addOrderBy("$alias.nombre")
       ->addOrderBy("$alias.apellido_p")
     ;
@@ -37,9 +39,10 @@ class EncuestaTable extends Doctrine_Table
   public function getForSeguimiento($params)
   {
     $encuesta = $this->createQuery('e')
-      ->select('e.nombre, e.ciudad, edo.nombre, e.viewer_id, e.last_dist_id')
+      ->select('e.nombre, c.nombre, edo.nombre, e.viewer_id, e.last_dist_id')
       ->addSelect('SUM(s.localizo_dist) AS seguimiento_count')
       ->leftJoin('e.Estado edo')
+      ->leftJoin('e.Ciudad c')
       ->leftJoin('e.Seguimiento s')
       ->addWhere('e.id = ?', $params['id'])
       ->fetchOne();
@@ -53,6 +56,7 @@ class EncuestaTable extends Doctrine_Table
     return $this->createQuery('e')
       ->leftJoin('e.Agente')
       ->leftJoin('e.Estado')
+      ->leftJoin('e.Ciudad')
       ->leftJoin('e.LastDist')
       ->leftJoin('e.Horarios')
       ->leftJoin('e.AreasInteres')
@@ -133,15 +137,16 @@ class EncuestaTable extends Doctrine_Table
 
   public function getLeadsNoAsign($from, $to)
   {
-    $sql = "SELECT DISTINCT e.id, e.nombre, e.apellido_p, e.apellido_m, e.ciudad, edo.nombre AS edo
+    $sql = "SELECT DISTINCT e.id, e.nombre, e.apellido_p, e.apellido_m, c.nombre, edo.nombre AS edo
       FROM encuesta e
         LEFT JOIN seguimiento s ON s.lead_id = e.id
         LEFT JOIN estado edo ON edo.id = e.estado_id
+        LEFT JOIN ciudad c ON c.id = e.ciudad_id
       WHERE s.intento = 2 AND s.localizo_lead = false";
     if ($from !== null) {
       $sql .= " AND e.created_at BETWEEN ? AND ? + interval 1 day";
     }
-    $sql .= " ORDER BY edo.nombre, e.ciudad, e.nombre";
+    $sql .= " ORDER BY edo.nombre, c.nombre, e.nombre";
     $dbh = $this->getConnection();
     $stmt = $dbh->prepare($sql);
     $stmt->execute(array($from, $to));
@@ -175,13 +180,14 @@ class EncuestaTable extends Doctrine_Table
              WHEN tel_tipo3 = 3 then 'celular'
              WHEN tel_tipo3 = 4 then 'nextel'
         END AS tel_tipo_3,
-        e.email, ciudad, edo.nombre as estado, colonia, calle, numero, cp, notas,
+        e.email, c.nombre, edo.nombre as estado, colonia, calle, numero, cp, notas,
         ai.descripcion AS area_interes, pi.descripcion AS producto_interes
       FROM encuesta e
         LEFT JOIN sf_guard_user u ON u.id = e.agente_id
         LEFT JOIN distribuidor d ON d.id = e.last_dist_id
         LEFT JOIN medio_contacto mc ON mc.id = e.medio_contacto_id
         LEFT JOIN estado edo ON edo.id = e.estado_id
+        LEFT JOIN ciudad c ON c.id = e.ciudad_id
         LEFT JOIN encuesta_area_interes eai ON eai.encuesta_id = e.id
         LEFT JOIN area_interes ai ON ai.id = eai.area_interes_id
         LEFT JOIN encuesta_producto_interes epi ON epi.encuesta_id = e.id
