@@ -1,0 +1,194 @@
+Encuesta:
+  e1:
+    agente_id: 4
+    LastDist: d1
+    nombre: Juanita
+    apellido_p: Perez
+    apellido_m: González
+    nacimiento: '1957-06-12'
+    genero: f
+    telefono1: 3338373832
+    tel_tipo1: 1
+    estado_id: 1
+    ciudad_id: 1847
+    colonia: Arboledas
+    calle: Galileo Galilei
+    numero: 3829-1A
+    cp: 45070
+    origen_datos: 1
+    # Horarios: [h1]
+    medio_contacto_id: 1
+  e2:
+    agente_id: 4
+    LastDist: d2
+    nombre: Fulanito
+    apellido_p: de Tal
+    apellido_m: González
+    nacimiento: '1960-12-12'
+    genero: m
+    telefono1: 3333373932
+    tel_tipo1: 1
+    estado_id: 2
+    ciudad_id: 2268
+    colonia: Arboledas
+    calle: Galileo Galilei
+    numero: 1829-1A
+    cp: 45070
+    origen_datos: 1
+    # Horarios: [h2,h3]
+    medio_contacto_id: 2
+  e3:
+    agente_id: 4
+    LastDist: d3
+    nombre: Alvaro
+    apellido_p: Bravo
+    apellido_m: Contreras
+    nacimiento: '1985-07-04'
+    genero: m
+    telefono1: 3312383283
+    tel_tipo1: 1
+    telefono2: 3383829383
+    tel_tipo1: 2
+    email: alvaro@mail.com
+    estado_id: 2
+    ciudad_id: 2268
+    colonia: Arboledas
+    calle: 'Galileo Galilei'
+    numero: 3829-1A
+    cp: '45070'
+    origen_datos: 1
+    # Horarios: [h4]
+    medio_contacto_id: 4
+  e4:
+    agente_id: 4
+    nombre: Cesar
+    apellido_p: Romo
+    apellido_m: Rangel
+    nacimiento: '1982-04-20'
+    genero: m
+    telefono1: 3323828493
+    ext1: 32
+    tel_tipo1: 3
+    telefono2: 3331232314
+    tel_tipo2: 4
+    email: cesar@mail.com
+    estado_id: 2
+    ciudad_id: 2275
+    colonia: Ciudad del Sol
+    calle: 'Tezozomoc'
+    numero: 3289
+    cp: '45070'
+    origen_datos: 2
+    # Horarios: [h1,h2,h3]
+    medio_contacto_id: 1
+
+Distribuidor:
+  d1:
+    id: 123241
+    name: Francisco
+    level: President
+    city: Aguascalientes
+    state: Aguascalientes
+    contact1: 234432315
+    contact2: 233232 ext 32
+    performance: 100
+    tally: 2
+  d2:
+    id: 2389523
+    name: Francisca
+    level: Millionaria
+    city: Zapotlanejo
+    state: "Baja California"
+    contact1: 234432315
+    contact2: 233232 ext 32
+    performance: 200
+  d3:
+    id: 3288329
+    name: Pedro
+    level: President
+    city: guadalajara
+    state: "Baja California"
+    contact1: 234432315
+    contact2: 233232 ext 32
+    performance: 329
+    tally: 2
+  d4:
+    id: 3132
+    name: Juan Perez
+    level: President
+    city: Zapopan
+    state: Distrito Federal
+    contact1: 3331231234
+    performance: 238
+
+Seguimiento:
+  Seguimiento_1:
+    Distribuidor: d3
+    Lead: e3
+    agente_id: 4
+    localizo_dist: false
+    fecha_localizo_dist: '2009-02-28 17:39:17'
+    agent_localizo_dist: 4
+    intento: '1'
+    status: 0
+    created_at: '2009-03-01 17:38:30'
+    updated_at: '2009-03-01 17:39:17'
+  Seguimiento_2:
+    Distribuidor: d1
+    Lead: e1
+    agente_id: 4
+    localizo_dist: false
+    fecha_localizo_dist: '2009-03-01 18:05:07'
+    agent_localizo_dist: 4
+    intento: '1'
+    status: 0
+    created_at: '2009-03-01 18:02:17'
+    updated_at: '2009-03-01 18:05:07'
+  Seguimiento_3:
+    Distribuidor: d3
+    Lead: e1
+    agente_id: 4
+    localizo_dist: true
+    fecha_localizo_dist: '2009-02-28 10:10:36'
+    agent_localizo_dist: 4
+    intento: '1'
+    status: 1
+    created_at: '2009-03-01 18:05:11'
+    updated_at: '2009-03-01 18:05:11'
+  Seguimiento_4:
+    Distribuidor: d1
+    Lead: e3
+    agente_id: 4
+    localizo_dist: true
+    fecha_localizo_dist: '2009-02-27 18:10:36'
+    agent_localizo_dist: 4
+    intento: '1'
+    status: 1
+    created_at: '2009-03-01 18:10:36'
+    updated_at: '2009-03-01 18:10:36'
+  Seguimiento_5:
+    Distribuidor: d1
+    Lead: e2
+    agente_id: 4
+    localizo_dist: true
+    fecha_localizo_dist: '2009-02-25 18:10:36'
+    agent_localizo_dist: 4
+    localizo_lead: false
+    fecha_localizo_lead: '2009-02-27 18:10:00'
+    agent_localizo_lead: 4
+    intento: '1'
+    status: 0
+    created_at: '2009-03-01 18:10:36'
+    updated_at: '2009-03-01 18:10:36'
+  Seguimiento_6:
+    Distribuidor: d2
+    Lead: e2
+    agente_id: 4
+    localizo_dist: true
+    fecha_localizo_dist: '2009-02-27 18:10:36'
+    agent_localizo_dist: 4
+    intento: '2'
+    status: 1
+    created_at: '2009-03-01 18:10:36'
+    updated_at: '2009-03-01 18:10:36'
+
