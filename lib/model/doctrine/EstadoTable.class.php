@@ -4,5 +4,13 @@
  */
 class EstadoTable extends Doctrine_Table
 {
+  public function findKeys()
+  {
+    $sql = "SELECT e.id, e.nombre FROM estado e";
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute();
 
+    return axaiToolkit::toKeyValueArray('nombre', 'id', $stmt->fetchAll());
+  }
 }

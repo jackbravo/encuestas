@@ -96,6 +96,20 @@ Estado:
       type:         string(255)
       notnull:      true
 
+Ciudad:
+  columns:
+    id:
+      type:         integer(4)
+      primary:      true
+      autoincrement: true
+    estado_id:      integer(4)
+    nombre:
+      type:         string(255)
+      notnull:      true
+  relations:
+    Estado:
+      foreignAlias: Ciudades
+
 Horario:
   columns:
     id:

@@ -1,68 +1,68 @@
 Estado:
   Estado_1:
-    nombre: AGUASCALIENTES
+    nombre: Aguascalientes
   Estado_2:
-    nombre: 'BAJA CALIFORNIA NORTE'
+    nombre: Baja California
   Estado_3:
-    nombre: 'BAJA CALIFORNIA SUR'
+    nombre: Baja California Sur
   Estado_4:
-    nombre: CAMPECHE
+    nombre: Campeche
   Estado_5:
-    nombre: CHIAPAS
+    nombre: Chiapas
   Estado_6:
-    nombre: CHIHUAHUA
+    nombre: Chihuahua
   Estado_7:
-    nombre: COAHUILA
+    nombre: Coahuila
   Estado_8:
-    nombre: COLIMA
+    nombre: Colima
   Estado_9:
     nombre: Distrito Federal
   Estado_10:
-    nombre: DURANGO
+    nombre: Durango
   Estado_11:
-    nombre: GUANAJUATO
+    nombre: Guanajuato
   Estado_12:
-    nombre: GUERRERO
+    nombre: Guerrero
   Estado_13:
-    nombre: HIDALGO
+    nombre: Hidalgo
   Estado_14:
-    nombre: JALISCO
+    nombre: Jalisco
   Estado_15:
-    nombre: MÉXICO
+    nombre: México
   Estado_16:
-    nombre: MICHOACAN
+    nombre: Michoacán
   Estado_17:
-    nombre: MORELOS
+    nombre: Morelos
   Estado_18:
-    nombre: NAYARIT
+    nombre: Nayarit
   Estado_19:
-    nombre: 'NUEVO LEON'
+    nombre: Nuevo León
   Estado_20:
-    nombre: OAXACA
+    nombre: Oaxaca
   Estado_21:
-    nombre: PUEBLA
+    nombre: Puebla
   Estado_22:
-    nombre: QUERETARO
+    nombre: Querétaro
   Estado_23:
-    nombre: 'QUINTANA ROO'
+    nombre: Quintana Roo
   Estado_24:
-    nombre: 'SAN LUIS POTOSI'
+    nombre: San Luis Potosí
   Estado_25:
-    nombre: SINALOA
+    nombre: Sinaloa
   Estado_26:
-    nombre: SONORA
+    nombre: Sonora
   Estado_27:
-    nombre: TABASCO
+    nombre: Tabasco
   Estado_28:
-    nombre: TAMAULIPAS
+    nombre: Tamaulipas
   Estado_29:
-    nombre: TLAXCALA
+    nombre: Tlaxcala
   Estado_30:
-    nombre: VERACRUZ
+    nombre: Veracruz
   Estado_31:
-    nombre: YUCATAN
+    nombre: Yucatán
   Estado_32:
-    nombre: ZACATECAS
+    nombre: Zacatecas
 
 Encuesta:
   e1:
