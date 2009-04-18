@@ -1,0 +1,1257 @@
+"d_codigo","d_asenta","d_tipo_asenta","D_mnpio","d_estado","d_ciudad","d_CP","c_estado","c_oficina","c_CP","c_tipo_asenta","c_mnpio","id_asenta_cpcons","d_zona","c_cve_ciudad"
+"20000","Zona Centro","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0001","Urbano","01"
+"20008","Delegación de La Secretaria de Comercio y Fomento Industrial","Gran usuario","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"22","001","0003","Urbano","01"
+"20009","Palacio de Gobierno del Estado de Aguascalientes","Gran usuario","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"22","001","0004","Urbano","01"
+"20010","Las Brisas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0007","Urbano","01"
+"20010","Ramon Romo Franco","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0008","Urbano","01"
+"20010","Olivares Santana","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0006","Urbano","01"
+"20010","Colinas del Rio","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0005","Urbano","01"
+"20010","San Cayetano","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0009","Urbano","01"
+"20016","La Fundición","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0011","Urbano","01"
+"20016","Los Sauces","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0013","Urbano","01"
+"20016","Fundición II","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0012","Urbano","01"
+"20016","Colinas de San Ignacio","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0010","Urbano","01"
+"20018","Línea de Fuego","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0014","Urbano","01"
+"20020","Buenos Aires","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0016","Urbano","01"
+"20020","Las Arboledas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0019","Urbano","01"
+"20020","Circunvalación Norte","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0018","Urbano","01"
+"20020","Villas de San Francisco","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0020","Urbano","01"
+"20029","Villas de La Universidad","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0021","Urbano","01"
+"20030","El Sol","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0022","Urbano","01"
+"20030","Gremial","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0023","Urbano","01"
+"20030","Industrial","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0024","Urbano","01"
+"20040","Curtidores","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0027","Urbano","01"
+"20040","Altavista","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0026","Urbano","01"
+"20040","La Concordia","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0029","Urbano","01"
+"20040","Miravalle","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0030","Urbano","01"
+"20040","Panorama","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0031","Urbano","01"
+"20049","Colinas del Poniente","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0036","Urbano","01"
+"20050","Primavera","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0041","Urbano","01"
+"20050","Bugambilias","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","0037","Urbano","01"
+"20050","Del Carmen","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0038","Urbano","01"
+"20050","San Pablo","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0042","Urbano","01"
+"20050","La Fe","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0039","Urbano","01"
+"20050","México","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0040","Urbano","01"
+"20059","Heliodoro Garcia","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0044","Urbano","01"
+"20059","Guadalupe","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0043","Urbano","01"
+"20060","Gómez","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0045","Urbano","01"
+"20060","Moderno","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0046","Urbano","01"
+"20064","Valle del Rio San Pedro","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0048","Urbano","01"
+"20070","San Marcos","Barrio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"02","001","0051","Urbano","01"
+"20070","Guadalupe Posada","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"31","001","0049","Urbano","01"
+"20070","San Marcos","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0050","Urbano","01"
+"20078","San Marcos","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0052","Urbano","01"
+"20080","Modelo","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0054","Urbano","01"
+"20080","Residencial del Valle I","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0055","Urbano","01"
+"20089","Residencial del Valle II","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0053","Urbano","01"
+"20100","Campestre La Herradura","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0057","Urbano","01"
+"20100","Los Vergeles","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0062","Urbano","01"
+"20100","Jardines del Campestre","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","0061","Urbano","01"
+"20100","Campestre 2a. Sección","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0060","Urbano","01"
+"20100","La Querencia","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1068","Urbano","01"
+"20100","Campestre 1a. Sección","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0059","Urbano","01"
+"20100","Rancho San Antonio","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1284","Urbano","01"
+"20100","Club Campestre","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0058","Urbano","01"
+"20110","Valle del Campestre","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0067","Urbano","01"
+"20110","Las Cavas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1058","Urbano","01"
+"20110","Talamantes Ponce","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0064","Urbano","01"
+"20110","Villas de Montenegro","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0068","Urbano","01"
+"20110","Puerto las Hadas","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","0066","Urbano","01"
+"20110","Granjas del Campestre","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0065","Urbano","01"
+"20115","Trojes de Oriente 1a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0069","Urbano","01"
+"20115","Valle de las Trojes","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0072","Urbano","01"
+"20115","Trojes de Oriente 3a Sección","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0071","Urbano","01"
+"20115","Villas de San Nicolás","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0073","Urbano","01"
+"20115","La Paloma","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1075","Urbano","01"
+"20115","Trojes de Oriente 2a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0070","Urbano","01"
+"20116","Trojes de Alonso","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0075","Urbano","01"
+"20116","La Troje","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0074","Urbano","01"
+"20117","Aguascalientes 2000","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0076","Urbano","01"
+"20118","Trojes del Sol","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","0080","Urbano","01"
+"20118","Los Jarales","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1133","Urbano","01"
+"20118","Misión del Campanario","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0078","Urbano","01"
+"20118","Valle Real","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1282","Urbano","01"
+"20118","Terzetto","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1283","Urbano","01"
+"20118","Trojes de Kristal","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0079","Urbano","01"
+"20118","Las Trojes","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","0077","Urbano","01"
+"20118","Cerrada de La Misión","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1354","Urbano","01"
+"20118","Valle del Campanario","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0986","Urbano","01"
+"20118","Las Misiones","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1132","Urbano","01"
+"20118","Cerrada El Molino","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1140","Urbano","01"
+"20119","Villas del Campestre","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0082","Urbano","01"
+"20119","Lomas del Campestre 2a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0081","Urbano","01"
+"20119","Los Calicantos","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1011","Urbano","01"
+"20120","Jardines de La Concepción 1a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0083","Urbano","01"
+"20120","Jardines de La Concepción 2a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0084","Urbano","01"
+"20120","Rinconada los Bosques","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","0086","Urbano","01"
+"20120","Trojes de Oriente","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0087","Urbano","01"
+"20120","Los Bosques","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0085","Urbano","01"
+"20123","Arroyo El Molino","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1029","Urbano","01"
+"20124","Galerías","Zona comercial","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"33","001","1173","Urbano","01"
+"20126","Constitución","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0090","Urbano","01"
+"20126","Pozo Bravo Norte","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0092","Urbano","01"
+"20126","Villa de Nuestra Señora de La Asunción Sector Guadalupe","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0979","Urbano","01"
+"20126","Villa de Nuestra Señora de La Asunción Sector Estación","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1080","Urbano","01"
+"20126","Residencial las Plazas","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1091","Urbano","01"
+"20126","Montebello Della Stanza","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1135","Urbano","01"
+"20126","Soberana Convención Revolucionaria","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0094","Urbano","01"
+"20126","El Rosedal","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1124","Urbano","01"
+"20126","Villa Teresa","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0981","Urbano","01"
+"20126","Natura","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1126","Urbano","01"
+"20126","Rinconada Pozo Bravo","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1186","Urbano","01"
+"20126","Pozo Bravo Sur","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1291","Urbano","01"
+"20126","Villas de La Convención","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1043","Urbano","01"
+"20126","Lomas de La Asunción","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1045","Urbano","01"
+"20126","Villa de Nuestra Señora de La Asunción Sector Encino","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1046","Urbano","01"
+"20126","Villa de Nuestra Señora de La Asunción Sector Alameda","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1055","Urbano","01"
+"20126","San José de Pozo Bravo","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1057","Urbano","01"
+"20126","Villa Notre Dame","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1166","Urbano","01"
+"20126","Libertad","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0091","Urbano","01"
+"20126","Villa de Nuestra Señora de La Asunción Sector San Marcos","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1079","Urbano","01"
+"20126","Privada Guadalupe","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1167","Urbano","01"
+"20126","Los Naranjos","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0975","Urbano","01"
+"20127","Bosques del Prado Norte","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0095","Urbano","01"
+"20129","Lomas del Campestre 1a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0097","Urbano","01"
+"20130","Nueva Rinconada","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0105","Urbano","01"
+"20130","Puerta Navarra","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1062","Urbano","01"
+"20130","El Roble","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0099","Urbano","01"
+"20130","Estableros","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0100","Urbano","01"
+"20130","Independencia de México","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0102","Urbano","01"
+"20130","San José del Arenal","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0107","Urbano","01"
+"20130","Fátima","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0101","Urbano","01"
+"20130","Primo Verdad","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0106","Urbano","01"
+"20130","Unidad Ganadera","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0108","Urbano","01"
+"20130","La Grasa","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0103","Urbano","01"
+"20130","Residencial Campestre Club de Golf Norte","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1121","Urbano","01"
+"20130","Residencial Campestre Club de Golf Sur","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1122","Urbano","01"
+"20130","Bosques del Prado Sur","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0098","Urbano","01"
+"20135","Centro Distribuidor de Básicos","Zona comercial","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"33","001","1064","Urbano","01"
+"20135","Agropecuario","Zona comercial","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"33","001","0109","Urbano","01"
+"20136","La Rinconada","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0110","Urbano","01"
+"20137","El Plateado","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0111","Urbano","01"
+"20138","Villas del Vergel","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","0114","Urbano","01"
+"20138","Residencial Pulgas Pandas Norte","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","0112","Urbano","01"
+"20138","Residencial Pulgas Pandas Sur","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","0113","Urbano","01"
+"20140","Las Hadas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0116","Urbano","01"
+"20140","Morelos","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0117","Urbano","01"
+"20146","Los Arcos","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0119","Urbano","01"
+"20149","Industrial","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0120","Urbano","01"
+"20150","Lomas del Cobano","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","1012","Urbano","01"
+"20150","Buenavista","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0121","Urbano","01"
+"20150","C.T.M.","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0122","Urbano","01"
+"20150","Macias Arellano","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0124","Urbano","01"
+"20150","La Estrella","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0123","Urbano","01"
+"20157","La Higuerilla","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0125","Urbano","01"
+"20157","Parras","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0126","Urbano","01"
+"20158","Trojes del Cobano","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0129","Urbano","01"
+"20158","Villas del Cobano","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1342","Urbano","01"
+"20158","Hacienda el Cobano 1a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0128","Urbano","01"
+"20158","El Cobano","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0127","Urbano","01"
+"20159","Alianza Ferrocarrilera","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0130","Urbano","01"
+"20159","Bosques del Prado Oriente","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1335","Urbano","01"
+"20159","Torremolinos","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0131","Rural","01"
+"20160","Francisco Guel Jimenez","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0132","Urbano","01"
+"20160","Las Viñas INFONAVIT","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"31","001","0133","Urbano","01"
+"20164","Lomas de Santa Anita","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0134","Urbano","01"
+"20164","Santa Anita 4a Sección","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","1018","Urbano","01"
+"20169","Santa Anita 2a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0136","Urbano","01"
+"20169","Santa Anita","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0135","Urbano","01"
+"20170","S.T.E.M.A.","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0143","Urbano","01"
+"20170","Rodolfo Landeros Gallegos","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0142","Urbano","01"
+"20170","Zona Militar","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0144","Urbano","01"
+"20170","El Maguey","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0138","Urbano","01"
+"20170","Las Cumbres","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","0139","Urbano","01"
+"20170","Nazario Ortiz Garza","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0141","Urbano","01"
+"20170","Lic Benito Juárez","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"31","001","0140","Urbano","01"
+"20170","Villa Bonita","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1020","Urbano","01"
+"20172","Lic Benito Palomino Dena","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0145","Urbano","01"
+"20172","Claustros Loma Dorada","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1170","Urbano","01"
+"20174","Vista de las Cumbres","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1027","Urbano","01"
+"20174","Los Laureles 3ra. Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1156","Urbano","01"
+"20174","Paseos del Sol","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1357","Urbano","01"
+"20174","Villas de La Loma","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1169","Urbano","01"
+"20174","Colinas de Oriente","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0982","Urbano","01"
+"20174","Mirador de Las Culturas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1072","Urbano","01"
+"20174","Mirador de las Culturas 2a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1073","Urbano","01"
+"20174","Villas de Las Fuentes","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1172","Urbano","01"
+"20174","Los Pericos","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","1188","Urbano","01"
+"20174","Los Laureles","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1059","Urbano","01"
+"20174","Los Laureles 2a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1060","Urbano","01"
+"20174","Mirador de Las Culturas III","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1155","Urbano","01"
+"20175","Lomas de Oriente 1a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1054","Urbano","01"
+"20175","Ejido las Cumbres","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0147","Urbano","01"
+"20175","Lomas de Oriente 3ra. Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1154","Urbano","01"
+"20175","J Refugio Esparza Reyes","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0148","Urbano","01"
+"20175","Lomas de Oriente 2da. Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1153","Urbano","01"
+"20177","C.N.O.P. Oriente","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0149","Urbano","01"
+"20179","Pensadores Mexicanos","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0154","Urbano","01"
+"20179","Las Cumbres II","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0152","Urbano","01"
+"20179","Progreso","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0156","Urbano","01"
+"20179","Las Cumbres","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0151","Urbano","01"
+"20179","Pintores Mexicanos","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0155","Urbano","01"
+"20179","Cerro Alto","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1042","Urbano","01"
+"20179","Luis Ortega Douglas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0153","Urbano","01"
+"20180","Bosques de La Alameda","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1175","Urbano","01"
+"20180","Ferronales","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0158","Urbano","01"
+"20180","Rinconada de La Alameda","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1174","Urbano","01"
+"20180","Lomas de Santa Anita","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0160","Urbano","01"
+"20180","Luis Gómez Zepeda (ferronales)","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0159","Urbano","01"
+"20180","Del Trabajo","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0157","Urbano","01"
+"20190","La Mancha","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","0164","Urbano","01"
+"20190","Héroes","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0162","Urbano","01"
+"20190","La Hacienda","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","0163","Urbano","01"
+"20196","Ojocaliente 3a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0168","Urbano","01"
+"20196","Colinas de San Patricio","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1081","Urbano","01"
+"20196","El Rocio","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","1293","Urbano","01"
+"20196","Ojocaliente I","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0166","Urbano","01"
+"20196","Ojocaliente INEGI","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"31","001","0169","Urbano","01"
+"20196","Villerías","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1023","Urbano","01"
+"20196","Solidaridad 1a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0170","Urbano","01"
+"20196","Vistas de Oriente","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1034","Urbano","01"
+"20196","J. Guadalupe Posada","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1288","Urbano","01"
+"20196","Necaxa","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1340","Urbano","01"
+"20196","Ojocaliente INEGI II","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0167","Urbano","01"
+"20196","Terra Nova","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1168","Urbano","01"
+"20196","José Guadalupe Peralta Gámez","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0977","Urbano","01"
+"20196","Haciendas de Aguascalientes 1a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0980","Urbano","01"
+"20196","Real de Haciendas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1063","Rural","01"
+"20196","Valle de los Cactus","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1070","Urbano","01"
+"20196","Balcones de Oriente","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1134","Urbano","01"
+"20197","Ciudad Jesús Terán","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0171","Urbano","01"
+"20198","Ejido Ojocaliente","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0173","Urbano","01"
+"20198","Ex Hacienda Ojocaliente","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0172","Urbano","01"
+"20198","Misión Alameda","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"10","001","1061","Urbano","01"
+"20199","Ojo Caliente IV","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","1014","Urbano","01"
+"20199","El Riego","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"09","001","0174","Urbano","01"
+"20199","Municipio Libre","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"21","001","0176","Urbano","01"
+"20199","Fidel Velázquez INFONAVIT","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"31","001","0175","Urbano","01"
+"20200","Ex Hacienda La Cantera","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1138","Urbano","01"
+"20200","José Vasconcelos Calderón","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1139","Urbano","01"
+"20200","Fuentes del Lago","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","1350","Urbano","01"
+"20200","Lic Manuel Gómez Morin","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1035","Urbano","01"
+"20200","Porta Canteras","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1171","Urbano","01"
+"20200","Veteranos de La Revolución","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1326","Urbano","01"
+"20200","Bellavista","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","0177","Urbano","01"
+"20200","Loma Bonita","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0178","Urbano","01"
+"20200","Villas de La Cantera 1a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0978","Urbano","01"
+"20200","San Nicolás 1ra. Sección","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","1120","Urbano","01"
+"20200","San Nicolás","Residencial","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"30","001","1053","Urbano","01"
+"20200","Villas del Mediterráneo","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1074","Urbano","01"
+"20205","Nueva España","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0181","Urbano","01"
+"20205","Educación Álamos","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0180","Urbano","01"
+"20206","Lic. José López Portillo","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0182","Urbano","01"
+"20206","La Barranquilla","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0183","Urbano","01"
+"20206","Los Barandales","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0184","Urbano","01"
+"20207","Rinconada San José","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1313","Urbano","01"
+"20207","Canteras de San Javier","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0185","Urbano","01"
+"20208","Canteras de San José","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0186","Urbano","01"
+"20210","La Barranca de Guadalupe","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0189","Urbano","01"
+"20210","Pirules INFONAVIT","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0190","Urbano","01"
+"20210","Circunvalación Poniente","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0187","Urbano","01"
+"20210","España","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0188","Urbano","01"
+"20216","Jardines de los Pirules","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0191","Urbano","01"
+"20217","Residencial los Pirules","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0192","Urbano","01"
+"20218","Jardines del Lago","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0194","Urbano","01"
+"20218","Francisco Villa","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0193","Urbano","01"
+"20218","Los Eucaliptos","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","1290","Urbano","01"
+"20218","Canteras de San Agustin","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","1065","Urbano","01"
+"20218","Santa Imelda","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","1137","Urbano","01"
+"20218","Los Eucaliptos 2a. Sección","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","1289","Urbano","01"
+"20218","San Martin de La Cantera","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","1017","Urbano","01"
+"20219","Parque Industrial el Vergel","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0198","Urbano","01"
+"20219","El Edén","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0196","Urbano","01"
+"20219","Misión Juan Pablo II","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","1292","Urbano","01"
+"20220","Vivienda Popular","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"31","001","1009","Urbano","01"
+"20220","Las Flores","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0200","Urbano","01"
+"20229","Las Torres","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0202","Urbano","01"
+"20230","Santa Elena","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0205","Urbano","01"
+"20230","Obraje","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0204","Urbano","01"
+"20230","Las Américas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0203","Urbano","01"
+"20234","Mesonero","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0208","Urbano","01"
+"20234","Agricultura","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0207","Urbano","01"
+"20235","Valle Dorado","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0211","Urbano","01"
+"20235","El Dorado 2a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0210","Urbano","01"
+"20235","El Dorado 1a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0209","Urbano","01"
+"20235","Villa Jardín 1a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0212","Urbano","01"
+"20235","Villa Jardín 2a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0213","Urbano","01"
+"20236","Jardines de Santa Elena","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0214","Urbano","01"
+"20237","Hermanos Carreón","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0215","Urbano","01"
+"20237","Montebello","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0216","Urbano","01"
+"20238","Santa Elena 2a Sección","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0217","Urbano","01"
+"20239","La Fuente","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0218","Urbano","01"
+"20240","Triana","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0227","Urbano","01"
+"20240","El Encino","Barrio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"02","001","0220","Urbano","01"
+"20240","Triana","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","1316","Urbano","01"
+"20240","El Laurel","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0221","Urbano","01"
+"20240","La Salud","Barrio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"02","001","0223","Urbano","01"
+"20240","Residencial el Encino","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0226","Urbano","01"
+"20240","Los Virreyes","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","0224","Urbano","01"
+"20240","El Llanito","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0225","Urbano","01"
+"20240","Residencial Cosío","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1076","Urbano","01"
+"20240","La Luna","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0222","Urbano","01"
+"20247","San Fernando INFONAVIT","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"31","001","0229","Urbano","01"
+"20248","Jardines de Triana","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0230","Urbano","01"
+"20249","Gámez","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0231","Urbano","01"
+"20250","Jardines de La Cruz","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0234","Urbano","01"
+"20250","La Huerta","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0235","Urbano","01"
+"20250","San Luis","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0236","Urbano","01"
+"20250","Villas de Kristal","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","1022","Urbano","01"
+"20250","Jesús Gómez Portugal","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0232","Urbano","01"
+"20250","Héroes de Aguascalientes","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0233","Urbano","01"
+"20255","INFONAVIT Los Volcanes","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"31","001","0240","Urbano","01"
+"20255","Bona Gens","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0239","Urbano","01"
+"20256","FOVISSSTE Ojocaliente I","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"31","001","0241","Urbano","01"
+"20256","Villas de Ojocaliente","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1032","Urbano","01"
+"20256","Rinconada de La Cruz","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0958","Urbano","01"
+"20256","Ojocaliente FOVISSSTE II","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","0242","Urbano","01"
+"20256","Ojocaliente las Torres","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0243","Urbano","01"
+"20257","Lázaro Cárdenas","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"31","001","0244","Urbano","01"
+"20259","La Estación","Barrio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"02","001","0245","Urbano","01"
+"20259","La Purísima","Barrio","Aguascalientes","Aguascalientes","Aguascalientes","20001","01","20001",,"02","001","0246","Urbano","01"
+"20260","Ojo de Agua","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0251","Urbano","01"
+"20260","IV Centenario","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"31","001","0247","Urbano","01"
+"20260","Vivienda Militar","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0250","Urbano","01"
+"20260","Rinconada El Cedazo","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","1089","Urbano","01"
+"20260","Sidusa","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0252","Urbano","01"
+"20260","Jesús Terán Peredo","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0249","Urbano","01"
+"20263","El Cedazo","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1317","Urbano","01"
+"20263","Villa Las Palmas 2a. Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1322","Urbano","01"
+"20263","Balcones de Ojocaliente","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0254","Urbano","01"
+"20263","Solidaridad 2a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0260","Urbano","01"
+"20263","Agua Clara","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0253","Urbano","01"
+"20263","Salto de Ojocaliente","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0258","Urbano","01"
+"20263","Villa las Palmas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1041","Urbano","01"
+"20263","Bajío de las Palmas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1085","Urbano","01"
+"20263","Lomas del Gachupín","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1184","Urbano","01"
+"20263","Lomas del Chapulín","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0256","Urbano","01"
+"20263","Solidaridad 3a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0261","Urbano","01"
+"20263","Cobano de Palmitas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1031","Urbano","01"
+"20263","Ojo de Agua de Palmitas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0257","Urbano","01"
+"20263","Cima del Chapulín","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1030","Urbano","01"
+"20263","Cielo Claro","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0255","Urbano","01"
+"20263","Salto de Ojocaliente II","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0259","Urbano","01"
+"20263","San Jorge","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1033","Urbano","01"
+"20263","Tierra Buena","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0262","Urbano","01"
+"20263","La Lomita","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1039","Urbano","01"
+"20264","Vista del Sol 3a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0265","Urbano","01"
+"20264","Morelos INFONAVIT","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"31","001","0263","Urbano","01"
+"20264","Vista del Sol 2a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0264","Urbano","01"
+"20265","Ojo de Agua INFONAVIT","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"31","001","0266","Urbano","01"
+"20266","Casablanca","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0267","Urbano","01"
+"20266","La Cruz","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0269","Urbano","01"
+"20266","Vista del Sol 1a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0271","Urbano","01"
+"20266","Jardines del Sol","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0268","Urbano","01"
+"20266","Misión de Santa Fe","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0270","Urbano","01"
+"20267","Lic Primo Verdad INEGI","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","0276","Urbano","01"
+"20267","S.T.E.M.A.","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","0273","Urbano","01"
+"20267","Ojo de Agua FOVISSSTE 1a Sección","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"31","001","0275","Urbano","01"
+"20267","Jardines de La Convención","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0274","Urbano","01"
+"20268","Fuentes de La Asunción","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0277","Urbano","01"
+"20269","Jardines de La Luz","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0278","Urbano","01"
+"20270","Las Canoas","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0284","Urbano","01"
+"20270","Los Cedros","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1315","Urbano","01"
+"20270","Bulevar","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0279","Urbano","01"
+"20270","El Caminero","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0280","Urbano","01"
+"20270","Lindavista","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0285","Urbano","01"
+"20270","Jardines de La Asunción","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0283","Urbano","01"
+"20270","México","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0286","Urbano","01"
+"20270","Jardines de Aguascalientes","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0282","Urbano","01"
+"20276","Jardines de las Bugambilias","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0288","Urbano","01"
+"20276","Jardines del Parque","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0289","Urbano","01"
+"20277","Residencial del Parque","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0291","Urbano","01"
+"20277","Pirámides","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0290","Urbano","01"
+"20277","Rinconada del Parque","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","0292","Urbano","01"
+"20278","Jardines de las Fuentes","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0294","Urbano","01"
+"20278","Diana","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0293","Urbano","01"
+"20280","Martinez Dominguez","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0299","Urbano","01"
+"20280","Torres de San Francisco","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0304","Urbano","01"
+"20280","San Pedro","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0303","Urbano","01"
+"20280","San Francisco del Arenal","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0302","Urbano","01"
+"20280","Central de Abastos","Zona comercial","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"33","001","0296","Urbano","01"
+"20280","Prados del Sur","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0301","Urbano","01"
+"20280","Casasolida","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0295","Urbano","01"
+"20280","Jardines del Sur","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0297","Urbano","01"
+"20280","Prados de Villasunción","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0300","Urbano","01"
+"20280","Trojes del Sur","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0305","Urbano","01"
+"20280","La Luz","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0298","Urbano","01"
+"20283","Parque Industrial Siglo XXI (Ampliación)","Parque industrial","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"26","001","1341","Urbano","01"
+"20283","Parque Industrial Siglo XXI","Parque industrial","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"26","001","1325","Urbano","01"
+"20284","Villas de Santa Rosa","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0308","Urbano","01"
+"20284","Villas del Oeste","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0309","Urbano","01"
+"20284","INFONAVIT Potreros del Oeste","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"31","001","0307","Urbano","01"
+"20284","La Estancia","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0306","Urbano","01"
+"20284","Vista del Sur","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0310","Urbano","01"
+"20285","Versalles 1a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0311","Urbano","01"
+"20285","Versalles 2a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0312","Urbano","01"
+"20286","Villas del Pilar 1a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0315","Urbano","01"
+"20286","Providencia","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","1318","Urbano","01"
+"20286","Rinconada Santa Mónica","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1343","Urbano","01"
+"20286","Rancho Santa Mónica","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0313","Urbano","01"
+"20286","Villa Capri","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1182","Urbano","01"
+"20286","Paseos de Santa Mónica","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","1353","Urbano","01"
+"20286","Vicente Guerrero","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0314","Urbano","01"
+"20286","Villas San Antonio","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1123","Urbano","01"
+"20287","Insurgentes","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0316","Urbano","01"
+"20288","Bulevares 2a. Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0318","Urbano","01"
+"20288","Bulevares 1a. Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0317","Urbano","01"
+"20289","Pilar Blanco INFONAVIT","Unidad habitacional","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"31","001","0320","Urbano","01"
+"20290","Ciudad Industrial","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0321","Urbano","01"
+"20290","Vista Alegre","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0323","Urbano","01"
+"20290","Parque Industrial ALTEC","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1324","Urbano","01"
+"20290","Plaza Vestir","Zona comercial","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"33","001","0322","Urbano","01"
+"20291","Centro SCT Aguascalientes","Gran usuario","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"22","001","0324","Urbano","01"
+"20296","Villas de Bonaterra","Condominio","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"10","001","1036","Urbano","01"
+"20296","Residencial San Javier","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1083","Urbano","01"
+"20296","Villa Sur","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1084","Urbano","01"
+"20296","San Francisco de los Arteaga","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1071","Urbano","01"
+"20296","Rústicos Calpulli","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0328","Urbano","01"
+"20297","Casa Blanca","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0329","Urbano","01"
+"20297","Jardines de Casablanca","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0331","Urbano","01"
+"20297","Jardines de Casanueva","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0332","Urbano","01"
+"20298","San Sebastián","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1048","Urbano","01"
+"20298","Lomas de Vistabella","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1037","Urbano","01"
+"20298","Lomas del Mirador II Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1131","Urbano","01"
+"20298","Villas de Ajedrez","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","1021","Urbano","01"
+"20298","Lomas del Mirador I Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1130","Urbano","01"
+"20298","Morelos I","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0334","Urbano","01"
+"20298","Lomas de Vistabella 2a. Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1319","Urbano","01"
+"20298","Condominio La terraza","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1346","Urbano","01"
+"20298","Solidaridad 4a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0337","Urbano","01"
+"20298","Misión de Santa Lucía","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1185","Urbano","01"
+"20298","Emiliano Zapata","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0333","Urbano","01"
+"20298","Morelos 2a Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0335","Urbano","01"
+"20298","Lomas del Sur","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1082","Urbano","01"
+"20298","Laureles del Sur","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1129","Urbano","01"
+"20298","Morelos La Loma II","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1320","Urbano","01"
+"20298","Lomas de Nueva York","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","1114","Rural","01"
+"20298","Ladrilleras Los Arellano","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1332","Urbano","01"
+"20298","Valle del Cedazo","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1349","Urbano","01"
+"20299","Lomas del Ajedrez","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0341","Urbano","01"
+"20299","Lomas de San Jorge","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1038","Urbano","01"
+"20299","Reencuentro","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1127","Urbano","01"
+"20299","Villalta","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1176","Urbano","01"
+"20299","Lomas de San Jorge 2a. Sección","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1321","Urbano","01"
+"20299","Lomas Altas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","1323","Urbano","01"
+"20299","Mujeres Ilustres","Colonia","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"09","001","0342","Urbano","01"
+"20299","Periodistas","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0343","Urbano","01"
+"20299","Fundadores","Fraccionamiento","Aguascalientes","Aguascalientes","Aguascalientes","20271","01","20271",,"21","001","0964","Urbano","01"
+"20300","Campestre San Carlos","Fraccionamiento","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"21","011","0344","Rural","03"
+"20300","Panamericano","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0345","Semiurbano","03"
+"20300","San Francisco de los Romos Centro","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0346","Semiurbano","03"
+"20303","La Margarita","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0353","Semiurbano","03"
+"20303","Los Cedros","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0356","Semiurbano","03"
+"20303","San Francisco","Granja","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"23","011","0359","Semiurbano","03"
+"20303","San Juan Bautista","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0361","Semiurbano","03"
+"20303","San Pablo","Fraccionamiento","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"21","011","1348","Semiurbano","03"
+"20303","Revolución","Fraccionamiento","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"21","011","0358","Semiurbano","03"
+"20303","San José Buenavista","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0360","Semiurbano","03"
+"20303","El Tirón","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0349","Semiurbano","03"
+"20303","La Aurora","Granja","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"23","011","0351","Semiurbano","03"
+"20303","La Sociedad San Juan","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0355","Semiurbano","03"
+"20303","Hidalgo","Fraccionamiento","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"21","011","0350","Semiurbano","03"
+"20303","Santa Isabel","Fraccionamiento","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"21","011","1347","Semiurbano","03"
+"20303","La Guadalupana","Granja","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"23","011","0352","Semiurbano","03"
+"20303","Viñedos San José","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0362","Semiurbano","03"
+"20303","La Perla","Granja","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"23","011","0354","Semiurbano","03"
+"20303","María","Granja","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"23","011","0357","Semiurbano","03"
+"20304","La Escondida","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0365","Semiurbano","03"
+"20304","28 de Abril","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0370","Semiurbano","03"
+"20304","Parque Industrial San Francisco","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","1026","Semiurbano","03"
+"20304","San Juan","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0369","Semiurbano","03"
+"20304","El Chamizal","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0363","Semiurbano","03"
+"20304","San José del Barranco","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0368","Semiurbano","03"
+"20304","Villa de Guadalupe","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0371","Semiurbano","03"
+"20304","Santa Bárbara","Fraccionamiento","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"21","011","1344","Semiurbano","03"
+"20304","Mary","Granja","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"23","011","0366","Semiurbano","03"
+"20304","Monserrat","Granja","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"23","011","0367","Semiurbano","03"
+"20304","Fracción de La Trinidad II","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0364","Semiurbano","03"
+"20305","Santa Anita","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0393","Semiurbano","03"
+"20305","Los Lirios","Fraccionamiento","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"21","011","0387","Semiurbano","03"
+"20305","Los Sabinos","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0388","Semiurbano","03"
+"20305","Zacatenco","Granja","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"23","011","0397","Semiurbano","03"
+"20305","El Barranco","Ejido","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"15","011","0373","Semiurbano","03"
+"20305","La Providencia","Rancho o rancheria","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"29","011","0382","Semiurbano","03"
+"20305","Santa Elena","Granja","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"23","011","0394","Semiurbano","03"
+"20305","Viñedos los Zapata","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0395","Semiurbano","03"
+"20305","Alfredo Soriano Lopez","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0372","Semiurbano","03"
+"20305","El Cortijo","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0374","Semiurbano","03"
+"20305","La Unión","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0384","Semiurbano","03"
+"20305","San Pedro Victoria de Arriba","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0392","Semiurbano","03"
+"20305","Las Carmelitas","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0385","Semiurbano","03"
+"20305","San Angel","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0389","Semiurbano","03"
+"20305","Viñedos Xoconoxtle","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0396","Semiurbano","03"
+"20305","El Espíritu","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0375","Semiurbano","03"
+"20305","El Gigante","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0376","Semiurbano","03"
+"20305","La Paz","Rancho o rancheria","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"29","011","0381","Semiurbano","03"
+"20305","El Refugio","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0377","Semiurbano","03"
+"20305","Elena","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0378","Semiurbano","03"
+"20305","La Trinidad","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0383","Semiurbano","03"
+"20305","Los Gonzalez","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0386","Semiurbano","03"
+"20305","San Cristóbal","Rancho o rancheria","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"29","011","0390","Semiurbano","03"
+"20305","San Pedro Victoria de Abajo","Colonia","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"09","011","0391","Semiurbano","03"
+"20305","La Concepción","Pueblo","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"28","011","0379","Semiurbano","03"
+"20305","La Gloria","Granja","San Francisco de los Romo","Aguascalientes","San Francisco de los Romo","20671","01","20671",,"23","011","0380","Semiurbano","03"
+"20310","Los Negritos","Congregacion","Aguascalientes","Aguascalientes",,"20001","01","20001",,"11","001","0398","Rural",
+"20310","La Loma de los Negritos","Poblado comunal","Aguascalientes","Aguascalientes",,"20001","01","20001",,"27","001","1110","Rural",
+"20310","San Felipe (Viñedos San Felipe)","Poblado comunal","Aguascalientes","Aguascalientes",,"20001","01","20001",,"27","001","1113","Rural",
+"20311","Coyotes Norte","Congregacion","Aguascalientes","Aguascalientes",,"20001","01","20001",,"11","001","0399","Rural",
+"20311","Sandovales","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0400","Rural",
+"20311","Trojes de Alonso","Pueblo","Aguascalientes","Aguascalientes",,"20001","01","20001",,"28","001","0401","Rural",
+"20312","Rio Curtidores","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0402","Rural",
+"20313","Cuauhtémoc","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0403","Rural",
+"20313","Hacienda Nueva","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0404","Rural",
+"20314","Torrecillas","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0406","Rural",
+"20314","Cariñan","Granja","Aguascalientes","Aguascalientes",,"20001","01","20001",,"23","001","0405","Rural",
+"20315","Viñedos Valle Redondo","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0407","Rural",
+"20316","El Picacho","Fraccionamiento","Aguascalientes","Aguascalientes",,"20001","01","20001",,"21","001","0408","Rural",
+"20316","Lomas del Picacho","Fraccionamiento","Aguascalientes","Aguascalientes",,"20001","01","20001",,"21","001","1118","Rural",
+"20317","Santa Cruz de La Presa","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0409","Rural",
+"20318","La Cantera","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0410","Rural",
+"20319","Cereso (para Varones y Mujeres)","Zona federal","Aguascalientes","Aguascalientes",,"20001","01","20001",,"34","001","1093","Rural",
+"20320","Cañada Honda","Congregacion","Aguascalientes","Aguascalientes",,"20001","01","20001",,"11","001","0411","Rural",
+"20320","Gral. José María Morelos y Pavón","Congregacion","Aguascalientes","Aguascalientes",,"20001","01","20001",,"11","001","0412","Rural",
+"20321","El Cortijo","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0413","Rural",
+"20321","La Escondida","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0414","Rural",
+"20322","La Presa","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0415","Rural",
+"20322","San Vicente","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0416","Rural",
+"20323","Santa María de Gallardo","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0417","Rural",
+"20324","Jaltomate","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0418","Rural",
+"20326","Puesta del Sol","Fraccionamiento","Aguascalientes","Aguascalientes",,"20001","01","20001",,"21","001","1086","Rural",
+"20326","La Rioja","Fraccionamiento","Aguascalientes","Aguascalientes",,"20001","01","20001",,"21","001","1125","Rural",
+"20326","San Ignacio III","Colonia","Aguascalientes","Aguascalientes",,"20001","01","20001",,"09","001","1287","Rural",
+"20326","Rinconada San Ignacio","Condominio","Aguascalientes","Aguascalientes",,"20001","01","20001",,"10","001","1161","Rural",
+"20326","Ex Hacienda San Ignacio","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","1162","Rural",
+"20326","La Perla","Fraccionamiento","Aguascalientes","Aguascalientes",,"20001","01","20001",,"21","001","1285","Rural",
+"20326","San Ignacio","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0419","Rural",
+"20326","La Soledad","Fraccionamiento","Aguascalientes","Aguascalientes",,"20001","01","20001",,"21","001","1087","Rural",
+"20326","San Ignacio 3","Colonia","Aguascalientes","Aguascalientes",,"20001","01","20001",,"09","001","1281","Rural",
+"20326","San Ignacio II","Colonia","Aguascalientes","Aguascalientes",,"20001","01","20001",,"09","001","1286","Rural",
+"20328","Sandovales de Arriba","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20921","01","20921",,"29","001","1190","Semiurbano",
+"20328","Los Pocitos","Ejido","Aguascalientes","Aguascalientes",,"20921","01","20921",,"15","001","0420","Semiurbano",
+"20328","Parque Industrial Tecno Polo","Zona industrial","Aguascalientes","Aguascalientes",,"20921","01","20921",,"37","001","1066","Semiurbano",
+"20329","Rincón Andaluz","Condominio","Aguascalientes","Aguascalientes",,"20001","01","20001",,"10","001","1157","Urbano",
+"20329","La Plazuela","Condominio","Aguascalientes","Aguascalientes",,"20001","01","20001",,"10","001","1158","Urbano",
+"20329","Torre Campestre Santa María","Residencial","Aguascalientes","Aguascalientes",,"20001","01","20001",,"30","001","1159","Urbano",
+"20329","La Punta Campestre","Condominio","Aguascalientes","Aguascalientes",,"20001","01","20001",,"10","001","1160","Urbano",
+"20330","El Salto","Barrio","El Llano","Aguascalientes",,"20001","01","20001",,"02","010","1257","Rural",
+"20330","Pobre","Barrio","El Llano","Aguascalientes",,"20001","01","20001",,"02","010","1253","Rural",
+"20330","De Abajo","Barrio","El Llano","Aguascalientes",,"20001","01","20001",,"02","010","1255","Rural",
+"20330","De Afuera","Barrio","El Llano","Aguascalientes",,"20001","01","20001",,"02","010","1254","Rural",
+"20330","Centro del Barrio","Barrio","El Llano","Aguascalientes",,"20001","01","20001",,"02","010","1252","Rural",
+"20330","Palo Alto","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0421","Rural",
+"20330","El Saucito","Barrio","El Llano","Aguascalientes",,"20001","01","20001",,"02","010","1258","Rural",
+"20330","De Triana","Barrio","El Llano","Aguascalientes",,"20001","01","20001",,"02","010","1251","Rural",
+"20330","El Progreso","Barrio","El Llano","Aguascalientes",,"20001","01","20001",,"02","010","1256","Rural",
+"20333","Las Flores","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0425","Rural",
+"20333","El Coton","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0422","Rural",
+"20333","El Milagro","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","0423","Rural",
+"20333","El Vaciero","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","0424","Rural",
+"20333","Lic Jesús Terán","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0427","Rural",
+"20333","San Francisco de Los Pedroza","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1259","Rural",
+"20333","El Barreno (Ampliación San Francisco)","Colonia","El Llano","Aguascalientes",,"20001","01","20001",,"09","010","1260","Rural",
+"20333","Las Laminas","Granja","El Llano","Aguascalientes",,"20001","01","20001",,"23","010","0426","Rural",
+"20333","San Francisco de los Viveros","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","0428","Rural",
+"20333","Sandovales","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0429","Rural",
+"20333","El Mocho","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1261","Rural",
+"20333","San Gerónimo","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1263","Rural",
+"20333","Granaj San José (San Antonio de Montoya)","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1269","Rural",
+"20333","San Rafael","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1262","Rural",
+"20334","El Novillo","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","0431","Rural",
+"20334","El Colorin","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","0430","Rural",
+"20334","La Luz","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0432","Rural",
+"20334","La Luz de Palo Alto","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0433","Rural",
+"20335","Ojo de Agua de Crucitas","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0435","Rural",
+"20335","El Puertecito","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","0434","Rural",
+"20335","Ojo de Agua de Placitas","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0436","Rural",
+"20336","Francisco Sarabia","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","0438","Rural",
+"20336","Los Conos","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0439","Rural",
+"20336","Santa Rosa","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0441","Rural",
+"20336","El Terremoto","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0437","Rural",
+"20336","Montoya","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0440","Rural",
+"20337","La Tinaja","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0443","Rural",
+"20337","San Jerónimo","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","0444","Rural",
+"20337","El Rosario","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1264","Rural",
+"20337","El Retoño","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","0442","Rural",
+"20338","La Paz","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0447","Rural",
+"20338","El Chonguillo (El Chonguito)","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1266","Rural",
+"20338","Granja Temixco","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1271","Rural",
+"20338","El Copetillo","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","0445","Rural",
+"20338","San Agustín","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1276","Rural",
+"20338","La Lucita","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1277","Rural",
+"20338","San Ramón","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1280","Rural",
+"20338","El Copetillo (El Moquete)","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1267","Rural",
+"20338","San Lorenzo","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1274","Rural",
+"20338","Rancho Nuevo","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1265","Rural",
+"20338","Tanque El Coyote (El Coyote)","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1268","Rural",
+"20338","Santa Clara (Las Mieleras)","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1275","Rural",
+"20338","La Calavera (Q. de Alonso)","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1278","Rural",
+"20338","San Antonio de La Rosa","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1279","Rural",
+"20338","El Tildio","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0446","Rural",
+"20338","La Primavera","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","0448","Rural",
+"20338","Santa Rita Uno (Santa Rita)","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1273","Rural",
+"20338","La Unión","Ejido","El Llano","Aguascalientes",,"20001","01","20001",,"15","010","0449","Rural",
+"20338","Mirasoles","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1270","Rural",
+"20338","Santa Elena","Colonia","El Llano","Aguascalientes",,"20001","01","20001",,"09","010","0451","Rural",
+"20338","Lomas del Refugio","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","0450","Rural",
+"20338","El Paraíso (Santa Rita)","Rancho o rancheria","El Llano","Aguascalientes",,"20001","01","20001",,"29","010","1272","Rural",
+"20339","Cereso el Llano","Zona federal","El Llano","Aguascalientes",,"20001","01","20001",,"34","010","1092","Rural",
+"20340","Buena Vista de Peñuelas","Ejido","Aguascalientes","Aguascalientes",,"20271","01","20271",,"15","001","0453","Rural",
+"20340","Cieneguilla","Ejido","Aguascalientes","Aguascalientes",,"20271","01","20271",,"15","001","0454","Rural",
+"20340","Peñuelas","Colonia","Aguascalientes","Aguascalientes",,"20271","01","20271",,"09","001","0455","Rural",
+"20340","Arellano","Ejido","Aguascalientes","Aguascalientes",,"20271","01","20271",,"15","001","0452","Rural",
+"20341","El Salto de Ojocaliente","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0456","Rural",
+"20341","Salto de los Salados","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0458","Rural",
+"20341","La Huerta","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0457","Rural",
+"20342","San Gerardo","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0460","Rural",
+"20342","San Francisco","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0459","Urbano",
+"20344","Lic Jesús Terán Villa","Pueblo","Aguascalientes","Aguascalientes",,"20001","01","20001",,"28","001","0463","Rural",
+"20345","Montoro","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0464","Rural",
+"20346","Los Caños","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0465","Rural",
+"20348","San Antonio de Peñuelas","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0466","Rural",
+"20349","Aguascalientes (Lic. Jesús Terán Peredo)","Aeropuerto","Aguascalientes","Aguascalientes",,"20001","01","20001",,"01","001","0467","Rural",
+"20350","Rancho Seco","Rancho o rancheria","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"29","011","0472","Rural",
+"20350","La Biznaga","Ejido","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"15","011","0468","Rural",
+"20350","Macario J Gómez","Colonia","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"09","011","0470","Rural",
+"20350","Medio Kilo","Rancho o rancheria","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"29","011","1069","Semiurbano",
+"20350","Loretito","Ejido","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"15","011","0469","Rural",
+"20353","La Providencia 1","Granja","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"23","011","0473","Rural",
+"20355","La Guayana","Rancho o rancheria","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"29","011","0475","Rural",
+"20355","San Ramon","Ejido","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"15","011","0476","Rural",
+"20355","Viñedos RIVer","Hacienda","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"24","011","0477","Rural",
+"20355","Enriqueta","Granja","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"23","011","0474","Rural",
+"20355","Paseos de La Providencia","Fraccionamiento","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"21","011","1028","Rural",
+"20356","Ramon Romo","Ejido","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"15","011","0480","Rural",
+"20356","Borrotes","Ejido","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"15","011","0478","Rural",
+"20356","Chicalote","Estacion","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"16","011","0479","Rural",
+"20357","Amapolas del Rio","Ejido","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"15","011","0481","Rural",
+"20357","Rancho Nuevo","Ejido","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"15","011","1094","Rural",
+"20357","El Tepetate","Rancho o rancheria","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"29","011","0482","Rural",
+"20357","Ojo de Agua del Mezquite","Ejido","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"15","011","0483","Rural",
+"20357","Rancho Nuevo 2","Rancho o rancheria","San Francisco de los Romo","Aguascalientes",,"20671","01","20671",,"29","011","0484","Rural",
+"20358","Valle de Aguascalientes","Parque industrial","San Francisco de los Romo","Aguascalientes",,"20001","01","20001",,"26","011","0984","Rural",
+"20358","Puertecito de La Virgen","Rancho o rancheria","San Francisco de los Romo","Aguascalientes",,"20001","01","20001",,"29","011","0471","Rural",
+"20358","Villas de San Felipe","Fraccionamiento","San Francisco de los Romo","Aguascalientes",,"20001","01","20001",,"21","011","1056","Rural",
+"20358","Ex Viñedos de Guadalupe","Colonia","San Francisco de los Romo","Aguascalientes",,"20001","01","20001",,"09","011","1010","Rural",
+"20358","La Casita","Fraccionamiento","San Francisco de los Romo","Aguascalientes",,"20001","01","20001",,"21","011","1345","Rural",
+"20363","San Antonio de los Pedroza","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0485","Rural",
+"20363","San José de La Ordeña","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0486","Rural",
+"20364","San Nicolás de Enmedio","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0489","Rural",
+"20364","La Soledad","Colonia","Aguascalientes","Aguascalientes",,"20001","01","20001",,"09","001","0487","Rural",
+"20364","San Nicolás de Arriba","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0488","Rural",
+"20364","Cartagena 1947","Fraccionamiento","Aguascalientes","Aguascalientes",,"20001","01","20001",,"21","001","1008","Rural",
+"20366","Cumbres II","Poblado comunal","Aguascalientes","Aguascalientes",,"20001","01","20001",,"27","001","1111","Rural",
+"20366","El Colorado (el Soyatal)","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0490","Rural",
+"20366","El Conejal","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0491","Rural",
+"20367","El Rocio","Poblado comunal","Aguascalientes","Aguascalientes",,"20001","01","20001",,"27","001","1116","Rural",
+"20367","Norias del Ojocaliente","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0495","Rural",
+"20367","El Trigo","Colonia","Aguascalientes","Aguascalientes",,"20001","01","20001",,"09","001","0494","Rural",
+"20369","El Malacate","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0497","Rural",
+"20369","Dolores","Granja","Aguascalientes","Aguascalientes",,"20001","01","20001",,"23","001","0496","Rural",
+"20370","El Puerto","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0498","Rural",
+"20370","La Pila","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0499","Rural",
+"20371","Ciudad de los Niños","Congregacion","Aguascalientes","Aguascalientes",,"20001","01","20001",,"11","001","0500","Rural",
+"20371","La Cotorra","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0501","Rural",
+"20372","El Niágara","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0503","Rural",
+"20372","Granjas Fátima","Poblado comunal","Aguascalientes","Aguascalientes",,"20001","01","20001",,"27","001","1115","Rural",
+"20372","Cabecita 3 Marías","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0502","Rural",
+"20373","El Ocote","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0504","Rural",
+"20373","El Salitre","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0505","Rural",
+"20375","Campestre Bosques de Las Lomas","Condominio","Aguascalientes","Aguascalientes",,"20001","01","20001",,"10","001","1193","Rural",
+"20375","El Cedazo (cedazo de San Antonio)","Poblado comunal","Aguascalientes","Aguascalientes",,"20001","01","20001",,"27","001","1117","Rural",
+"20375","El Tanque de los Jimenez","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0506","Rural",
+"20375","El Refugio de Peñuelas","Poblado comunal","Aguascalientes","Aguascalientes",,"20001","01","20001",,"27","001","1109","Rural",
+"20376","Centro de Arriba","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0507","Rural",
+"20377","San Pedro Cieneguilla","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0509","Rural",
+"20377","Cieneguilla","Hacienda","Aguascalientes","Aguascalientes",,"20001","01","20001",,"24","001","0508","Rural",
+"20379","Los Dolores","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0510","Rural",
+"20382","El Codo","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0511","Rural",
+"20384","Paso Hondo","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0513","Rural",
+"20384","Norias del Paso Hondo","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0512","Rural",
+"20385","Santa Gertrudis","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0514","Rural",
+"20385","Lotes de Arellano","Poblado comunal","Aguascalientes","Aguascalientes",,"20001","01","20001",,"27","001","1112","Rural",
+"20386","Tanque de Guadalupe","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0516","Rural",
+"20386","El Duraznillo","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0515","Rural",
+"20389","Soledad de Abajo","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0518","Rural",
+"20389","Congregación Matamoros","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","1191","Rural",
+"20389","Los Duron","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0517","Rural",
+"20390","San José","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0519","Rural",
+"20390","Villa Campestre San José del Monte","Fraccionamiento","Aguascalientes","Aguascalientes",,"20001","01","20001",,"21","001","1128","Rural",
+"20391","Agostaderito","Hacienda","Aguascalientes","Aguascalientes",,"20001","01","20001",,"24","001","0520","Rural",
+"20392","Cotorina de Ejido","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0521","Rural",
+"20392","Montoro","Congregacion","Aguascalientes","Aguascalientes",,"20001","01","20001",,"11","001","0522","Rural",
+"20394","Coyotes Sur","Congregacion","Aguascalientes","Aguascalientes",,"20001","01","20001",,"11","001","0524","Rural",
+"20394","Cañada Grande de Cotorina","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0523","Rural",
+"20395","Los Cuervos (los Ojos de Agua)","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0525","Rural",
+"20395","San Bartolo","Rancho o rancheria","Aguascalientes","Aguascalientes",,"20001","01","20001",,"29","001","0526","Rural",
+"20396","El Refugio de Peñuelas","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","0527","Rural",
+"20396","Peñuelas","Hacienda","Aguascalientes","Aguascalientes",,"20001","01","20001",,"24","001","0528","Rural",
+"20396","Peñuelas","Ejido","Aguascalientes","Aguascalientes",,"20001","01","20001",,"15","001","1355","Rural",
+"20399","El Turicate","Colonia","Aguascalientes","Aguascalientes",,"20001","01","20001",,"09","001","0529","Rural",
+"20400","Rincón de Romos Centro","Colonia","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"09","007","0532","Semiurbano","06"
+"20403","Santa Elena","Colonia","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"09","007","0940","Semiurbano","06"
+"20403","Desarrollo Especial La Pedrera","Colonia","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"09","007","1194","Semiurbano","06"
+"20403","Subdivisión La Piedrera","Colonia","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"09","007","1195","Semiurbano","06"
+"20403","Norte","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","0939","Semiurbano","06"
+"20404","Estancia de Chora","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","1144","Urbano","06"
+"20404","Emperadores","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","1145","Urbano","06"
+"20404","Embajadores","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","1212","Urbano","06"
+"20404","José Luis Macias","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","0941","Semiurbano","06"
+"20405","De Guadalupe","Barrio","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"02","007","0942","Semiurbano","06"
+"20405","La Paz","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","1200","Semiurbano","06"
+"20406","Fraternidad","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","1196","Semiurbano","06"
+"20406","Santa Cruz","Colonia","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"09","007","0944","Semiurbano","06"
+"20406","Lázaro Cárdenas","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","1147","Urbano","06"
+"20406","De Chora","Barrio","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"02","007","0943","Semiurbano","06"
+"20406","Cerro del Gato","Rancho o rancheria","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"29","007","1206","Semiurbano","06"
+"20410","Magisterial","Colonia","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"09","007","0946","Semiurbano","06"
+"20410","Independencia","Colonia","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"09","007","0945","Semiurbano","06"
+"20410","Santa Anita","Colonia","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"09","007","0948","Semiurbano","06"
+"20410","El Potrero","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","1146","Urbano","06"
+"20410","Magisterial II","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","0947","Semiurbano","06"
+"20414","Villas de Jesús","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","1199","Semiurbano","06"
+"20414","Desarrollo Especial","Colonia","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"09","007","1198","Semiurbano","06"
+"20415","San José","Colonia","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"09","007","0949","Semiurbano","06"
+"20416","Presidentes de México","Colonia","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"09","007","0950","Semiurbano","06"
+"20416","Solidaridad","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","0951","Semiurbano","06"
+"20417","Miguel Hidalgo","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","0952","Semiurbano","06"
+"20417","Popular","Fraccionamiento","Rincón de Romos","Aguascalientes","Rincón de Romos","20401","01","20401",,"21","007","1197","Semiurbano","06"
+"20420","Rincón de Romos","Estacion","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"16","007","0549","Rural",
+"20420","Escaleras","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0531","Rural",
+"20420","El Saucillo","Ejido","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"15","007","0536","Rural",
+"20420","Mar Negro","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0545","Rural",
+"20420","El Bajío","Ejido","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"15","007","0539","Rural",
+"20420","Potrero El Tarasco","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","1205","Rural",
+"20420","La Presa","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0537","Rural",
+"20420","El Panal","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0540","Rural",
+"20423","Santa Fe","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0533","Rural",
+"20423","El Muerto","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0534","Rural",
+"20423","Candelaria","Granja","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"23","007","1208","Rural",
+"20424","Yerbanis","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0550","Rural",
+"20424","Tanque Blanco","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","1204","Rural",
+"20424","Puerta del Muerto","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0547","Rural",
+"20424","California","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0548","Rural",
+"20425","San Jacinto","Ejido","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"15","007","0543","Rural",
+"20426","San Juan de La Natura","Ejido","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"15","007","0544","Rural",
+"20427","El Valle de las Delicias","Colonia","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"09","007","0538","Rural",
+"20427","Los Morales","Colonia","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"09","007","1201","Rural",
+"20427","16 de Septiembre","Colonia","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"09","007","0546","Rural",
+"20427","San Isidro El Labrador","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","1202","Rural",
+"20427","La Puerta del Muerto","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","1203","Rural",
+"20430","La Misión","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0553","Rural",
+"20434","Lupita","Granja","Rincón de Romos","Aguascalientes",,"20671","01","20671",,"23","007","1211","Rural",
+"20434","18 de Marzo","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20671","01","20671",,"29","007","0555","Rural",
+"20435","El Salitrillo","Colonia","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"09","007","0530","Rural",
+"20435","El Barzón","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","1209","Rural",
+"20435","Las Norias","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","1210","Rural",
+"20436","Pabellón de Hidalgo","Ampliacion","Rincón de Romos","Aguascalientes",,"20671","01","20671",,"38","007","0558","Rural",
+"20436","El Milagro","Colonia","Rincón de Romos","Aguascalientes",,"20671","01","20671",,"09","007","0551","Rural",
+"20437","Estancia de Mosqueira","Ejido","Rincón de Romos","Aguascalientes",,"20671","01","20671",,"15","007","0556","Rural",
+"20437","El Canal","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20671","01","20671",,"29","007","0557","Rural",
+"20437","Pabellón de Hidalgo","Ejido","Rincón de Romos","Aguascalientes",,"20671","01","20671",,"15","007","0552","Rural",
+"20440","Morelos","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0568","Rural",
+"20444","El Potrerillo","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0569","Rural",
+"20444","Túnel de Potrerillo","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","1207","Rural",
+"20445","Las Camas","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0567","Rural",
+"20445","Peña Blanca","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0566","Rural",
+"20446","La Boquilla Grande","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0564","Rural",
+"20446","Los Negritos","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0562","Rural",
+"20447","Mirasoles","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0561","Rural",
+"20447","Rancho La Laguna de Piedra","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0560","Rural",
+"20450","Fresnillo","Ejido","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"15","007","0541","Rural",
+"20450","La Boquilla","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0565","Rural",
+"20454","El Ají ladero","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0535","Rural",
+"20456","Las Rosas","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0563","Rural",
+"20457","Mesa el Conejo","Rancho o rancheria","Rincón de Romos","Aguascalientes",,"20401","01","20401",,"29","007","0559","Rural",
+"20460","Cosío Centro","Colonia","Cosío","Aguascalientes","Cosio","20401","01","20401",,"09","004","0570","Semiurbano","09"
+"20462","Luis Donaldo Colosio","Fraccionamiento","Cosío","Aguascalientes","Cosio","20401","01","20401",,"21","004","0996","Semiurbano","09"
+"20466","Villas del Potrerito","Fraccionamiento","Cosío","Aguascalientes","Cosio","20401","01","20401",,"21","004","1151","Urbano","09"
+"20466","Rancho El Potrerito","Colonia","Cosío","Aguascalientes","Cosio","20401","01","20401",,"09","004","1294","Urbano","09"
+"20467","Popular","Fraccionamiento","Cosío","Aguascalientes","Cosio","20401","01","20401",,"21","004","0999","Semiurbano","09"
+"20468","Santa Cruz","Colonia","Cosío","Aguascalientes","Cosio","20401","01","20401",,"09","004","0998","Semiurbano","09"
+"20469","MeXIquito","Colonia","Cosío","Aguascalientes","Cosio","20401","01","20401",,"09","004","0997","Semiurbano","09"
+"20469","Coplamar","Colonia","Cosío","Aguascalientes","Cosio","20401","01","20401",,"09","004","1149","Urbano","09"
+"20469","Vista Hermosa","Colonia","Cosío","Aguascalientes","Cosio","20401","01","20401",,"09","004","1150","Urbano","09"
+"20470","Soledad de Abajo","Pueblo","Cosío","Aguascalientes",,"20401","01","20401",,"28","004","0577","Rural",
+"20470","Soledad de Arriba","Pueblo","Cosío","Aguascalientes",,"20401","01","20401",,"28","004","0579","Rural",
+"20470","Zacatequillas","Pueblo","Cosío","Aguascalientes",,"20401","01","20401",,"28","004","0578","Rural",
+"20472","La Esperanza (el Salerito)","Poblado comunal","Cosío","Aguascalientes",,"20401","01","20401",,"27","004","1107","Rural",
+"20472","El Durazno","Rancho o rancheria","Cosío","Aguascalientes",,"20401","01","20401",,"29","004","1295","Rural",
+"20472","El Durazno","Pueblo","Cosío","Aguascalientes",,"20401","01","20401",,"28","004","0574","Rural",
+"20472","La Punta","Pueblo","Cosío","Aguascalientes",,"20401","01","20401",,"28","004","0575","Rural",
+"20472","Los Nava","Pueblo","Cosío","Aguascalientes",,"20401","01","20401",,"28","004","1296","Rural",
+"20476","Guadalupito","Granja","Cosío","Aguascalientes",,"20401","01","20401",,"23","004","0580","Rural",
+"20476","El Salero","Pueblo","Cosío","Aguascalientes",,"20401","01","20401",,"28","004","0571","Rural",
+"20478","El Refugio de Agua Zarca","Pueblo","Cosío","Aguascalientes",,"20401","01","20401",,"28","004","0572","Rural",
+"20478","Refugio de Providencia","Pueblo","Cosío","Aguascalientes",,"20401","01","20401",,"28","004","0573","Rural",
+"20478","Santa María de La Paz","Pueblo","Cosío","Aguascalientes",,"20401","01","20401",,"28","004","0581","Rural",
+"20500","San José de Gracia","Pueblo","San José de Gracia","Aguascalientes",,"20671","01","20671",,"28","008","0582","Rural",
+"20501","El Jocoque","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0583","Rural",
+"20502","Cieneguita","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0584","Rural",
+"20503","El Toril","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0585","Rural",
+"20504","Santa Elena de La Cruz","Colonia","San José de Gracia","Aguascalientes",,"20671","01","20671",,"09","008","0586","Rural",
+"20506","Las Amarillas","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0588","Rural",
+"20508","Potrerillo","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","1249","Rural",
+"20508","Tortugas","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0589","Rural",
+"20510","Ciénega de Acarcho","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0590","Rural",
+"20516","Boca del Túnel de Potrerillo","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0591","Rural",
+"20520","La Congoja","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0592","Rural",
+"20525","La Campana","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0593","Rural",
+"20530","Bajío de La Tienda","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0594","Rural",
+"20534","El Zepo","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0595","Rural",
+"20538","Antrialco","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0596","Rural",
+"20538","Alamitos","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","1250","Rural",
+"20540","Paredes","Ejido","San José de Gracia","Aguascalientes",,"20671","01","20671",,"15","008","0597","Rural",
+"20545","San Antonio de los Ríos","Ejido","San José de Gracia","Aguascalientes",,"20671","01","20671",,"15","008","0598","Rural",
+"20550","Santa Rosa de Lima","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0599","Rural",
+"20560","Presa del Sáuz","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0600","Rural",
+"20564","Rancho Viejo","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0601","Rural",
+"20567","Potrero de los Lopez","Ejido","San José de Gracia","Aguascalientes",,"20671","01","20671",,"15","008","0602","Rural",
+"20570","El Tecongo","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0603","Rural",
+"20574","Estancia de San Marcos","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0604","Rural",
+"20576","San José","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0605","Rural",
+"20578","El Sáuz","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0606","Rural",
+"20580","Huijolotes","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0607","Rural",
+"20584","Santa Rosa","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0608","Rural",
+"20590","El Taray","Rancho o rancheria","San José de Gracia","Aguascalientes",,"20671","01","20671",,"29","008","0609","Rural",
+"20600","Tepezala Centro","Colonia","Tepezalá","Aguascalientes","Tepezala","20401","01","20401",,"09","009","0611","Semiurbano","08"
+"20602","Cholula 2a Sección","Colonia","Tepezalá","Aguascalientes","Tepezala","20401","01","20401",,"09","009","1001","Semiurbano","08"
+"20603","Comunidad San Rafael","Colonia","Tepezalá","Aguascalientes","Tepezala","20401","01","20401",,"09","009","1002","Semiurbano","08"
+"20603","Los Arcos","Colonia","Tepezalá","Aguascalientes","Tepezala","20401","01","20401",,"09","009","1300","Semiurbano","08"
+"20603","Del Socorro","Barrio","Tepezalá","Aguascalientes","Tepezala","20401","01","20401",,"02","009","1003","Semiurbano","08"
+"20604","Felipe Gonzalez González 1a Sección","Colonia","Tepezalá","Aguascalientes","Tepezala","20401","01","20401",,"09","009","1006","Semiurbano","08"
+"20604","Felipe Gonzalez González 2a Sección","Colonia","Tepezalá","Aguascalientes","Tepezala","20401","01","20401",,"09","009","1007","Semiurbano","08"
+"20605","La Cañada","Colonia","Tepezalá","Aguascalientes","Tepezala","20401","01","20401",,"09","009","1004","Semiurbano","08"
+"20607","Luis Ortega Douglas","Colonia","Tepezalá","Aguascalientes","Tepezala","20401","01","20401",,"09","009","1005","Semiurbano","08"
+"20608","Cholula 1a Sección","Colonia","Tepezalá","Aguascalientes","Tepezala","20401","01","20401",,"09","009","1000","Semiurbano","08"
+"20610","El Chayote","Ejido","Tepezalá","Aguascalientes",,"20401","01","20401",,"15","009","0615","Rural",
+"20610","El Barranco","Ejido","Tepezalá","Aguascalientes",,"20401","01","20401",,"15","009","0619","Rural",
+"20612","Las Pilas","Hacienda","Tepezalá","Aguascalientes",,"20401","01","20401",,"24","009","0616","Rural",
+"20612","La Tira","Rancho o rancheria","Tepezalá","Aguascalientes",,"20401","01","20401",,"29","009","0622","Rural",
+"20613","San Rafael","Ejido","Tepezalá","Aguascalientes",,"20401","01","20401",,"15","009","0617","Rural",
+"20614","Los Alamitos","Ejido","Tepezalá","Aguascalientes",,"20401","01","20401",,"15","009","0620","Rural",
+"20614","Ampliación los Hornos (el Lagunazo)","Colonia","Tepezalá","Aguascalientes",,"20401","01","20401",,"09","009","1095","Rural",
+"20615","El Porvenir","Ejido","Tepezalá","Aguascalientes",,"20401","01","20401",,"15","009","0623","Rural",
+"20616","La Luz","Rancho o rancheria","Tepezalá","Aguascalientes",,"20401","01","20401",,"29","009","0621","Rural",
+"20616","San Antonio","Ejido","Tepezalá","Aguascalientes",,"20401","01","20401",,"15","009","0624","Rural",
+"20622","Ojo de Agua de los Montes","Ejido","Tepezalá","Aguascalientes",,"20401","01","20401",,"15","009","0610","Rural",
+"20622","Mesillas","Ejido","Tepezalá","Aguascalientes",,"20401","01","20401",,"15","009","0612","Rural",
+"20631","El Carmen","Rancho o rancheria","Tepezalá","Aguascalientes",,"20401","01","20401",,"29","009","0625","Rural",
+"20634","La Victoria","Rancho o rancheria","Tepezalá","Aguascalientes",,"20401","01","20401",,"29","009","0626","Rural",
+"20637","El Gigante","Ejido","Tepezalá","Aguascalientes",,"20401","01","20401",,"15","009","0627","Rural",
+"20645","El Zorrillo","Rancho o rancheria","Tepezalá","Aguascalientes",,"20671","01","20671",,"29","009","0629","Rural",
+"20645","Carboneras","Ejido","Tepezalá","Aguascalientes",,"20671","01","20671",,"15","009","0618","Rural",
+"20646","El Águila","Ejido","Tepezalá","Aguascalientes",,"20401","01","20401",,"15","009","0630","Rural",
+"20650","Puerto de La Concepción","Ejido","Tepezalá","Aguascalientes",,"20401","01","20401",,"15","009","0631","Rural",
+"20654","Los Hornos","Rancho o rancheria","Tepezalá","Aguascalientes",,"20401","01","20401",,"29","009","0632","Rural",
+"20656","El Refugio","Ejido","Tepezalá","Aguascalientes",,"20671","01","20671",,"15","009","0633","Rural",
+"20657","Arroyo Hondo","Ejido","Tepezalá","Aguascalientes",,"20401","01","20401",,"15","009","0634","Rural",
+"20658","El Tepozán","Rancho o rancheria","Tepezalá","Aguascalientes",,"20401","01","20401",,"29","009","0635","Rural",
+"20659","Caldera","Ejido","Tepezalá","Aguascalientes",,"20401","01","20401",,"15","009","0636","Rural",
+"20663","Gámez Orozco (Puerta de Carboneras)","Colonia","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"09","006","1243","Rural",
+"20663","San Pedro","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","1245","Rural",
+"20663","El Refugio","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","0966","Rural",
+"20664","Las Animas","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","0971","Rural",
+"20664","El Rayo","Colonia","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"09","006","1236","Rural",
+"20664","Los Corrales (Los Corrales Blancos)","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","1240","Rural",
+"20664","Ojo Zarco (la Loma)","Ejido","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"15","006","1096","Rural",
+"20664","Los Lira","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","1237","Rural",
+"20664","Estación de Garabato","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","1248","Rural",
+"20664","El Mezquite","Hacienda","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"24","006","0972","Rural",
+"20664","Ojo Zarco","Ejido","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"15","006","0970","Rural",
+"20665","El Pilar","Granja","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"23","006","1246","Rural",
+"20665","Los Contreras","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","1247","Rural",
+"20665","El Gigante","Granja","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"23","006","0973","Rural",
+"20665","Emiliano Zapata","Ejido","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"15","006","0968","Rural",
+"20665","San Agustín de Los Puentes","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","1244","Rural",
+"20665","El Pedernal Segundo","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","1239","Rural",
+"20666","El Garabato","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","0974","Rural",
+"20667","Canal Grande","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","1333","Rural",
+"20667","El Canal","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","1334","Rural",
+"20667","Santiago","Ejido","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"15","006","0965","Rural",
+"20667","Estancia de Mosqueira","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","1241","Rural",
+"20668","Puerta del Milagro","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","0967","Rural",
+"20668","San Luis de Letras","Ejido","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"15","006","0969","Rural",
+"20668","Ampliación Ejido Garabato","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","1242","Rural",
+"20668","Secadora Miguel Alemán","Rancho o rancheria","Pabellón de Arteaga","Aguascalientes",,"20671","01","20671",,"29","006","1238","Rural",
+"20670","Pabellón de Arteaga Centro","Colonia","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"09","006","0926","Semiurbano","05"
+"20673","Jardines de Pabellón","Fraccionamiento","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"21","006","0928","Semiurbano","05"
+"20673","FOVISSSTE","Fraccionamiento","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"21","006","0927","Semiurbano","05"
+"20673","Haciendas de Pabellón","Fraccionamiento","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"21","006","1142","Urbano","05"
+"20673","Barrio Industrial","Colonia","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"09","006","1235","Semiurbano","05"
+"20674","Villas de Pabellón","Fraccionamiento","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20001","01","20001",,"21","006","0930","Urbano","05"
+"20674","Trojes de San Pedro","Fraccionamiento","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20001","01","20001",,"21","006","1136","Urbano","05"
+"20674","Francisco Villa","Colonia","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20001","01","20001",,"09","006","0929","Urbano","05"
+"20675","Carboneras","Barrio","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"02","006","0931","Semiurbano","05"
+"20675","Palo Alto","Barrio","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"02","006","0932","Semiurbano","05"
+"20676","Popular","Fraccionamiento","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"21","006","0935","Semiurbano","05"
+"20676","Cosmos","Fraccionamiento","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"21","006","0934","Semiurbano","05"
+"20676","5 de Mayo","Colonia","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"09","006","0933","Semiurbano","05"
+"20677","Plutarco Elias Calles","Colonia","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"09","006","0936","Semiurbano","05"
+"20677","Progreso Sur","Colonia","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"09","006","0937","Semiurbano","05"
+"20678","La Quesería de Los Serna","Colonia","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"09","006","1328","Semiurbano","05"
+"20678","Valle del Vivero","Fraccionamiento","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"21","006","1192","Urbano","05"
+"20678","Vergel del Valle","Colonia","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"09","006","1141","Urbano","05"
+"20678","Subdivisión Villa de Guadalupe","Colonia","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"09","006","1329","Semiurbano","05"
+"20678","Progreso Norte","Colonia","Pabellón de Arteaga","Aguascalientes","Pabellón de Arteaga","20671","01","20671",,"09","006","0938","Semiurbano","05"
+"20700","El Tule","Estacion","Asientos","Aguascalientes",,"20001","01","20001",,"16","002","0649","Rural",
+"20700","La Loma (Tanque de Las Palmitas)","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","1311","Rural",
+"20700","La Esperanza","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0650","Rural",
+"20700","El Rascón (La Loma)","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","1312","Rural",
+"20700","Villa Juárez","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0651","Rural",
+"20704","Viudas de Poniente","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0653","Rural",
+"20705","Charco Azul","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0654","Rural",
+"20708","Amarillas de Esparza","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0655","Rural",
+"20709","La Dichosa","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0657","Rural",
+"20709","Jilotepec","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0656","Rural",
+"20710","Asientos Centro","Colonia","Asientos","Aguascalientes","Asientos","20401","01","20401",,"09","002","0658","Semiurbano","07"
+"20710","Santa Cruz","Barrio","Asientos","Aguascalientes","Asientos","20401","01","20401",,"02","002","1299","Semiurbano","07"
+"20712","De Peñitas 1a Sección","Barrio","Asientos","Aguascalientes","Asientos","20401","01","20401",,"02","002","0990","Semiurbano","07"
+"20713","Los Tepetates","Barrio","Asientos","Aguascalientes","Asientos","20401","01","20401",,"02","002","0991","Semiurbano","07"
+"20713","Del CECYTE","Barrio","Asientos","Aguascalientes","Asientos","20401","01","20401",,"02","002","1297","Semiurbano","07"
+"20714","De Guadalupe","Barrio","Asientos","Aguascalientes","Asientos","20401","01","20401",,"02","002","0993","Semiurbano","07"
+"20715","Del Tepozán","Barrio","Asientos","Aguascalientes","Asientos","20401","01","20401",,"02","002","0995","Semiurbano","07"
+"20715","INFONAVIT","Colonia","Asientos","Aguascalientes","Asientos","20401","01","20401",,"09","002","0994","Semiurbano","07"
+"20715","Juventud","Barrio","Asientos","Aguascalientes","Asientos","20401","01","20401",,"02","002","1298","Semiurbano","07"
+"20716","De Peñitas 2a Sección","Barrio","Asientos","Aguascalientes","Asientos","20401","01","20401",,"02","002","0992","Semiurbano","07"
+"20717","Real Minero","Fraccionamiento","Asientos","Aguascalientes","Asientos","20401","01","20401",,"21","002","1148","Urbano","07"
+"20720","Los Torres","Rancho o rancheria","Asientos","Aguascalientes",,"20401","01","20401",,"29","002","1306","Rural",
+"20720","San Gil","Estacion","Asientos","Aguascalientes",,"20401","01","20401",,"16","002","0667","Rural",
+"20720","Sociedad Los Posada","Rancho o rancheria","Asientos","Aguascalientes",,"20401","01","20401",,"29","002","1307","Rural",
+"20720","Sector de Producción No. 3","Rancho o rancheria","Asientos","Aguascalientes",,"20401","01","20401",,"29","002","1308","Rural",
+"20720","Sector de Producción No. 2","Rancho o rancheria","Asientos","Aguascalientes",,"20401","01","20401",,"29","002","1309","Rural",
+"20720","Guadalupe de Atlas","Ejido","Asientos","Aguascalientes",,"20401","01","20401",,"15","002","0659","Rural",
+"20720","La Divina Providencia","Rancho o rancheria","Asientos","Aguascalientes",,"20401","01","20401",,"29","002","1304","Rural",
+"20720","Bimbaletes Aguascalientes","Ejido","Asientos","Aguascalientes",,"20401","01","20401",,"15","002","0661","Rural",
+"20720","Crisóstomos","Ejido","Asientos","Aguascalientes",,"20401","01","20401",,"15","002","0665","Rural",
+"20720","Alvarado","Rancho o rancheria","Asientos","Aguascalientes",,"20401","01","20401",,"29","002","1305","Rural",
+"20720","Bimbaletes Atlas","Ejido","Asientos","Aguascalientes",,"20401","01","20401",,"15","002","0664","Rural",
+"20721","Plutarco Elias Calles","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0668","Rural",
+"20722","Ciénega Grande","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0669","Rural",
+"20723","Jarillas","Ejido","Asientos","Aguascalientes",,"20401","01","20401",,"15","002","0663","Rural",
+"20723","Noria del Borrego","Ejido","Asientos","Aguascalientes",,"20401","01","20401",,"15","002","0660","Rural",
+"20724","Gómez Portugal","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0671","Rural",
+"20727","Pino Suárez (Rancho Viejo)","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0672","Rural",
+"20728","Berrendos","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0673","Rural",
+"20729","Clavellinas","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0674","Rural",
+"20730","Molinos","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0675","Rural",
+"20732","Los Encinos","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0676","Rural",
+"20734","Lázaro Cárdenas","Colonia","Asientos","Aguascalientes",,"20001","01","20001",,"09","002","0677","Rural",
+"20736","La Gloria","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0678","Rural",
+"20738","La Soledad","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0679","Rural",
+"20739","San Pedro","Colonia","Asientos","Aguascalientes",,"20001","01","20001",,"09","002","0680","Rural",
+"20740","El Polvo","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0681","Rural",
+"20741","Caldera","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0682","Rural",
+"20741","El Tepozán","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","1303","Rural",
+"20742","Charco Prieto (El Palomar)","Rancho o rancheria","Asientos","Aguascalientes",,"20401","01","20401",,"29","002","1301","Rural",
+"20742","El Fénix","Rancho o rancheria","Asientos","Aguascalientes",,"20401","01","20401",,"29","002","1302","Rural",
+"20742","Adolfo Lopez Mateos","Ejido","Asientos","Aguascalientes",,"20401","01","20401",,"15","002","0683","Rural",
+"20744","San Antonio de los Martinez","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0684","Rural",
+"20746","Gorriones","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0685","Rural",
+"20748","Ojo de Agua de Rosales","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0686","Rural",
+"20749","Tepetatillo","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0687","Rural",
+"20750","San José del Rio","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0688","Rural",
+"20760","El Llavero","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0689","Rural",
+"20765","San Vicente","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0690","Rural",
+"20768","3 Valles","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0691","Rural",
+"20770","Emancipación","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0692","Rural",
+"20771","Tanque Viejo","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0693","Rural",
+"20773","La Tinajuela","Barrio","Asientos","Aguascalientes",,"20001","01","20001",,"02","002","1331","Rural",
+"20773","Las Adjuntas","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0694","Rural",
+"20775","Tanque de Guadalupe","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0695","Rural",
+"20777","Las Joyas","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0696","Rural",
+"20779","Ojo de Agua de los Sauces","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0697","Rural",
+"20780","San Rafael de Ocampo","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0698","Rural",
+"20780","San José del Tulillo","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","1310","Rural",
+"20782","San Isidro","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0699","Rural",
+"20785","El Chonguillo","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0700","Rural",
+"20790","Francisco Villa","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0701","Rural",
+"20792","El Epazote","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0702","Rural",
+"20794","Las Fraguas","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0703","Rural",
+"20795","Pilotos","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0704","Rural",
+"20796","El Salitre","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0705","Rural",
+"20796","El Bajío de Los Campos","Barrio","Asientos","Aguascalientes",,"20001","01","20001",,"02","002","1330","Rural",
+"20797","Bajío del Salitre","Rancho o rancheria","Asientos","Aguascalientes",,"20001","01","20001",,"29","002","0706","Rural",
+"20799","Las Negritas","Ejido","Asientos","Aguascalientes",,"20001","01","20001",,"15","002","0707","Rural",
+"20800","Calvillo Centro","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0708","Semiurbano","02"
+"20802","Vista Hermosa","Fraccionamiento","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"21","003","0715","Semiurbano","02"
+"20802","Sección Loma de Fundadores","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","1229","Semiurbano","02"
+"20802","Zona Militar XIV","Unidad habitacional","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"31","003","0716","Semiurbano","02"
+"20802","El Mirador","Fraccionamiento","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"21","003","0710","Semiurbano","02"
+"20802","Lopez Mateos","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0712","Semiurbano","02"
+"20802","Sección Benito Juárez","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","1227","Semiurbano","02"
+"20802","Vista Hermosa 2a. Sección","Fraccionamiento","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"21","003","1230","Semiurbano","02"
+"20802","Sección Cerritos","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","1228","Semiurbano","02"
+"20802","Independencia","Fraccionamiento","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"21","003","0711","Semiurbano","02"
+"20802","Paseras","Fraccionamiento","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"21","003","0714","Semiurbano","02"
+"20803","Lomas de Huejúcar","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0717","Semiurbano","02"
+"20803","San Rafael","Fraccionamiento","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"21","003","1218","Semiurbano","02"
+"20803","Rincón de Baltazares","Fraccionamiento","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"21","003","1221","Semiurbano","02"
+"20803","San Nicolás","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0718","Semiurbano","02"
+"20803","José Landeros","Fraccionamiento","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"21","003","1222","Semiurbano","02"
+"20804","Magisterial","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0955","Semiurbano","02"
+"20804","Liberal","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0720","Semiurbano","02"
+"20804","Rincón de Baltazares","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0721","Semiurbano","02"
+"20804","La Fortuna","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0953","Semiurbano","02"
+"20804","Morelos","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","1225","Semiurbano","02"
+"20804","Los Arcos","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0954","Semiurbano","02"
+"20804","Arroyo de Los Caballos","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","1220","Semiurbano","02"
+"20804","Valle de Santiago","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0722","Semiurbano","02"
+"20804","Del Carmen","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","1223","Semiurbano","02"
+"20804","Azteca","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","1224","Semiurbano","02"
+"20804","Ejidal","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0719","Semiurbano","02"
+"20805","El Cerrito","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0956","Semiurbano","02"
+"20805","Los Angeles","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0957","Semiurbano","02"
+"20805","Martinez","Fraccionamiento","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"21","003","0725","Semiurbano","02"
+"20805","Las Flores","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0724","Semiurbano","02"
+"20805","Valle de Huejúcar","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0726","Semiurbano","02"
+"20805","Chicago","Barrio","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"02","003","1226","Semiurbano","02"
+"20805","Emiliano Zapata","Colonia","Calvillo","Aguascalientes","Calvillo","20801","01","20801",,"09","003","0723","Semiurbano","02"
+"20810","Palo Alto","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0728","Rural",
+"20810","El Terrero de La Labor","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0727","Rural",
+"20814","Terrero de Sáuz","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0729","Rural",
+"20816","Las Cuevas","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0733","Rural",
+"20816","El Sáuz de La Labor","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0731","Rural",
+"20816","El Zapote","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0732","Rural",
+"20816","Piedras Chinas","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0735","Rural",
+"20816","El Molino","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0730","Rural",
+"20816","Las Rubias","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0734","Rural",
+"20820","Solidaridad","Fraccionamiento","Calvillo","Aguascalientes",,"20801","01","20801",,"21","003","1214","Rural",
+"20820","El Mirador","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0738","Rural",
+"20820","Jardines de San Isidro (colonia Limón)","Poblado comunal","Calvillo","Aguascalientes",,"20801","01","20801",,"27","003","1108","Rural",
+"20820","Duraznillas","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0736","Rural",
+"20820","El Jagüey","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0737","Rural",
+"20820","San Tadeo","Congregacion","Calvillo","Aguascalientes",,"20801","01","20801",,"11","003","0739","Rural",
+"20824","Los Muñoz","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","1217","Rural",
+"20824","Montoro","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0742","Rural",
+"20824","El Capulín","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0740","Rural",
+"20824","Los Lazo","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0741","Rural",
+"20830","Chiquihuitero","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0745","Rural",
+"20830","San Nicolás","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0750","Rural",
+"20830","La Panadera","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0746","Rural",
+"20830","San Isidro el Chiquihuitero","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0749","Rural",
+"20830","Colomos","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0744","Rural",
+"20830","Los Arquitos","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0748","Rural",
+"20830","Arroyo Quita Sueño","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0743","Rural",
+"20830","Las Víboras","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0747","Rural",
+"20830","El Llano (El Llano de San Rafael)","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","1213","Rural",
+"20832","Rio Gil de Arriba","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0753","Rural",
+"20832","El Maguey","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0751","Rural",
+"20832","El Sáuz","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0752","Rural",
+"20834","Catama","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0754","Rural",
+"20834","El Cuervero","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0755","Rural",
+"20834","Potrero de los Lopez","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0759","Rural",
+"20834","Junta de los Ríos","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0756","Rural",
+"20834","Ojocaliente","Congregacion","Calvillo","Aguascalientes",,"20801","01","20801",,"11","003","0758","Rural",
+"20834","San José del Rio","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0761","Rural",
+"20834","Malpaso","Congregacion","Calvillo","Aguascalientes",,"20801","01","20801",,"11","003","0757","Rural",
+"20834","Rio Gil de Abajo","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0760","Rural",
+"20840","Los Mirasoles","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0762","Rural",
+"20840","Potrerito","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0763","Rural",
+"20842","El Mirasol","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0764","Rural",
+"20842","Los Lobos","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0766","Rural",
+"20842","Las Joyas","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0765","Rural",
+"20844","El Laurel","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0769","Rural",
+"20844","La Laguna","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0770","Rural",
+"20844","Llano Blanco","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0771","Rural",
+"20844","Chinantitlán","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0768","Rural",
+"20844","Ciénegas","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0767","Rural",
+"20850","Crucero las Pilas","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0772","Rural",
+"20850","Praderas","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0776","Rural",
+"20850","Tepezalilla de Abajo","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0777","Rural",
+"20850","Pozo de Los Artistas","Colonia","Calvillo","Aguascalientes",,"20801","01","20801",,"09","003","1233","Rural",
+"20850","Las Moras","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0774","Rural",
+"20850","Mesa Grande","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0775","Rural",
+"20850","La CalIXtina","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0773","Rural",
+"20852","Los Adobes","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0778","Rural",
+"20852","Arroyo Ojocalientillo","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","1232","Rural",
+"20854","Los Alisos","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0780","Rural",
+"20854","El Carruño","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","1219","Rural",
+"20854","El Tepetate de Abajo","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0779","Rural",
+"20854","El Taray","Colonia","Calvillo","Aguascalientes",,"20801","01","20801",,"09","003","1234","Rural",
+"20854","Ojo de Agua","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0781","Rural",
+"20856","Jaltiche de Arriba","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0784","Rural",
+"20856","Mesa del Roble","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0962","Rural",
+"20856","Barranca del Roble","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0782","Rural",
+"20856","El Guencho","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0783","Rural",
+"20860","Michoacanejo","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0789","Rural",
+"20860","Las Animas","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0787","Rural",
+"20860","Cerro Blanco","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0785","Rural",
+"20860","El Salitre","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0786","Rural",
+"20860","Las Pilas","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0788","Rural",
+"20862","La Fragua","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0792","Rural",
+"20862","Las Tinajas","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0795","Rural",
+"20862","La Media Luna","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0793","Rural",
+"20862","Jaltiche de Abajo","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0791","Rural",
+"20862","La Rinconada","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0794","Rural",
+"20862","Salitrillo","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0790","Rural",
+"20864","El Terrero del Refugio","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0797","Rural",
+"20864","El Caracol","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0796","Rural",
+"20864","Presa de los Serna","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0799","Rural",
+"20864","La Majada","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0798","Rural",
+"20870","Mezquitillos","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0805","Rural",
+"20870","El Rodeo","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0802","Rural",
+"20870","Los Patos","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0804","Rural",
+"20870","Peña Blanca","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0806","Rural",
+"20870","La Teresa","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0803","Rural",
+"20870","El Papanton","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0801","Rural",
+"20870","El Guayabo","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0800","Rural",
+"20870","San José","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0807","Rural",
+"20870","Santos","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0808","Rural",
+"20870","Vaquería","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0809","Rural",
+"20872","Miguel Hidalgo","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0813","Rural",
+"20872","Barranca de Portales","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0810","Rural",
+"20872","El Tigre","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0812","Rural",
+"20874","El Terrero de La Presa","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0816","Rural",
+"20874","La Joya","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0817","Rural",
+"20874","Las Trojes","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0818","Rural",
+"20874","Tanque de Lucerna","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0819","Rural",
+"20874","El Ocote","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0814","Rural",
+"20874","El Tepalcate","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0815","Rural",
+"20880","La Labor","Hacienda","Calvillo","Aguascalientes",,"20801","01","20801",,"24","003","0820","Rural",
+"20880","El Salitrillo","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","1336","Rural",
+"20880","Temascal","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0823","Rural",
+"20880","Paredes","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","1215","Rural",
+"20880","Ventanillas","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","1231","Rural",
+"20880","La Hiedra","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","1216","Rural",
+"20880","La Primavera","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0821","Rural",
+"20880","Ordeña Vieja","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0822","Rural",
+"20882","La Pedrera","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0826","Rural",
+"20882","Manguillas","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0827","Rural",
+"20882","El Jaralito","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0824","Rural",
+"20882","El Tepozán","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0825","Rural",
+"20884","Los Bajíos","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0829","Rural",
+"20884","La Ciénega","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0828","Rural",
+"20890","Presa La Codorniz","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0831","Rural",
+"20892","Carboneras","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0832","Rural",
+"20892","La Boquilla","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0833","Rural",
+"20899","La Haciendita","Rancho o rancheria","Calvillo","Aguascalientes",,"20801","01","20801",,"29","003","0836","Rural",
+"20900","Residencial Villa Campestre","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","1090","Urbano",
+"20900","Brownsville","Poblado comunal","Jesús María","Aguascalientes",,"20921","01","20921",,"27","005","1106","Rural",
+"20900","San Antonio de los Horcones","Congregacion","Jesús María","Aguascalientes",,"20921","01","20921",,"11","005","0840","Rural",
+"20900","Valle Escondido","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","1183","Rural",
+"20900","Corral de Barrancos","Congregacion","Jesús María","Aguascalientes",,"20921","01","20921",,"11","005","0837","Rural",
+"20900","Trojes del Norte II","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","1181","Rural",
+"20900","Valladolid","Congregacion","Jesús María","Aguascalientes",,"20921","01","20921",,"11","005","0841","Rural",
+"20900","Rinconada Maravillas","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","1049","Rural",
+"20900","Trojes del Norte","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","1180","Rural",
+"20900","Maravillas","Congregacion","Jesús María","Aguascalientes",,"20921","01","20921",,"11","005","0839","Rural",
+"20900","Los Olivos","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","1047","Rural",
+"20901","El Maguey","Congregacion","Jesús María","Aguascalientes",,"20921","01","20921",,"11","005","0842","Rural",
+"20901","La Loma de Valladolid","Poblado comunal","Jesús María","Aguascalientes",,"20921","01","20921",,"27","005","1099","Rural",
+"20901","Las Jaulas","Poblado comunal","Jesús María","Aguascalientes",,"20921","01","20921",,"27","005","1098","Rural",
+"20902","El Refugio","Ejido","Jesús María","Aguascalientes",,"20921","01","20921",,"15","005","0843","Rural",
+"20902","La Loma","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0844","Rural",
+"20902","La Chaveña","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","1179","Rural",
+"20902","El Cenizo","Poblado comunal","Jesús María","Aguascalientes",,"20921","01","20921",,"27","005","1104","Rural",
+"20902","Villas de Guadalupe (la Malobra)","Poblado comunal","Jesús María","Aguascalientes",,"20921","01","20921",,"27","005","1102","Rural",
+"20902","El Aurero","Poblado comunal","Jesús María","Aguascalientes",,"20921","01","20921",,"27","005","1101","Rural",
+"20903","Las Margaritas","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0845","Rural",
+"20904","Los Ramirez","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0846","Rural",
+"20904","Los Vázquez","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0847","Rural",
+"20905","Granjas Miravalle","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0848","Rural",
+"20905","La Lomita de Paso Blanco (las Canoas)","Poblado comunal","Jesús María","Aguascalientes",,"20921","01","20921",,"27","005","1103","Rural",
+"20905","Paso Blanco","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0849","Rural",
+"20906","La Cardona","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0850","Rural",
+"20907","San Miguelito","Congregacion","Jesús María","Aguascalientes",,"20921","01","20921",,"11","005","0851","Rural",
+"20908","Viñedos Frutilandia","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0853","Rural",
+"20908","Reserva Residencial Cedros","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","1187","Urbano",
+"20908","Porta Real","Condominio","Jesús María","Aguascalientes",,"20921","01","20921",,"10","005","1177","Urbano",
+"20908","Trojes de San Cristóbal","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","1051","Rural",
+"20908","Quintas de Monticello","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","1088","Rural",
+"20908","Campo Real","Residencial","Jesús María","Aguascalientes",,"20921","01","20921",,"30","005","1356","Urbano",
+"20908","Tepetates","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0852","Rural",
+"20908","Centro Distribuidor de Básicos Viñedos San Marcos","Zona comercial","Jesús María","Aguascalientes",,"20921","01","20921",,"33","005","1067","Urbano",
+"20908","La Guayana (rancho Seco)","Ejido","Jesús María","Aguascalientes",,"20921","01","20921",,"15","005","1097","Rural",
+"20908","Los Arenales","Poblado comunal","Jesús María","Aguascalientes",,"20921","01","20921",,"27","005","1100","Rural",
+"20908","La Troje II","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","1189","Urbano",
+"20908","Villas del Molino","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","1143","Urbano",
+"20908","Villa Antigua","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","1050","Rural",
+"20908","Viña Antigua","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","1119","Urbano",
+"20908","Paseos del Country","Condominio","Jesús María","Aguascalientes",,"20921","01","20921",,"10","005","1178","Urbano",
+"20909","El Zapato","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0855","Rural",
+"20909","Paseos Gómez Portugal","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","0983","Rural",
+"20909","Crnl. Jesús Gómez Portugal","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0854","Rural",
+"20909","Paso de Argenta","Fraccionamiento","Jesús María","Aguascalientes",,"20921","01","20921",,"21","005","1152","Urbano",
+"20912","El Pedernal 2","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0857","Rural",
+"20914","La Granjita","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0858","Rural",
+"20916","El Chichimeco","Hacienda","Jesús María","Aguascalientes",,"20921","01","20921",,"24","005","0859","Rural",
+"20917","San Isidro","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0860","Rural",
+"20919","La Florida","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0861","Rural",
+"20920","Jesús María Centro","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0891","Semiurbano","04"
+"20922","La Escalera","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0893","Semiurbano","04"
+"20922","El Calvario","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0892","Semiurbano","04"
+"20923","Las Culebras","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0897","Semiurbano","04"
+"20923","Ruiseñores","Condominio","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"10","005","1327","Semiurbano","04"
+"20923","Flores Magón","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0894","Semiurbano","04"
+"20923","La Cardona","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0895","Semiurbano","04"
+"20923","Los Arroyitos","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0898","Semiurbano","04"
+"20923","La Cuesta","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","0896","Semiurbano","04"
+"20923","San Miguelito","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0899","Semiurbano","04"
+"20924","Agua Clara","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","0900","Semiurbano","04"
+"20924","Jacarandas","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0901","Semiurbano","04"
+"20924","Los Manantiales","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0902","Semiurbano","04"
+"20924","Arboledas de Paso Blanco","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","1052","Urbano","04"
+"20924","Paseos de Aguascalientes","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0985","Semiurbano","04"
+"20924","San Miguelito","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","0903","Semiurbano","04"
+"20925","Lomas de Jesús María","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0906","Semiurbano","04"
+"20925","Agua Zarca","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","0904","Semiurbano","04"
+"20925","Vistas del Sáuz","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0907","Semiurbano","04"
+"20925","Colinas del Sol","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","1024","Semiurbano","04"
+"20925","Rancho San Pedro","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","1339","Semiurbano","04"
+"20925","Benigno Chavez","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","0905","Semiurbano","04"
+"20925","Puerta Grande","Condominio","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"10","005","1352","Urbano","04"
+"20925","Trojes del Pedregal","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","1025","Semiurbano","04"
+"20926","Arboledas I","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0908","Semiurbano","04"
+"20926","Chicahuales II","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0911","Semiurbano","04"
+"20926","Lomas del Valle","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0914","Semiurbano","04"
+"20926","Vista Hermosa","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0917","Semiurbano","04"
+"20926","Misión de Santa María","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","1338","Semiurbano","04"
+"20926","Yalta Campestre","Condominio","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"10","005","1351","Urbano","04"
+"20926","Arboledas II","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0909","Semiurbano","04"
+"20926","La Loma","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","0913","Semiurbano","04"
+"20926","La Loma","Rancho o rancheria","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"29","005","1337","Semiurbano","04"
+"20926","Martinez Andrade","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0915","Semiurbano","04"
+"20926","Manantiales del Pinar","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","1077","Semiurbano","04"
+"20926","Loma de La Cañada","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","1078","Semiurbano","04"
+"20926","La Piedra","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","1163","Urbano","04"
+"20926","Chicahuales I","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0910","Semiurbano","04"
+"20926","Lomas del Vergel","Residencial","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"30","005","1164","Urbano","04"
+"20926","Solidaridad","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","0916","Semiurbano","04"
+"20926","Rinconada Bugambilias","Condominio","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"10","005","1165","Urbano","04"
+"20926","Deportiva","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0912","Semiurbano","04"
+"20927","La Cañada","Ampliacion","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"38","005","0920","Semiurbano","04"
+"20927","La Cañada","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0919","Semiurbano","04"
+"20927","Ojos de Agua","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0921","Semiurbano","04"
+"20927","Ayuntamiento","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","0918","Semiurbano","04"
+"20928","Ejidal","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","0922","Semiurbano","04"
+"20928","El Mezquital","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","0976","Semiurbano","04"
+"20928","Las Palmas","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0924","Semiurbano","04"
+"20928","Plan Benito Juárez","Fraccionamiento","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"21","005","0925","Semiurbano","04"
+"20928","El Torito","Colonia","Jesús María","Aguascalientes","Jesús María","20921","01","20921",,"09","005","0923","Semiurbano","04"
+"20940","Los Muñoz","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0862","Rural",
+"20943","Milpilla de Abajo","Ejido","Jesús María","Aguascalientes",,"20001","01","20001",,"15","005","0863","Rural",
+"20945","Milpilla de Arriba","Ejido","Jesús María","Aguascalientes",,"20001","01","20001",,"15","005","0864","Rural",
+"20947","Gracias A Dios","Ejido","Jesús María","Aguascalientes",,"20001","01","20001",,"15","005","0865","Rural",
+"20950","El Zapote","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0866","Rural",
+"20953","Cañada del Rodeo","Congregacion","Jesús María","Aguascalientes",,"20001","01","20001",,"11","005","0867","Rural",
+"20955","Contadero","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0868","Rural",
+"20957","El Pedernal 1","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0869","Rural",
+"20959","El Rincón","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0870","Rural",
+"20960","San Rafael","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0871","Rural",
+"20964","El Pensamiento","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0872","Rural",
+"20967","Piedras Negras","Congregacion","Jesús María","Aguascalientes",,"20001","01","20001",,"11","005","0873","Rural",
+"20970","Tapias Viejas","Congregacion","Jesús María","Aguascalientes",,"20001","01","20001",,"11","005","0874","Rural",
+"20974","Puentes Cuates","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0875","Rural",
+"20980","Gral. Ignacio Zaragoza","Congregacion","Jesús María","Aguascalientes",,"20001","01","20001",,"11","005","0876","Rural",
+"20981","Buenavista","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0877","Rural",
+"20983","El Llano","Rancho o rancheria","Jesús María","Aguascalientes",,"20921","01","20921",,"29","005","0878","Rural",
+"20984","Providencia","Colonia","Jesús María","Aguascalientes",,"20921","01","20921",,"09","005","0879","Rural",
+"20986","El Conejo","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0880","Rural",
+"20987","El Puente","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0881","Rural",
+"20990","San Lorenzo","Hacienda","Jesús María","Aguascalientes",,"20001","01","20001",,"24","005","0882","Rural",
+"20992","Agua Zarca","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0883","Rural",
+"20994","La Tomatina","Ejido","Jesús María","Aguascalientes",,"20001","01","20001",,"15","005","0887","Rural",
+"20994","La Estancia","Rancho o rancheria","Jesús María","Aguascalientes",,"20001","01","20001",,"29","005","0884","Rural",
+"20996","Los Arquitos","Ejido","Jesús María","Aguascalientes",,"20001","01","20001",,"15","005","0885","Rural",
+"20996","La Primavera","Poblado comunal","Jesús María","Aguascalientes",,"20001","01","20001",,"27","005","1105","Rural",
+"20997","El Chacho","Pueblo","Jesús María","Aguascalientes",,"20001","01","20001",,"28","005","0886","Rural",

@@ -1,0 +1,754 @@
+"d_codigo","d_asenta","d_tipo_asenta","D_mnpio","d_estado","d_ciudad","d_CP","c_estado","c_oficina","c_CP","c_tipo_asenta","c_mnpio","id_asenta_cpcons","d_zona","c_cve_ciudad"
+"90000","Tlaxcala Centro","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0001","Urbano","03"
+"90006","Universidad Autónoma de Tlaxcala","Gran usuario","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"22","033","0582","Urbano","03"
+"90007","Secretaria de Agricultura Ganaderia y Desarrollo Rural","Gran usuario","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"22","033","0006","Urbano","03"
+"90008","Centro Sct Tlaxcala","Gran usuario","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"22","033","0007","Urbano","03"
+"90009","Palacio de Gobierno Del Estado de Tlaxcala","Gran usuario","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"22","033","0008","Urbano","03"
+"90010","San Buenaventura Atempan","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0009","Urbano","03"
+"90013","Xicoténcatl","Unidad habitacional","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"31","033","0630","Urbano","03"
+"90014","Los Volcanes","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0629","Urbano","03"
+"90014","El Bosque","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0543","Urbano","03"
+"90014","Los Potrillos","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0544","Urbano","03"
+"90014","Vista Hermosa","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0545","Urbano","03"
+"90014","Magisterial Vista Hermosa","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0547","Urbano","03"
+"90014","Los Causes","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0546","Urbano","03"
+"90014","El Rincón","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0542","Urbano","03"
+"90014","Cuarto Señorío","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0548","Urbano","03"
+"90019","Los Pinos","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0010","Urbano","03"
+"90020","Militar","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0011","Urbano","03"
+"90030","General Felipe Santiago Xicoténcatl","Unidad habitacional","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"31","033","0012","Urbano","03"
+"90030","IV Señoríos","Unidad habitacional","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"31","033","0553","Urbano","03"
+"90030","Los Girasoles","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0687","Urbano","03"
+"90030","Los Pinos","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0690","Urbano","03"
+"90030","Los Cipreses","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","800","Urbano","03"
+"90030","Jardines de San Gabriel","Unidad habitacional","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"31","033","0685","Urbano","03"
+"90030","Los Volcanes","Unidad habitacional","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"31","033","0550","Urbano","03"
+"90030","Lomas de Coyotepec","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0555","Urbano","03"
+"90030","Villa de los Ángeles","Unidad habitacional","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"31","033","0686","Urbano","03"
+"90030","Ameyal","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0684","Urbano","03"
+"90030","Las Animas","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0551","Urbano","03"
+"90030","Las Animas","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0593","Urbano","03"
+"90030","El Real","Residencial","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"30","033","799","Urbano","03"
+"90030","Paso de Cortes","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0552","Urbano","03"
+"90030","Real Del Sol","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0554","Urbano","03"
+"90039","Santa Cruz Industrial","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0013","Urbano","03"
+"90040","Adolfo Lopez Mateos","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0014","Urbano","03"
+"90050","Ocotlan Infonavit","Unidad habitacional","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"31","033","0015","Urbano","03"
+"90060","San Isidro","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0016","Urbano","03"
+"90062","La Loma","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0580","Urbano","03"
+"90062","La Loma Xicotencatl","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0577","Urbano","03"
+"90062","Insurgentes","Unidad habitacional","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"31","033","0689","Urbano","03"
+"90062","El Llanito","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0566","Urbano","03"
+"90080","Del Maestro","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0018","Urbano","03"
+"90090","Loma Bonita","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0019","Urbano","03"
+"90099","Loma Linda","Fraccionamiento","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"21","033","0628","Urbano","03"
+"90099","Tepetlapa","Colonia","Tlaxcala","Tlaxcala","Tlaxcala (Tlaxcala de Xicotencatl)","90001","29","90001",,"09","033","0020","Urbano","03"
+"90100","Ocotlan","Pueblo","Tlaxcala","Tlaxcala",,"90001","29","90001",,"28","033","0022","Rural",
+"90100","San Esteban Tizatlan","Pueblo","Tlaxcala","Tlaxcala",,"90001","29","90001",,"28","033","0024","Rural",
+"90100","Conjunto de las Rosas","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0539","Rural",
+"90100","El Potrero","Barrio","Tlaxcala","Tlaxcala",,"90001","29","90001",,"02","033","787","Rural",
+"90100","Rinconada de Ocotlan","Colonia","Tlaxcala","Tlaxcala",,"90001","29","90001",,"09","033","0023","Rural",
+"90100","3er Señorío","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0536","Rural",
+"90100","Rosa de los Vientos","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0537","Rural",
+"90100","El Mirador","Colonia","Tlaxcala","Tlaxcala",,"90001","29","90001",,"09","033","0021","Rural",
+"90100","Apaucarias","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0538","Rural",
+"90102","La Cañada","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0549","Rural",
+"90102","San Lucas","Unidad habitacional","Tlaxcala","Tlaxcala",,"90001","29","90001",,"31","033","0565","Rural",
+"90102","El Sabinal","Colonia","Tlaxcala","Tlaxcala",,"90001","29","90001",,"09","033","0025","Rural",
+"90105","Santa Maria Ixtulco","Pueblo","Tlaxcala","Tlaxcala",,"90001","29","90001",,"28","033","0027","Rural",
+"90105","Prolongación Sabinal","Colonia","Tlaxcala","Tlaxcala",,"90001","29","90001",,"09","033","0578","Rural",
+"90110","San Lucas Cuauhtelulpan","Pueblo","Tlaxcala","Tlaxcala",,"90001","29","90001",,"28","033","0029","Rural",
+"90110","Geo Villas San Diego","Unidad habitacional","Tlaxcala","Tlaxcala",,"90001","29","90001",,"31","033","761","Rural",
+"90110","San Diego Metepec","Pueblo","Tlaxcala","Tlaxcala",,"90001","29","90001",,"28","033","0028","Rural",
+"90110","Santa Maria Acuitlapilco","Pueblo","Tlaxcala","Tlaxcala",,"90001","29","90001",,"28","033","0030","Rural",
+"90110","San Diego","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","760","Rural",
+"90111","San Sebastián Atlahapa","Pueblo","Tlaxcala","Tlaxcala",,"90001","29","90001",,"28","033","0031","Rural",
+"90112","San Hipolito Chimalpa","Pueblo","Tlaxcala","Tlaxcala",,"90001","29","90001",,"28","033","0032","Rural",
+"90114","El Cortijo","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","795","Rural",
+"90114","Los Pinos","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0592","Rural",
+"90114","Santa Agueda","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0597","Rural",
+"90114","La Joya Sur","Colonia","Tlaxcala","Tlaxcala",,"90001","29","90001",,"09","033","0598","Rural",
+"90114","Amapotla","Unidad habitacional","Tlaxcala","Tlaxcala",,"90001","29","90001",,"31","033","0560","Rural",
+"90114","El Tejocote","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0561","Rural",
+"90114","La Vista","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0657","Rural",
+"90114","Miraflores","Barrio","Tlaxcala","Tlaxcala",,"90001","29","90001",,"02","033","0581","Rural",
+"90114","La Herradura","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","794","Semiurbano",
+"90114","La Joya","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0033","Rural",
+"90114","Universidad Autónoma de Tlaxcala","Unidad habitacional","Tlaxcala","Tlaxcala",,"90001","29","90001",,"31","033","0562","Rural",
+"90114","El Rincón de las Rosas","Unidad habitacional","Tlaxcala","Tlaxcala",,"90001","29","90001",,"31","033","0564","Rural",
+"90114","La Laguna","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0563","Rural",
+"90114","Tlacomulco","Barrio","Tlaxcala","Tlaxcala",,"90001","29","90001",,"02","033","0584","Rural",
+"90115","La Trinidad Tepehitec","Pueblo","Tlaxcala","Tlaxcala",,"90001","29","90001",,"28","033","0034","Rural",
+"90115","Puesta Del Sol","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0596","Rural",
+"90115","Esmeralda","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0557","Rural",
+"90115","Vista 3 Volcanes","Colonia","Tlaxcala","Tlaxcala",,"90001","29","90001",,"09","033","0559","Rural",
+"90115","San Fernando","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0556","Rural",
+"90115","Lomas de Guadalupe","Unidad habitacional","Tlaxcala","Tlaxcala",,"90001","29","90001",,"31","033","0558","Rural",
+"90115","Del Valle","Colonia","Tlaxcala","Tlaxcala",,"90001","29","90001",,"09","033","0579","Rural",
+"90117","La Garita de Puebla","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","750","Rural",
+"90117","Las Arboledas","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0595","Rural",
+"90117","San Gabriel Cuautla","Pueblo","Tlaxcala","Tlaxcala",,"90001","29","90001",,"28","033","0035","Rural",
+"90117","Colinas Del Sur","Colonia","Tlaxcala","Tlaxcala",,"90001","29","90001",,"09","033","0594","Rural",
+"90118","Tlapancalco","Fraccionamiento","Tlaxcala","Tlaxcala",,"90001","29","90001",,"21","033","0036","Rural",
+"90120","Santa Cruz El Porvenir","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0038","Rural",
+"90120","Espiritu Santo","Rancho o rancheria","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"29","015","0056","Rural",
+"90120","San Felipe Ixtacuixtla de Mariano Matamoros","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0037","Rural",
+"90121","Tetlapa","Barrio","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"02","015","782","Rural",
+"90121","La Trinidad Tenexyecac","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0040","Rural",
+"90121","Analco","Barrio","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"02","015","786","Rural",
+"90122","San Diego Xocoyucan","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0041","Rural",
+"90123","Santa Justina Ecatepec","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0042","Rural",
+"90125","San Antonio Atotonilco","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0044","Rural",
+"90126","Santa Inés Tecuexcomac","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0045","Rural",
+"90127","San Antonio Tizostoc","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0047","Rural",
+"90127","San Antonio Tecoac","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0046","Rural",
+"90128","San Isidro","Barrio","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"02","015","783","Rural",
+"90128","San Gabriel Popocatla","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0048","Rural",
+"90130","Alpotzonga de Lira y Ortega","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0050","Rural",
+"90131","La Caridad Cuaxonacuayo","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0051","Rural",
+"90132","Santa Rosa de Lima","Rancho o rancheria","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"29","015","0052","Rural",
+"90133","San Juan Nepopualco","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0053","Rural",
+"90133","San Miguel La Presa","Rancho o rancheria","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"29","015","0054","Rural",
+"90134","Santiago Xochimilco","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0057","Rural",
+"90134","San Marcos Jilotepec","Pueblo","Ixtacuixtla de Mariano Matamoros","Tlaxcala",,"90001","29","90001",,"28","015","0055","Rural",
+"90135","Santa Ana Nopalucan Centro","Pueblo","Santa Ana Nopalucan","Tlaxcala",,"90001","29","90001",,"28","056","0043","Rural",
+"90137","De México","Barrio","Santa Ana Nopalucan","Tlaxcala",,"90001","29","90001",,"02","056","744","Rural",
+"90137","Guadalupe","Colonia","Santa Ana Nopalucan","Tlaxcala",,"90001","29","90001",,"09","056","747","Rural",
+"90138","Unidad Deportiva","Colonia","Santa Ana Nopalucan","Tlaxcala",,"90001","29","90001",,"09","056","748","Rural",
+"90138","Nuevo México","Colonia","Santa Ana Nopalucan","Tlaxcala",,"90001","29","90001",,"09","056","749","Rural",
+"90139","De Puebla","Barrio","Santa Ana Nopalucan","Tlaxcala",,"90001","29","90001",,"02","056","745","Rural",
+"90139","El Cerrito","Colonia","Santa Ana Nopalucan","Tlaxcala",,"90001","29","90001",,"09","056","746","Rural",
+"90140","San Tadeo Huiloapan","Pueblo","Panotla","Tlaxcala",,"90001","29","90001",,"28","024","0061","Rural",
+"90140","San Nicolás Panotla","Pueblo","Panotla","Tlaxcala",,"90001","29","90001",,"28","024","0060","Rural",
+"90140","Tercero","Barrio","Panotla","Tlaxcala",,"90001","29","90001",,"02","024","0587","Rural",
+"90140","Cuarto","Barrio","Panotla","Tlaxcala",,"90001","29","90001",,"02","024","0588","Rural",
+"90140","San Mateo Huexoyucan","Pueblo","Panotla","Tlaxcala",,"90001","29","90001",,"28","024","0059","Rural",
+"90140","Quinto","Barrio","Panotla","Tlaxcala",,"90001","29","90001",,"02","024","0589","Rural",
+"90140","Santa Fe","Unidad habitacional","Panotla","Tlaxcala",,"90001","29","90001",,"31","024","0627","Rural",
+"90140","Segundo","Barrio","Panotla","Tlaxcala",,"90001","29","90001",,"02","024","0586","Rural",
+"90140","San Francisco Temetzontla","Pueblo","Panotla","Tlaxcala",,"90001","29","90001",,"28","024","0058","Rural",
+"90140","Tlacomulco","Barrio","Panotla","Tlaxcala",,"90001","29","90001",,"02","024","0583","Rural",
+"90140","Militar","Unidad habitacional","Panotla","Tlaxcala",,"90001","29","90001",,"31","024","0591","Rural",
+"90140","Primero","Barrio","Panotla","Tlaxcala",,"90001","29","90001",,"02","024","0585","Rural",
+"90140","Santa Elena","Fraccionamiento","Panotla","Tlaxcala",,"90001","29","90001",,"21","024","0590","Rural",
+"90145","Santa Cruz Techachalco","Pueblo","Panotla","Tlaxcala",,"90001","29","90001",,"28","024","0062","Rural",
+"90147","San Jorge Tezoquipan","Pueblo","Panotla","Tlaxcala",,"90001","29","90001",,"28","024","0063","Rural",
+"90150","Emiliano Zapata","Pueblo","Panotla","Tlaxcala",,"90001","29","90001",,"28","024","0064","Rural",
+"90151","San Ambrosio Texantla","Pueblo","Panotla","Tlaxcala",,"90001","29","90001",,"28","024","0065","Rural",
+"90152","Jesús Acatitla","Pueblo","Panotla","Tlaxcala",,"90001","29","90001",,"28","024","0066","Rural",
+"90160","Los Reyes Quiahuiztlan","Pueblo","Totolac","Tlaxcala",,"90001","29","90001",,"28","036","0068","Rural",
+"90160","San Juan Totolac","Pueblo","Totolac","Tlaxcala",,"90001","29","90001",,"28","036","0069","Rural",
+"90160","San Miguel Tlamahuco","Pueblo","Totolac","Tlaxcala",,"90001","29","90001",,"28","036","0070","Rural",
+"90160","Acxotla Del Rio","Pueblo","Totolac","Tlaxcala",,"90001","29","90001",,"28","036","0067","Rural",
+"90160","Villa Riverena","Fraccionamiento","Totolac","Tlaxcala",,"90001","29","90001",,"21","036","0541","Rural",
+"90163","Santiago Tepeticpac","Pueblo","Totolac","Tlaxcala",,"90001","29","90001",,"28","036","0071","Rural",
+"90165","San Francisco Ocotelulco","Pueblo","Totolac","Tlaxcala",,"90001","29","90001",,"28","036","0072","Rural",
+"90166","La Trinidad Chimalpa","Pueblo","Totolac","Tlaxcala",,"90001","29","90001",,"28","036","0073","Rural",
+"90168","La Candelaria Teotlalpan","Pueblo","Totolac","Tlaxcala",,"90001","29","90001",,"28","036","0074","Rural",
+"90168","El Bosque","Fraccionamiento","Totolac","Tlaxcala",,"90001","29","90001",,"21","036","0540","Rural",
+"90180","Santiago Tlacochcalco","Pueblo","Tepeyanco","Tlaxcala",,"90001","29","90001",,"28","029","0077","Rural",
+"90180","Las Águilas","Colonia","Tepeyanco","Tlaxcala",,"90001","29","90001",,"09","029","781","Semiurbano",
+"90180","San Pedro Xalcaltzinco","Pueblo","Tepeyanco","Tlaxcala",,"90001","29","90001",,"28","029","0081","Rural",
+"90180","San Cosme Atlamaxac","Pueblo","Tepeyanco","Tlaxcala",,"90001","29","90001",,"28","029","0075","Rural",
+"90180","San Francisco Tepeyanco","Pueblo","Tepeyanco","Tlaxcala",,"90001","29","90001",,"28","029","0076","Rural",
+"90180","Guerrero","Colonia","Tepeyanco","Tlaxcala",,"90001","29","90001",,"09","029","0643","Urbano",
+"90182","La Aurora","Pueblo","Tepeyanco","Tlaxcala",,"90001","29","90001",,"28","029","0078","Rural",
+"90190","Santa Isabel Xiloxoxtla","Pueblo","Santa Isabel Xiloxoxtla","Tlaxcala",,"90801","29","90801",,"28","060","0079","Rural",
+"90193","Contla","Barrio","Santa Isabel Xiloxoxtla","Tlaxcala",,"90801","29","90801",,"02","060","754","Rural",
+"90193","Chimalpa","Barrio","Santa Isabel Xiloxoxtla","Tlaxcala",,"90801","29","90801",,"02","060","756","Rural",
+"90193","Quiahuixtla Norte","Barrio","Santa Isabel Xiloxoxtla","Tlaxcala",,"90801","29","90801",,"02","060","757","Rural",
+"90193","Teotitla","Barrio","Santa Isabel Xiloxoxtla","Tlaxcala",,"90801","29","90801",,"02","060","755","Rural",
+"90194","Quiahuixtla Sur","Barrio","Santa Isabel Xiloxoxtla","Tlaxcala",,"90801","29","90801",,"02","060","758","Rural",
+"90194","Culhuaca","Barrio","Santa Isabel Xiloxoxtla","Tlaxcala",,"90801","29","90801",,"02","060","759","Rural",
+"90195","Las Cruces","Barrio","San Juan Huactzinco","Tlaxcala",,"90001","29","90001",,"02","053","791","Rural",
+"90195","San Juan Huactzinco","Pueblo","San Juan Huactzinco","Tlaxcala",,"90001","29","90001",,"28","053","0080","Rural",
+"90200","Calpulalpan Centro","Colonia","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"09","006","0083","Semiurbano","05"
+"90202","San Rafael","Colonia","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"09","006","0478","Semiurbano","05"
+"90202","La Cañada","Colonia","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"09","006","0493","Semiurbano","05"
+"90202","Xahuanxolco","Barrio","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"02","006","0477","Semiurbano","05"
+"90203","Calpulli","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0488","Semiurbano","05"
+"90203","Trabajadores Federados","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0713","Urbano","05"
+"90203","Vivah","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0489","Semiurbano","05"
+"90203","Europa","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0715","Urbano","05"
+"90203","Rancho la Luz","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0714","Urbano","05"
+"90203","El Palmar","Colonia","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"09","006","0485","Semiurbano","05"
+"90203","La Rosa","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0487","Semiurbano","05"
+"90203","Infonavit","Unidad habitacional","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"31","006","0490","Semiurbano","05"
+"90203","San Pedro","Colonia","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"09","006","0486","Semiurbano","05"
+"90204","La Herradura","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0482","Semiurbano","05"
+"90204","La Nopalera","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0484","Semiurbano","05"
+"90204","La Loma","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0712","Urbano","05"
+"90204","El Mirador","Colonia","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"09","006","0483","Semiurbano","05"
+"90204","Esmeralda","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0716","Urbano","05"
+"90204","Las Conchitas","Barrio","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"02","006","0708","Urbano","05"
+"90204","Villas Del Sur","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0481","Semiurbano","05"
+"90205","Arboledas","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0479","Rural","05"
+"90205","El Calvario","Barrio","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"02","006","0474","Semiurbano","05"
+"90205","Los Volcanes","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0480","Rural","05"
+"90205","Pocitos","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0711","Urbano","05"
+"90207","Santa Cecilia","Barrio","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"02","006","0475","Semiurbano","05"
+"90207","Xicotencatl","Barrio","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"02","006","0476","Semiurbano","05"
+"90207","Salvador Guarneros","Colonia","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"09","006","0492","Semiurbano","05"
+"90207","Francisco Sarabia","Colonia","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"09","006","0491","Semiurbano","05"
+"90208","El Refugio","Fraccionamiento","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"21","006","0494","Semiurbano","05"
+"90208","Belén","Colonia","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"09","006","0496","Rural","05"
+"90208","Alfonso Espejel","Colonia","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"09","006","0495","Semiurbano","05"
+"90208","Nazaret","Colonia","Calpulalpan","Tlaxcala","Calpulalpan","90201","29","90201",,"09","006","0709","Urbano","05"
+"90210","San Mateo Actipan","Pueblo","Calpulalpan","Tlaxcala",,"90201","29","90201",,"28","006","0087","Rural",
+"90210","Amantla","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0692","Rural",
+"90210","San José","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0698","Rural",
+"90210","San Benigno","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0696","Rural",
+"90220","San Agustín","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0700","Rural",
+"90220","Mazapa","Pueblo","Calpulalpan","Tlaxcala",,"90201","29","90201",,"28","006","0093","Rural",
+"90220","Santa Teresa","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0697","Rural",
+"90220","Santa Cruz","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0695","Rural",
+"90220","La Palma","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0701","Rural",
+"90220","La Soledad","Pueblo","Calpulalpan","Tlaxcala",,"90201","29","90201",,"28","006","0092","Rural",
+"90220","Santa Isabel Mixtitlán","Pueblo","Calpulalpan","Tlaxcala",,"90201","29","90201",,"28","006","0719","Rural",
+"90222","San Felipe Sultepec","Pueblo","Calpulalpan","Tlaxcala",,"90201","29","90201",,"28","006","0085","Rural",
+"90224","La Venta","Pueblo","Calpulalpan","Tlaxcala",,"90201","29","90201",,"28","006","0718","Rural",
+"90224","Santo Domingo","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0699","Rural",
+"90224","San Marcos Guaquilpan","Pueblo","Calpulalpan","Tlaxcala",,"90201","29","90201",,"28","006","0086","Rural",
+"90224","San Cristóbal Zacacalco","Pueblo","Calpulalpan","Tlaxcala",,"90201","29","90201",,"28","006","0091","Rural",
+"90224","Santiago Cuaula","Pueblo","Calpulalpan","Tlaxcala",,"90201","29","90201",,"28","006","0088","Rural",
+"90225","Santa Isabel","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0702","Rural",
+"90225","San Bartolomé del Monte","Exhacienda","Calpulalpan","Tlaxcala",,"90201","29","90201",,"18","006","0710","Rural",
+"90225","Coesillos","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0691","Rural",
+"90225","Chimboracito","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0703","Rural",
+"90226","Velázquez","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0693","Rural",
+"90226","San José","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0704","Rural",
+"90226","San Juan Temascales","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0694","Rural",
+"90226","El Carmen","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0706","Rural",
+"90226","Gustavo Díaz Ordaz","Pueblo","Calpulalpan","Tlaxcala",,"90201","29","90201",,"28","006","0717","Rural",
+"90226","El Mirador","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0705","Rural",
+"90226","Zoquipan","Rancho o rancheria","Calpulalpan","Tlaxcala",,"90201","29","90201",,"29","006","0707","Rural",
+"90230","Sanctorum","Pueblo","Sanctórum de Lázaro Cárdenas","Tlaxcala",,"90201","29","90201",,"28","020","0094","Rural",
+"90231","Francisco Villa","Pueblo","Sanctórum de Lázaro Cárdenas","Tlaxcala",,"90201","29","90201",,"28","020","0095","Rural",
+"90233","San Nicolás El Grande","Pueblo","Sanctórum de Lázaro Cárdenas","Tlaxcala",,"90201","29","90201",,"28","020","0097","Rural",
+"90234","La Reforma","Pueblo","Sanctórum de Lázaro Cárdenas","Tlaxcala",,"90201","29","90201",,"28","020","0099","Rural",
+"90234","Contadero","Rancho o rancheria","Sanctórum de Lázaro Cárdenas","Tlaxcala",,"90201","29","90201",,"29","020","0098","Rural",
+"90235","Benito Juárez","Pueblo","Benito Juárez","Tlaxcala",,"90201","29","90201",,"28","045","0096","Rural",
+"90237","Ampliación Progreso","Unidad habitacional","Benito Juárez","Tlaxcala",,"90201","29","90201",,"31","045","0720","Rural",
+"90240","Santa Maria Ixcontla","Pueblo","Hueyotlipan","Tlaxcala",,"90301","29","90301",,"28","014","0102","Rural",
+"90240","Ignacio Zaragoza","Pueblo","Hueyotlipan","Tlaxcala",,"90301","29","90301",,"28","014","0100","Rural",
+"90240","San Ildefonso Hueyotlipan","Pueblo","Hueyotlipan","Tlaxcala",,"90301","29","90301",,"28","014","0101","Rural",
+"90241","San Simeon Xipetzinco","Pueblo","Hueyotlipan","Tlaxcala",,"90301","29","90301",,"28","014","0103","Rural",
+"90243","San Andres Cuajimala","Colonia","Hueyotlipan","Tlaxcala",,"90301","29","90301",,"09","014","0105","Rural",
+"90244","Santiago Tlalpan","Pueblo","Hueyotlipan","Tlaxcala",,"90301","29","90301",,"28","014","0106","Rural",
+"90245","San Diego Recova","Pueblo","Hueyotlipan","Tlaxcala",,"90301","29","90301",,"28","014","0107","Rural",
+"90247","San Lorenzo Techalote","Pueblo","Hueyotlipan","Tlaxcala",,"90301","29","90301",,"28","014","0110","Rural",
+"90247","Adolfo Lopez Mateos","Colonia","Hueyotlipan","Tlaxcala",,"90301","29","90301",,"09","014","0108","Rural",
+"90247","La Cruz Techalote","Pueblo","Hueyotlipan","Tlaxcala",,"90301","29","90301",,"28","014","0109","Rural",
+"90250","Tepatlaxco","Colonia","Tlaxco","Tlaxcala",,"90252","29","90252",,"09","034","0498","Rural",
+"90250","José María Morelos Buenavista","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0112","Rural",
+"90250","San Juan","Colonia","Tlaxco","Tlaxcala",,"90252","29","90252",,"09","034","0499","Rural",
+"90250","Ejidal","Colonia","Tlaxco","Tlaxcala",,"90252","29","90252",,"09","034","0500","Rural",
+"90250","San José Atotonilco","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0111","Rural",
+"90250","Tlaxco","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0113","Rural",
+"90250","Iturbide","Colonia","Tlaxco","Tlaxcala",,"90252","29","90252",,"09","034","0501","Rural",
+"90250","Postal","Colonia","Tlaxco","Tlaxcala",,"90252","29","90252",,"09","034","0502","Rural",
+"90251","San Antonio Huexotitlan","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0114","Rural",
+"90255","El Barrio","Colonia","Tlaxco","Tlaxcala",,"90252","29","90252",,"09","034","785","Rural",
+"90255","Acopinalco Del Peñón","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0116","Rural",
+"90256","El Rosario","Rancho o rancheria","Tlaxco","Tlaxcala",,"90252","29","90252",,"29","034","0117","Rural",
+"90260","La Magdalena Soltepec","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0118","Rural",
+"90260","Lagunillas","Rancho o rancheria","Tlaxco","Tlaxcala",,"90252","29","90252",,"29","034","0119","Rural",
+"90260","Soltepec","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0120","Rural",
+"90261","Agrícola Mimiahuapan","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0121","Rural",
+"90262","Mariano Matamoros","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0122","Rural",
+"90263","Casa Blanca","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0123","Rural",
+"90264","Unión Ejidal Tierra y Libertad","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0124","Rural",
+"90265","San Lorenzo Soltepec","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0125","Rural",
+"90270","Tecomalucan","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0126","Rural",
+"90271","Máximo Rojas Xalostoc","Pueblo","Tlaxco","Tlaxcala",,"90252","29","90252",,"28","034","0127","Rural",
+"90274","La Palma","Rancho o rancheria","Tlaxco","Tlaxcala",,"90252","29","90252",,"29","034","0128","Rural",
+"90275","Ojo de Agua","Rancho o rancheria","Tlaxco","Tlaxcala",,"90252","29","90252",,"29","034","784","Rural",
+"90275","Capilla de Tepeyahualco","Rancho o rancheria","Tlaxco","Tlaxcala",,"90252","29","90252",,"29","034","0129","Rural",
+"90280","Francisco I Madero","Pueblo","Nanacamilpa de Mariano Arista","Tlaxcala",,"90201","29","90201",,"28","021","0130","Rural",
+"90280","Valle de las Flores","Colonia","Nanacamilpa de Mariano Arista","Tlaxcala",,"90201","29","90201",,"09","021","0602","Rural",
+"90280","Chapultepec","Barrio","Nanacamilpa de Mariano Arista","Tlaxcala",,"90201","29","90201",,"02","021","0599","Rural",
+"90280","Loma Bonita","Colonia","Nanacamilpa de Mariano Arista","Tlaxcala",,"90201","29","90201",,"09","021","777","Rural",
+"90280","La Villa","Colonia","Nanacamilpa de Mariano Arista","Tlaxcala",,"90201","29","90201",,"09","021","1","Rural",
+"90280","Nanacamilpa","Rancho o rancheria","Nanacamilpa de Mariano Arista","Tlaxcala",,"90201","29","90201",,"29","021","0132","Rural",
+"90280","Francisco Villa","Barrio","Nanacamilpa de Mariano Arista","Tlaxcala",,"90201","29","90201",,"02","021","0600","Rural",
+"90280","Obregón","Barrio","Nanacamilpa de Mariano Arista","Tlaxcala",,"90201","29","90201",,"02","021","0601","Rural",
+"90280","Gral. Domingo Arenas","Pueblo","Nanacamilpa de Mariano Arista","Tlaxcala",,"90201","29","90201",,"28","021","0131","Rural",
+"90281","San Felipe Hidalgo","Pueblo","Nanacamilpa de Mariano Arista","Tlaxcala",,"90201","29","90201",,"28","021","0134","Rural",
+"90281","Miguel Lira y Ortega","Pueblo","Nanacamilpa de Mariano Arista","Tlaxcala",,"90201","29","90201",,"28","021","0133","Rural",
+"90290","Españita","Pueblo","Españita","Tlaxcala",,"90201","29","90201",,"28","012","0136","Rural",
+"90290","La Magdalena Cuextotitla","Pueblo","Españita","Tlaxcala",,"90201","29","90201",,"28","012","0137","Rural",
+"90291","San Juan Mitepec","Pueblo","Españita","Tlaxcala",,"90201","29","90201",,"28","012","0138","Rural",
+"90292","San Francisco Mitepec","Pueblo","Españita","Tlaxcala",,"90201","29","90201",,"28","012","0139","Rural",
+"90292","San Miguel Pipiyola","Pueblo","Españita","Tlaxcala",,"90201","29","90201",,"28","012","0140","Rural",
+"90293","Álvaro Obregón","Pueblo","Españita","Tlaxcala",,"90201","29","90201",,"28","012","0141","Rural",
+"90294","Miguel Aldama","Colonia","Españita","Tlaxcala",,"90201","29","90201",,"09","012","0143","Rural",
+"90294","Ignacio Allende","Pueblo","Españita","Tlaxcala",,"90201","29","90201",,"28","012","0142","Rural",
+"90297","Vicente Guerrero","Colonia","Españita","Tlaxcala",,"90201","29","90201",,"09","012","0144","Rural",
+"90298","La Constancia","Colonia","Españita","Tlaxcala",,"90201","29","90201",,"09","012","0145","Rural",
+"90298","La Reforma","Colonia","Españita","Tlaxcala",,"90201","29","90201",,"09","012","0146","Rural",
+"90300","Apizaco Centro","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0147","Semiurbano","01"
+"90308","Celfimex S.A.","Gran usuario","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"22","005","0149","Semiurbano","01"
+"90309","Apizaco Celulosa","Gran usuario","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"22","005","0150","Semiurbano","01"
+"90310","El Parral","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0572","Semiurbano","01"
+"90310","El Mirador","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0626","Semiurbano","01"
+"90319","Rodan Muñoz","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0152","Semiurbano","01"
+"90320","Granjas de Guadalupe","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0153","Semiurbano","01"
+"90321","Jose Lopez Portillo","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0154","Semiurbano","01"
+"90323","Cerrito de Guadalupe","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0155","Semiurbano","01"
+"90323","El Mirador","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0156","Semiurbano","01"
+"90329","Fuentes de Actipan","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0157","Semiurbano","01"
+"90329","Hogares Ferrocarrileros","Unidad habitacional","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"31","005","0158","Semiurbano","01"
+"90330","Guadalupe","Barrio","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"02","005","0159","Semiurbano","01"
+"90337","San Martin de Porres","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0160","Semiurbano","01"
+"90338","San Diego Crom","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0163","Semiurbano","01"
+"90338","Bellavista","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0161","Semiurbano","01"
+"90338","Del Carmen","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0162","Semiurbano","01"
+"90338","La Noria II","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0575","Semiurbano","01"
+"90338","La Huerta","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","796","Semiurbano","01"
+"90339","San Miguel","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0164","Semiurbano","01"
+"90340","Santa Rosa","Ampliacion","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"38","005","0167","Semiurbano","01"
+"90340","Santa Rosa","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0166","Semiurbano","01"
+"90340","La Barranca","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0165","Semiurbano","01"
+"90341","20 de Noviembre","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0168","Semiurbano","01"
+"90342","Ferrocarrilera","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0169","Semiurbano","01"
+"90342","Emilio Sanchez Piedras","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0573","Semiurbano","01"
+"90347","La Ciénega","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0170","Semiurbano","01"
+"90350","San Rafael Atlixtac Infonavit","Unidad habitacional","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"31","005","0173","Semiurbano","01"
+"90350","Buenos Aires","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0171","Semiurbano","01"
+"90350","CTM Infonavit","Unidad habitacional","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"31","005","0172","Semiurbano","01"
+"90354","Villa Santa Anita","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0175","Semiurbano","01"
+"90354","Villas de Apizaco","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0174","Semiurbano","01"
+"90355","Paso de Cortes II","Unidad habitacional","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"31","005","774","Semiurbano","01"
+"90355","Segunda Sección","Barrio","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"02","005","790","Semiurbano","01"
+"90355","Paso de Cortes","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0641","Semiurbano","01"
+"90355","Loma Paraíso Ivet","Unidad habitacional","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"31","005","0176","Semiurbano","01"
+"90355","Loma Verde Fovissste","Unidad habitacional","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"31","005","0177","Semiurbano","01"
+"90355","Loma Verde Infonavit","Unidad habitacional","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"31","005","0178","Semiurbano","01"
+"90355","Real Del Bosque","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0624","Semiurbano","01"
+"90355","Real Del Valle","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0625","Semiurbano","01"
+"90355","La Perla","Unidad habitacional","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"31","005","792","Semiurbano","01"
+"90356","Los Sauces","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0181","Semiurbano","01"
+"90356","Loma Florida 2a Secc","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0180","Semiurbano","01"
+"90356","Loma Florida 1a Secc","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0179","Semiurbano","01"
+"90356","Nuevo México","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0574","Semiurbano","01"
+"90357","Adolfo Lopez Mateos","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0182","Semiurbano","01"
+"90357","Lindavista","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","767","Semiurbano","01"
+"90357","Fátima","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0184","Semiurbano","01"
+"90357","Benito Juárez","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0183","Semiurbano","01"
+"90358","Jesús y San Juan","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0185","Semiurbano","01"
+"90358","Colva","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0567","Semiurbano","01"
+"90359","Rohm And Hass S.A. Iqasa","Gran usuario","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"22","005","0186","Semiurbano","01"
+"90360","La Cañada","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0188","Semiurbano","01"
+"90360","Villa Trinidad","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0190","Semiurbano","01"
+"90360","La Noria","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0189","Semiurbano","01"
+"90360","Los Morales II","Unidad habitacional","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"31","005","775","Semiurbano","01"
+"90360","Casas Brick","Unidad habitacional","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"31","005","0187","Semiurbano","01"
+"90370","San Rafael Atlixtac Indeco","Unidad habitacional","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"31","005","0191","Semiurbano","01"
+"90370","Zaragoza","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0192","Semiurbano","01"
+"90378","Loma Santa Anita","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0193","Semiurbano","01"
+"90379","Preparatoria Corregidora","Gran usuario","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"22","005","0194","Semiurbano","01"
+"90380","Covadonga de Bravo","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0196","Semiurbano","01"
+"90380","Jardines de Apizaco","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0197","Semiurbano","01"
+"90380","Agrícola Covadonga","Colonia","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"09","005","0195","Semiurbano","01"
+"90380","La Soledad","Fraccionamiento","Apizaco","Tlaxcala","Apizaco","90301","29","90301",,"21","005","0198","Semiurbano","01"
+"90400","Jose Maria Morelos","Pueblo","Apizaco","Tlaxcala",,"90301","29","90301",,"28","005","0199","Rural",
+"90401","Cerro Azul","Fraccionamiento","Apizaco","Tlaxcala",,"90301","29","90301",,"21","005","0201","Rural",
+"90401","Tulio Hernandez","Colonia","Apizaco","Tlaxcala",,"90301","29","90301",,"09","005","0205","Rural",
+"90401","San Luis Apizaquito","Fraccionamiento","Apizaco","Tlaxcala",,"90301","29","90301",,"21","005","0203","Rural",
+"90401","Benito Juárez Apizaquito","Colonia","Apizaco","Tlaxcala",,"90301","29","90301",,"09","005","0200","Rural",
+"90401","El Calvario Apizaquito","Colonia","Apizaco","Tlaxcala",,"90301","29","90301",,"09","005","0202","Rural",
+"90401","San Luis Apizaquito","Pueblo","Apizaco","Tlaxcala",,"90301","29","90301",,"28","005","0204","Rural",
+"90402","Santa Maria Texcalac","Pueblo","Apizaco","Tlaxcala",,"90301","29","90301",,"28","005","0206","Rural",
+"90403","Guadalupe Texcalac","Pueblo","Apizaco","Tlaxcala",,"90301","29","90301",,"28","005","0207","Rural",
+"90404","Cereso Apizaco","Gran usuario","Apizaco","Tlaxcala",,"90301","29","90301",,"22","005","0208","Rural",
+"90406","Lomas Del Bosque","Fraccionamiento","Apizaco","Tlaxcala",,"90301","29","90301",,"21","005","0658","Rural",
+"90406","San Isidro","Colonia","Apizaco","Tlaxcala",,"90301","29","90301",,"09","005","0621","Rural",
+"90406","San Isidro Apizaquito","Pueblo","Apizaco","Tlaxcala",,"90301","29","90301",,"28","005","0209","Rural",
+"90407","Santa Anita Huiloac","Pueblo","Apizaco","Tlaxcala",,"90301","29","90301",,"28","005","0211","Rural",
+"90407","Rancho Santa Anita","Fraccionamiento","Apizaco","Tlaxcala",,"90301","29","90301",,"21","005","0210","Rural",
+"90410","San Pedro Ecatepec","Pueblo","Atlangatepec","Tlaxcala",,"90301","29","90301",,"28","003","0213","Rural",
+"90410","Atlangatepec","Pueblo","Atlangatepec","Tlaxcala",,"90301","29","90301",,"28","003","0212","Rural",
+"90410","Zumpango","Pueblo","Atlangatepec","Tlaxcala",,"90301","29","90301",,"28","003","0214","Rural",
+"90411","Santa Clara Ozumba","Pueblo","Atlangatepec","Tlaxcala",,"90301","29","90301",,"28","003","0216","Rural",
+"90411","Agrícola San Luis","Pueblo","Atlangatepec","Tlaxcala",,"90301","29","90301",,"28","003","0215","Rural",
+"90418","Tezoyo","Pueblo","Atlangatepec","Tlaxcala",,"90301","29","90301",,"28","003","0217","Rural",
+"90420","Domingo de Muñoz Arenas","Pueblo","Muñoz de Domingo Arenas","Tlaxcala",,"90301","29","90301",,"28","011","0218","Rural",
+"90421","Guadalupe Estación","Pueblo","Muñoz de Domingo Arenas","Tlaxcala",,"90301","29","90301",,"28","011","0219","Rural",
+"90421","San Jose Cuamantzingo","Pueblo","Muñoz de Domingo Arenas","Tlaxcala",,"90301","29","90301",,"28","011","0220","Rural",
+"90430","San Bartolome Matlalohcan","Pueblo","Tetla de la Solidaridad","Tlaxcala",,"90301","29","90301",,"28","031","0222","Rural",
+"90430","Infonavit Tetla","Unidad habitacional","Tetla de la Solidaridad","Tlaxcala",,"90301","29","90301",,"31","031","0576","Rural",
+"90430","Antorcha Revolucionaria Infonavit","Unidad habitacional","Tetla de la Solidaridad","Tlaxcala",,"90301","29","90301",,"31","031","0221","Rural",
+"90430","Xaxalpa","Fraccionamiento","Tetla de la Solidaridad","Tlaxcala",,"90301","29","90301",,"21","031","773","Rural",
+"90430","Santiago Tetla","Pueblo","Tetla de la Solidaridad","Tlaxcala",,"90301","29","90301",,"28","031","0223","Rural",
+"90431","Capulac","Pueblo","Tetla de la Solidaridad","Tlaxcala",,"90301","29","90301",,"28","031","0224","Rural",
+"90431","Mena","Pueblo","Tetla de la Solidaridad","Tlaxcala",,"90301","29","90301",,"28","031","0225","Rural",
+"90431","José María Morelos y Pavón","Pueblo","Tetla de la Solidaridad","Tlaxcala",,"90301","29","90301",,"28","031","0226","Rural",
+"90432","San Francisco Atezcatzinco","Pueblo","Tetla de la Solidaridad","Tlaxcala",,"90301","29","90301",,"28","031","0228","Rural",
+"90432","Tercera Sección","Barrio","Tetla de la Solidaridad","Tlaxcala",,"90301","29","90301",,"02","031","789","Rural",
+"90433","Chautzingo","Pueblo","Tetla de la Solidaridad","Tlaxcala",,"90301","29","90301",,"28","031","0229","Rural",
+"90434","Ciudad Industrial Xicohtencatl","Zona industrial","Tetla de la Solidaridad","Tlaxcala",,"90301","29","90301",,"37","031","0230","Rural",
+"90435","Los Dolores","Rancho o rancheria","Tetla de la Solidaridad","Tlaxcala",,"90301","29","90301",,"29","031","0231","Rural",
+"90440","Cuatla","Pueblo","Xaltocan","Tlaxcala",,"90301","29","90301",,"28","040","0455","Rural",
+"90440","San Simon Tlatlahuquitepec","Pueblo","Xaltocan","Tlaxcala",,"90301","29","90301",,"28","040","0236","Rural",
+"90440","San Martin Xaltocan","Pueblo","Xaltocan","Tlaxcala",,"90301","29","90301",,"28","040","0232","Rural",
+"90443","Santa Bárbara Acuicuizcatepec","Pueblo","Xaltocan","Tlaxcala",,"90301","29","90301",,"28","040","0234","Rural",
+"90444","La Ascensión Huitzcolotepec","Pueblo","Xaltocan","Tlaxcala",,"90301","29","90301",,"28","040","0235","Rural",
+"90445","San Lucas Tecopilco","Pueblo","San Lucas Tecopilco","Tlaxcala",,"90301","29","90301",,"28","055","0233","Rural",
+"90450","Cruztitla","Fraccionamiento","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"21","043","771","Rural",
+"90450","San Lorenzo Tlacualoyan","Pueblo","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"28","043","0239","Rural",
+"90450","Axotecatl","Fraccionamiento","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"21","043","772","Rural",
+"90450","San Dionisio Yauhquemehcan","Pueblo","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"28","043","0237","Rural",
+"90450","Santa Ursula Zimatepec","Pueblo","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"28","043","0240","Rural",
+"90450","Doctores","Colonia","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"09","043","0622","Rural",
+"90450","San Francisco Tlacuilohcan","Pueblo","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"28","043","0238","Rural",
+"90450","Viky","Fraccionamiento","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"21","043","0661","Rural",
+"90450","La Corona","Fraccionamiento","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"21","043","770","Rural",
+"90453","San Benito Xaltocan","Pueblo","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"28","043","0241","Rural",
+"90453","Malintzi","Fraccionamiento","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"21","043","797","Rural",
+"90454","San Jose Tetel","Pueblo","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"28","043","0151","Semiurbano",
+"90456","El Rosario Ocotoxco","Rancho o rancheria","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"29","043","0242","Rural",
+"90456","El Rosario","Colonia","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"09","043","0456","Rural",
+"90459","Santa Maria Atlihuetzian","Pueblo","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"28","043","0243","Rural",
+"90459","Casahtla","Fraccionamiento","Yauhquemecan","Tlaxcala",,"90301","29","90301",,"21","043","768","Rural",
+"90460","Texmola","Pueblo","Xaloztoc","Tlaxcala",,"90461","29","90461",,"28","039","0246","Rural",
+"90460","San Pedro Tlacotepec","Pueblo","Xaloztoc","Tlaxcala",,"90461","29","90461",,"28","039","0245","Rural",
+"90460","San Cosme Xaloztoc","Pueblo","Xaloztoc","Tlaxcala",,"90461","29","90461",,"28","039","0244","Rural",
+"90460","Venustiano Carranza","Rancho o rancheria","Xaloztoc","Tlaxcala",,"90461","29","90461",,"29","039","0247","Rural",
+"90460","Santa Martha","Colonia","Xaloztoc","Tlaxcala",,"90461","29","90461",,"09","039","0604","Rural",
+"90460","Tetitla","Colonia","Xaloztoc","Tlaxcala",,"90461","29","90461",,"09","039","0603","Rural",
+"90460","La Sierra","Colonia","Xaloztoc","Tlaxcala",,"90461","29","90461",,"09","039","0605","Rural",
+"90465","Velazco","Pueblo","Xaloztoc","Tlaxcala",,"90461","29","90461",,"28","039","0249","Rural",
+"90480","Santa Maria Tocatlan","Pueblo","Tocatlán","Tlaxcala",,"90461","29","90461",,"28","035","0250","Rural",
+"90482","Venustiano Carranza","Rancho o rancheria","Tocatlán","Tlaxcala",,"90461","29","90461",,"29","035","0251","Rural",
+"90484","Acocotla","Pueblo","Tocatlán","Tlaxcala",,"90461","29","90461",,"28","035","0252","Rural",
+"90490","Jean Charlot 2","Colonia","Tzompantepec","Tlaxcala",,"90301","29","90301",,"09","038","0623","Rural",
+"90490","San Salvador Tzompantepec","Pueblo","Tzompantepec","Tlaxcala",,"90301","29","90301",,"28","038","0253","Rural",
+"90491","San Andres Ahuashuatepec","Pueblo","Tzompantepec","Tlaxcala",,"90301","29","90301",,"28","038","0255","Rural",
+"90493","San Juan Quetzalcuapan","Pueblo","Tzompantepec","Tlaxcala",,"90301","29","90301",,"28","038","0257","Rural",
+"90494","San Mateo Inopil","Pueblo","Tzompantepec","Tlaxcala",,"90301","29","90301",,"28","038","0258","Rural",
+"90495","San Jose Teacalco","Pueblo","San José Teacalco","Tlaxcala",,"90301","29","90301",,"28","052","0256","Rural",
+"90500","Huamantla Centro","Colonia","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"09","013","0260","Semiurbano","04"
+"90502","El Calvario","Barrio","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"02","013","0464","Semiurbano","04"
+"90502","Santa Cruz","Barrio","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"02","013","0466","Semiurbano","04"
+"90502","La Santísima","Barrio","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"02","013","0468","Semiurbano","04"
+"90503","La Giralda","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0458","Semiurbano","04"
+"90503","Villa de las Flores","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0678","Urbano","04"
+"90503","Santa Ana","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0676","Urbano","04"
+"90503","San Carlos","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0463","Semiurbano","04"
+"90503","Cuamanco","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0677","Urbano","04"
+"90505","San Francisco Yancuitlalpan","Barrio","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"02","013","0269","Semiurbano","04"
+"90505","San Jose","Barrio","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"02","013","0270","Rural","04"
+"90505","Santa Maria Yancuitlalpan","Barrio","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"02","013","0473","Semiurbano","04"
+"90505","La Preciosa","Barrio","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"02","013","0267","Rural","04"
+"90505","San Antonio","Barrio","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"02","013","0469","Semiurbano","04"
+"90506","Ignacio Zaragoza","Unidad habitacional","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"31","013","0271","Rural","04"
+"90506","La Estación","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0461","Semiurbano","04"
+"90506","Tierra y Libertad","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0679","Urbano","04"
+"90506","Nuevos Horizontes","Colonia","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"09","013","0272","Rural","04"
+"90506","Emiliano Zapata","Colonia","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"09","013","0273","Rural","04"
+"90506","Viva","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0462","Semiurbano","04"
+"90507","San Francisco","Barrio","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"02","013","0470","Semiurbano","04"
+"90507","Unión y Progreso","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0471","Semiurbano","04"
+"90507","San Lucas","Barrio","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"02","013","0276","Rural","04"
+"90507","San Francisquito","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0681","Urbano","04"
+"90507","Fovissste","Unidad habitacional","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"31","013","0274","Rural","04"
+"90507","Libra","Colonia","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"09","013","0275","Rural","04"
+"90508","Infonavit 15 de Agosto","Unidad habitacional","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"31","013","0277","Semiurbano","04"
+"90508","San Sebastián","Barrio","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"02","013","0278","Semiurbano","04"
+"90508","La Esmeralda","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0675","Urbano","04"
+"90508","Arboledas","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0680","Urbano","04"
+"90508","El Jagüey","Unidad habitacional","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"31","013","0688","Urbano","04"
+"90508","Los Volcanes II","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0659","Semiurbano","04"
+"90508","Los Volcanes","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0662","Semiurbano","04"
+"90508","Santa Anita","Barrio","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"02","013","0279","Semiurbano","04"
+"90508","Juárez","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0460","Semiurbano","04"
+"90508","La Cañada","Fraccionamiento","Huamantla","Tlaxcala","Huamantla","90501","29","90501",,"21","013","0459","Semiurbano","04"
+"90510","Los Pilares","Pueblo","Huamantla","Tlaxcala",,"90501","29","90501",,"28","013","0261","Rural",
+"90510","Ignacio Zaragoza","Pueblo","Huamantla","Tlaxcala",,"90501","29","90501",,"28","013","0262","Rural",
+"90513","El Carmen Xalpatlahuaya","Pueblo","Huamantla","Tlaxcala",,"90501","29","90501",,"28","013","0280","Rural",
+"90513","Hermenegildo Galeana","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0259","Rural",
+"90513","San Diego Xalpatlahuaya","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0671","Rural",
+"90514","Francisco I Madero Tecoac","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0668","Rural",
+"90514","El Molino","Pueblo","Huamantla","Tlaxcala",,"90501","29","90501",,"28","013","801","Rural",
+"90514","Benito Juárez","Pueblo","Huamantla","Tlaxcala",,"90501","29","90501",,"28","013","0264","Rural",
+"90514","Francisco Villa Tecoac","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0673","Rural",
+"90514","De Torres","Rancho o rancheria","Huamantla","Tlaxcala",,"90501","29","90501",,"29","013","802","Rural",
+"90514","Francisco I Madero La Mesa","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0667","Rural",
+"90514","La Lima","Rancho o rancheria","Huamantla","Tlaxcala",,"90501","29","90501",,"29","013","803","Rural",
+"90515","El Valle","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0672","Rural",
+"90515","San Jose Xicohtencatl","Pueblo","Huamantla","Tlaxcala",,"90501","29","90501",,"28","013","0674","Rural",
+"90515","N.C.P. José María Morelos","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","805","Rural",
+"90515","N.C.P. San José el Alto","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","806","Rural",
+"90515","Los Alamos","Rancho o rancheria","Huamantla","Tlaxcala",,"90501","29","90501",,"29","013","778","Rural",
+"90515","Ampliación Felipe Carrillo Puerto","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","779","Rural",
+"90520","Lázaro Cárdenas","Pueblo","Huamantla","Tlaxcala",,"90501","29","90501",,"28","013","0281","Rural",
+"90520","San Francisco Tecoac","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0263","Rural",
+"90520","San Francisco Notario","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0664","Rural",
+"90525","Chapultepec","Pueblo","Huamantla","Tlaxcala",,"90501","29","90501",,"28","013","0282","Rural",
+"90525","Nuevo Teacalco","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0666","Rural",
+"90525","Lic. Mauro Angulo","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0665","Rural",
+"90526","Acasillados San Martin Notario","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0670","Rural",
+"90526","San Martin Notario","Rancho o rancheria","Huamantla","Tlaxcala",,"90501","29","90501",,"29","013","0284","Rural",
+"90526","General Francisco Villa","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0283","Rural",
+"90526","San Juan","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0669","Rural",
+"90526","Agrícola San Martín Notario","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","804","Rural",
+"90527","Cuauhtémoc","Pueblo","Huamantla","Tlaxcala",,"90501","29","90501",,"28","013","0285","Rural",
+"90530","Rancho de Jesús","Rancho o rancheria","Huamantla","Tlaxcala",,"90501","29","90501",,"29","013","0287","Rural",
+"90530","José María Morelos","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0286","Rural",
+"90530","San Miguel Baez","Rancho o rancheria","Huamantla","Tlaxcala",,"90501","29","90501",,"29","013","0472","Semiurbano",
+"90534","Altamira de Guadalupe","Colonia","Huamantla","Tlaxcala",,"90501","29","90501",,"09","013","0663","Rural",
+"90534","De Jesús","Pueblo","Huamantla","Tlaxcala",,"90501","29","90501",,"28","013","0467","Semiurbano",
+"90534","Mariano Matamoros","Pueblo","Huamantla","Tlaxcala",,"90501","29","90501",,"28","013","0288","Rural",
+"90535","La Cruz","Pueblo","Huamantla","Tlaxcala",,"90501","29","90501",,"28","013","0289","Rural",
+"90540","Villarreal","Pueblo","Terrenate","Tlaxcala",,"90461","29","90461",,"28","030","0292","Rural",
+"90540","Nicolás Bravo","Rancho o rancheria","Terrenate","Tlaxcala",,"90461","29","90461",,"29","030","0291","Rural",
+"90540","Guadalupe Victoria","Pueblo","Terrenate","Tlaxcala",,"90461","29","90461",,"28","030","0299","Rural",
+"90540","El Capulin","Colonia","Terrenate","Tlaxcala",,"90461","29","90461",,"09","030","0298","Rural",
+"90540","Terrenate","Pueblo","Terrenate","Tlaxcala",,"90461","29","90461",,"28","030","0293","Rural",
+"90541","Gustavo Diaz Ordaz","Colonia","Terrenate","Tlaxcala",,"90301","29","90301",,"09","030","0294","Rural",
+"90543","La Laguna","Hacienda","Terrenate","Tlaxcala",,"90301","29","90301",,"24","030","0297","Rural",
+"90544","Toluca de Guadalupe","Pueblo","Terrenate","Tlaxcala",,"90461","29","90461",,"28","030","0295","Rural",
+"90545","Lázaro Cárdenas","Pueblo","Lázaro Cárdenas","Tlaxcala",,"90301","29","90301",,"28","047","0290","Rural",
+"90547","Gral Emiliano Zapata","Pueblo","Emiliano Zapata","Tlaxcala",,"90301","29","90301",,"28","046","0296","Rural",
+"90550","Santa Cruz Pocitos","Rancho o rancheria","Altzayanca","Tlaxcala",,"90501","29","90501",,"29","004","0301","Rural",
+"90550","Altzayanca","Pueblo","Altzayanca","Tlaxcala",,"90501","29","90501",,"28","004","0300","Rural",
+"90550","Xaltitla","Rancho o rancheria","Altzayanca","Tlaxcala",,"90501","29","90501",,"29","004","0302","Rural",
+"90551","Concepción de Hidalgo","Rancho o rancheria","Altzayanca","Tlaxcala",,"90501","29","90501",,"29","004","0303","Rural",
+"90553","La Garita","Colonia","Altzayanca","Tlaxcala",,"90501","29","90501",,"09","004","0304","Rural",
+"90554","San José Pilancón","Pueblo","Altzayanca","Tlaxcala",,"90501","29","90501",,"28","004","0306","Rural",
+"90554","San José Buenavista","Pueblo","Altzayanca","Tlaxcala",,"90501","29","90501",,"28","004","0305","Rural",
+"90555","Lázaro Cárdenas","Rancho o rancheria","Altzayanca","Tlaxcala",,"90501","29","90501",,"29","004","0308","Rural",
+"90555","Felipe Carrillo Puerto","Pueblo","Altzayanca","Tlaxcala",,"90501","29","90501",,"28","004","0307","Rural",
+"90556","San Juan Ocotitla","Rancho o rancheria","Altzayanca","Tlaxcala",,"90501","29","90501",,"29","004","0310","Rural",
+"90556","Mesa Redonda","Rancho o rancheria","Altzayanca","Tlaxcala",,"90501","29","90501",,"29","004","0309","Rural",
+"90557","Nexnopala","Rancho o rancheria","Altzayanca","Tlaxcala",,"90501","29","90501",,"29","004","0311","Rural",
+"90558","Santa Maria las Cuevas","Rancho o rancheria","Altzayanca","Tlaxcala",,"90501","29","90501",,"29","004","0312","Rural",
+"90560","Ignacio Allende","Rancho o rancheria","Cuapiaxtla","Tlaxcala",,"90501","29","90501",,"29","008","0313","Rural",
+"90560","San Lorenzo Cuapiaxtla","Pueblo","Cuapiaxtla","Tlaxcala",,"90501","29","90501",,"28","008","0314","Rural",
+"90560","Los Ángeles","Colonia","Cuapiaxtla","Tlaxcala",,"90501","29","90501",,"09","008","798","Rural",
+"90561","Xicohtencatl","Rancho o rancheria","Cuapiaxtla","Tlaxcala",,"90501","29","90501",,"29","008","0316","Rural",
+"90562","San Francisco Cuexcontzi","Rancho o rancheria","Cuapiaxtla","Tlaxcala",,"90501","29","90501",,"29","008","0317","Rural",
+"90563","Loma de Junguito","Pueblo","Cuapiaxtla","Tlaxcala",,"90501","29","90501",,"28","008","0318","Rural",
+"90570","El Carmen Tequexquitla","Pueblo","El Carmen Tequexquitla","Tlaxcala",,"90501","29","90501",,"28","007","0319","Rural",
+"90575","La Soledad","Pueblo","El Carmen Tequexquitla","Tlaxcala",,"90501","29","90501",,"28","007","0321","Rural",
+"90580","Ixtenco","Pueblo","Ixtenco","Tlaxcala",,"90501","29","90501",,"28","016","0322","Rural",
+"90590","San Pablo Zitlaltepec","Pueblo","Zitlaltepec de Trinidad Sánchez Santos","Tlaxcala",,"90501","29","90501",,"28","037","0323","Rural",
+"90592","San Juan Bautista Mier","Pueblo","Zitlaltepec de Trinidad Sánchez Santos","Tlaxcala",,"90501","29","90501",,"28","037","0325","Rural",
+"90596","Francisco Javier Mina","Colonia","Zitlaltepec de Trinidad Sánchez Santos","Tlaxcala",,"90501","29","90501",,"09","037","0326","Rural",
+"90600","Apetatitlán de Antonio Carbajal","Pueblo","Apetatitlán de Antonio Carvajal","Tlaxcala",,"90601","29","90601",,"28","002","0327","Rural",
+"90600","Álamos","Colonia","Apetatitlán de Antonio Carvajal","Tlaxcala",,"90601","29","90601",,"09","002","0497","Rural",
+"90605","Belén Atzitzimititlan","Pueblo","Apetatitlán de Antonio Carvajal","Tlaxcala",,"90601","29","90601",,"28","002","0329","Rural",
+"90606","San Matías Tepetomatitlan","Pueblo","Apetatitlán de Antonio Carvajal","Tlaxcala",,"90601","29","90601",,"28","002","0330","Rural",
+"90608","Tecolotla","Barrio","Apetatitlán de Antonio Carvajal","Tlaxcala",,"90601","29","90601",,"02","002","0331","Rural",
+"90610","Tlaltempa","Barrio","Apetatitlán de Antonio Carvajal","Tlaxcala",,"90601","29","90601",,"02","002","0332","Rural",
+"90620","Amaxac de Guerrero","Pueblo","Amaxac de Guerrero","Tlaxcala",,"90601","29","90601",,"28","001","0333","Rural",
+"90620","San Damián Tlacocalpan","Pueblo","Amaxac de Guerrero","Tlaxcala",,"90601","29","90601",,"28","001","0334","Rural",
+"90640","Santa Cruz Tlaxcala","Pueblo","Santa Cruz Tlaxcala","Tlaxcala",,"90601","29","90601",,"28","026","0338","Rural",
+"90640","Guadalupe Tlachco","Pueblo","Santa Cruz Tlaxcala","Tlaxcala",,"90601","29","90601",,"28","026","0335","Rural",
+"90640","San Miguel Contla","Pueblo","Santa Cruz Tlaxcala","Tlaxcala",,"90601","29","90601",,"28","026","0337","Rural",
+"90640","San Lucas Tlacochcalco","Pueblo","Santa Cruz Tlaxcala","Tlaxcala",,"90601","29","90601",,"28","026","0336","Rural",
+"90641","Ex-Hacienda San Manuel","Pueblo","Santa Cruz Tlaxcala","Tlaxcala",,"90601","29","90601",,"28","026","0339","Rural",
+"90650","Jesús Huitznahuac","Pueblo","Santa Cruz Tlaxcala","Tlaxcala",,"90601","29","90601",,"28","026","0342","Rural",
+"90660","San Antonio Cuaxomulco","Pueblo","Cuaxomulco","Tlaxcala",,"90301","29","90301",,"28","009","0344","Rural",
+"90660","San Miguel Buenavista","Barrio","Cuaxomulco","Tlaxcala",,"90301","29","90301",,"02","009","0343","Rural",
+"90660","San Lorenzo Xaltelulco","Barrio","Cuaxomulco","Tlaxcala",,"90301","29","90301",,"02","009","0345","Rural",
+"90670","San Bernardino Contla","Pueblo","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"28","018","0346","Rural",
+"90670","Xopantla","Barrio","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"02","018","0655","Rural",
+"90670","La Conchita","Barrio","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"02","018","0656","Rural",
+"90670","San Antonio","Barrio","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"02","018","0654","Rural",
+"90670","Villa Chica","Barrio","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"02","018","0653","Rural",
+"90670","Zencalco","Barrio","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"02","018","0652","Rural",
+"90676","Netzahuala","Barrio","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"02","018","0651","Rural",
+"90676","Culhuacan","Barrio","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"02","018","0650","Rural",
+"90676","Santa Maria Tlacatecpac","Barrio","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"02","018","0649","Rural",
+"90680","San Miguel Xaltipan","Pueblo","Contla de Juan Cuamatzi","Tlaxcala",,"90801","29","90801",,"28","018","0348","Rural",
+"90690","San Felipe Cuauhtenco","Pueblo","Contla de Juan Cuamatzi","Tlaxcala",,"90301","29","90301",,"28","018","0349","Rural",
+"90691","Santa Maria Aquiahuac","Colonia","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"09","018","0350","Rural",
+"90692","San Jose Aztatla","Barrio","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"02","018","0351","Rural",
+"90692","La Luz","Barrio","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"02","018","0632","Rural",
+"90692","Ocotlan de Tepatlaxco","Barrio","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"02","018","0631","Rural",
+"90693","Ixtlahuaca","Barrio","Contla de Juan Cuamatzi","Tlaxcala",,"90671","29","90671",,"02","018","0352","Rural",
+"90700","Tepetitla","Pueblo","Tepetitla de Lardizábal","Tlaxcala",,"90711","29","90711",,"28","019","0354","Rural",
+"90700","Villa Alta","Pueblo","Tepetitla de Lardizábal","Tlaxcala",,"90711","29","90711",,"28","019","0355","Rural",
+"90700","Las Palomas","Fraccionamiento","Tepetitla de Lardizábal","Tlaxcala",,"90711","29","90711",,"21","019","0457","Rural",
+"90700","San Mateo Ayecac","Pueblo","Tepetitla de Lardizábal","Tlaxcala",,"90711","29","90711",,"28","019","0353","Rural",
+"90710","San Vicente Xiloxochitla","Pueblo","Natívitas","Tlaxcala",,"90711","29","90711",,"28","023","0358","Rural",
+"90710","La Concordia","Pueblo","Natívitas","Tlaxcala",,"90711","29","90711",,"28","023","0356","Rural",
+"90710","Santa Clara Atoyac","Colonia","Natívitas","Tlaxcala",,"90711","29","90711",,"09","023","0645","Urbano",
+"90710","San Miguel Tlale","Colonia","Natívitas","Tlaxcala",,"90711","29","90711",,"09","023","0646","Urbano",
+"90710","Santa Elena Micha","Colonia","Natívitas","Tlaxcala",,"90711","29","90711",,"09","023","0644","Urbano",
+"90710","Nativitas","Pueblo","Natívitas","Tlaxcala",,"90711","29","90711",,"28","023","0357","Rural",
+"90710","San Francisco Tenexyecac","Pueblo","Natívitas","Tlaxcala",,"90711","29","90711",,"28","023","0642","Urbano",
+"90710","San Juan Tepactepec","Colonia","Natívitas","Tlaxcala",,"90711","29","90711",,"09","023","0647","Urbano",
+"90712","Capula","Pueblo","Natívitas","Tlaxcala",,"90711","29","90711",,"28","023","0361","Rural",
+"90715","Guadalupe Victoria","Pueblo","Natívitas","Tlaxcala",,"90711","29","90711",,"28","023","0362","Rural",
+"90718","San Jose Atoyatenco","Pueblo","Natívitas","Tlaxcala",,"90711","29","90711",,"28","023","0363","Rural",
+"90718","San Rafael Tenanyecac","Pueblo","Natívitas","Tlaxcala",,"90711","29","90711",,"28","023","0364","Rural",
+"90720","San Miguel Del Milagro","Pueblo","Natívitas","Tlaxcala",,"90711","29","90711",,"28","023","0365","Rural",
+"90720","San Miguel Xochitecatitla","Pueblo","Natívitas","Tlaxcala",,"90711","29","90711",,"28","023","0366","Rural",
+"90721","Santiago Michac","Pueblo","Natívitas","Tlaxcala",,"90711","29","90711",,"28","023","0368","Rural",
+"90721","San Miguel Analco","Pueblo","Natívitas","Tlaxcala",,"90711","29","90711",,"28","023","0369","Rural",
+"90721","Jesús Tepactepec","Pueblo","Natívitas","Tlaxcala",,"90711","29","90711",,"28","023","0367","Rural",
+"90725","El Ranchito","Barrio","Santa Apolonia Teacalco","Tlaxcala",,"90711","29","90711",,"02","057","776","Rural",
+"90725","Santa Apolonia Teacalco","Pueblo","Santa Apolonia Teacalco","Tlaxcala",,"90711","29","90711",,"28","057","0359","Rural",
+"90730","Santa Isabel Tetlatlahuca","Pueblo","Tetlatlahuca","Tlaxcala",,"90711","29","90711",,"28","032","0371","Rural",
+"90730","San Bartolome Tenango","Pueblo","Tetlatlahuca","Tlaxcala",,"90711","29","90711",,"28","032","0370","Rural",
+"90733","Santa Cruz Aquiahuac","Pueblo","Tetlatlahuca","Tlaxcala",,"90711","29","90711",,"28","032","0374","Rural",
+"90733","Santa Ana Portales","Pueblo","Tetlatlahuca","Tlaxcala",,"90711","29","90711",,"28","032","0376","Rural",
+"90734","San Andres Cuamilpa","Pueblo","Tetlatlahuca","Tlaxcala",,"90711","29","90711",,"28","032","0375","Rural",
+"90735","El Alto","Barrio","San Damián Texoloc","Tlaxcala",,"90001","29","90001",,"02","049","762","Rural",
+"90735","San Damián Texoloc","Pueblo","San Damián Texoloc","Tlaxcala",,"90001","29","90001",,"28","049","0372","Rural",
+"90736","Monterrey","Barrio","San Damián Texoloc","Tlaxcala",,"90001","29","90001",,"02","049","763","Rural",
+"90736","La Cueva","Barrio","San Damián Texoloc","Tlaxcala",,"90001","29","90001",,"02","049","765","Rural",
+"90736","Zavaleta","Barrio","San Damián Texoloc","Tlaxcala",,"90001","29","90001",,"02","049","764","Rural",
+"90737","Luis Echeverría","Colonia","San Damián Texoloc","Tlaxcala",,"90001","29","90001",,"09","049","766","Rural",
+"90738","San Jerónimo Zacualpan","Pueblo","San Jerónimo Zacualpan","Tlaxcala",,"90741","29","90741",,"28","051","0373","Rural",
+"90738","Sección 1","Barrio","San Jerónimo Zacualpan","Tlaxcala",,"90741","29","90741",,"02","051","788","Rural",
+"90740","La Venta 1ra Sección","Barrio","Zacatelco","Tlaxcala",,"90741","29","90741",,"02","044","0607","Rural",
+"90740","Praga","Fraccionamiento","Zacatelco","Tlaxcala",,"90741","29","90741",,"21","044","793","Semiurbano",
+"90740","Mixtlalpan 1ra Sección","Barrio","Zacatelco","Tlaxcala",,"90741","29","90741",,"02","044","0606","Rural",
+"90740","Santa Inés Zacatelco","Pueblo","Zacatelco","Tlaxcala",,"90741","29","90741",,"28","044","0377","Rural",
+"90740","4 Caminos 2da Sección","Barrio","Zacatelco","Tlaxcala",,"90741","29","90741",,"02","044","0608","Rural",
+"90750","Axocomanitla 6ta Sección","Colonia","Zacatelco","Tlaxcala",,"90741","29","90741",,"09","044","0616","Rural",
+"90750","De Exquitla 3ra Sección","Colonia","Zacatelco","Tlaxcala",,"90741","29","90741",,"09","044","0617","Rural",
+"90750","De Guardia 3ra Sección","Barrio","Zacatelco","Tlaxcala",,"90741","29","90741",,"02","044","0568","Rural",
+"90750","De Xitototla 5ta Sección","Barrio","Zacatelco","Tlaxcala",,"90741","29","90741",,"02","044","0571","Rural",
+"90750","Manantiales 4ta Sección","Barrio","Zacatelco","Tlaxcala",,"90741","29","90741",,"02","044","0569","Rural",
+"90750","De Xochicalco 3ra Sección","Colonia","Zacatelco","Tlaxcala",,"90741","29","90741",,"09","044","0618","Rural",
+"90750","La Libertad","Unidad habitacional","Zacatelco","Tlaxcala",,"90741","29","90741",,"31","044","769","Rural",
+"90750","Del Cerrito 4ta Sección","Barrio","Zacatelco","Tlaxcala",,"90741","29","90741",,"02","044","0570","Rural",
+"90760","San Lorenzo Axocomanitla","Pueblo","San Lorenzo Axocomanitla","Tlaxcala",,"90741","29","90741",,"28","054","0380","Rural",
+"90770","Santa Catarina Ayometla","Pueblo","Santa Catarina Ayometla","Tlaxcala",,"90741","29","90741",,"28","058","0381","Rural",
+"90780","Xicohtzingo","Pueblo","Xicohtzinco","Tlaxcala",,"90781","29","90781",,"28","042","0383","Rural",
+"90780","El Rancho","Barrio","Xicohtzinco","Tlaxcala",,"90781","29","90781",,"02","042","0507","Rural",
+"90780","Santo Toribio Xicohtzingo","Pueblo","Xicohtzinco","Tlaxcala",,"90781","29","90781",,"28","042","0382","Rural",
+"90780","Santa Filomena","Barrio","Xicohtzinco","Tlaxcala",,"90781","29","90781",,"02","042","0504","Rural",
+"90780","Techaloya","Barrio","Xicohtzinco","Tlaxcala",,"90781","29","90781",,"02","042","0512","Rural",
+"90780","San Isidro","Barrio","Xicohtzinco","Tlaxcala",,"90781","29","90781",,"02","042","0505","Rural",
+"90780","Guadalupe","Barrio","Xicohtzinco","Tlaxcala",,"90781","29","90781",,"02","042","0506","Rural",
+"90780","El Llano","Barrio","Xicohtzinco","Tlaxcala",,"90781","29","90781",,"02","042","0508","Rural",
+"90780","Chalma","Barrio","Xicohtzinco","Tlaxcala",,"90781","29","90781",,"02","042","0511","Rural",
+"90780","Capulín","Barrio","Xicohtzinco","Tlaxcala",,"90781","29","90781",,"02","042","0509","Rural",
+"90780","El Cerrito","Barrio","Xicohtzinco","Tlaxcala",,"90781","29","90781",,"02","042","0510","Rural",
+"90790","Xilotzingo","Colonia","Papalotla de Xicohténcatl","Tlaxcala",,"90792","29","90792",,"09","041","0611","Rural",
+"90790","Potrero","Colonia","Papalotla de Xicohténcatl","Tlaxcala",,"90792","29","90792",,"09","041","0612","Rural",
+"90790","San Francisco Papalotla","Pueblo","Papalotla de Xicohténcatl","Tlaxcala",,"90792","29","90792",,"28","041","0385","Rural",
+"90790","San Juan Bosco","Unidad habitacional","Papalotla de Xicohténcatl","Tlaxcala",,"90792","29","90792",,"31","041","0503","Rural",
+"90790","Xaltipa","Colonia","Papalotla de Xicohténcatl","Tlaxcala",,"90792","29","90792",,"09","041","0614","Rural",
+"90790","Xolalpa","Colonia","Papalotla de Xicohténcatl","Tlaxcala",,"90792","29","90792",,"09","041","0613","Rural",
+"90790","El Carmen","Colonia","Papalotla de Xicohténcatl","Tlaxcala",,"90792","29","90792",,"09","041","0620","Rural",
+"90790","La Trinidad","Barrio","Papalotla de Xicohténcatl","Tlaxcala",,"90792","29","90792",,"02","041","0633","Rural",
+"90790","Los Reyes","Barrio","Papalotla de Xicohténcatl","Tlaxcala",,"90792","29","90792",,"02","041","0634","Rural",
+"90791","San Marcos Contla","Pueblo","Papalotla de Xicohténcatl","Tlaxcala",,"90741","29","90741",,"28","041","0386","Rural",
+"90796","Panzacola","Pueblo","Papalotla de Xicohténcatl","Tlaxcala",,"90792","29","90792",,"28","041","0388","Rural",
+"90796","Tenantitla","Barrio","Papalotla de Xicohténcatl","Tlaxcala",,"90792","29","90792",,"02","041","0639","Rural",
+"90796","San Buenaventura","Colonia","Papalotla de Xicohténcatl","Tlaxcala",,"90792","29","90792",,"09","041","0619","Rural",
+"90796","La Ciénega","Barrio","Papalotla de Xicohténcatl","Tlaxcala",,"90792","29","90792",,"02","041","0648","Rural",
+"90800","Xaltantla","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0391","Semiurbano","06"
+"90800","Lucero","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0529","Semiurbano","06"
+"90800","Santa Ana Chiautempan Centro","Colonia","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"09","010","0389","Semiurbano","06"
+"90802","Ximentla","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0526","Semiurbano","06"
+"90802","Los Pinos","Colonia","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"09","010","0395","Rural","06"
+"90802","San Onofre","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0528","Semiurbano","06"
+"90802","Industrial","Colonia","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"09","010","0394","Semiurbano","06"
+"90802","Puente Picazo","Colonia","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"09","010","0396","Rural","06"
+"90802","Buenos Aires","Colonia","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"09","010","0393","Semiurbano","06"
+"90802","Santa Cruz Infonavit","Unidad habitacional","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"31","010","0397","Rural","06"
+"90802","Santa Cruz","Unidad habitacional","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"31","010","0527","Semiurbano","06"
+"90803","Tlapacoyac","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0398","Semiurbano","06"
+"90803","Villa de las Flores","Colonia","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"09","010","0513","Semiurbano","06"
+"90804","El Llanito","Unidad habitacional","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"31","010","0400","Semiurbano","06"
+"90804","El Llanito","Colonia","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"09","010","0531","Semiurbano","06"
+"90804","De Fátima","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0530","Semiurbano","06"
+"90804","Chalma","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0399","Semiurbano","06"
+"90805","La Concha","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0402","Semiurbano","06"
+"90805","Panzacola","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0404","Semiurbano","06"
+"90805","Del Carmen","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0532","Semiurbano","06"
+"90805","Jose Agustin Arrieta","Unidad habitacional","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"31","010","0401","Semiurbano","06"
+"90805","Tepetlapa","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0516","Semiurbano","06"
+"90805","La Soledad","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0533","Semiurbano","06"
+"90805","Panzacola","Unidad habitacional","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"31","010","0403","Semiurbano","06"
+"90805","Reforma","Colonia","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"09","010","0405","Semiurbano","06"
+"90805","San Sebastián","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0535","Semiurbano","06"
+"90806","Nueva","Colonia","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"09","010","0406","Rural","06"
+"90806","Los Maestros","Unidad habitacional","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"31","010","0682","Semiurbano","06"
+"90806","Constitución","Fraccionamiento","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"21","010","0683","Semiurbano","06"
+"90806","Texcacoac","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0407","Semiurbano","06"
+"90806","Xaxala","Colonia","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"09","010","0408","Semiurbano","06"
+"90807","El Alto","Barrio","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"02","010","0409","Semiurbano","06"
+"90807","Villas Del Sabinal","Unidad habitacional","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"31","010","0515","Semiurbano","06"
+"90807","Malintzin","Unidad habitacional","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"31","010","0514","Semiurbano","06"
+"90807","Tepetlapa","Unidad habitacional","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"31","010","0534","Semiurbano","06"
+"90808","Santa Cruz Tetela","Colonia","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"09","010","0518","Semiurbano","06"
+"90808","Villa de las Flores","Unidad habitacional","Chiautempan","Tlaxcala","Chiautempan","90801","29","90801",,"31","010","0517","Semiurbano","06"
+"90810","Guadalupe Ixcotla","Pueblo","Chiautempan","Tlaxcala",,"90801","29","90801",,"28","010","0411","Rural",
+"90810","Santa Cruz Guadalupe","Pueblo","Chiautempan","Tlaxcala",,"90801","29","90801",,"28","010","0412","Rural",
+"90810","Tetela","Barrio","Chiautempan","Tlaxcala",,"90801","29","90801",,"02","010","0418","Rural",
+"90820","San Bartolome Cuahuixmatlac","Pueblo","Chiautempan","Tlaxcala",,"90801","29","90801",,"28","010","0413","Rural",
+"90820","San Pedro Tlalcuapan de Nicolás Bravo","Pueblo","Chiautempan","Tlaxcala",,"90801","29","90801",,"28","010","0420","Rural",
+"90820","San Pedro Muñoztla","Pueblo","Chiautempan","Tlaxcala",,"90801","29","90801",,"28","010","0417","Rural",
+"90820","Ramontla","Barrio","Chiautempan","Tlaxcala",,"90801","29","90801",,"02","010","780","Rural",
+"90820","San Pedro Xochiteotla","Pueblo","Chiautempan","Tlaxcala",,"90801","29","90801",,"28","010","0414","Rural",
+"90821","San Rafael Tepatlaxco","Pueblo","Chiautempan","Tlaxcala",,"90801","29","90801",,"28","010","0415","Rural",
+"90830","La Magdalena Centro","Pueblo","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"28","048","0416","Rural",
+"90833","1901","Colonia","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"09","048","732","Rural",
+"90833","Independencia","Fraccionamiento","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"21","048","742","Rural",
+"90833","La Loma","Fraccionamiento","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"21","048","743","Rural",
+"90833","Llanos de Tepetlapa","Colonia","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"09","048","736","Rural",
+"90833","La Magdalena","Fraccionamiento","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"21","048","739","Rural",
+"90833","Progreso","Fraccionamiento","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"21","048","741","Rural",
+"90833","Tecpa Morales","Barrio","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"02","048","723","Rural",
+"90833","Santa Cruz Tetela","Barrio","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"02","048","730","Rural",
+"90833","Santa Cruz Progreso","Barrio","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"02","048","731","Rural",
+"90833","Tezoquipan","Colonia","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"09","048","734","Rural",
+"90833","Estocapa","Colonia","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"09","048","737","Rural",
+"90833","Tecpa Pluma","Barrio","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"02","048","724","Rural",
+"90833","Villa de las Flores","Fraccionamiento","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"21","048","740","Rural",
+"90834","Calnahuac","Barrio","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"02","048","728","Rural",
+"90834","Satelite","Colonia","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"09","048","733","Rural",
+"90834","Poxtla 2a Sección","Barrio","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"02","048","722","Rural",
+"90834","Comalteopan","Barrio","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"02","048","729","Rural",
+"90834","Poxtla 1a Sección","Barrio","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"02","048","721","Rural",
+"90834","San Nicolás","Colonia","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"09","048","735","Rural",
+"90835","La Venta","Colonia","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"09","048","738","Rural",
+"90835","Teotlalpan","Barrio","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"02","048","725","Rural",
+"90835","Santa Cruz Yoalcoatl","Barrio","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"02","048","726","Rural",
+"90835","Yoalcoatl","Barrio","La Magdalena Tlaltelulco","Tlaxcala",,"90801","29","90801",,"02","048","727","Rural",
+"90840","San Francisco Tetlanohcan","Pueblo","San Francisco Tetlanohcan","Tlaxcala",,"90801","29","90801",,"28","050","0419","Rural",
+"90843","Jeús Xolalpan","Barrio","San Francisco Tetlanohcan","Tlaxcala",,"90801","29","90801",,"02","050","752","Rural",
+"90843","Santa Cruz Matlacahuacan","Barrio","San Francisco Tetlanohcan","Tlaxcala",,"90801","29","90801",,"02","050","753","Rural",
+"90845","Dolores Aquiahuac","Barrio","San Francisco Tetlanohcan","Tlaxcala",,"90801","29","90801",,"02","050","751","Rural",
+"90850","Tecahualoya Primera Sección","Barrio","Teolocholco","Tlaxcala",,"90801","29","90801",,"02","028","0660","Rural",
+"90850","Santa Maria Acxotla Del Monte","Pueblo","Teolocholco","Tlaxcala",,"90801","29","90801",,"28","028","0423","Rural",
+"90850","Cuaxinca","Colonia","Teolocholco","Tlaxcala",,"90801","29","90801",,"09","028","0635","Rural",
+"90850","Santa Cruz","Colonia","Teolocholco","Tlaxcala",,"90801","29","90801",,"09","028","0640","Rural",
+"90850","Contla","Barrio","Teolocholco","Tlaxcala",,"90801","29","90801",,"02","028","0638","Rural",
+"90850","Cuauhtla","Barrio","Teolocholco","Tlaxcala",,"90801","29","90801",,"02","028","0636","Rural",
+"90850","San Luis Teolocholco","Pueblo","Teolocholco","Tlaxcala",,"90801","29","90801",,"28","028","0422","Rural",
+"90850","Actipa","Barrio","Teolocholco","Tlaxcala",,"90801","29","90801",,"02","028","0637","Rural",
+"90855","El Carmen Aztama","Pueblo","Teolocholco","Tlaxcala",,"90741","29","90741",,"28","028","0424","Rural",
+"90860","De Axala","Barrio","Acuamanala de Miguel Hidalgo","Tlaxcala",,"90741","29","90741",,"02","022","0615","Rural",
+"90860","Cruz Blanca 2da Sección","Colonia","Acuamanala de Miguel Hidalgo","Tlaxcala",,"90741","29","90741",,"09","022","0610","Rural",
+"90860","Cruz Azul 2da Sección","Barrio","Acuamanala de Miguel Hidalgo","Tlaxcala",,"90741","29","90741",,"02","022","0609","Rural",
+"90860","Acuamanala","Pueblo","Acuamanala de Miguel Hidalgo","Tlaxcala",,"90741","29","90741",,"28","022","0425","Rural",
+"90860","Chimalpa","Barrio","Acuamanala de Miguel Hidalgo","Tlaxcala",,"90741","29","90741",,"02","022","0426","Rural",
+"90861","Guadalupe Hidalgo","Pueblo","Acuamanala de Miguel Hidalgo","Tlaxcala",,"90741","29","90741",,"28","022","0428","Rural",
+"90864","Olextla de Juárez 4a Sección","Barrio","Acuamanala de Miguel Hidalgo","Tlaxcala",,"90741","29","90741",,"02","022","0429","Rural",
+"90867","Ayometitla","Pueblo","Santa Cruz Quilehtla","Tlaxcala",,"90741","29","90741",,"28","059","0430","Rural",
+"90867","Santa Cruz Quilehtla","Pueblo","Santa Cruz Quilehtla","Tlaxcala",,"90741","29","90741",,"28","059","0427","Rural",
+"90870","San Cosme Mazatecochco","Pueblo","Mazatecochco de José María Morelos","Tlaxcala",,"90792","29","90792",,"28","017","0431","Rural",
+"90880","El Potrero","Barrio","Tenancingo","Tlaxcala",,"90792","29","90792",,"02","027","0432","Rural",
+"90880","San Miguel Tenancingo","Pueblo","Tenancingo","Tlaxcala",,"90792","29","90792",,"28","027","0433","Rural",
+"90890","San Isidro Buen Suceso","Pueblo","San Pablo del Monte","Tlaxcala",,"90901","29","90901",,"28","025","0434","Rural",
+"90900","Villa Vicente Guerrero Centro","Colonia","San Pablo del Monte","Tlaxcala","Villa Vicente Guerrero","90901","29","90901",,"09","025","0435","Semiurbano","02"
+"90920","Cristo","Barrio","San Pablo del Monte","Tlaxcala","Villa Vicente Guerrero","90901","29","90901",,"02","025","0437","Semiurbano","02"
+"90930","San Nicolás","Colonia","San Pablo del Monte","Tlaxcala","Villa Vicente Guerrero","90901","29","90901",,"09","025","0438","Semiurbano","02"
+"90940","San Miguel","Barrio","San Pablo del Monte","Tlaxcala","Villa Vicente Guerrero","90901","29","90901",,"02","025","0439","Semiurbano","02"
+"90940","Santiago","Barrio","San Pablo del Monte","Tlaxcala","Villa Vicente Guerrero","90901","29","90901",,"02","025","0440","Semiurbano","02"
+"90950","La Santísima","Colonia","San Pablo del Monte","Tlaxcala","Villa Vicente Guerrero","90901","29","90901",,"09","025","0441","Semiurbano","02"
+"90960","San Cosme","Colonia","San Pablo del Monte","Tlaxcala","Villa Vicente Guerrero","90901","29","90901",,"09","025","0442","Semiurbano","02"
+"90970","San Sebastián","Colonia","San Pablo del Monte","Tlaxcala","Villa Vicente Guerrero","90901","29","90901",,"09","025","0445","Semiurbano","02"
+"90970","San Bartolome","Colonia","San Pablo del Monte","Tlaxcala","Villa Vicente Guerrero","90901","29","90901",,"09","025","0444","Semiurbano","02"
+"90970","Jesús","Barrio","San Pablo del Monte","Tlaxcala","Villa Vicente Guerrero","90901","29","90901",,"02","025","0443","Semiurbano","02"
+"90980","San Pedro","Colonia","San Pablo del Monte","Tlaxcala","Villa Vicente Guerrero","90901","29","90901",,"09","025","0446","Semiurbano","02"
+"90990","Tlaltepango","Colonia","San Pablo del Monte","Tlaxcala","Villa Vicente Guerrero","90901","29","90901",,"09","025","0447","Semiurbano","02"

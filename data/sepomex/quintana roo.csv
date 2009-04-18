@@ -1,0 +1,725 @@
+"d_codigo","d_asenta","d_tipo_asenta","D_mnpio","d_estado","d_ciudad","d_CP","c_estado","c_oficina","c_CP","c_tipo_asenta","c_mnpio","id_asenta_cpcons","d_zona","c_cve_ciudad"
+"77000","Chetumal Centro","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0001","Urbano","04"
+"77008","Secretaria de Hacienda y Crédito Publico","Gran usuario","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"22","004","0007","Urbano","04"
+"77009","Palacio de Gobierno del Estado de Quintana Roo","Gran usuario","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"22","004","0008","Urbano","04"
+"77010","Naval","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0011","Urbano","04"
+"77010","La Isla","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","737","Urbano","04"
+"77010","Adolfo López Mateos","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0009","Urbano","04"
+"77010","Isabel Tenorio","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","748","Urbano","04"
+"77010","Francisco J Mújica INFONAVIT","Unidad habitacional","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"31","004","0010","Urbano","04"
+"77010","Del Mar I y II (Infonavit)","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","739","Urbano","04"
+"77010","Bugambilias","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0629","Urbano","04"
+"77011","Centro Sct Quintana Roo","Gran usuario","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"22","004","0012","Urbano","04"
+"77012","Casitas","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","727","Urbano","04"
+"77012","Venustiano Carranza","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0013","Urbano","04"
+"77013","David G Gutiérrez Ruiz","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0014","Urbano","04"
+"77014","Pacto Obrero Campesino","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0015","Urbano","04"
+"77014","Infonavit Santa María","Unidad habitacional","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"31","004","0016","Urbano","04"
+"77014","Villas Kinichna","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","769","Urbano","04"
+"77014","Lázaro Cárdenas","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","779","Urbano","04"
+"77015","Constituyentes","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0017","Urbano","04"
+"77015","Industrial","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0018","Rural","04"
+"77016","Martínez Ross","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0020","Urbano","04"
+"77016","Leona Vicario","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0019","Urbano","04"
+"77017","SAHOP","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0022","Urbano","04"
+"77017","Ley Federal de Agua","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0021","Urbano","04"
+"77018","5 de Abril","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0023","Urbano","04"
+"77018","Avancemos Juntos","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0622","Urbano","04"
+"77018","Reforma","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0024","Urbano","04"
+"77019","Del Bosque","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0025","Urbano","04"
+"77020","Carlos Riva Palacio","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0026","Urbano","04"
+"77020","Gonzalo Guerrero","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0027","Urbano","04"
+"77020","Rafael E Melgar FOVISSSTE","Unidad habitacional","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"31","004","0028","Urbano","04"
+"77023","Miraflores II","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","735","Semiurbano","04"
+"77023","Infonavit Enrique Ramírez y Ramírez","Unidad habitacional","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"31","004","0030","Semiurbano","04"
+"77024","Cedros","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0031","Urbano","04"
+"77024","Fovissste (II Etapa)","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","751","Urbano","04"
+"77025","Milenio","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","731","Semiurbano","04"
+"77025","Forjadores de Quintana Roo","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0032","Semiurbano","04"
+"77025","Los Almendros","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0619","Semiurbano","04"
+"77025","Sutage INFONAVIT","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0625","Semiurbano","04"
+"77025","Guadalupe Victoria","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","745","Semiurbano","04"
+"77026","Tumben Cuxtal","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0626","Urbano","04"
+"77026","Fovissste  IV Etapa","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0627","Urbano","04"
+"77026","El Sol","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","733","Urbano","04"
+"77026","Jardines","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0033","Urbano","04"
+"77027","Miraflores","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0034","Semiurbano","04"
+"77028","Plutarco Elías Calles","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0036","Urbano","04"
+"77028","8 de Octubre","Ampliacion","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"38","004","0628","Urbano","04"
+"77028","8 de Octubre","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0035","Urbano","04"
+"77029","Los Monos","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","772","Semiurbano","04"
+"77029","Lagunitas","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0037","Semiurbano","04"
+"77030","Campestre","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0038","Urbano","04"
+"77034","Framboyanes","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0039","Urbano","04"
+"77035","Italia","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0040","Urbano","04"
+"77036","Josefa Ortiz de Domínguez","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0041","Semiurbano","04"
+"77037","Aserradero","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0042","Urbano","04"
+"77037","Benito Juárez","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0043","Urbano","04"
+"77037","Taxistas","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0044","Urbano","04"
+"77038","20 de Noviembre","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0045","Urbano","04"
+"77039","Magisterial","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0046","Urbano","04"
+"77040","Santa Isabel Cereso","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0047","Urbano","04"
+"77041","Cereso Chetumal","Gran usuario","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"22","004","0048","Semiurbano","04"
+"77048","Ciudad de Chetumal","Aeropuerto","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"01","004","0049","Urbano","04"
+"77049","FOVISSSTE 5a Etapa","Unidad habitacional","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"31","004","0631","Urbano","04"
+"77049","Estatuto Jurídico","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0623","Urbano","04"
+"77050","Infonavit Álvaro Obregón","Unidad habitacional","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"31","004","0052","Urbano","04"
+"77050","Fovissste (I Etapa)","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0054","Urbano","04"
+"77050","Cascada I","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","734","Semiurbano","04"
+"77050","Aeropuerto","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0051","Semiurbano","04"
+"77050","Residencial la Herradura","Residencial","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"30","004","776","Semiurbano","04"
+"77050","Cascadas II","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","732","Semiurbano","04"
+"77050","Infonavit Hermanos Flores Magón","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0053","Urbano","04"
+"77053","Lomas del Caribe","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","741","Urbano","04"
+"77059","Infonavit Villas Chetumal","Unidad habitacional","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"31","004","0055","Urbano","04"
+"77060","Electricistas","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0056","Semiurbano","04"
+"77060","Militar","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0057","Semiurbano","04"
+"77070","Infonavit Aarón Merino Fernández","Unidad habitacional","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"31","004","0058","Urbano","04"
+"77079","Las Brisas","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0060","Urbano","04"
+"77079","Residencial Caribe","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","740","Urbano","04"
+"77079","Fovissste VI Etapa (Tampico)","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0061","Urbano","04"
+"77079","FOVISSSTE 6a Etapa","Unidad habitacional","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"31","004","0630","Urbano","04"
+"77079","Bahía","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0059","Urbano","04"
+"77079","Zona de Granjas","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0062","Urbano","04"
+"77080","Infonavit Fidel Velázquez","Unidad habitacional","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"31","004","0063","Semiurbano","04"
+"77082","Jardines de Payo Obispo","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0064","Semiurbano","04"
+"77082","Kilómetro 5","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0065","Semiurbano","04"
+"77083","Payo Obispo IV","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0067","Urbano","04"
+"77083","Payo Obispo I y II","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","750","Urbano","04"
+"77083","Nuevo Progreso","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0066","Urbano","04"
+"77083","Tamalcab","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","743","Urbano","04"
+"77084","Payo Obispo","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","746","Semiurbano","04"
+"77084","Maya Real","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","767","Semiurbano","04"
+"77084","Infonavit Emancipación","Unidad habitacional","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"31","004","0068","Semiurbano","04"
+"77086","La Esperanza","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","738","Urbano","04"
+"77086","Caribe","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","742","Urbano","04"
+"77086","Territorio Federal de Quintana Roo","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","744","Urbano","04"
+"77086","Proterritorio VIII","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","736","Urbano","04"
+"77086","Lázaro Cárdenas","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","749","Urbano","04"
+"77086","Solidaridad","Unidad habitacional","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"31","004","0070","Urbano","04"
+"77086","Comité Proterritorio","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0620","Semiurbano","04"
+"77086","Las Arboledas II","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","729","Urbano","04"
+"77086","Las Américas","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","774","Urbano","04"
+"77086","Residencial Chetumal I y II (2004)","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","730","Urbano","04"
+"77086","Infonavit 17 de Octubre","Unidad habitacional","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"31","004","747","Urbano","04"
+"77086","Nueva Generación","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","768","Urbano","04"
+"77086","Las Arboledas I","Fraccionamiento","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"21","004","0684","Urbano","04"
+"77086","Andrés Quintana Roo","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0069","Urbano","04"
+"77086","Proterritorio Ampliación I","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0621","Semiurbano","04"
+"77090","Plutarco Elías Calles","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0071","Urbano","04"
+"77098","Barrio Bravo","Barrio","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"02","004","0072","Semiurbano","04"
+"77099","Primera Legislatura","Colonia","Othón P. Blanco","Quintana Roo","Chetumal (Ciudad Chetumal)","77001","23","77001",,"09","004","0073","Urbano","04"
+"77100","Laguna Kana","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0074","Rural",
+"77104","Santa María Poniente","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0077","Rural",
+"77104","Mixtequilla","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0076","Rural",
+"77104","Chan Santa Cruz","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0075","Rural",
+"77104","Noh Cah","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","770","Rural",
+"77105","San Andrés","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0078","Rural",
+"77106","X-hazil","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0079","Rural",
+"77107","Betania","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0080","Rural",
+"77108","Chunhuas","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0081","Rural",
+"77110","Tusik","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0082","Rural",
+"77114","San José 2","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0083","Rural",
+"77115","Felipe Berriozabal","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0084","Rural",
+"77115","Trapich","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0085","Rural",
+"77116","Francisco I Madero","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0086","Rural",
+"77117","Francisco May","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0087","Rural",
+"77118","San Ramón","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0088","Rural",
+"77120","Tepich","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0089","Rural",
+"77121","Tihosuco","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0090","Rural",
+"77123","Ozoyola","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0092","Rural",
+"77125","San Francisco Ake","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0093","Rural",
+"77130","Chumpon","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0094","Rural",
+"77135","Chun-yah","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0095","Rural",
+"77140","Xpichil","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0097","Rural",
+"77140","Santa Rosa 2","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0096","Rural",
+"77144","Tabi","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0098","Rural",
+"77145","Yaxley","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0099","Rural",
+"77146","Tixcacal Guardia","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0100","Rural",
+"77147","Kampocolche","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0101","Rural",
+"77148","Filomeno Mata","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0102","Rural",
+"77148","Hobompich","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0103","Rural",
+"77150","Señor","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0104","Rural",
+"77156","José María Pino Suárez","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0105","Rural",
+"77158","Kancab-chen","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0106","Rural",
+"77160","Dzula","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0108","Rural",
+"77160","X-yatil","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0109","Rural",
+"77160","Chunhuhub","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0107","Rural",
+"77163","Yoactun","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0111","Rural",
+"77169","Polyuc","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77891","23","77891",,"29","002","0112","Rural",
+"77170","Pdte Juárez","Congregacion","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"11","002","0113","Rural",
+"77174","Ignacio Altamirano","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0114","Rural",
+"77175","Nuevo Israel","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0115","Rural",
+"77176","Nueva Loria","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0116","Rural",
+"77177","Naranjal Poniente","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77891","23","77891",,"29","002","0117","Rural",
+"77178","Ramonal Zona Maya","Zona federal","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"34","002","0118","Rural",
+"77180","Uh-may","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0119","Rural",
+"77185","Andrés Quintana Roo","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0120","Rural",
+"77188","Chancah Veracruz","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0121","Rural",
+"77189","Chancah Derrepente","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0122","Rural",
+"77190","Nohbec","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0123","Rural",
+"77192","Cuauhtémoc","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0124","Rural",
+"77196","Petcacab","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0125","Rural",
+"77197","Reforma Agraria","Pueblo","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"28","002","0126","Rural",
+"77198","Kopchen","Rancho o rancheria","Felipe Carrillo Puerto","Quintana Roo",,"77201","23","77201",,"29","002","0127","Rural",
+"77200","Felipe Carrillo Puerto Centro","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0128","Urbano","03"
+"77210","Leona Vicario","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0130","Semiurbano","03"
+"77214","Plan de Ayala","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0131","Semiurbano","03"
+"77215","Plan de Ayutla","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0132","Semiurbano","03"
+"77216","Plan de Guadalupe","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0133","Semiurbano","03"
+"77217","Plan de La Noria","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0134","Semiurbano","03"
+"77220","Jesús Martínez Ross","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0135","Semiurbano","03"
+"77229","Emiliano Zapata","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0136","Semiurbano","03"
+"77230","Chi Cecilio","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0137","Semiurbano","03"
+"77238","Rafael E Melgar","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0138","Semiurbano","03"
+"77239","Lázaro Cárdenas","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0139","Semiurbano","03"
+"77240","Francisco May","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0140","Semiurbano","03"
+"77249","María Villanueva Madrid","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0141","Semiurbano","03"
+"77250","Juan Bautista Vega","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0142","Semiurbano","03"
+"77259","Javier Rojo Gómez","Colonia","Felipe Carrillo Puerto","Quintana Roo","Felipe Carrillo Puerto","77201","23","77201",,"09","002","0143","Semiurbano","03"
+"77300","Kantunilkin Centro","Colonia","Lázaro Cárdenas","Quintana Roo","Kantunilkin","77511","23","77511",,"09","007","0144","Rural","06"
+"77302","Xaman - Kah","Colonia","Lázaro Cárdenas","Quintana Roo","Kantunilkin","77511","23","77511",,"09","007","0544","Rural","06"
+"77303","Borge Martín","Colonia","Lázaro Cárdenas","Quintana Roo","Kantunilkin","77511","23","77511",,"09","007","0545","Rural","06"
+"77304","Unidad Deportiva","Colonia","Lázaro Cárdenas","Quintana Roo","Kantunilkin","77511","23","77511",,"09","007","0546","Rural","06"
+"77305","Capa","Colonia","Lázaro Cárdenas","Quintana Roo","Kantunilkin","77511","23","77511",,"09","007","0547","Rural","06"
+"77306","Terencio Tah","Colonia","Lázaro Cárdenas","Quintana Roo","Kantunilkin","77511","23","77511",,"09","007","0548","Rural","06"
+"77307","Expo","Colonia","Lázaro Cárdenas","Quintana Roo","Kantunilkin","77511","23","77511",,"09","007","0549","Rural","06"
+"77310","Isla de Holbox","Pueblo","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"28","007","0146","Rural",
+"77320","Chiquila","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0147","Rural",
+"77330","Solferino","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0148","Rural",
+"77333","San Ángel","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0149","Rural",
+"77350","Valladolid Nuevo","Pueblo","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"28","007","0150","Rural",
+"77355","Esperanza 2","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0151","Rural",
+"77360","Zaragoza","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0152","Rural",
+"77365","El Naranjal","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0153","Rural",
+"77366","El Tintal","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0154","Rural",
+"77367","El Pocito","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0155","Rural",
+"77368","El Ideal","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0156","Rural",
+"77369","San Pedro","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0158","Rural",
+"77369","El Cedral","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0157","Rural",
+"77370","Agua Azul","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0159","Rural",
+"77376","San Lorenzo","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0160","Rural",
+"77380","Nuevo Xcan","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0161","Rural",
+"77385","San Francisco","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0162","Rural",
+"77390","3 Reyes","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0163","Rural",
+"77398","San Juan de Dios","Rancho o rancheria","Lázaro Cárdenas","Quintana Roo",,"77511","23","77511",,"29","007","0164","Rural",
+"77400","El Cañotal","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0165","Rural","07"
+"77400","Salina Grande","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0568","Semiurbano","07"
+"77400","Ampliación la Gloria","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","757","Semiurbano","07"
+"77400","Caridad del Cobre","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0569","Semiurbano","07"
+"77400","Miraflores","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0551","Semiurbano","07"
+"77400","Isla Blanca","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0552","Semiurbano","07"
+"77400","Punta Gaviota","Fraccionamiento","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"21","003","758","Semiurbano","07"
+"77400","Isla Mujeres Centro","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0166","Urbano","07"
+"77400","Metereológico","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0553","Semiurbano","07"
+"77400","Salina Chica","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0635","Semiurbano","07"
+"77400","La Gloria","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0550","Semiurbano","07"
+"77400","Lolbe","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0566","Semiurbano","07"
+"77400","Santa Rosa","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0567","Semiurbano","07"
+"77402","Mar Caribe","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0555","Semiurbano","07"
+"77402","Vista Alegre","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0560","Semiurbano","07"
+"77402","Mar Caribe","Fraccionamiento","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"21","003","0554","Semiurbano","07"
+"77403","Faro","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0556","Semiurbano","07"
+"77403","Del Sureste","Fraccionamiento","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"21","003","0557","Semiurbano","07"
+"77404","Lagunamar","Fraccionamiento","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"21","003","0559","Semiurbano","07"
+"77406","Islote de Carbonera","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0558","Semiurbano","07"
+"77407","Puerto de Abrigo","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0561","Semiurbano","07"
+"77407","Electricistas","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0562","Semiurbano","07"
+"77407","Caribeña","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","756","Semiurbano","07"
+"77408","Islote El Yunque","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0563","Semiurbano","07"
+"77409","Prolongación Aeropuerto","Colonia","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"09","003","0564","Semiurbano","07"
+"77409","Bahía","Fraccionamiento","Isla Mujeres","Quintana Roo","Isla Mujeres","77401","23","77401",,"21","003","0565","Semiurbano","07"
+"77500","Cancún Centro","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0168","Urbano","01"
+"77500","Supermanzana 22 Centro","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0486","Urbano","01"
+"77500","Zona Hotelera","Zona comercial","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"33","005","0488","Urbano","01"
+"77500","Supermanzana 3 Centro","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0483","Urbano","01"
+"77500","Supermanzana 1 Centro","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0480","Urbano","01"
+"77500","Supermanzana 2 Centro","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0481","Urbano","01"
+"77500","Supermanzana 4 Centro","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0484","Urbano","01"
+"77500","Supermanzana 5 Centro","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0485","Urbano","01"
+"77500","Supermanzana 23 Centro","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0487","Urbano","01"
+"77500","Supermanzana 2a Centro","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0482","Urbano","01"
+"77500","Supermanzana 20 Centro","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0479","Urbano","01"
+"77500","Supermanzana 52","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0673","Urbano","01"
+"77500","Supermanzana 4 A","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0703","Urbano","01"
+"77503","Supermanzana 6d","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0176","Urbano","01"
+"77503","Supermanzana 6f","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0178","Urbano","01"
+"77503","La Cascada","Residencial","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"30","005","0648","Urbano","01"
+"77503","Villas de Thio","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0653","Urbano","01"
+"77503","Supermanzana 6b","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0174","Urbano","01"
+"77503","Supermanzana 6e","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0177","Urbano","01"
+"77503","Supermanzana 10","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0179","Urbano","01"
+"77503","Supermanzana 6c","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0175","Urbano","01"
+"77503","Supermanzana 6a","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0171","Urbano","01"
+"77503","Supermanzana 7","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0172","Urbano","01"
+"77503","Supermanzana 9","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0173","Urbano","01"
+"77504","Supermanzana 14","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0187","Urbano","01"
+"77504","Supermanzana 8","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0180","Urbano","01"
+"77504","Supermanzana 11","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0181","Urbano","01"
+"77504","Supermanzana 12a","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0184","Urbano","01"
+"77504","Supermanzana 13","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0186","Urbano","01"
+"77504","Supermanzana 11a","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0182","Urbano","01"
+"77504","Supermanzana 12","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0183","Urbano","01"
+"77504","Supermanzana 12b","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0185","Urbano","01"
+"77505","Supermanzana 15a","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0189","Urbano","01"
+"77505","Supermanzana 16","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0190","Urbano","01"
+"77505","Supermanzana 35","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0194","Urbano","01"
+"77505","Supermanzana 36","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0195","Urbano","01"
+"77505","SM 21","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0579","Urbano","01"
+"77505","Supermanzana 15","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0188","Urbano","01"
+"77505","Supermanzana 19","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0193","Urbano","01"
+"77505","Supermanzana 17","Zona federal","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"34","005","0191","Urbano","01"
+"77505","Supermanzana 18","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0192","Urbano","01"
+"77506","Supermanzana 43","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0196","Urbano","01"
+"77506","Supermanzana 48","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0201","Urbano","01"
+"77506","Supermanzana 44","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0197","Urbano","01"
+"77506","Supermanzana 45","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0198","Urbano","01"
+"77506","Supermanzana 53","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0704","Urbano","01"
+"77506","La Herradura","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0705","Urbano","01"
+"77506","Supermanzana 47","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0200","Urbano","01"
+"77506","Supermanzana 46","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0199","Urbano","01"
+"77507","Supermanzana 40","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0207","Urbano","01"
+"77507","Supermanzana 41","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0208","Urbano","01"
+"77507","Supermanzana 37","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0204","Urbano","01"
+"77507","Supermanzana 39","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0206","Urbano","01"
+"77507","Supermanzana 38","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0205","Urbano","01"
+"77507","Supermanzana 42","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0209","Urbano","01"
+"77508","Supermanzana 29","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0210","Urbano","01"
+"77508","Supermanzana 33","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0473","Urbano","01"
+"77508","Supermanzana 34","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0213","Urbano","01"
+"77508","Supermanzana 31","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0211","Urbano","01"
+"77508","Supermanzana 32","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0212","Urbano","01"
+"77509","Supermanzana 28","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0474","Urbano","01"
+"77509","Supermanzana 27","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0217","Urbano","01"
+"77509","Supermanzana 26","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0214","Urbano","01"
+"77509","Supermanzana 25","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0216","Urbano","01"
+"77509","Supermanzana 24","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0215","Urbano","01"
+"77509","Supermanzana 30","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0219","Urbano","01"
+"77510","Supermanzana 66","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0220","Urbano","01"
+"77510","Supermanzana 73","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0475","Urbano","01"
+"77510","Región 233","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0223","Semiurbano","01"
+"77510","Supermanzana 71","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0227","Urbano","01"
+"77510","Supermanzana 67","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0224","Urbano","01"
+"77510","Supermanzana 69","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0225","Urbano","01"
+"77510","Supermanzana 72","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0228","Urbano","01"
+"77510","Región 235","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0502","Semiurbano","01"
+"77510","SM 90","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0578","Urbano","01"
+"77510","Supermanzana 70","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0226","Urbano","01"
+"77510","Región 240","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0450","Semiurbano","01"
+"77510","Región 90","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0230","Urbano","01"
+"77510","Región 231","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0221","Semiurbano","01"
+"77510","Región 232","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0222","Semiurbano","01"
+"77510","Región 234","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0501","Semiurbano","01"
+"77513","Supermanzana 63","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0233","Urbano","01"
+"77513","Supermanzana 62","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0234","Urbano","01"
+"77514","Supermanzana 60","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0235","Urbano","01"
+"77514","Supermanzana 61","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0236","Urbano","01"
+"77515","Unidad Morelos","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","763","Urbano","01"
+"77515","Supermanzana 58","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0237","Urbano","01"
+"77515","Supermanzana 59","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0238","Urbano","01"
+"77516","Región 92","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0240","Urbano","01"
+"77516","Supermanzana 225","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0682","Urbano","01"
+"77516","Supermanzana 226","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0683","Urbano","01"
+"77516","Región 91","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0239","Urbano","01"
+"77516","Región 230","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0243","Semiurbano","01"
+"77516","Casas del Mar","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","759","Semiurbano","01"
+"77516","Hacienda Del Rey","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0660","Semiurbano","01"
+"77516","Supermanzana 248","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","760","Semiurbano","01"
+"77516","Región 229","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0242","Semiurbano","01"
+"77516","Región 228","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0241","Semiurbano","01"
+"77516","Región 227","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0506","Semiurbano","01"
+"77517","Región 219","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0447","Semiurbano","01"
+"77517","Región 220","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0448","Semiurbano","01"
+"77517","Región 93","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0244","Urbano","01"
+"77517","Residencial San Antonio","Residencial","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"30","005","726","Urbano","01"
+"77517","Ixchel","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0659","Semiurbano","01"
+"77517","Región 94","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0446","Urbano","01"
+"77517","Supermanzana 222","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0680","Urbano","01"
+"77517","Región 221","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0449","Semiurbano","01"
+"77517","Supermanzana 223","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0681","Urbano","01"
+"77518","Los Héroes","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0665","Semiurbano","01"
+"77518","Supermanzana 216","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0679","Urbano","01"
+"77518","Supermanzana 218","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0646","Semiurbano","01"
+"77518","Región 100","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0245","Semiurbano","01"
+"77518","Supermanzana 217","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","762","Semiurbano","01"
+"77518","La Guadalupana","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0639","Semiurbano","01"
+"77519","Región 101","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0246","Semiurbano","01"
+"77519","Las Lajas","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","766","Semiurbano","01"
+"77519","Supermanzana 210","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0677","Urbano","01"
+"77519","Supermanzana 211","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0678","Urbano","01"
+"77519","Petén","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","764","Semiurbano","01"
+"77520","Supermanzana 85","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0669","Urbano","01"
+"77520","Punta Sam","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0662","Semiurbano","01"
+"77520","Puerto Juárez","Pueblo","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"28","005","0247","Urbano","01"
+"77520","Supermanzana 86","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0650","Semiurbano","01"
+"77520","Costa del Mar","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0575","Semiurbano","01"
+"77524","Supermanzana 68","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0252","Urbano","01"
+"77524","Supermanzana 64","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0250","Urbano","01"
+"77524","Supermanzana 65","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0251","Urbano","01"
+"77524","Donceles","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0718","Urbano","01"
+"77525","Región 84","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0253","Urbano","01"
+"77526","Supermanzana 74","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0254","Urbano","01"
+"77526","Lombardo Toledano","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0640","Semiurbano","01"
+"77527","Región 239","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0513","Semiurbano","01"
+"77527","Supermanzana 75","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0255","Urbano","01"
+"77527","Supermanzana 89","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0515","Urbano","01"
+"77527","Región 236","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0510","Semiurbano","01"
+"77527","Supermanzana 76","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0478","Urbano","01"
+"77527","Región 238","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0511","Semiurbano","01"
+"77527","Región 237","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0512","Semiurbano","01"
+"77527","Región 240","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0514","Semiurbano","01"
+"77527","Francisco Villa","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0655","Semiurbano","01"
+"77528","Supermanzana 77","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0256","Urbano","01"
+"77528","Supermanzana 78","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0257","Urbano","01"
+"77528","Jardines de Banampak","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0668","Urbano","01"
+"77529","Supermanzana 79","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0258","Urbano","01"
+"77530","Región 97","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0259","Urbano","01"
+"77533","Supermanzana 50","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0261","Urbano","01"
+"77533","Región 507","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0456","Semiurbano","01"
+"77533","Malibú","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0641","Urbano","01"
+"77533","Quetzal Región 523","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0644","Semiurbano","01"
+"77533","San José Bonampack","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0714","Urbano","01"
+"77533","Región 504","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0453","Semiurbano","01"
+"77533","Supermanzana 312","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","761","Semiurbano","01"
+"77533","Supermanzana 49","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0260","Urbano","01"
+"77533","Supermanzana 51","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0262","Urbano","01"
+"77533","Álamos I","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0636","Semiurbano","01"
+"77533","Porto Alegre","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0642","Urbano","01"
+"77533","Framboyanes","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0656","Urbano","01"
+"77533","Sol del Mayab","Residencial","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"30","005","0664","Semiurbano","01"
+"77533","Supermanzana 55","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0674","Urbano","01"
+"77533","Región 505","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0454","Semiurbano","01"
+"77533","Región 506","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0455","Semiurbano","01"
+"77533","Región 500","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0517","Semiurbano","01"
+"77533","Supermanzana 56","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0675","Urbano","01"
+"77533","Región 503","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0452","Semiurbano","01"
+"77533","Región 509","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0458","Semiurbano","01"
+"77533","Chamuyil","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0638","Semiurbano","01"
+"77533","Las Torres","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","724","Semiurbano","01"
+"77533","Región 502","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0451","Semiurbano","01"
+"77533","Región 508","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0457","Semiurbano","01"
+"77533","Región 501","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0516","Semiurbano","01"
+"77533","Supermanzana 57","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0649","Urbano","01"
+"77533","Paraíso Villas","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0667","Urbano","01"
+"77534","Supermanzana 525","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0694","Urbano","01"
+"77534","Región 510","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0459","Semiurbano","01"
+"77534","Supermanzana 524","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0692","Urbano","01"
+"77534","Santa Fe","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0695","Urbano","01"
+"77534","Arboledas","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","765","Semiurbano","01"
+"77534","Región 95","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0263","Urbano","01"
+"77534","Región 511","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0460","Semiurbano","01"
+"77534","Región 512","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0461","Semiurbano","01"
+"77534","Santa Fe Plus","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0691","Urbano","01"
+"77534","Supermanzana 524-2","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0693","Urbano","01"
+"77535","Villas Marino","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","794","Semiurbano","01"
+"77535","Región 513","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0462","Semiurbano","01"
+"77535","Región 516","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0465","Semiurbano","01"
+"77535","Campestre","Residencial","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"30","005","0647","Semiurbano","01"
+"77535","Supermanzana 526","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0702","Urbano","01"
+"77535","Supermanzana 527","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","725","Urbano","01"
+"77535","Supermanzana 325","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","801","Urbano","01"
+"77535","Supermanzana 317","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","802","Urbano","01"
+"77535","Supermanzana 321","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","807","Urbano","01"
+"77535","Región 96","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0264","Urbano","01"
+"77535","Grand Santa Fe","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","809","Urbano","01"
+"77535","Región 514","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0463","Semiurbano","01"
+"77535","Villas del Arte","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","800","Urbano","01"
+"77535","Región 515","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0464","Semiurbano","01"
+"77535","Bosques San Miguel","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0637","Semiurbano","01"
+"77535","Grand Santa Fe 2","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","799","Urbano","01"
+"77536","Región 519","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0468","Semiurbano","01"
+"77536","Supermanzana 531","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0690","Urbano","01"
+"77536","Paraíso Cancún","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","795","Urbano","01"
+"77536","Jardines del Sur","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","797","Urbano","01"
+"77536","Región 521","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0470","Semiurbano","01"
+"77536","Villas de Alba","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0652","Semiurbano","01"
+"77536","Supermanzana 300","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0719","Urbano","01"
+"77536","Supermanzana 319","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","806","Urbano","01"
+"77536","Quinta las Joyas","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0645","Semiurbano","01"
+"77536","Región 99","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0265","Urbano","01"
+"77536","Supermanzana 530-1","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0687","Urbano","01"
+"77536","Supermanzana 550","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0688","Urbano","01"
+"77536","Supermanzana 301","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0720","Urbano","01"
+"77536","Bahía Dorada","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","796","Urbano","01"
+"77536","Supermanzana 320","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","804","Urbano","01"
+"77536","Región 517","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0466","Semiurbano","01"
+"77536","Región 520","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0469","Semiurbano","01"
+"77536","Región 522","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0471","Semiurbano","01"
+"77536","Supermanzana 529","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0685","Urbano","01"
+"77536","Supermanzana 318","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","803","Urbano","01"
+"77536","Central de Abasto","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0658","Semiurbano","01"
+"77536","Supermanzana 532","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0689","Urbano","01"
+"77536","Doctores II","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0721","Urbano","01"
+"77536","Supermanzana 326","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","805","Urbano","01"
+"77536","Quintas","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","808","Urbano","01"
+"77536","Región 518","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0467","Semiurbano","01"
+"77536","Villas Del Caribe","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0654","Semiurbano","01"
+"77536","Supermanzana 529-1","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0686","Urbano","01"
+"77536","Galaxia del Cielo","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","798","Urbano","01"
+"77537","Región 98","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0266","Urbano","01"
+"77537","Puerta Del Sol","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0643","Semiurbano","01"
+"77537","Jardines Cancún","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0661","Semiurbano","01"
+"77538","Región 102","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0267","Semiurbano","01"
+"77539","Tierra Maya","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0651","Semiurbano","01"
+"77539","Supermanzana 105","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0671","Urbano","01"
+"77539","Supermanzana 106","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0672","Urbano","01"
+"77539","Hacienda Real del Caribe","Fraccionamiento","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"21","005","0576","Semiurbano","01"
+"77539","Región 103","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0268","Semiurbano","01"
+"77539","Central de Bodegas","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0657","Semiurbano","01"
+"77539","Supermanzana 104","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0670","Urbano","01"
+"77539","Supermanzana 200","Colonia","Benito Juárez","Quintana Roo","Cancún","77511","23","77511",,"09","005","0676","Urbano","01"
+"77540","Leona Vicario","Ejido","Benito Juárez","Quintana Roo",,"77511","23","77511",,"15","005","0269","Rural",
+"77560","Alfredo V Bonfil","Ejido","Benito Juárez","Quintana Roo",,"77511","23","77511",,"15","005","0270","Semiurbano",
+"77569","Ciudad de Cancún","Aeropuerto","Benito Juárez","Quintana Roo",,"77511","23","77511",,"01","005","0272","Urbano",
+"77580","Puerto Morelos","Ciudad","Benito Juárez","Quintana Roo",,"77511","23","77511",,"08","005","0273","Semiurbano",
+"77580","Villas Morelos I","Fraccionamiento","Benito Juárez","Quintana Roo",,"77511","23","77511",,"21","005","728","Semiurbano",
+"77600","Cozumel Centro","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0274","Urbano","02"
+"77609","Ciudad de Cozumel","Aeropuerto","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"01","001","0276","Urbano","02"
+"77610","Militar","Unidad habitacional","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"31","001","0633","Semiurbano","02"
+"77613","Zona Hotelera Norte","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0696","Semiurbano","02"
+"77620","Flamboyanes","Fraccionamiento","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"21","001","0614","Semiurbano","02"
+"77620","Emiliano Zapata","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0277","Semiurbano","02"
+"77622","10 de Abril","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0278","Semiurbano","02"
+"77645","Chen-tuk","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0281","Semiurbano","02"
+"77645","Juan Bautista de La Vega","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0616","Semiurbano","02"
+"77660","Flamingo I","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0540","Semiurbano","02"
+"77660","Maravilla","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0613","Semiurbano","02"
+"77660","Flamingo 2","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0538","Semiurbano","02"
+"77660","FOVISSSTE","Fraccionamiento","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"21","001","0539","Semiurbano","02"
+"77663","Andrés Quintana Roo","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0283","Urbano","02"
+"77664","Andrés Quintana Roo","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0612","Urbano","02"
+"77664","Independencia","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0574","Urbano","02"
+"77665","San Miguel 1","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0284","Urbano","02"
+"77666","San Miguel 3","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0632","Semiurbano","02"
+"77666","Flores Magón 3","Fraccionamiento","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"21","001","0634","Semiurbano","02"
+"77666","San Miguel 2","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0285","Semiurbano","02"
+"77667","Adolfo López Mateos","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0618","Semiurbano","02"
+"77667","Cuzamil","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0286","Semiurbano","02"
+"77667","Flores Magón 1 y 2","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0615","Semiurbano","02"
+"77667","San Gervasio","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0472","Semiurbano","02"
+"77667","Repobladores de 1848","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0617","Semiurbano","02"
+"77670","Naval","Unidad habitacional","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"31","001","0698","Semiurbano","02"
+"77670","Cozumel Turístico","Unidad habitacional","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"31","001","0700","Semiurbano","02"
+"77670","INFONAVIT","Unidad habitacional","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"31","001","0287","Semiurbano","02"
+"77670","C T M","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0543","Semiurbano","02"
+"77670","Taxistas","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0279","Semiurbano","02"
+"77670","Zona Industrial","Zona industrial","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"37","001","0542","Semiurbano","02"
+"77673","Huertos Familiares","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0701","Semiurbano","02"
+"77675","Zona Hotelera Sur","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0697","Semiurbano","02"
+"77676","Ix-chel","Colonia","Cozumel","Quintana Roo","Cozumel","77601","23","77601",,"09","001","0699","Semiurbano","02"
+"77710","Calica","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0439","Semiurbano","05"
+"77710","Playa del Carmen Centro","Colonia","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"09","008","0288","Urbano","05"
+"77712","El Pedregal","Colonia","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"09","008","0610","Semiurbano","05"
+"77712","Santa Fe del Carmen","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0716","Semiurbano","05"
+"77712","Fundadores","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0606","Semiurbano","05"
+"77712","Ejidal","Colonia","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"09","008","0289","Semiurbano","05"
+"77712","Bellavista","Colonia","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"09","008","0604","Semiurbano","05"
+"77713","Bellavista","Ampliacion","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"38","008","0605","Semiurbano","05"
+"77713","Aviación","Colonia","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"09","008","780","Semiurbano","05"
+"77713","Playa Car Fase I","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0573","Semiurbano","05"
+"77714","Nueva Creación","Colonia","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"09","008","0608","Semiurbano","05"
+"77714","Mundo Habitat","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","789","Semiurbano","05"
+"77716","La Joya Xamanha","Residencial","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"30","008","782","Semiurbano","05"
+"77716","Forjadores","Colonia","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"09","008","781","Semiurbano","05"
+"77717","Playa Car Fase II","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0570","Semiurbano","05"
+"77717","El Tigrillo","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0711","Semiurbano","05"
+"77717","Campestre","Residencial","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"30","008","0710","Semiurbano","05"
+"77720","INFONAVIT Gaviotas","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0709","Semiurbano","05"
+"77720","INFONAVIT Colosio","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0572","Semiurbano","05"
+"77720","Brisas","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","784","Semiurbano","05"
+"77720","Paraíso del Carmen","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","785","Semiurbano","05"
+"77720","Sacpacal","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0443","Semiurbano","05"
+"77720","Tohoku","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0444","Semiurbano","05"
+"77720","Miramar","Conjunto habitacional","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"12","008","0571","Semiurbano","05"
+"77720","Xamanha","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","783","Semiurbano","05"
+"77720","Gonzalo Guerrero","Colonia","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"09","008","0441","Semiurbano","05"
+"77720","Quintas del Carmen","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0442","Semiurbano","05"
+"77720","Zazil Ha","Colonia","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"09","008","0445","Semiurbano","05"
+"77723","Galaxia del Carmen I y II","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0715","Semiurbano","05"
+"77724","La Guadalupana","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0707","Semiurbano","05"
+"77724","El Petén","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0706","Semiurbano","05"
+"77724","Misión del Carmen","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0666","Urbano","05"
+"77724","Bosque Real","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0717","Semiurbano","05"
+"77725","La Toscana","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","787","Semiurbano","05"
+"77725","Misión Villamar I","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","786","Semiurbano","05"
+"77725","Misión Villamar II","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","788","Semiurbano","05"
+"77726","Playa Sol","Residencial","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"30","008","792","Semiurbano","05"
+"77726","Playa Magna","Residencial","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"30","008","791","Semiurbano","05"
+"77727","Zona Industrial","Zona industrial","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"37","008","0624","Semiurbano","05"
+"77727","Privanza del Mar","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0723","Urbano","05"
+"77727","Balamtun","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0712","Semiurbano","05"
+"77727","Loltun","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0713","Semiurbano","05"
+"77727","Lolkaatun","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","0722","Semiurbano","05"
+"77727","Selvamar","Fraccionamiento","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"21","008","790","Semiurbano","05"
+"77727","Nicte-ha","Colonia","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"09","008","0607","Semiurbano","05"
+"77728","Luis Donaldo Colosio","Colonia","Solidaridad","Quintana Roo","Playa del Carmen","77711","23","77711",,"09","008","0290","Semiurbano","05"
+"77730","Xcaret","Rancho o rancheria","Solidaridad","Quintana Roo",,"77711","23","77711",,"29","008","0292","Semiurbano",
+"77733","Puerto Aventura","Ciudad","Solidaridad","Quintana Roo",,"77783","23","77783",,"08","008","0312","Semiurbano",
+"77735","Paamul","Rancho o rancheria","Solidaridad","Quintana Roo",,"77711","23","77711",,"29","008","0293","Rural",
+"77735","Punta Chenyunyun","Rancho o rancheria","Solidaridad","Quintana Roo",,"77711","23","77711",,"29","008","0294","Rural",
+"77737","Caleta Chac Malal","Rancho o rancheria","Solidaridad","Quintana Roo",,"77711","23","77711",,"29","008","0295","Rural",
+"77750","Pino Suárez","Rancho o rancheria","Solidaridad","Quintana Roo",,"77781","23","77781",,"29","008","0314","Rural",
+"77753","San Silverio","Rancho o rancheria","Solidaridad","Quintana Roo",,"77781","23","77781",,"29","008","0308","Rural",
+"77753","Yalchen","Pueblo","Solidaridad","Quintana Roo",,"77781","23","77781",,"28","008","0309","Rural",
+"77760","Ejido","Ejido","Tulum","Quintana Roo",,"77781","23","77781",,"15","009","752","Semiurbano",
+"77760","Tumben Cuxtal","Fraccionamiento","Tulum","Quintana Roo",,"77781","23","77781",,"21","009","753","Semiurbano",
+"77760","Villas Huracanes","Fraccionamiento","Tulum","Quintana Roo",,"77781","23","77781",,"21","009","755","Semiurbano",
+"77760","Tulum","Pueblo","Tulum","Quintana Roo",,"77781","23","77781",,"28","009","0310","Semiurbano",
+"77764","Villas Tulum","Fraccionamiento","Tulum","Quintana Roo",,"77781","23","77781",,"21","009","754","Semiurbano",
+"77766","Boca Paila","Rancho o rancheria","Tulum","Quintana Roo",,"77781","23","77781",,"29","009","0315","Rural",
+"77768","Javier Rojo Gómez (Punta Allen)","Rancho o rancheria","Tulum","Quintana Roo",,"77781","23","77781",,"29","009","0316","Rural",
+"77776","Akumal","Rancho o rancheria","Tulum","Quintana Roo",,"77711","23","77711",,"29","009","0296","Rural",
+"77785","Chanchen Palmar","Rancho o rancheria","Tulum","Quintana Roo",,"77711","23","77711",,"29","009","0305","Rural",
+"77786","Chanchen Primero","Rancho o rancheria","Tulum","Quintana Roo",,"77781","23","77781",,"29","009","0304","Rural",
+"77786","Hondzonot","Rancho o rancheria","Tulum","Quintana Roo",,"77781","23","77781",,"29","009","0306","Rural",
+"77786","Yaxche","Rancho o rancheria","Tulum","Quintana Roo",,"77781","23","77781",,"29","009","0307","Rural",
+"77793","Coba","Pueblo","Tulum","Quintana Roo",,"77781","23","77781",,"28","009","0298","Rural",
+"77794","San Juan","Rancho o rancheria","Tulum","Quintana Roo",,"77781","23","77781",,"29","009","0300","Rural",
+"77795","Manuel Antonio Hay","Rancho o rancheria","Tulum","Quintana Roo",,"77781","23","77781",,"29","009","0301","Rural",
+"77796","Macario Gómez","Rancho o rancheria","Tulum","Quintana Roo",,"77781","23","77781",,"29","009","0303","Rural",
+"77796","Francisco Hu-may","Rancho o rancheria","Tulum","Quintana Roo",,"77781","23","77781",,"29","009","0302","Rural",
+"77800","Xcabil","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0322","Rural",
+"77800","Sacalaca","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0320","Rural",
+"77800","Saban","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0319","Rural",
+"77800","San Diego","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0321","Rural",
+"77800","Dziuche","Pueblo","José María Morelos","Quintana Roo",,"77891","23","77891",,"28","006","0317","Rural",
+"77800","Pocito","Colonia","José María Morelos","Quintana Roo",,"77891","23","77891",,"09","006","0580","Semiurbano",
+"77800","México","Colonia","José María Morelos","Quintana Roo",,"77891","23","77891",,"09","006","0581","Semiurbano",
+"77800","Huaymax","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0318","Rural",
+"77800","Guadalupana","Colonia","José María Morelos","Quintana Roo",,"77891","23","77891",,"09","006","0583","Semiurbano",
+"77805","Bulukax","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0324","Rural",
+"77806","San Antonio Tuk","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0325","Rural",
+"77807","Esperanza","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0326","Rural",
+"77808","Tabasco","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0327","Rural",
+"77809","San Felipe Oriente","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0328","Rural",
+"77850","Sabana San Francisco","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0329","Rural",
+"77858","Zaczoquil","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0330","Rural",
+"77859","San Felipe 2","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0331","Rural",
+"77870","Kilómetro 50","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0332","Rural",
+"77870","Presumida","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0333","Rural",
+"77870","Santa Gertrudis","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0334","Rural",
+"77873","Pimienta","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0335","Rural",
+"77874","Naranjal","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0337","Rural",
+"77874","Martirio","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0336","Rural",
+"77875","San Marcos","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0338","Rural",
+"77876","Benito Juárez","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0339","Rural",
+"77876","Cafetalito","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0340","Rural",
+"77880","Kantemo","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0341","Rural",
+"77882","Venustiano Carranza","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0342","Rural",
+"77889","Puerto Arturo","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0343","Rural",
+"77890","Javier Rojo Gómez","Colonia","José María Morelos","Quintana Roo",,"77891","23","77891",,"09","006","0584","Semiurbano",
+"77890","José María Morelos","Colonia","José María Morelos","Quintana Roo",,"77891","23","77891",,"09","006","0586","Semiurbano",
+"77890","Vicente Guerrero","Colonia","José María Morelos","Quintana Roo",,"77891","23","77891",,"09","006","0591","Semiurbano",
+"77890","Miraflores","Colonia","José María Morelos","Quintana Roo",,"77891","23","77891",,"09","006","0585","Semiurbano",
+"77890","Guadalupe","Colonia","José María Morelos","Quintana Roo",,"77891","23","77891",,"09","006","0590","Semiurbano",
+"77890","Santa Lucia","Colonia","José María Morelos","Quintana Roo",,"77891","23","77891",,"09","006","0587","Semiurbano",
+"77890","Primavera","Colonia","José María Morelos","Quintana Roo",,"77891","23","77891",,"09","006","0663","Semiurbano",
+"77890","José María Morelos","Pueblo","José María Morelos","Quintana Roo",,"77891","23","77891",,"28","006","0344","Urbano",
+"77890","San Juan","Colonia","José María Morelos","Quintana Roo",,"77891","23","77891",,"09","006","0588","Semiurbano",
+"77890","Mayab","Colonia","José María Morelos","Quintana Roo",,"77891","23","77891",,"09","006","0589","Semiurbano",
+"77890","Dolores","Colonia","José María Morelos","Quintana Roo",,"77891","23","77891",,"09","006","0592","Semiurbano",
+"77893","Adolfo de La Huerta","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","771","Rural",
+"77893","Plan de La Noria","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0346","Rural",
+"77894","Piedras Negras","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0347","Rural",
+"77895","Adolfo López Mateos","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0348","Rural",
+"77895","Lázaro Cárdenas","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0350","Rural",
+"77895","Pozo Pirata","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0351","Rural",
+"77895","Mariano Matamoros","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","793","Rural",
+"77895","El Triunfo","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0349","Rural",
+"77896","Gavilanes","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0352","Rural",
+"77896","Zafarrancho","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0353","Rural",
+"77898","La Candelaria","Rancho o rancheria","José María Morelos","Quintana Roo",,"77891","23","77891",,"29","006","0354","Rural",
+"77898","Othón P Blanco","Pueblo","José María Morelos","Quintana Roo",,"77891","23","77891",,"28","006","0355","Rural",
+"77899","Reforma","Pueblo","José María Morelos","Quintana Roo",,"77891","23","77891",,"28","006","0356","Rural",
+"77900","Calderitas","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0357","Semiurbano",
+"77900","López Subteniente","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0358","Semiurbano",
+"77900","Xul-ha","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0359","Rural",
+"77905","Luis Echeverría","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0361","Rural",
+"77906","Vallehermoso","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0362","Rural",
+"77907","Laguna Guerrero","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0363","Rural",
+"77910","Tierra Negra","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0364","Rural",
+"77910","Altos de Sevilla","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0403","Rural",
+"77913","Miguel Hidalgo","Ejido","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"15","004","0367","Rural",
+"77913","Blanca Flor","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0365","Rural",
+"77913","Cedralito","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0366","Rural",
+"77914","Iturbide","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0369","Rural",
+"77914","Divorciados","Pueblo","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"28","004","0368","Rural",
+"77914","Nuevo Jerusalén","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0370","Rural",
+"77914","San Fernando","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0371","Rural",
+"77917","El Gallito","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0372","Rural",
+"77917","Francisco J Mújica","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0373","Rural",
+"77918","Margarita Maza de Juárez","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0375","Rural",
+"77918","Los Lirios","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0374","Rural",
+"77919","18 de Marzo","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0376","Rural",
+"77919","Martínez Ross J","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0379","Rural",
+"77919","Melchor Ocampo","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0380","Rural",
+"77919","El Progreso","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0377","Rural",
+"77919","Nuevo Hoctún","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","775","Rural",
+"77919","Emiliano Zapata 1","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0378","Rural",
+"77920","Chac-choben","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0381","Rural",
+"77923","Pedro Antonio Santos","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0382","Rural",
+"77925","Buena Fe","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0383","Rural",
+"77927","Lázaro Cárdenas","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0384","Rural",
+"77928","Avila Camacho","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0385","Rural",
+"77930","Bacalar","Pueblo","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"28","004","0386","Rural",
+"77930","Sor Juana Inés de La Cruz","Colonia","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"09","004","0594","Semiurbano",
+"77930","5 de Mayo","Colonia","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"09","004","0596","Semiurbano",
+"77930","Nueva Creación","Colonia","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"09","004","0602","Semiurbano",
+"77930","Salinas de Gortari","Colonia","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"09","004","0601","Semiurbano",
+"77930","Serapio Flota Mass","Colonia","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"09","004","0593","Semiurbano",
+"77930","Luis Donaldo Colosio","Colonia","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"09","004","0597","Semiurbano",
+"77930","Diego Rojas","Colonia","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"09","004","0599","Semiurbano",
+"77930","Magisterial","Colonia","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"09","004","0600","Semiurbano",
+"77930","Mario Villanueva","Colonia","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"09","004","0595","Semiurbano",
+"77930","Gonzalo Guerrero","Colonia","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"09","004","0598","Semiurbano",
+"77930","Limones","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0387","Rural",
+"77930","Reforma","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0388","Rural",
+"77930","Benito Juárez","Colonia","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"09","004","0603","Semiurbano",
+"77930","Nueva Ampliación","Fraccionamiento","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"21","004","773","Semiurbano",
+"77934","Mayabalam","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0390","Rural",
+"77938","Lázaro Cárdenas NCPE","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0391","Rural",
+"77940","Mahahual","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0392","Rural",
+"77940","Xcalak","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0393","Rural",
+"77943","Raudales","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0394","Rural",
+"77944","Buena Vista","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0395","Rural",
+"77950","Prof. Sergio Butrón Casas","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0396","Rural",
+"77950","San Pedro Peralta","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0397","Rural",
+"77952","San Román","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77511","23","77511",,"29","004","0398","Rural",
+"77953","Morocoy","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0399","Rural",
+"77954","Lázaro Cárdenas del Río","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0400","Rural",
+"77955","Nuevo Becar","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0402","Rural",
+"77955","El Cedral","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0401","Rural",
+"77957","La Libertad","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0404","Rural",
+"77958","Huatusco","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0405","Rural",
+"77958","Río Escondido","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0406","Rural",
+"77959","Payo Obispo","Pueblo","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"28","004","0408","Rural",
+"77959","Río Verde","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0409","Rural",
+"77959","Miguel Alemán","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77931","23","77931",,"29","004","0407","Rural",
+"77960","Carlos A Madrazo","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0410","Rural",
+"77963","Ramonal","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0411","Rural",
+"77964","Palmar","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0412","Rural",
+"77965","Huaypix","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0413","Rural",
+"77965","Juan Sarabia","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0414","Rural",
+"77966","Ucum","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0415","Rural",
+"77973","Justo Sierra","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","777","Rural",
+"77973","Manuel Crescencio Rejón","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","778","Rural",
+"77973","Ojo de Agua","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0416","Rural",
+"77974","Alacranes","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0417","Rural",
+"77975","Nuevo Veracruz","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0418","Rural",
+"77976","2 Aguadas","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0419","Rural",
+"77980","Cacao","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0421","Rural",
+"77980","Pucte","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0422","Rural",
+"77980","Álvaro Obregón 1","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0420","Rural",
+"77981","Francisco Villa","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0423","Rural",
+"77981","Nicolás Bravo","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0424","Rural",
+"77983","Sabidos","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0426","Rural",
+"77984","Caobas","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0427","Rural",
+"77984","Ingenio Álvaro Obregón","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0428","Rural",
+"77985","Allende","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0429","Rural",
+"77988","Nachi-cocom","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0431","Rural",
+"77990","Cocoyol","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0432","Rural",
+"77990","ing. José Narciso Rovirosa","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0433","Rural",
+"77991","3 Garantías","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0434","Rural",
+"77992","Calderón","Ejido","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"15","004","0435","Rural",
+"77992","La Unión","Pueblo","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"28","004","0436","Rural",
+"77994","Tomás Garrido","Rancho o rancheria","Othón P. Blanco","Quintana Roo",,"77001","23","77001",,"29","004","0438","Rural",

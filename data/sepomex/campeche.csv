@@ -1,0 +1,1116 @@
+"d_codigo","d_asenta","d_tipo_asenta","D_mnpio","d_estado","d_ciudad","d_CP","c_estado","c_oficina","c_CP","c_tipo_asenta","c_mnpio","id_asenta_cpcons","d_zona","c_cve_ciudad"
+"24000","San Francisco de Campeche  Centro.","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0001","Urbano","01"
+"24005","Banco Nacional de México SA","Gran usuario","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"22","002","0006","Urbano","01"
+"24008","Bancomer SA","Gran usuario","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"22","002","0007","Urbano","01"
+"24009","Administración Fiscal Regional Peninsular de Hacienda","Gran usuario","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"22","002","0008","Urbano","01"
+"24010","San Francisco","Barrio","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"02","002","0011","Urbano","01"
+"24010","Villa del Río","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0013","Urbano","01"
+"24010","Guadalupe","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0532","Urbano","01"
+"24010","Pablo Garcia","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0010","Urbano","01"
+"24010","Guadalupe","Barrio","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"02","002","0009","Urbano","01"
+"24014","Ah-kim-pech","Zona comercial","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"33","002","0533","Urbano","01"
+"24019","Secretaria de Desarrollo Rural","Gran usuario","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"22","002","0015","Urbano","01"
+"24020","Dzarbay","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0538","Urbano","01"
+"24020","Camino Real","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0534","Urbano","01"
+"24020","Benito Juárez","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0535","Urbano","01"
+"24020","Buenos Aires","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0536","Urbano","01"
+"24020","Villamar","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1170","Urbano","01"
+"24020","San Joaquín","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0020","Urbano","01"
+"24020","Santa Lucia","Barrio","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"02","002","0021","Urbano","01"
+"24020","Sotavento","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1066","Urbano","01"
+"24020","Bellavista","Ampliacion","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"38","002","0017","Urbano","01"
+"24020","San Caralampio","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0537","Urbano","01"
+"24020","Bellavista","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0016","Urbano","01"
+"24020","Emiliano Zapata","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0018","Urbano","01"
+"24020","La Ermita","Barrio","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"02","002","0019","Urbano","01"
+"24023","Residencial Campestre","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1021","Urbano","01"
+"24023","Fénix","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1161","Urbano","01"
+"24023","Nachi Cocom","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1059","Urbano","01"
+"24023","Quinta Hermosa","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1159","Urbano","01"
+"24023","Fénix","Residencial","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"30","002","1160","Urbano","01"
+"24023","Fidel Velásquez","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0023","Urbano","01"
+"24023","Ernesto Zedillo","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0539","Urbano","01"
+"24023","Monterreal 1, 2, 3, 4, 5 y 6","Residencial","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"30","002","1158","Urbano","01"
+"24024","Mártires de Río Blanco","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0024","Urbano","01"
+"24025","Solidaridad Nacional","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0026","Urbano","01"
+"24026","San José el Alto","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0032","Urbano","01"
+"24026","Viveros","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1051","Urbano","01"
+"24026","Morelos I II y III","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0029","Urbano","01"
+"24026","Elvia María Pérez de González","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1013","Urbano","01"
+"24026","Minas","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0541","Urbano","01"
+"24026","Diana Laura","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1063","Urbano","01"
+"24026","Luis Donaldo Colosio","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1064","Urbano","01"
+"24026","Granjas","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0028","Urbano","01"
+"24026","Cumbres I y II","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0542","Urbano","01"
+"24026","Valle Dorado","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0543","Urbano","01"
+"24026","Ampliación Josefa Ortiz de Domínguez","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0544","Urbano","01"
+"24026","Mirador","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0545","Urbano","01"
+"24027","Villa Mercedes","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0716","Urbano","01"
+"24027","Palmas II","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0033","Urbano","01"
+"24027","Palmas III","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0034","Urbano","01"
+"24027","Palmas I","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0546","Urbano","01"
+"24027","San Miguel","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0715","Urbano","01"
+"24028","Villas de Ah-kim-Pech","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0036","Urbano","01"
+"24028","Cocotero de las Palmas","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1067","Urbano","01"
+"24029","Centro SCT Campeche","Gran usuario","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"22","002","0037","Urbano","01"
+"24030","Prado","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0039","Urbano","01"
+"24030","Héroes de Chapultepec (FOVI)","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0040","Urbano","01"
+"24030","Miramar","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0547","Urbano","01"
+"24030","Bosques de Campeche","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0038","Urbano","01"
+"24030","Lomas del Castillo","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0548","Urbano","01"
+"24030","Villas Universidad","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1006","Urbano","01"
+"24035","Vicente Guerrero","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0553","Urbano","01"
+"24035","Burócratas Pensiones","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0551","Urbano","01"
+"24035","San Arturo","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0550","Urbano","01"
+"24035","Residencial Pedregal I","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1069","Urbano","01"
+"24035","Residencial Pedregal II","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1070","Urbano","01"
+"24035","Residencial Pedregal III","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1071","Urbano","01"
+"24035","Burócratas Federales (San Cayetano)","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0549","Urbano","01"
+"24035","Cerro de La Eminencia","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0552","Urbano","01"
+"24035","Prado","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0554","Urbano","01"
+"24035","Invasión San Arturo","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1077","Urbano","01"
+"24035","Jardines del Pedregal","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","1054","Urbano","01"
+"24036","Adolfo López Mateos (SUTERM)","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0042","Urbano","01"
+"24037","Ciudad Militar","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0043","Urbano","01"
+"24038","Kaniste","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0555","Urbano","01"
+"24038","Kanisté","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0044","Urbano","01"
+"24038","Rinconada del Valle","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0556","Urbano","01"
+"24039","Buenavista","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0045","Urbano","01"
+"24040","San Román","Barrio","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"02","002","0047","Urbano","01"
+"24040","Privada Narciso Mendoza","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1031","Urbano","01"
+"24040","San José","Barrio","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"02","002","0046","Urbano","01"
+"24044","Montecristo","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0557","Urbano","01"
+"24044","Residencial Resurgimiento","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1078","Urbano","01"
+"24044","Lazareto","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0558","Urbano","01"
+"24048","IMSS","Gran usuario","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"22","002","0048","Urbano","01"
+"24049","Bicentenario I y II","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0049","Urbano","01"
+"24050","Santa Ana","Barrio","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"02","002","0052","Urbano","01"
+"24050","Santa Ana","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1061","Urbano","01"
+"24050","La Paz","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0559","Urbano","01"
+"24050","La Huerta","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0560","Urbano","01"
+"24050","Parque Residencial La Noria","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0561","Urbano","01"
+"24050","Privada Guadalupana","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0562","Urbano","01"
+"24050","Campeche 1","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1048","Urbano","01"
+"24050","Candelaria","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1068","Urbano","01"
+"24050","Belén II","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","1251","Urbano","01"
+"24050","Hollywood","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0563","Urbano","01"
+"24050","Belén I","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0050","Urbano","01"
+"24058","Caribe","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0053","Urbano","01"
+"24060","El Polvorín","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0055","Urbano","01"
+"24060","Ampliación Polvorín","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0056","Urbano","01"
+"24060","Residencial Bugambilias","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0565","Urbano","01"
+"24060","Leovigildo Gómez","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0568","Urbano","01"
+"24060","Jardines","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0057","Urbano","01"
+"24060","Montebello","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0572","Urbano","01"
+"24060","Colinas del Sur","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1045","Urbano","01"
+"24060","Ampliación Polvorín II","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1046","Urbano","01"
+"24060","Tomas Aznar","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0060","Urbano","01"
+"24060","Lomas del Polvorín","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0567","Urbano","01"
+"24060","Residencial Delicias","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1009","Urbano","01"
+"24060","Lomas","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1011","Urbano","01"
+"24060","Villas de Monte Real","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1211","Urbano","01"
+"24060","Solidaridad Urbana","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0570","Urbano","01"
+"24060","Lomas de las Flores II","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1079","Urbano","01"
+"24060","Ampliación Jardines","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0058","Urbano","01"
+"24060","Unidad y Esperanza","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0569","Urbano","01"
+"24060","Lomas de las Flores","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0571","Urbano","01"
+"24060","Lomas Delicias","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1010","Urbano","01"
+"24060","Casa Blanca","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1047","Urbano","01"
+"24060","Ferrocarrilera","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0564","Urbano","01"
+"24060","Tabachines","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0566","Urbano","01"
+"24060","Naval Campeche III","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0573","Urbano","01"
+"24060","Las Quintas","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1044","Urbano","01"
+"24060","Altavista","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1065","Urbano","01"
+"24067","Cuatro Caminos 2da Ampliación","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0061","Urbano","01"
+"24069","Flor de Limón","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0063","Urbano","01"
+"24070","Santa Bárbara I y II","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0069","Urbano","01"
+"24070","Bello Horizonte","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0574","Urbano","01"
+"24070","Hacienda Santa María","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0576","Urbano","01"
+"24070","Justo Sierra Méndez I y II","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0068","Urbano","01"
+"24070","4 Caminos","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0065","Urbano","01"
+"24070","Huanal","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0067","Urbano","01"
+"24070","Aviación","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0064","Urbano","01"
+"24070","Quinta de Los Españoles","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1171","Urbano","01"
+"24070","Justicia Social","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0717","Urbano","01"
+"24070","4 Caminos","Ampliacion","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"38","002","0066","Urbano","01"
+"24070","Héroe de Nacozari","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0575","Urbano","01"
+"24070","Colonia México","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0578","Urbano","01"
+"24073","Siglo XXI","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1018","Urbano","01"
+"24075","El Carmelo","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0070","Urbano","01"
+"24079","Ciudad de Campeche","Aeropuerto","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"01","002","0071","Urbano","01"
+"24080","Esperanza","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0072","Urbano","01"
+"24080","Ampliación Invasión Esperanza","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1007","Urbano","01"
+"24080","Josefa Ortiz de Domínguez","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0579","Urbano","01"
+"24080","Ampliación Esperanza","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0073","Urbano","01"
+"24080","Emiliano Zapata","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1169","Urbano","01"
+"24080","Pablo Garcia","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0074","Urbano","01"
+"24080","Revolución","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0075","Urbano","01"
+"24080","Revolución","Ampliacion","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"38","002","0076","Urbano","01"
+"24083","Fátima","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0077","Urbano","01"
+"24085","Kala","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0580","Urbano","01"
+"24085","20 de Noviembre","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1062","Urbano","01"
+"24085","Kala II","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0581","Urbano","01"
+"24085","Residencial La Hacienda","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1049","Urbano","01"
+"24085","Ciudad Concordia","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0079","Urbano","01"
+"24085","Murallas FSTSE","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1008","Urbano","01"
+"24085","Ramón Espínola Blanco I II y III","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0947","Urbano","01"
+"24085","Invasión Esperanza","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1060","Urbano","01"
+"24085","Ampliación Ciudad Concordia","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1050","Urbano","01"
+"24086","Villa Turquesa","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1052","Urbano","01"
+"24086","Villa Luisa","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0080","Urbano","01"
+"24087","Tula IV","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0582","Urbano","01"
+"24087","2da Ampliación Kala","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1248","Urbano","01"
+"24087","Privada Exhacienda Kala","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0583","Urbano","01"
+"24087","Privada Residencial Colonial","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1026","Urbano","01"
+"24087","Eduardo J. Lavalle Urbina","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0081","Urbano","01"
+"24087","Tula II","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1023","Urbano","01"
+"24087","Caminero","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0586","Urbano","01"
+"24087","Tula III","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1024","Urbano","01"
+"24087","Colonial Campeche Sección Maquiladora II","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1056","Urbano","01"
+"24087","Colonial Campeche Sección Maquiladora","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1058","Urbano","01"
+"24087","Hacienda San Antonio","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1012","Urbano","01"
+"24087","Tula","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1022","Urbano","01"
+"24087","Colonial Campeche","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0584","Urbano","01"
+"24087","Ampliación Kala","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0587","Urbano","01"
+"24087","Vista Hermosa","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1025","Urbano","01"
+"24087","Colonial Campeche Sección Maquiladora III","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1057","Urbano","01"
+"24088","Presidentes de México","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0590","Urbano","01"
+"24088","Paseo de Campeche","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0591","Urbano","01"
+"24088","Fénix","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0589","Urbano","01"
+"24088","Los Cedros","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1014","Urbano","01"
+"24088","Guadalupe Victoria","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1019","Urbano","01"
+"24088","VIVAH","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1020","Urbano","01"
+"24088","Villas la Hacienda","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1162","Urbano","01"
+"24088","Unidad y Trabajo Plan-chac","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0082","Urbano","01"
+"24089","Peña","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0083","Urbano","01"
+"24090","Samula","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0085","Urbano","01"
+"24090","Rinconada Samula","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1072","Urbano","01"
+"24090","Girasoles","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1167","Urbano","01"
+"24090","Villa Jazmín","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1212","Urbano","01"
+"24090","Ampliación San Rafael","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1055","Urbano","01"
+"24090","San Rafael","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0086","Urbano","01"
+"24090","Nueva Era","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0592","Urbano","01"
+"24090","Las Campanillas","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1164","Urbano","01"
+"24090","San Andrés","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1166","Urbano","01"
+"24090","Fracciorama 2000","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0084","Urbano","01"
+"24090","La Vista","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0721","Urbano","01"
+"24090","Infonavit Samula","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1163","Urbano","01"
+"24090","Valle del Sol","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0087","Urbano","01"
+"24090","Flor de Liz","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1165","Urbano","01"
+"24090","Los Sauces","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0593","Urbano","01"
+"24090","Villas de Samula","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0720","Urbano","01"
+"24093","Villas Residencial (Ix-Lol-Be)","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0088","Urbano","01"
+"24094","Miguel Hidalgo","Ampliacion","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"38","002","0090","Urbano","01"
+"24094","Miramar","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0596","Urbano","01"
+"24094","Villa Laureles II","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1029","Urbano","01"
+"24094","Miguel Hidalgo","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0089","Urbano","01"
+"24094","Ignacio Zaragoza","Ampliacion","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"38","002","0594","Urbano","01"
+"24094","Samula","Pueblo","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"28","002","0595","Urbano","01"
+"24095","18 de Marzo","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1176","Urbano","01"
+"24095","Villa Dalias","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1030","Urbano","01"
+"24095","Sascalum","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0091","Urbano","01"
+"24095","Reforma Agraria","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0599","Urbano","01"
+"24095","Lázaro Cárdenas","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0598","Urbano","01"
+"24095","Villa Laureles","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1015","Urbano","01"
+"24095","Multunchac","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1027","Urbano","01"
+"24096","Lindavista C.T.M.","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0092","Urbano","01"
+"24096","Tepeyac","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0603","Urbano","01"
+"24096","Los Laureles","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0600","Urbano","01"
+"24096","Guadalajara","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1028","Urbano","01"
+"24097","Las Rosas","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0601","Urbano","01"
+"24097","Bugambilias","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0718","Urbano","01"
+"24097","Las Flores","Unidad habitacional","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"31","002","0094","Urbano","01"
+"24097","Santa Cecilia","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0719","Urbano","01"
+"24098","Lomas de Zaragoza","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0602","Urbano","01"
+"24098","Ignacio Zaragoza","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0097","Urbano","01"
+"24099","Lomas de San Rafael","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","0098","Urbano","01"
+"24099","Ampliación San Antonio","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","1053","Urbano","01"
+"24099","San Rafael","Fraccionamiento","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"21","002","1016","Urbano","01"
+"24099","San Antonio","Colonia","Campeche","Campeche","San Francisco de Campeche","24001","04","24001",,"09","002","0099","Urbano","01"
+"24100","Ciudad del Carmen Centro","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0100","Urbano","02"
+"24108","Cereso Cd. del Carmen","Gran usuario","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"22","003","0102","Urbano","02"
+"24109","Palacio Municipal del Carmen","Gran usuario","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"22","003","0103","Urbano","02"
+"24110","Fátima","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0106","Urbano","02"
+"24110","1 de Mayo (Playón)","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0108","Urbano","02"
+"24110","Caleta","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0104","Urbano","02"
+"24110","Héctor Pérez Martínez","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0105","Urbano","02"
+"24110","San Agustin del Palmar","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0747","Urbano","02"
+"24114","Justo Sierra","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0109","Urbano","02"
+"24115","Miami","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0740","Urbano","02"
+"24115","Marina del Rey","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0111","Urbano","02"
+"24115","Monte Bello","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0741","Urbano","02"
+"24115","Morelos","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0112","Urbano","02"
+"24115","Playa Norte","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0743","Urbano","02"
+"24116","Boquerón del Palmar","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0957","Urbano","02"
+"24116","San Carlos","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0113","Urbano","02"
+"24117","Obrera","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0115","Urbano","02"
+"24118","San Nicolás","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0116","Urbano","02"
+"24119","Ciudad del Carmen","Aeropuerto","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"01","003","0117","Urbano","02"
+"24119","Aeropuerto","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0727","Urbano","02"
+"24120","Revolución","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0119","Urbano","02"
+"24120","Santa Margarita","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0120","Urbano","02"
+"24120","Electricistas","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0118","Urbano","02"
+"24129","Puerto Pesquero","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0121","Urbano","02"
+"24130","San Miguel","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0123","Urbano","02"
+"24130","Guadalupe","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0122","Urbano","02"
+"24130","20 de Noviembre","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0124","Urbano","02"
+"24139","Guanal","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0125","Urbano","02"
+"24139","Puntilla","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0126","Urbano","02"
+"24140","Pallas","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0127","Urbano","02"
+"24150","La Rivera","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","1038","Urbano","02"
+"24150","Belisario Domínguez","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0128","Urbano","02"
+"24150","Luis Donaldo Colosio","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0737","Urbano","02"
+"24153","Mundo Maya","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1157","Urbano","02"
+"24153","Capistrano","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1153","Urbano","02"
+"24153","Santa Mónica","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1154","Urbano","02"
+"24153","Privada Las Esperanzas","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1155","Urbano","02"
+"24154","Isla del Carmen 2000","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0734","Urbano","02"
+"24154","Maderas","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0738","Urbano","02"
+"24154","Puente de La Unidad","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0745","Urbano","02"
+"24154","Rafael del J Lozano Contreras","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0960","Urbano","02"
+"24154","Compositores","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0729","Urbano","02"
+"24154","Palmira","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1150","Urbano","02"
+"24154","Los Ríos","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1151","Urbano","02"
+"24154","Pueblo Maya","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1043","Urbano","02"
+"24154","Arcila","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0728","Urbano","02"
+"24154","San Manuel","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0750","Urbano","02"
+"24154","Los Arcos","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0735","Urbano","02"
+"24154","San Francisco","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0748","Urbano","02"
+"24154","Perla del Golfo","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0742","Urbano","02"
+"24155","Plutarco Elías Calles","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0744","Urbano","02"
+"24155","Solidaridad Urbana","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0754","Urbano","02"
+"24155","Renovación III","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","1036","Urbano","02"
+"24155","Villa Conejo","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1135","Urbano","02"
+"24155","Renovación I","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0129","Urbano","02"
+"24155","Villa San José","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1133","Urbano","02"
+"24155","Villa Universitaria","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1134","Urbano","02"
+"24155","Bugambilias","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1138","Urbano","02"
+"24155","23 de Julio","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0726","Urbano","02"
+"24155","Volcanes","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0757","Urbano","02"
+"24155","Renovación II","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0130","Urbano","02"
+"24155","Isla de Tris","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","1037","Urbano","02"
+"24156","Puerta de Hierro","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1139","Urbano","02"
+"24156","Viña del Mar","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1142","Urbano","02"
+"24156","Villa Florencia","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1143","Urbano","02"
+"24156","Villa de Los Ángeles","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1144","Urbano","02"
+"24156","Reforma del 57","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1146","Urbano","02"
+"24156","El Dorado","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1141","Urbano","02"
+"24156","Los Lagos","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1140","Urbano","02"
+"24156","Villa Encantada","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1145","Urbano","02"
+"24156","Mediterráneo","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1147","Urbano","02"
+"24157","Puesta del Sol","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0131","Urbano","02"
+"24157","Privada San Joaquín","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0970","Urbano","02"
+"24157","Hacienda del Mar","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1252","Urbano","02"
+"24157","San Román","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1255","Urbano","02"
+"24157","Santa Isabel","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0751","Urbano","02"
+"24157","Hacienda Dorada","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1125","Urbano","02"
+"24157","Raíces","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1127","Urbano","02"
+"24157","Villa Marina","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1130","Urbano","02"
+"24157","Cútsa","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1137","Urbano","02"
+"24157","Privada Santa Ana","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0969","Urbano","02"
+"24157","Privada Residencial San Joaquín","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0971","Urbano","02"
+"24157","La Esperanza","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1080","Urbano","02"
+"24157","Misión del Carmen","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1131","Urbano","02"
+"24157","José Ortiz Ávila","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","1172","Urbano","02"
+"24157","Girasoles","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1126","Urbano","02"
+"24157","Villas del Carmen","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1128","Urbano","02"
+"24157","Fénix","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","1253","Urbano","02"
+"24157","Residencial San Miguel","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0959","Urbano","02"
+"24157","Playa Palmas","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1042","Urbano","02"
+"24157","Bonanzas","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1132","Urbano","02"
+"24157","Reforma II Sección","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1136","Urbano","02"
+"24157","Real del Carmen","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1081","Urbano","02"
+"24157","Evergreén","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1156","Urbano","02"
+"24157","San Joaquín","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0749","Urbano","02"
+"24157","Villa Magna","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1129","Urbano","02"
+"24158","Residencial del Lago","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0746","Urbano","02"
+"24158","Santa Rita III","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1149","Urbano","02"
+"24158","Estación","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1152","Urbano","02"
+"24158","Las Huertas","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1040","Urbano","02"
+"24158","Reforma","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0733","Urbano","02"
+"24158","Bivalbo","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0132","Urbano","02"
+"24158","Mujeres Carmelitas","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1041","Urbano","02"
+"24158","Santa Rita II","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1148","Urbano","02"
+"24158","Héroes de Nacozari","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0731","Urbano","02"
+"24158","Santa Rita","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0752","Urbano","02"
+"24158","Millán","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","1173","Urbano","02"
+"24160","Burócrata","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0133","Urbano","02"
+"24166","Justo Sierra","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0135","Urbano","02"
+"24167","Lomas de Holche","Fraccionamiento","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"21","003","0136","Urbano","02"
+"24169","Asa Poniente","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","1254","Urbano","02"
+"24169","Camaronero","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0138","Urbano","02"
+"24170","Aviación","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0139","Urbano","02"
+"24170","Tila","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0755","Urbano","02"
+"24170","Cuauhtémoc","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0730","Urbano","02"
+"24178","Tecolutla","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0140","Urbano","02"
+"24179","Petrolera","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0141","Urbano","02"
+"24180","Benito Juárez","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0142","Urbano","02"
+"24180","Limonar","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0144","Urbano","02"
+"24180","Tacubaya","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0146","Urbano","02"
+"24180","Benito Juárez 2","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0143","Urbano","02"
+"24185","Estrella","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0147","Urbano","02"
+"24186","Miguel de La Madrid","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0148","Urbano","02"
+"24187","Manigua","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0149","Urbano","02"
+"24188","Caracol","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0150","Urbano","02"
+"24189","Salitral","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0151","Urbano","02"
+"24190","Francisco I Madero","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0152","Urbano","02"
+"24195","Las Pilas","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","1039","Urbano","02"
+"24195","Pedro Sainz de Baranda","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0153","Urbano","02"
+"24197","Insurgentes","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0154","Urbano","02"
+"24197","Santa Rosalía","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0753","Urbano","02"
+"24197","Malibrán","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0739","Urbano","02"
+"24197","Independencia","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","1035","Urbano","02"
+"24198","Emiliano Zapata","Colonia","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"09","003","0155","Urbano","02"
+"24199","FOVISSSTE","Unidad habitacional","Carmen","Campeche","Ciudad del Carmen","24101","04","24101",,"31","003","0156","Urbano","02"
+"24200","Palizada Centro","Colonia","Palizada","Campeche",,"86784","04","86784",,"09","007","0157","Rural",
+"24200","La Esperanza","Conjunto habitacional","Palizada","Campeche",,"86784","04","86784",,"12","007","0725","Rural",
+"24200","Aviación","Colonia","Palizada","Campeche",,"86784","04","86784",,"09","007","0723","Rural",
+"24200","Justicia Social","Conjunto habitacional","Palizada","Campeche",,"86784","04","86784",,"12","007","0724","Rural",
+"24201","San Felipe Alamilla","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0159","Rural",
+"24201","Santa Isabel","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0162","Rural",
+"24201","Ribera San Juan","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0161","Rural",
+"24201","San José","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0160","Rural",
+"24201","Rivera del Carmen","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0158","Rural",
+"24202","Ribera Santa Cruz","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0163","Rural",
+"24202","Palma de Mallorca","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0177","Rural",
+"24203","Los Laureles","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1231","Rural",
+"24203","Porvenir","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1230","Rural",
+"24203","Lagón Dulce","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1233","Rural",
+"24203","San Antonio","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1232","Rural",
+"24204","Ribera La Corriente","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0165","Rural",
+"24205","Ribera Borbotón","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0166","Rural",
+"24205","Santa Rita","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1236","Rural",
+"24205","Paraíso","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1234","Rural",
+"24205","El Cuyo","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1235","Rural",
+"24205","San Joaquín","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0167","Rural",
+"24205","La Toza","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1237","Rural",
+"24205","Ribera Tila","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0168","Rural",
+"24206","Las Flores","Ejido","Palizada","Campeche",,"86784","04","86784",,"15","007","1197","Rural",
+"24206","Arroyo Paso de Los Caballos","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1242","Rural",
+"24206","San Francisco","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1238","Rural",
+"24206","Santa Elena","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1239","Rural",
+"24206","Bajo Amatitan","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1240","Rural",
+"24206","Monterrey","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1241","Rural",
+"24207","Tumbo de La Montaña","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0224","Rural",
+"24207","Nueva Esperanza","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1245","Rural",
+"24207","San Ángel","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1243","Rural",
+"24207","San Jorge","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1244","Rural",
+"24207","Villa Rosa","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1247","Rural",
+"24207","Santa Adelaida","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0227","Rural",
+"24207","El Juncal","Ejido","Palizada","Campeche",,"86784","04","86784",,"15","007","1196","Rural",
+"24207","La Candelaria","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","1246","Rural",
+"24230","Adolfo López Mateos","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0169","Rural",
+"24230","Ribera San Eduardo","Rancho o rancheria","Palizada","Campeche",,"86784","04","86784",,"29","007","0170","Rural",
+"24300","Sabancuy","Pueblo","Carmen","Campeche","Sabancuy","24401","04","24401",,"28","003","0283","Rural","06"
+"24300","Pénjamo","Colonia","Carmen","Campeche","Sabancuy","24401","04","24401",,"09","003","0700","Rural","06"
+"24300","Guadalupe","Colonia","Carmen","Campeche","Sabancuy","24401","04","24401",,"09","003","0698","Rural","06"
+"24300","Benito Juárez","Colonia","Carmen","Campeche","Sabancuy","24401","04","24401",,"09","003","0697","Rural","06"
+"24300","Jabal","Colonia","Carmen","Campeche","Sabancuy","24401","04","24401",,"09","003","0701","Rural","06"
+"24300","Banco de Piedra","Colonia","Carmen","Campeche","Sabancuy","24401","04","24401",,"09","003","0699","Rural","06"
+"24304","Sacrificio","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0173","Rural",
+"24307","Guadalupe Victoria","Ejido","Carmen","Campeche",,"24331","04","24331",,"15","003","0184","Rural",
+"24310","Oxcabal","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","0274","Rural",
+"24310","Anonal","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","0943","Rural",
+"24310","San Nicolás","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","0936","Rural",
+"24310","La Pita","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","0941","Rural",
+"24310","Ignacio Gutiérrez","Ejido","Carmen","Campeche",,"24401","04","24401",,"15","003","0270","Rural",
+"24310","Calax","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","0945","Rural",
+"24310","San Felipe","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","0938","Rural",
+"24310","Santa Rosalía","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","0937","Rural",
+"24310","La India","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","0940","Rural",
+"24313","Plan de Ayala","Pueblo","Carmen","Campeche",,"24401","04","24401",,"28","003","0285","Rural",
+"24313","La Cristalina","Pueblo","Carmen","Campeche",,"24401","04","24401",,"28","003","0295","Rural",
+"24313","General Abelardo L Rodriguez (el Jobal)","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","0271","Rural",
+"24313","Independencia","Pueblo","Carmen","Campeche",,"24401","04","24401",,"28","003","0296","Rural",
+"24313","Nicolás Bravo","Pueblo","Carmen","Campeche",,"24401","04","24401",,"28","003","0291","Rural",
+"24313","Esperanza","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","0921","Rural",
+"24313","Colonia A López Mateos","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","0922","Rural",
+"24313","Los Manantiales","Ejido","Carmen","Campeche",,"24401","04","24401",,"15","003","0942","Rural",
+"24313","La Lupita","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","1082","Rural",
+"24313","José María Pino Suárez","Pueblo","Carmen","Campeche",,"24401","04","24401",,"28","003","0289","Rural",
+"24313","San Fernando","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","0939","Rural",
+"24313","Chivoja","Rancho o rancheria","Carmen","Campeche",,"24401","04","24401",,"29","003","0944","Rural",
+"24313","Chic-bul","Pueblo","Carmen","Campeche",,"24401","04","24401",,"28","003","0286","Rural",
+"24313","Chekubul","Pueblo","Carmen","Campeche",,"24401","04","24401",,"28","003","0287","Rural",
+"24314","Enrique Rodriguez Cano","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0279","Rural",
+"24314","18 de Marzo","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","0758","Rural",
+"24314","Manantial","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0926","Rural",
+"24314","Mamantel","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","0924","Rural",
+"24314","Nueva Chontalpa","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","0187","Rural",
+"24314","Concepción","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0925","Rural",
+"24314","San Antonio","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0923","Rural",
+"24315","San Isidro","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","0225","Rural",
+"24315","Las Delicias","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0255","Rural",
+"24315","Francisco Villa (mamantel)","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0256","Rural",
+"24315","Pital Nuevo","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0261","Rural",
+"24315","Pital Viejo","Pueblo","Carmen","Campeche",,"24351","04","24351",,"28","003","0262","Rural",
+"24315","La Providencia","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0293","Rural",
+"24316","El Charro","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0191","Rural",
+"24316","San Pablito Km. 59","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0929","Rural",
+"24316","El Gallo","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","0188","Rural",
+"24316","El Encanto","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0199","Rural",
+"24316","Felipe Ángeles","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","0189","Rural",
+"24316","2 de Marzo","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0927","Rural",
+"24316","Las Cruces","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0930","Rural",
+"24316","Triunfo","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0931","Rural",
+"24316","Quebranche","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","0201","Rural",
+"24316","Ojo de Agua","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0192","Rural",
+"24316","Ignacio Zaragoza","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","0263","Rural",
+"24316","San Jorge","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0928","Rural",
+"24317","El Chinal","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","1210","Rural",
+"24317","La Estrella","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0172","Rural",
+"24317","Venustiano Carranza 2","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","0232","Rural",
+"24317","Allende Pejelagarto","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0933","Rural",
+"24317","Conquista Campesina","Pueblo","Carmen","Campeche",,"24351","04","24351",,"28","003","0185","Rural",
+"24317","Constitución","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0228","Rural",
+"24317","Aguacatal","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","0229","Rural",
+"24317","Río Chumpan","Rancho o rancheria","Carmen","Campeche",,"24351","04","24351",,"29","003","0920","Rural",
+"24317","Centauro del Norte","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","0934","Rural",
+"24317","La Florida","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","0935","Rural",
+"24317","Belisario Domínguez","Ejido","Carmen","Campeche",,"24351","04","24351",,"15","003","0932","Rural",
+"24320","Quemado","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0180","Rural",
+"24320","Imposible","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0893","Rural",
+"24320","Bella Palizada","Ejido","Carmen","Campeche",,"24331","04","24331",,"15","003","0894","Rural",
+"24320","María de La Luz","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0897","Rural",
+"24320","Arrozal","Pueblo","Carmen","Campeche",,"24331","04","24331",,"28","003","0895","Rural",
+"24320","Polvoxal","Ejido","Carmen","Campeche",,"24331","04","24331",,"15","003","0896","Rural",
+"24320","El Manguito","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0898","Rural",
+"24323","Valle de Solidaridad","Ejido","Carmen","Campeche",,"24331","04","24331",,"15","003","0901","Rural",
+"24323","Generalísimo Morelos","Ejido","Carmen","Campeche",,"24331","04","24331",,"15","003","0902","Rural",
+"24323","Mata Larga","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0907","Rural",
+"24323","Victoria","Ejido","Carmen","Campeche",,"24331","04","24331",,"15","003","1213","Rural",
+"24323","Deshecho","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0904","Rural",
+"24323","La Pangota","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0910","Rural",
+"24323","San Juan del Paso","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0905","Rural",
+"24323","Santa Rita","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0903","Rural",
+"24323","7 Copas","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0908","Rural",
+"24323","Torno Largo","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0909","Rural",
+"24323","5 de Mayo","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0906","Rural",
+"24323","Fernando Foglio Miramontes","Ejido","Carmen","Campeche",,"24331","04","24331",,"15","003","0899","Rural",
+"24323","Murallas de Campeche","Ejido","Carmen","Campeche",,"24331","04","24331",,"15","003","0900","Rural",
+"24323","San José","Ejido","Carmen","Campeche",,"24331","04","24331",,"15","003","1214","Rural",
+"24324","El Carmen II","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0913","Rural",
+"24324","Arroyo Salsipuedes","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0918","Rural",
+"24324","San Antonio de las Sabanas","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0179","Rural",
+"24324","Refugio","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0914","Rural",
+"24324","Pimiento","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0916","Rural",
+"24324","El Zapote","Ejido","Carmen","Campeche",,"24331","04","24331",,"15","003","0223","Rural",
+"24324","Tres Valles","Ejido","Carmen","Campeche",,"24331","04","24331",,"15","003","0919","Rural",
+"24324","Rinconcito","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0911","Rural",
+"24324","Mameyal","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0912","Rural",
+"24324","Vista Alegre","Ejido","Carmen","Campeche",,"24331","04","24331",,"15","003","0915","Rural",
+"24324","San Elpidio","Rancho o rancheria","Carmen","Campeche",,"24331","04","24331",,"29","003","0917","Rural",
+"24325","San Antonio Cárdenas","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0299","Rural",
+"24325","Punta Zacatal","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0882","Rural",
+"24325","San Pedro","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0875","Rural",
+"24325","Ribera Baja","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0877","Rural",
+"24325","Ribera Alta","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0878","Rural",
+"24325","Cerrillos","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0298","Rural",
+"24325","El Pom","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0881","Rural",
+"24325","Santa Rita","Ejido","Carmen","Campeche",,"24101","04","24101",,"15","003","0880","Rural",
+"24325","Ribera Media","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0876","Rural",
+"24325","Nuevo Progreso","Pueblo","Carmen","Campeche",,"24101","04","24101",,"28","003","0304","Rural",
+"24325","Santa Martha","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0879","Rural",
+"24326","Emiliano Zapata","Ejido","Carmen","Campeche",,"24101","04","24101",,"15","003","0302","Rural",
+"24326","Atasta","Pueblo","Carmen","Campeche",,"24101","04","24101",,"28","003","0297","Rural",
+"24326","Puerto Rico","Ejido","Carmen","Campeche",,"24101","04","24101",,"15","003","0301","Rural",
+"24326","Nuevo Campechito","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0303","Rural",
+"24327","Palma","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0887","Rural",
+"24327","Isla Aguada","Pueblo","Carmen","Campeche",,"24101","04","24101",,"28","003","0288","Rural",
+"24327","La Esperanza","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0883","Rural",
+"24327","Boca Nueva","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0885","Rural",
+"24327","La Lagartera","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0886","Rural",
+"24327","Puerto Real","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0292","Rural",
+"24327","Palmitas","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0884","Rural",
+"24328","Caamal","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0889","Rural",
+"24328","Palma Baja","Pueblo","Carmen","Campeche",,"24101","04","24101",,"28","003","0892","Rural",
+"24328","San Antonio Punta de Piedra","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0891","Rural",
+"24328","Los Morenos","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0890","Rural",
+"24328","El Carmen I","Rancho o rancheria","Carmen","Campeche",,"24101","04","24101",,"29","003","0888","Rural",
+"24330","Candelaria Centro","Colonia","Candelaria","Campeche","Candelaria","24331","04","24331",,"09","011","0171","Rural","04"
+"24330","Acalan","Colonia","Candelaria","Campeche","Candelaria","24331","04","24331",,"09","011","0648","Rural","04"
+"24330","San Martín","Colonia","Candelaria","Campeche","Candelaria","24331","04","24331",,"09","011","0649","Rural","04"
+"24330","Cuauhtémoc","Colonia","Candelaria","Campeche","Candelaria","24331","04","24331",,"09","011","0654","Rural","04"
+"24330","San Isidro","Colonia","Candelaria","Campeche","Candelaria","24331","04","24331",,"09","011","0655","Rural","04"
+"24330","Alejandría","Colonia","Candelaria","Campeche","Candelaria","24331","04","24331",,"09","011","0652","Rural","04"
+"24330","Independencia","Colonia","Candelaria","Campeche","Candelaria","24331","04","24331",,"09","011","0651","Rural","04"
+"24330","Guanajuato","Colonia","Candelaria","Campeche","Candelaria","24331","04","24331",,"09","011","0650","Rural","04"
+"24333","El Pocito","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","1194","Rural",
+"24333","Venustiano Carranza","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0222","Rural",
+"24333","Santa Lucia","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0802","Rural",
+"24333","Pejelagarto","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0204","Rural",
+"24333","Suspiro","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0805","Rural",
+"24333","Nueva Esperanza","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0210","Rural",
+"24333","Lic. Miguel Alemán","Pueblo","Candelaria","Campeche",,"24331","04","24331",,"28","011","0211","Rural",
+"24333","El Tigre","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0220","Rural",
+"24333","Nueva Rosita","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0203","Rural",
+"24333","El Chilar","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0769","Rural",
+"24333","La Florida","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0787","Rural",
+"24333","Pablo Garcia","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0238","Rural",
+"24333","Chinal","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0231","Rural",
+"24333","San Martín de Porres","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0243","Rural",
+"24333","Monclova","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0249","Rural",
+"24334","Lázaro Cárdenas","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0215","Rural",
+"24334","Estrella del Sur","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0217","Rural",
+"24334","Nuevo Coahuila","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0246","Rural",
+"24334","La Zanja","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0792","Rural",
+"24334","Las Palmas","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0214","Rural",
+"24334","Miguel Hidalgo y Costilla","Pueblo","Candelaria","Campeche",,"24331","04","24331",,"28","011","0250","Rural",
+"24334","Estado de México","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0251","Rural",
+"24334","Francisco I Madero 2","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0781","Rural",
+"24334","Esperanza","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0779","Rural",
+"24334","El Limón","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0248","Rural",
+"24334","Luinal","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0797","Rural",
+"24335","El Suspiro","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0241","Rural",
+"24335","El Mamey","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0240","Rural",
+"24335","El Porvenir","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0226","Rural",
+"24335","El Tintal","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0236","Rural",
+"24335","La Pelusa","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0178","Rural",
+"24336","El Machetazo","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0245","Rural",
+"24336","El Encanto","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0770","Rural",
+"24336","Cuauhtémoc","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0234","Rural",
+"24336","El Naranjo","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0244","Rural",
+"24336","Gustavo Diaz Ordaz","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0783","Rural",
+"24336","Paraíso Nuevo","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0235","Rural",
+"24336","Agricultores del Norte","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0759","Rural",
+"24336","El Merente","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0773","Rural",
+"24337","El Jaripeo","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0771","Rural",
+"24337","La Chomba","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0786","Rural",
+"24337","La Lucha","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0789","Rural",
+"24337","Corte Pajaral","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0219","Rural",
+"24337","California","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0247","Rural",
+"24337","Chaleco","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0767","Rural",
+"24337","Santo Domingo","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0221","Rural",
+"24337","Vicente Guerrero 1","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0233","Rural",
+"24337","El Lechugal","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0237","Rural",
+"24337","El Marfil","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0772","Rural",
+"24337","Las Palmitas","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0793","Rural",
+"24337","San Lorenzo","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0801","Rural",
+"24338","Primer Presidente de México","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0202","Rural",
+"24338","Santa Elena","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0183","Rural",
+"24338","Vicente Lombardo Toledano","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0190","Rural",
+"24338","Benito Juárez","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0196","Rural",
+"24338","General Francisco J Mújica","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0782","Rural",
+"24338","La Nueva Lucha","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0198","Rural",
+"24338","La Fortuna","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0788","Rural",
+"24338","Los 4 Hermanos","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0794","Rural",
+"24343","El Retiro","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0776","Rural",
+"24343","El Tigre","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0778","Rural",
+"24343","La Campana","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0785","Rural",
+"24343","Campo La Olla","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0764","Rural",
+"24343","Salsipuedes","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0800","Rural",
+"24343","San Rafael del Río Caribe","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0207","Rural",
+"24343","Pablo Torres Burgos","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0208","Rural",
+"24343","Esmeralda","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0212","Rural",
+"24343","El Pedregal","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0230","Rural",
+"24343","Ballesteros","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0763","Rural",
+"24343","Selva Negra","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0803","Rural",
+"24344","El Muerto","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0775","Rural",
+"24344","El Silencio","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0777","Rural",
+"24344","Chencapa","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0768","Rural",
+"24344","Aguada Seca","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0760","Rural",
+"24345","Los Pollos","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0795","Rural",
+"24345","La Misteriosa","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0195","Rural",
+"24345","Las Golondrinas","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0218","Rural",
+"24345","La Tómbola","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0790","Rural",
+"24345","Carlos Sansores Pérez","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0765","Rural",
+"24345","El Mirador","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0774","Rural",
+"24345","La Unión","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0791","Rural",
+"24345","Paraguas","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0799","Rural",
+"24346","Alianza Productora","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0761","Rural",
+"24346","La Amapola","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0784","Rural",
+"24346","Tres Reyes","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0807","Rural",
+"24346","El Desengaño","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0174","Rural",
+"24346","San Dimas (Alianza II)","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","1195","Rural",
+"24346","Arroyo de Cuba","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0762","Rural",
+"24346","Solidaridad","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0804","Rural",
+"24347","Flor de Chiapas","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0780","Rural",
+"24347","Los Tulipanes","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0796","Rural",
+"24347","Cerro las Águilas","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0766","Rural",
+"24347","Vicente Guerrero 2","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0808","Rural",
+"24347","El Ramonal","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0216","Rural",
+"24347","San Miguel","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0239","Rural",
+"24347","Narciso Mendoza","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0798","Rural",
+"24348","Pedro Baranda (Héctor Pérez Martínez)","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0242","Rural",
+"24348","Héctor Pérez Morales","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0206","Rural",
+"24348","San Juan","Rancho o rancheria","Candelaria","Campeche",,"24331","04","24331",,"29","011","0205","Rural",
+"24348","Nuevo Canutillo (san Manuel)","Pueblo","Candelaria","Campeche",,"24331","04","24331",,"28","011","0209","Rural",
+"24348","Justo Sierra Méndez","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0213","Rural",
+"24348","Tenancingo","Ejido","Candelaria","Campeche",,"24331","04","24331",,"15","011","0806","Rural",
+"24350","Unidad Esfuerzo y Trabajo I","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0633","Semiurbano","05"
+"24350","Fátima","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0620","Semiurbano","05"
+"24350","Sal Si Puedes II","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0621","Semiurbano","05"
+"24350","Ignacio Zaragoza","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0634","Semiurbano","05"
+"24350","Carlos Salinas de Gortari","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0635","Semiurbano","05"
+"24350","Escárcega Centro","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0252","Semiurbano","05"
+"24350","Unidad Esfuerzo y Trabajo II","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0632","Semiurbano","05"
+"24350","Concordia","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0625","Semiurbano","05"
+"24350","Vicente Fox","Fraccionamiento","Escárcega","Campeche","Escárcega","24351","04","24351",,"21","009","1249","Semiurbano","05"
+"24350","Sal Si Puedes I","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0623","Semiurbano","05"
+"24350","10 de Mayo","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0626","Semiurbano","05"
+"24350","Fertimex","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0630","Semiurbano","05"
+"24350","La Jeringa","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","1250","Semiurbano","05"
+"24350","Jesús Garcia","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0624","Semiurbano","05"
+"24350","Esperanza","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0631","Semiurbano","05"
+"24350","Benito Juárez","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0622","Semiurbano","05"
+"24350","Flores Magón","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0627","Semiurbano","05"
+"24350","Morelos","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0629","Semiurbano","05"
+"24350","Emiliano Zapata","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0619","Semiurbano","05"
+"24350","Revolución","Colonia","Escárcega","Campeche","Escárcega","24351","04","24351",,"09","009","0628","Semiurbano","05"
+"24353","Belén","Rancho o rancheria","Escárcega","Campeche",,"24351","04","24351",,"29","009","0257","Rural",
+"24353","Matamoros","Rancho o rancheria","Escárcega","Campeche",,"24351","04","24351",,"29","009","0258","Rural",
+"24354","Luna","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","0186","Rural",
+"24354","El Calabozo","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","1201","Rural",
+"24354","Haro","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","0259","Rural",
+"24354","División del Norte","Pueblo","Escárcega","Campeche",,"24351","04","24351",,"28","009","0254","Rural",
+"24354","Don Samuel","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","0200","Rural",
+"24354","La Victoria","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","0260","Rural",
+"24357","La Flor","Ejido","Escárcega","Campeche",,"24331","04","24331",,"15","009","1104","Rural",
+"24357","Benito Juárez 2","Ejido","Escárcega","Campeche",,"24331","04","24331",,"15","009","0197","Rural",
+"24358","El Huiro","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","1099","Rural",
+"24358","Guadalajara","Rancho o rancheria","Escárcega","Campeche",,"24351","04","24351",,"29","009","0194","Rural",
+"24358","Francisco I Madero 1","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","0193","Rural",
+"24364","Juan Escutia (el Esfuerzo)","Rancho o rancheria","Escárcega","Campeche",,"24351","04","24351",,"29","009","0335","Rural",
+"24364","Juan de La Barrera","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","1202","Rural",
+"24364","La Asunción","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","1103","Rural",
+"24364","La Esperanza","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","0272","Rural",
+"24364","Kilómetro 74","Rancho o rancheria","Escárcega","Campeche",,"24351","04","24351",,"29","009","0273","Rural",
+"24367","Nuevo Progreso 2","Rancho o rancheria","Escárcega","Campeche",,"24351","04","24351",,"29","009","0278","Rural",
+"24368","Kilómetro 36","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","0281","Rural",
+"24368","José de La Cruz Blanco","Rancho o rancheria","Escárcega","Campeche",,"24351","04","24351",,"29","009","0280","Rural",
+"24369","La Chiquita","Rancho o rancheria","Escárcega","Campeche",,"24351","04","24351",,"29","009","0282","Rural",
+"24370","Altamira de Zinaparo","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","0366","Rural",
+"24370","Flor de Chiapas","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","1101","Rural",
+"24370","Laguna Grande","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","1105","Rural",
+"24370","Centenario","Pueblo","Escárcega","Campeche",,"24351","04","24351",,"28","009","0370","Rural",
+"24370","Silvituc","Pueblo","Escárcega","Campeche",,"24351","04","24351",,"28","009","0368","Rural",
+"24370","Lic. J López Portillo No. 1","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","1106","Rural",
+"24370","Lic. Benito Juárez García No. 3","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","1107","Rural",
+"24373","Las Maravillas","Rancho o rancheria","Escárcega","Campeche",,"24351","04","24351",,"29","009","0373","Rural",
+"24373","Chan Laguna","Rancho o rancheria","Escárcega","Campeche",,"24351","04","24351",,"29","009","0374","Rural",
+"24373","El Jobal","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","1100","Rural",
+"24374","Justicia Social","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","0371","Rural",
+"24374","Libertad","Rancho o rancheria","Escárcega","Campeche",,"24351","04","24351",,"29","009","0264","Rural",
+"24374","El Lechugal","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","1200","Rural",
+"24374","Lic. Adolfo López Mateos","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","0955","Rural",
+"24374","Nuevo Campeche (Tres Aguadas)","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","1204","Rural",
+"24375","Miguel de La Madrid","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","1203","Rural",
+"24375","Gral. Rodolfo Fierros","Ejido","Escárcega","Campeche",,"24351","04","24351",,"15","009","1102","Rural",
+"24400","Carolinas","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0978","Semiurbano","08"
+"24400","Cocal","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0980","Semiurbano","08"
+"24400","Flamboyan","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0984","Semiurbano","08"
+"24400","Camaroncito","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","1033","Semiurbano","08"
+"24400","Cristóbal Colon","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0508","Semiurbano","08"
+"24400","Plan-chac","Unidad habitacional","Champotón","Campeche","Champotón","24401","04","24401",,"31","004","0519","Semiurbano","08"
+"24400","Arenal","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0972","Semiurbano","08"
+"24400","Aserradero","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0974","Semiurbano","08"
+"24400","Guadalupe","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0985","Semiurbano","08"
+"24400","La Santa","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0990","Semiurbano","08"
+"24400","Puente Viejo","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","1002","Semiurbano","08"
+"24400","Champotón Centro","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0306","Semiurbano","08"
+"24400","Nueva Esperanza","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0517","Semiurbano","08"
+"24400","San Patricio","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0526","Semiurbano","08"
+"24400","Pedregal","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","1000","Semiurbano","08"
+"24400","Huanal","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","1032","Semiurbano","08"
+"24400","Las Brisas","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0513","Semiurbano","08"
+"24400","Centenario","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0979","Semiurbano","08"
+"24400","INFONAVIT","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0987","Semiurbano","08"
+"24400","Las Mercedes","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0992","Semiurbano","08"
+"24400","Las Palomas","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0993","Semiurbano","08"
+"24400","Malecón","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0996","Semiurbano","08"
+"24400","Manguitos","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0997","Semiurbano","08"
+"24400","Microondas","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","1034","Semiurbano","08"
+"24400","Mirador I","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","1183","Semiurbano","08"
+"24400","La Cruz","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0511","Semiurbano","08"
+"24400","Moch-cohuop INFONAVIT","Unidad habitacional","Champotón","Campeche","Champotón","24401","04","24401",,"31","004","0516","Semiurbano","08"
+"24400","Arrocera","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0973","Semiurbano","08"
+"24400","ISSSTE","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0988","Semiurbano","08"
+"24400","Laureles","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0994","Semiurbano","08"
+"24400","Nueva Esperanza INFONAVIT","Unidad habitacional","Champotón","Campeche","Champotón","24401","04","24401",,"31","004","0518","Semiurbano","08"
+"24400","Pozo del Monte","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0520","Semiurbano","08"
+"24400","Tajonal","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0529","Semiurbano","08"
+"24400","Cuauhtémoc","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0983","Semiurbano","08"
+"24400","Guadalupe Victoria","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0986","Semiurbano","08"
+"24400","Nueva Jerusalén","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0998","Semiurbano","08"
+"24400","Pozo del Chenpek","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0509","Semiurbano","08"
+"24400","Concepción Duran","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0981","Semiurbano","08"
+"24400","Venustiano Carranza","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0530","Semiurbano","08"
+"24400","Avenida","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0975","Semiurbano","08"
+"24400","Cañaveral","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0976","Semiurbano","08"
+"24400","Cardenal","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0977","Semiurbano","08"
+"24400","La Playa","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0989","Semiurbano","08"
+"24400","Paraíso","Ejido","Champotón","Campeche","Champotón","24401","04","24401",,"15","004","0999","Semiurbano","08"
+"24400","Lázaro Cárdenas","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","0995","Semiurbano","08"
+"24400","Ulises Sansores","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","1004","Semiurbano","08"
+"24400","Mirador II","Colonia","Champotón","Campeche","Champotón","24401","04","24401",,"09","004","1184","Semiurbano","08"
+"24402","San Miguel Ulumal","Pueblo","Champotón","Campeche",,"24401","04","24401",,"28","004","0308","Rural",
+"24402","El Zapote","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0311","Rural",
+"24402","Canasayab","Pueblo","Champotón","Campeche",,"24401","04","24401",,"28","004","0958","Rural",
+"24402","Paraíso","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0310","Rural",
+"24402","Moquel","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0309","Rural",
+"24403","El Porvenir","Rancho o rancheria","Champotón","Campeche",,"24401","04","24401",,"29","004","0312","Rural",
+"24404","San José de Carpizo 1","Rancho o rancheria","Champotón","Campeche",,"24401","04","24401",,"29","004","0313","Rural",
+"24404","San Miguel","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1097","Rural",
+"24404","San José de Carpizo 2","Rancho o rancheria","Champotón","Campeche",,"24401","04","24401",,"29","004","0314","Rural",
+"24405","San Antonio del Río","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1096","Rural",
+"24410","Nueva Esperanza","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1175","Rural",
+"24410","La Fraternidad","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1215","Rural",
+"24410","San Marcos","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1217","Rural",
+"24410","Ley Federal de La Reforma Agraria Cam","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0317","Rural",
+"24410","San Pablo","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0319","Rural",
+"24410","Punta Xen","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1095","Rural",
+"24410","La Estrella","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1220","Rural",
+"24410","Vicente Guerrero","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0320","Rural",
+"24410","La Nueva Esperanza (Santo Domingo)","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1177","Rural",
+"24410","Cañaveral","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1178","Rural",
+"24410","Caporal","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1219","Rural",
+"24410","San Luis Carpizo","Rancho o rancheria","Champotón","Campeche",,"24401","04","24401",,"29","004","0318","Rural",
+"24410","San Felipe","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1216","Rural",
+"24410","Villa Mar","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1181","Rural",
+"24411","Pustunich","Rancho o rancheria","Champotón","Campeche",,"24401","04","24401",,"29","004","0322","Rural",
+"24411","Lic. Adolfo López Mateos (la Desconfianza)","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0321","Rural",
+"24413","Valle Hermoso","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1221","Rural",
+"24413","San Pablo Pixtun","Pueblo","Champotón","Campeche",,"24401","04","24401",,"28","004","0324","Rural",
+"24414","Revolución","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0336","Rural",
+"24414","Pixoyal","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0276","Rural",
+"24414","Dzacabuchen","Pueblo","Champotón","Campeche",,"24401","04","24401",,"28","004","0325","Rural",
+"24414","Monte Bravo","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1218","Rural",
+"24414","José María Morelos y Pavón","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0327","Rural",
+"24414","General José Ortiz Ávila","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1088","Rural",
+"24414","El Pocito","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0326","Rural",
+"24414","Lázaro Cárdenas 3","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1091","Rural",
+"24414","Aquiles Serdán","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1084","Rural",
+"24415","San Antonio Yacasay","Rancho o rancheria","Champotón","Campeche",,"24401","04","24401",,"29","004","0329","Rural",
+"24415","Felipe Carrillo Puerto","Pueblo","Champotón","Campeche",,"24401","04","24401",,"28","004","0328","Rural",
+"24416","Santa María Xbacab","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0330","Rural",
+"24418","Miguel Colorado","Rancho o rancheria","Champotón","Campeche",,"24351","04","24351",,"29","004","0277","Rural",
+"24418","5 de Febrero","Ejido","Champotón","Campeche",,"24351","04","24351",,"15","004","0275","Rural",
+"24418","Venustiano Carranza Km. 67","Ejido","Champotón","Campeche",,"24351","04","24351",,"15","004","0332","Rural",
+"24419","Prof. Graciano Sanchez (cantemo)","Ejido","Champotón","Campeche",,"24351","04","24351",,"15","004","0334","Rural",
+"24420","Arellano","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0337","Rural",
+"24420","San Dimas (Villa de Guadalupe)","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0338","Rural",
+"24421","Villa de Guadalupe","Unidad habitacional","Champotón","Campeche",,"24401","04","24401",,"31","004","0339","Rural",
+"24423","San Juan Carpizo","Hacienda","Champotón","Campeche",,"24401","04","24401",,"24","004","0341","Rural",
+"24424","López Portillo 2 (Nilun)","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1092","Rural",
+"24424","Valle de Quetzalcoatl","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1098","Rural",
+"24424","López Portillo","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1182","Rural",
+"24425","Yohaltun","Rancho o rancheria","Champotón","Campeche",,"24401","04","24401",,"29","004","0344","Rural",
+"24425","Chaccheito","Rancho o rancheria","Champotón","Campeche",,"24401","04","24401",,"29","004","0343","Rural",
+"24430","Santa Cruz de Rovira","Rancho o rancheria","Champotón","Campeche",,"24401","04","24401",,"29","004","0345","Rural",
+"24433","Nuevo Michoacán","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1179","Rural",
+"24435","Nayarit de Castello (xnoha)","Rancho o rancheria","Champotón","Campeche",,"24401","04","24401",,"29","004","0347","Rural",
+"24435","Buena Ventura","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1085","Rural",
+"24440","Hool","Pueblo","Champotón","Campeche",,"24401","04","24401",,"28","004","0349","Rural",
+"24440","Santo Domingo Kesté","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1174","Rural",
+"24441","Carlos Salinas de Gortari","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0350","Rural",
+"24443","Chilam Balán","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1086","Rural",
+"24443","Nuevo Paraíso","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1222","Rural",
+"24443","Miguel Allende","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1093","Rural",
+"24443","Kukulkán","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1090","Rural",
+"24443","Ah Kim Pech","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1083","Rural",
+"24443","Moch Cohuo","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1094","Rural",
+"24445","Dzitbalche de Castellot","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1087","Rural",
+"24445","Ignacio López Rayón","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1089","Rural",
+"24445","Providencia","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","1180","Rural",
+"24450","Sihochac","Pueblo","Champotón","Campeche",,"24401","04","24401",,"28","004","0351","Rural",
+"24451","La Joya","Ingenio","Champotón","Campeche",,"24401","04","24401",,"25","004","0352","Rural",
+"24459","Ciudad del Sol","Ciudad","Champotón","Campeche",,"24401","04","24401",,"08","004","0354","Rural",
+"24460","Costa Blanca","Rancho o rancheria","Champotón","Campeche",,"24001","04","24001",,"29","004","0355","Rural",
+"24460","Sihoplaya","Rancho o rancheria","Champotón","Campeche",,"24001","04","24001",,"29","004","0357","Rural",
+"24460","Seybaplaya","Villa","Champotón","Campeche",,"24001","04","24001",,"32","004","0356","Rural",
+"24462","Villa Madero","Ejido","Champotón","Campeche",,"24401","04","24401",,"15","004","0956","Rural",
+"24462","Haltunchen","Hacienda","Champotón","Campeche",,"24401","04","24401",,"24","004","0359","Rural",
+"24464","X-keulil","Pueblo","Champotón","Campeche",,"24401","04","24401",,"28","004","0361","Rural",
+"24482","Coronel Ortiz AVIla (lechugal)","Ejido","Champotón","Campeche",,"24351","04","24351",,"15","004","0372","Rural",
+"24495","Mayatecum","Rancho o rancheria","Champotón","Campeche",,"24401","04","24401",,"29","004","0378","Rural",
+"24500","Marañon","Colonia","Campeche","Campeche",,"24001","04","24001",,"09","002","0707","Rural",
+"24500","Huayita","Colonia","Campeche","Campeche",,"24001","04","24001",,"09","002","0712","Rural",
+"24500","San Bartolo","Colonia","Campeche","Campeche",,"24001","04","24001",,"09","002","1076","Rural",
+"24500","Lerma","Pueblo","Campeche","Campeche",,"24001","04","24001",,"28","002","0379","Rural",
+"24500","Tepeyac","Colonia","Campeche","Campeche",,"24001","04","24001",,"09","002","0703","Rural",
+"24500","Satélite","Colonia","Campeche","Campeche",,"24001","04","24001",,"09","002","0711","Rural",
+"24500","Zona Industrial","Zona industrial","Campeche","Campeche",,"24001","04","24001",,"37","002","0713","Rural",
+"24500","Secretaria de Marina","Unidad habitacional","Campeche","Campeche",,"24001","04","24001",,"31","002","1075","Rural",
+"24500","San Antonio","Colonia","Campeche","Campeche",,"24001","04","24001",,"09","002","0705","Rural",
+"24500","Espíritu Santo","Fraccionamiento","Campeche","Campeche",,"24001","04","24001",,"21","002","1073","Rural",
+"24500","Chiapaneca","Colonia","Campeche","Campeche",,"24001","04","24001",,"09","002","0702","Rural",
+"24500","Playa Bonita","Fraccionamiento","Campeche","Campeche",,"24001","04","24001",,"21","002","0709","Semiurbano",
+"24500","La Guadalupana","Colonia","Campeche","Campeche",,"24001","04","24001",,"09","002","1074","Rural",
+"24500","Tres Cruces","Colonia","Campeche","Campeche",,"24001","04","24001",,"09","002","0706","Rural",
+"24500","Becan","Colonia","Campeche","Campeche",,"24001","04","24001",,"09","002","0708","Rural",
+"24500","Pesquera","Unidad habitacional","Campeche","Campeche",,"24001","04","24001",,"31","002","0710","Rural",
+"24500","Kila","Colonia","Campeche","Campeche",,"24001","04","24001",,"09","002","0714","Rural",
+"24500","Las Brisas","Colonia","Campeche","Campeche",,"24001","04","24001",,"09","002","0704","Rural",
+"24510","Lázaro Cárdenas","Colonia","Campeche","Campeche",,"24001","04","24001",,"09","002","0381","Rural",
+"24511","Río Verde","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0382","Rural",
+"24517","Castamay","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0383","Rural",
+"24520","San Antonio Bobola","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","1119","Rural",
+"24520","Mucuychakan","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0386","Rural",
+"24520","China","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0384","Rural",
+"24520","Hobomo","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0385","Rural",
+"24522","San Agustin Ola","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0389","Rural",
+"24523","Chulbac","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","1190","Rural",
+"24523","San Lorenzo","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","1193","Rural",
+"24530","Uayamon","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0391","Rural",
+"24530","Lubna","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0390","Rural",
+"24532","Pocyaxum","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0392","Rural",
+"24536","Noh-yaxche","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0393","Rural",
+"24537","Nohakal","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0394","Rural",
+"24538","Quetzal-Edzna Modulo 1","Ejido","Campeche","Campeche",,"24571","04","24571",,"15","002","0395","Rural",
+"24540","Pueblo Nuevo Cayal","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0396","Rural",
+"24541","San Antonio Cayal","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0397","Rural",
+"24549","Bacabchen Cahuich","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0398","Rural",
+"24550","Miguel Alemán (X- Campeu)","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","1191","Rural",
+"24550","Chencolli","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0399","Rural",
+"24550","Tikinmul","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0400","Rural",
+"24552","Nilchi","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0401","Rural",
+"24553","San Camilo","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","1117","Rural",
+"24557","Crucero OXA","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0402","Rural",
+"24560","Hampolol","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0404","Rural",
+"24560","Imi","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0405","Rural",
+"24560","San Francisco Koben","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0406","Rural",
+"24561","Cereso San Francisco Koben","Gran usuario","Campeche","Campeche",,"24001","04","24001",,"22","002","0407","Rural",
+"24562","Bethania","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0408","Rural",
+"24564","Chemblas","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0409","Rural",
+"24570","Melchor Ocampo","Pueblo","Campeche","Campeche",,"24571","04","24571",,"28","002","0413","Rural",
+"24570","Alfredo V Bonfil","Pueblo","Campeche","Campeche",,"24571","04","24571",,"28","002","0411","Rural",
+"24570","Tixmucuy","Ejido","Campeche","Campeche",,"24571","04","24571",,"15","002","0414","Rural",
+"24570","Pénjamo","Ejido","Campeche","Campeche",,"24571","04","24571",,"15","002","1118","Rural",
+"24570","Kikab","Ejido","Campeche","Campeche",,"24571","04","24571",,"15","002","0346","Rural",
+"24570","Hontun","Hacienda","Campeche","Campeche",,"24571","04","24571",,"24","002","0412","Rural",
+"24572","Pich","Ejido","Campeche","Campeche",,"24571","04","24571",,"15","002","0415","Rural",
+"24572","San Luciano","Ejido","Campeche","Campeche",,"24571","04","24571",,"15","002","0416","Rural",
+"24573","San Miguel Allende","Ejido","Campeche","Campeche",,"24571","04","24571",,"15","002","1120","Rural",
+"24573","Quetzal Edzna Modulo Dos","Ejido","Campeche","Campeche",,"24571","04","24571",,"15","002","1192","Rural",
+"24573","Carlos Cano Cruz","Ejido","Campeche","Campeche",,"24571","04","24571",,"15","002","1121","Rural",
+"24575","Adolfo Ruiz Cortines","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0418","Rural",
+"24576","Bolonchen Cahuich","Ejido","Campeche","Campeche",,"24001","04","24001",,"15","002","0419","Rural",
+"24600","Norte","Colonia","Hopelchén","Campeche","Hopelchen","24601","04","24601",,"09","006","0608","Rural","07"
+"24600","Dolores Lanz","Colonia","Hopelchén","Campeche","Hopelchen","24601","04","24601",,"09","006","0656","Rural","07"
+"24600","Magisterial","Colonia","Hopelchén","Campeche","Hopelchen","24601","04","24601",,"09","006","0607","Rural","07"
+"24600","San Isidro","Colonia","Hopelchén","Campeche","Hopelchen","24601","04","24601",,"09","006","0610","Rural","07"
+"24600","Campo de Aviación","Colonia","Hopelchén","Campeche","Hopelchen","24601","04","24601",,"09","006","0606","Rural","07"
+"24600","San Román","Colonia","Hopelchén","Campeche","Hopelchen","24601","04","24601",,"09","006","0609","Rural","07"
+"24600","El Tamarindo","Colonia","Hopelchén","Campeche","Hopelchen","24601","04","24601",,"09","006","0604","Rural","07"
+"24600","San Martín","Colonia","Hopelchén","Campeche","Hopelchen","24601","04","24601",,"09","006","0612","Rural","07"
+"24600","Hopelchen Centro","Colonia","Hopelchén","Campeche","Hopelchen","24601","04","24601",,"09","006","0420","Rural","07"
+"24600","San Luis","Colonia","Hopelchén","Campeche","Hopelchen","24601","04","24601",,"09","006","0611","Rural","07"
+"24600","Santa Cruz","Colonia","Hopelchén","Campeche","Hopelchen","24601","04","24601",,"09","006","0605","Rural","07"
+"24603","Ich-ek","Ejido","Hopelchén","Campeche",,"24601","04","24601",,"15","006","0424","Rural",
+"24603","Rancho Sosa","Ejido","Hopelchén","Campeche",,"24601","04","24601",,"15","006","1124","Rural",
+"24603","Xcalot-akal","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0425","Rural",
+"24603","Yaxche Akal","Congregacion","Hopelchén","Campeche",,"24601","04","24601",,"11","006","0426","Rural",
+"24604","El Poste","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0421","Rural",
+"24604","Crucero San Luis","Pueblo","Hopelchén","Campeche",,"24601","04","24601",,"28","006","0427","Rural",
+"24604","San Isidro","Ejido","Hopelchén","Campeche",,"24601","04","24601",,"15","006","1198","Rural",
+"24604","San Francisco Suctuc","Pueblo","Hopelchén","Campeche",,"24601","04","24601",,"28","006","0428","Rural",
+"24604","San Juan Bautista Sahcabchen","Pueblo","Hopelchén","Campeche",,"24601","04","24601",,"28","006","0422","Rural",
+"24605","Xcupil-cacab","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0429","Rural",
+"24606","Santa Rita Becanchen","Pueblo","Hopelchén","Campeche",,"24601","04","24601",,"28","006","0430","Rural",
+"24607","Konchen","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0431","Rural",
+"24609","Pacchen","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0432","Rural",
+"24610","Chencoh","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0433","Rural",
+"24610","Chun-ek","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0434","Rural",
+"24611","Dzibalchen","Pueblo","Hopelchén","Campeche",,"24601","04","24601",,"28","006","0435","Rural",
+"24612","Francisco J Mújica","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0457","Rural",
+"24612","Huechil","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0437","Rural",
+"24612","Cancabchen","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0436","Rural",
+"24613","Chunchintok","Pueblo","Hopelchén","Campeche",,"24601","04","24601",,"28","006","0438","Rural",
+"24615","Ukum","Pueblo","Hopelchén","Campeche",,"24601","04","24601",,"28","006","0439","Rural",
+"24620","Bolonchen de Rejón","Villa","Hopelchén","Campeche",,"24601","04","24601",,"32","006","0440","Rural",
+"24620","Xcanahaltun Uechil Unidos","Ejido","Hopelchén","Campeche",,"24601","04","24601",,"15","006","0441","Rural",
+"24620","Katab","Ejido","Hopelchén","Campeche",,"24601","04","24601",,"15","006","1122","Rural",
+"24622","Xculoc","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0477","Rural",
+"24622","Campo Menonita","Ejido","Hopelchén","Campeche",,"24601","04","24601",,"15","006","1199","Rural",
+"24622","Chunyaxnic","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0443","Rural",
+"24622","San Antonio Yaxchen","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0444","Rural",
+"24622","Chuncedro","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0476","Rural",
+"24622","Chunhuaymil","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0442","Rural",
+"24640","Xpujil","Pueblo","Calakmul","Campeche",,"24351","04","24351",,"28","010","0445","Rural",
+"24643","El Porvenir","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0835","Rural",
+"24643","Becan","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0375","Rural",
+"24643","El Refugio","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0836","Rural",
+"24643","Tepeyac","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0868","Rural",
+"24643","Valentín Gómez Farias","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0872","Rural",
+"24644","Nuevo Becal","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0447","Rural",
+"24644","Bonanza","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0819","Rural",
+"24644","Zoh-laguna (alvaro Obregón)","Pueblo","Calakmul","Campeche",,"24351","04","24351",,"28","010","0449","Rural",
+"24644","Bel-ha","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0816","Rural",
+"24644","Dos Lagunas","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0828","Rural",
+"24644","Nueva Vida","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0855","Rural",
+"24644","Ricardo Flores Magón","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0865","Rural",
+"24644","Santo Domingo","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0867","Rural",
+"24644","Unión 20 de Junio","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0871","Rural",
+"24645","Gral. Manuel Castilla Brito Km. 17","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0451","Rural",
+"24645","ing. Ricardo Payro Jene (polo Norte)","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0453","Rural",
+"24645","Hermenegildo Galeana","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0841","Rural",
+"24645","La Virgencita de La Candelaria","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0851","Rural",
+"24645","Placeres","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0861","Rural",
+"24645","Felipe Ángeles","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0838","Rural",
+"24645","Gustavo Diaz Ordaz","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0839","Rural",
+"24645","Caña Brava","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0820","Rural",
+"24645","El Carmen II","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0832","Rural",
+"24645","Nuevo Progreso 3","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0857","Rural",
+"24645","Cristóbal Colon","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0450","Rural",
+"24645","El Manantial","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0834","Rural",
+"24645","La Victoria","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0850","Rural",
+"24645","Los Ángeles","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0456","Rural",
+"24645","Unidad y Trabajo","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0870","Rural",
+"24645","21 de Mayo (Lechugal)","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","1207","Rural",
+"24645","20 de Noviembre","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0448","Rural",
+"24645","La Lucha","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0848","Rural",
+"24645","Narciso Mendoza","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","1209","Rural",
+"24645","Tomas Aznar Barbachano","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0869","Rural",
+"24646","Nuevo San José","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0858","Rural",
+"24646","Los Tambores de Emiliano Zapata","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0852","Rural",
+"24646","Los Alacranes","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0455","Rural",
+"24646","16 de Septiembre","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0810","Rural",
+"24646","Manuel Cresencio Rejón","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0853","Rural",
+"24646","Lázaro Cárdenas 2 (ojo de Agua)","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0454","Rural",
+"24646","5 de Mayo","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0811","Rural",
+"24646","Carlos A Madrazo","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0821","Rural",
+"24646","Nuevo Veracruz","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0859","Rural",
+"24646","Pioneros de Río-x-noha","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0860","Rural",
+"24646","Plan de Ayala (5 de Mayo)","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","1205","Rural",
+"24646","El Tesoro","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0837","Rural",
+"24646","Quiche las Pailas","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0864","Rural",
+"24646","Bella Unión de Veracruz","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0817","Rural",
+"24646","Blasillo","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0818","Rural",
+"24646","Dos Aguadas","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0827","Rural",
+"24646","San Miguel","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0866","Rural",
+"24646","Cerro de las Flores (Sta. Rosa)","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0824","Rural",
+"24646","Josefa Ortiz de Domínguez","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0844","Rural",
+"24646","Justo Sierra Méndez","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0845","Rural",
+"24647","Aguas Amargas","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0812","Rural",
+"24647","José Ma. Morelos y Pavón","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0843","Rural",
+"24647","11 de Mayo","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0809","Rural",
+"24647","Aguas Turbias","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0813","Rural",
+"24647","Dos Lagunas","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0874","Rural",
+"24647","Arroyo Negro","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0814","Rural",
+"24647","Dos Naciones","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0829","Rural",
+"24647","Ley de Fomento Agropecuario (La Misteriosa)","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","1206","Rural",
+"24648","El Chichonal","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0833","Rural",
+"24648","Heriberto Jara Corona","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0840","Rural",
+"24648","Lucha","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0849","Rural",
+"24648","La Guadalupe","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0847","Rural",
+"24648","Plan de San Luis","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0862","Rural",
+"24648","E Echeverría Castellot","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0831","Rural",
+"24648","Niños Héroes","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0854","Rural",
+"24648","Nuevo Campanario","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0856","Rural",
+"24653","Balanku","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0815","Rural",
+"24653","Nuevo Conhuas","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0365","Rural",
+"24653","Concepción","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0825","Rural",
+"24654","Felipe Ángeles II","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0369","Rural",
+"24654","Puebla de Morelia","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0863","Rural",
+"24654","San José","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0846","Rural",
+"24654","Emiliano Zapata","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","1208","Rural",
+"24654","E Echeverría Castellot 1","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0830","Rural",
+"24655","Centauro del Norte","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0822","Rural",
+"24655","Chicana","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0826","Rural",
+"24655","Hormiguero","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0842","Rural",
+"24656","Central Chiclera Villahermosa","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0823","Rural",
+"24656","22 de Abril","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0873","Rural",
+"24658","Xbonil","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0348","Rural",
+"24658","Constitución","Rancho o rancheria","Calakmul","Campeche",,"24351","04","24351",,"29","010","0362","Rural",
+"24658","Santa Lucia","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0367","Rural",
+"24658","Pablo Garcia","Ejido","Calakmul","Campeche",,"24351","04","24351",,"15","010","0363","Rural",
+"24660","Vicente Guerrero (iturbide)","Pueblo","Hopelchén","Campeche",,"24601","04","24601",,"28","006","0458","Rural",
+"24663","Ramón Corona","Ejido","Hopelchén","Campeche",,"24601","04","24601",,"15","006","0459","Rural",
+"24665","Pachuitz","Ejido","Hopelchén","Campeche",,"24601","04","24601",,"15","006","0460","Rural",
+"24667","Xcan-ha","Ejido","Hopelchén","Campeche",,"24601","04","24601",,"15","006","0461","Rural",
+"24667","Chanyaxché","Ejido","Hopelchén","Campeche",,"24601","04","24601",,"15","006","1123","Rural",
+"24668","Chan-chen","Ejido","Hopelchén","Campeche",,"24601","04","24601",,"15","006","0462","Rural",
+"24670","Xmaben","Rancho o rancheria","Hopelchén","Campeche",,"24601","04","24601",,"29","006","0463","Rural",
+"24678","Xmejia","Ejido","Hopelchén","Campeche",,"24601","04","24601",,"15","006","0464","Rural",
+"24700","Tenabo Centro","Colonia","Tenabo","Campeche",,"24801","04","24801",,"09","008","0465","Rural",
+"24703","Jacinto Canek","Barrio","Tenabo","Campeche",,"24801","04","24801",,"02","008","0948","Rural",
+"24704","San Pedro","Barrio","Tenabo","Campeche",,"24801","04","24801",,"02","008","0949","Rural",
+"24705","Procesadora","Barrio","Tenabo","Campeche",,"24801","04","24801",,"02","008","0950","Rural",
+"24706","Ana María Farias","Barrio","Tenabo","Campeche",,"24801","04","24801",,"02","008","0953","Rural",
+"24706","Esperanza","Barrio","Tenabo","Campeche",,"24801","04","24801",,"02","008","0952","Rural",
+"24706","Lazareto","Barrio","Tenabo","Campeche",,"24801","04","24801",,"02","008","0951","Rural",
+"24707","Guadalupe","Barrio","Tenabo","Campeche",,"24801","04","24801",,"02","008","0954","Rural",
+"24720","Kanki","Pueblo","Tenabo","Campeche",,"24801","04","24801",,"28","008","0466","Rural",
+"24723","Chilib","Ejido","Tenabo","Campeche",,"24801","04","24801",,"15","008","1226","Rural",
+"24730","Tinun","Pueblo","Tenabo","Campeche",,"24801","04","24801",,"28","008","0467","Rural",
+"24732","Emiliano Zapata","Ejido","Tenabo","Campeche",,"24801","04","24801",,"15","008","0468","Rural",
+"24732","San Pedro Corralche","Ejido","Tenabo","Campeche",,"24801","04","24801",,"15","008","1228","Rural",
+"24732","Santa Rita","Ejido","Tenabo","Campeche",,"24801","04","24801",,"15","008","1227","Rural",
+"24733","Xcuncheil","Ejido","Tenabo","Campeche",,"24801","04","24801",,"15","008","1189","Rural",
+"24733","Nacheha","Ejido","Tenabo","Campeche",,"24801","04","24801",,"15","008","1225","Rural",
+"24734","Santa Rosa","Ejido","Tenabo","Campeche",,"24801","04","24801",,"15","008","1188","Rural",
+"24734","Sacamucuy","Ejido","Tenabo","Campeche",,"24801","04","24801",,"15","008","1224","Rural",
+"24734","Orizaba","Ejido","Tenabo","Campeche",,"24801","04","24801",,"15","008","1223","Rural",
+"24800","San Antonio","Barrio","Hecelchakán","Campeche","Hecelchakan","24801","04","24801",,"02","005","0521","Rural","09"
+"24800","La Conquista","Barrio","Hecelchakán","Campeche","Hecelchakan","24801","04","24801",,"02","005","0510","Rural","09"
+"24800","Las Gardenias","Fraccionamiento","Hecelchakán","Campeche","Hecelchakan","24801","04","24801",,"21","005","1187","Rural","09"
+"24800","Abraham Azar","Fraccionamiento","Hecelchakán","Campeche","Hecelchakan","24801","04","24801",,"21","005","1186","Rural","09"
+"24800","Hecelchakan","Ciudad","Hecelchakán","Campeche","Hecelchakan","24801","04","24801",,"08","005","0469","Rural","09"
+"24800","San Francisco","Colonia","Hecelchakán","Campeche","Hecelchakan","24801","04","24801",,"09","005","0523","Rural","09"
+"24800","San Juan","Barrio","Hecelchakán","Campeche","Hecelchakan","24801","04","24801",,"02","005","0525","Rural","09"
+"24810","La Soledad","Colonia","Hecelchakán","Campeche","Pomuch","24801","04","24801",,"09","005","0512","Rural","11"
+"24810","San Diego","Colonia","Hecelchakán","Campeche","Pomuch","24801","04","24801",,"09","005","0522","Rural","11"
+"24810","San Jerónimo","Colonia","Hecelchakán","Campeche","Pomuch","24801","04","24801",,"09","005","0524","Rural","11"
+"24810","San Pedro","Colonia","Hecelchakán","Campeche","Pomuch","24801","04","24801",,"09","005","0527","Rural","11"
+"24810","Santa Cristina","Colonia","Hecelchakán","Campeche","Pomuch","24801","04","24801",,"09","005","0528","Rural","11"
+"24810","Villa Lucrecia","Colonia","Hecelchakán","Campeche","Pomuch","24801","04","24801",,"09","005","0531","Rural","11"
+"24810","Pomuch","Pueblo","Hecelchakán","Campeche","Pomuch","24801","04","24801",,"28","005","0471","Rural","11"
+"24810","Benito Juárez","Colonia","Hecelchakán","Campeche","Pomuch","24801","04","24801",,"09","005","0505","Rural","11"
+"24810","Colonia Nueva","Colonia","Hecelchakán","Campeche","Pomuch","24801","04","24801",,"09","005","0507","Rural","11"
+"24813","Dzotzil","Rancho o rancheria","Hecelchakán","Campeche",,"24801","04","24801",,"29","005","0472","Rural",
+"24820","San Vicente Cumpich","Pueblo","Hecelchakán","Campeche",,"24801","04","24801",,"28","005","0474","Rural",
+"24826","Dzotchen","Pueblo","Hecelchakán","Campeche",,"24801","04","24801",,"28","005","0475","Rural",
+"24828","Nohalal","Pueblo","Hecelchakán","Campeche",,"24801","04","24801",,"28","005","0478","Rural",
+"24830","Pocboc","Pueblo","Hecelchakán","Campeche",,"24801","04","24801",,"28","005","0479","Rural",
+"24830","Blanca Flor Hacienda","Ejido","Hecelchakán","Campeche",,"24801","04","24801",,"15","005","1108","Rural",
+"24831","Chunkanan","Pueblo","Hecelchakán","Campeche",,"24801","04","24801",,"28","005","0480","Rural",
+"24836","Blanca Flor","Pueblo","Hecelchakán","Campeche",,"24801","04","24801",,"28","005","0481","Rural",
+"24837","Santa Cruz","Pueblo","Hecelchakán","Campeche",,"24801","04","24801",,"28","005","0482","Rural",
+"24837","Tikin","Ejido","Hecelchakán","Campeche",,"24801","04","24801",,"15","005","1109","Rural",
+"24839","Dzitnup","Pueblo","Hecelchakán","Campeche",,"24801","04","24801",,"28","005","0483","Rural",
+"24860","Yalnon","Ejido","Hecelchakán","Campeche",,"24801","04","24801",,"15","005","1113","Rural",
+"24860","Campo Menonita Yalnon","Ejido","Hecelchakán","Campeche",,"24801","04","24801",,"15","005","0484","Rural",
+"24863","Chavi Campo Menonita","Ejido","Hecelchakán","Campeche",,"24801","04","24801",,"15","005","1185","Rural",
+"24863","Monte Bello","Ejido","Hecelchakán","Campeche",,"24801","04","24801",,"15","005","1112","Rural",
+"24863","Chencohuo","Ejido","Hecelchakán","Campeche",,"24801","04","24801",,"15","005","1110","Rural",
+"24863","San Juan Actun","Ejido","Hecelchakán","Campeche",,"24801","04","24801",,"15","005","1111","Rural",
+"24864","Yaxhaltun","Ejido","Hecelchakán","Campeche",,"24801","04","24801",,"15","005","1229","Rural",
+"24900","Calkini Centro","Colonia","Calkiní","Campeche","Calkini","24901","04","24901",,"09","001","0485","Semiurbano","03"
+"24902","San Isidro","Barrio","Calkiní","Campeche","Calkini","24901","04","24901",,"02","001","0638","Semiurbano","03"
+"24902","San Juan","Barrio","Calkiní","Campeche","Calkini","24901","04","24901",,"02","001","0639","Semiurbano","03"
+"24902","Fátima","Colonia","Calkiní","Campeche","Calkini","24901","04","24901",,"09","001","0636","Semiurbano","03"
+"24902","FOVISSSTE","Unidad habitacional","Calkiní","Campeche","Calkini","24901","04","24901",,"31","001","0637","Semiurbano","03"
+"24903","Guadalupe","Barrio","Calkiní","Campeche","Calkini","24901","04","24901",,"02","001","0644","Semiurbano","03"
+"24903","San Luisito","Barrio","Calkiní","Campeche","Calkini","24901","04","24901",,"02","001","0646","Semiurbano","03"
+"24903","San Miguel Kukab","Barrio","Calkiní","Campeche","Calkini","24901","04","24901",,"02","001","0643","Semiurbano","03"
+"24903","San Martín","Barrio","Calkiní","Campeche","Calkini","24901","04","24901",,"02","001","0647","Semiurbano","03"
+"24903","La Concepción","Barrio","Calkiní","Campeche","Calkini","24901","04","24901",,"02","001","0642","Semiurbano","03"
+"24904","Las Flores","Fraccionamiento","Calkiní","Campeche","Calkini","24901","04","24901",,"21","001","0641","Semiurbano","03"
+"24904","San Luis Obispo","Barrio","Calkiní","Campeche","Calkini","24901","04","24901",,"02","001","0640","Semiurbano","03"
+"24904","Kilakan","Barrio","Calkiní","Campeche","Calkini","24901","04","24901",,"02","001","0645","Semiurbano","03"
+"24905","Tepakan","Pueblo","Calkiní","Campeche",,"24901","04","24901",,"28","001","0487","Rural",
+"24910","Nunkini","Pueblo","Calkiní","Campeche",,"24901","04","24901",,"28","001","0488","Rural",
+"24914","Tankuche","Congregacion","Calkiní","Campeche",,"24901","04","24901",,"11","001","0490","Rural",
+"24915","Santa María","Hacienda","Calkiní","Campeche",,"24901","04","24901",,"24","001","0492","Rural",
+"24915","Pucnachen","Pueblo","Calkiní","Campeche",,"24901","04","24901",,"28","001","0491","Rural",
+"24916","Santa Cruz","Hacienda","Calkiní","Campeche",,"24901","04","24901",,"24","001","0493","Rural",
+"24917","San Nicolás","Pueblo","Calkiní","Campeche",,"24901","04","24901",,"28","001","0494","Rural",
+"24919","Isla Arena","Villa","Calkiní","Campeche",,"24901","04","24901",,"32","001","0495","Rural",
+"24920","Dzitbalche","Pueblo","Calkiní","Campeche",,"24901","04","24901",,"28","001","0496","Rural",
+"24920","Xnolan","Ejido","Calkiní","Campeche",,"24901","04","24901",,"15","001","1114","Rural",
+"24921","Santa Cruz Pueblo","Pueblo","Calkiní","Campeche",,"24901","04","24901",,"28","001","0497","Rural",
+"24922","San Antonio Sahcabchen","Rancho o rancheria","Calkiní","Campeche",,"24901","04","24901",,"29","001","0498","Rural",
+"24923","San Agustin Chunhuas","Rancho o rancheria","Calkiní","Campeche",,"24901","04","24901",,"29","001","0499","Rural",
+"24923","Xcacoch","Ejido","Calkiní","Campeche",,"24901","04","24901",,"15","001","1116","Rural",
+"24925","Bacabchen","Pueblo","Calkiní","Campeche",,"24901","04","24901",,"28","001","0501","Rural",
+"24929","Chacnichén","Ejido","Calkiní","Campeche",,"24901","04","24901",,"15","001","1115","Rural",
+"24929","Concepción","Pueblo","Calkiní","Campeche",,"24901","04","24901",,"28","001","0502","Rural",
+"24930","Becal","Pueblo","Calkiní","Campeche",,"24931","04","24931",,"28","001","0503","Rural",
+"24933","Fátima","Barrio","Calkiní","Campeche",,"24931","04","24931",,"02","001","0966","Rural",
+"24934","Carlos Rivas","Barrio","Calkiní","Campeche",,"24931","04","24931",,"02","001","0961","Rural",
+"24935","Santa Cruz","Barrio","Calkiní","Campeche",,"24931","04","24931",,"02","001","0965","Rural",
+"24935","Limón","Barrio","Calkiní","Campeche",,"24931","04","24931",,"02","001","0964","Rural",
+"24935","Pablo Garcia","Barrio","Calkiní","Campeche",,"24931","04","24931",,"02","001","0962","Rural",
+"24935","El Pocito","Barrio","Calkiní","Campeche",,"24931","04","24931",,"02","001","0968","Rural",
+"24936","San Diego","Barrio","Calkiní","Campeche",,"24931","04","24931",,"02","001","0963","Rural",
+"24936","Estación","Barrio","Calkiní","Campeche",,"24931","04","24931",,"02","001","0967","Rural",

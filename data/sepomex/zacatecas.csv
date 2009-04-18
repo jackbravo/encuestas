@@ -1,0 +1,1544 @@
+"d_codigo","d_asenta","d_tipo_asenta","D_mnpio","d_estado","d_ciudad","d_CP","c_estado","c_oficina","c_CP","c_tipo_asenta","c_mnpio","id_asenta_cpcons","d_zona","c_cve_ciudad"
+"98000","Zacatecas Centro","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0001","Urbano","03"
+"98007","Secretaria de Agricultura Ganaderia y Desarrollo Rural","Gran usuario","Zacatecas","Zacatecas","Zacatecas","98601","32","98601",,"22","056","0005","Semiurbano","03"
+"98008","Secretaria de Hacienda y Crédito Publico","Gran usuario","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"22","056","0006","Urbano","03"
+"98009","Palacio de Gobierno Del Estado de Zacatecas","Gran usuario","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"22","056","0007","Urbano","03"
+"98010","Lopez Velarde","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0008","Urbano","03"
+"98015","Mexicapan","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0009","Urbano","03"
+"98016","El Reventón","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0010","Urbano","03"
+"98017","Margaritas","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0011","Urbano","03"
+"98018","Garcia Salinas","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0012","Urbano","03"
+"98019","Pedro Ruiz Gonzalez Infonavit","Unidad habitacional","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"31","056","0013","Urbano","03"
+"98020","Gustavo Diaz Ordaz 1a Secc","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0014","Urbano","03"
+"98020","Gustavo Diaz Ordaz 3a Secc","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0016","Urbano","03"
+"98020","Gustavo Diaz Ordaz 2a Secc","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0015","Urbano","03"
+"98023","Lomas de Bracho","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1439","Semiurbano","03"
+"98030","Los Filarmónicos","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0017","Urbano","03"
+"98039","Mercedes","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0018","Urbano","03"
+"98040","Bancomer","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0019","Urbano","03"
+"98040","Lázaro Cárdenas","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0020","Urbano","03"
+"98040","Loma Barroca","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1444","Urbano","03"
+"98040","Lomas de La Soledad","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0021","Urbano","03"
+"98045","Caminera","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0022","Urbano","03"
+"98046","Frente Popular","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0023","Urbano","03"
+"98046","Luis Donaldo Colosio","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0759","Urbano","03"
+"98049","La Palma","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0024","Urbano","03"
+"98050","Lomas Del Capulín","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0025","Urbano","03"
+"98050","Minera","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0027","Urbano","03"
+"98050","Sierra de Alica","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0028","Urbano","03"
+"98050","Los Obradores","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0026","Urbano","03"
+"98050","Úrsulo Garcia","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0029","Urbano","03"
+"98051","Centro Sct Zacatecas","Gran usuario","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"22","056","0030","Urbano","03"
+"98053","Cnop","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0031","Urbano","03"
+"98053","Fernando Pamanes Escobedo","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0032","Urbano","03"
+"98053","Lomas de La Pimienta","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0033","Urbano","03"
+"98054","Miguel Hidalgo","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1426","Urbano","03"
+"98054","Emiliano Zapata","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1427","Urbano","03"
+"98054","Gral. Felipe Angeles","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0034","Urbano","03"
+"98056","Las Palmas","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0037","Urbano","03"
+"98056","Buenos Aires","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0036","Urbano","03"
+"98057","América","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0773","Urbano","03"
+"98057","Héroes de Chapultepec","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1532","Urbano","03"
+"98057","Toma de Zacatecas","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0762","Urbano","03"
+"98057","Privada La Cantera","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1668","Urbano","03"
+"98057","Mecánicos","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0038","Urbano","03"
+"98057","Mecánicos 2a Secc","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0761","Urbano","03"
+"98057","Juana Gallo","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1425","Urbano","03"
+"98057","San Fernando","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1539","Urbano","03"
+"98057","Mercado de Abastos","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0039","Urbano","03"
+"98057","La Toma de Zacatecas","Ampliacion","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"38","056","1442","Urbano","03"
+"98058","Lomas de San Fernando","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0040","Urbano","03"
+"98059","Apartamentos Sierra de Alica","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0041","Urbano","03"
+"98060","Primavera","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0048","Urbano","03"
+"98060","La Peñuela","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0045","Urbano","03"
+"98060","Marianita Elias de Rodriguez","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0047","Urbano","03"
+"98060","Villas Del Tepozan","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1438","Urbano","03"
+"98060","Agrónomo","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0042","Urbano","03"
+"98060","El Patrocinio","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0043","Urbano","03"
+"98060","Lomas Del Patrocinio","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0046","Urbano","03"
+"98060","Rinconada de Marianita","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1233","Urbano","03"
+"98060","Siglo XXI","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1445","Urbano","03"
+"98064","El Cerrillo","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","0051","Urbano","03"
+"98064","Ex Hacienda Bernardez","Colonia","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"09","056","0772","Urbano","03"
+"98064","3 Cruces Infonavit","Unidad habitacional","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"31","056","0053","Urbano","03"
+"98064","Fovissste","Unidad habitacional","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"31","056","0052","Urbano","03"
+"98065","Boulevares","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","0054","Urbano","03"
+"98065","Militar","Colonia","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"09","056","0055","Urbano","03"
+"98066","Loma Dorada","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","1487","Urbano","03"
+"98066","El Spauaz","Colonia","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"09","056","0057","Urbano","03"
+"98066","Progreso","Colonia","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"09","056","0058","Urbano","03"
+"98066","Agronómica II","Colonia","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"09","056","1488","Urbano","03"
+"98066","Agronómica","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","0056","Urbano","03"
+"98067","Issste Zac 2","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","0059","Urbano","03"
+"98067","San Francisco de Herrera","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","0763","Urbano","03"
+"98067","Privada Del Bosque","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","1241","Urbano","03"
+"98067","Fuente Del Bosque","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","0764","Urbano","03"
+"98067","Lomas de San Francisco","Colonia","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"09","056","0798","Urbano","03"
+"98067","Villas Del Sol","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","0060","Urbano","03"
+"98067","Moradores","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","0765","Urbano","03"
+"98068","Hidráulica","Colonia","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"09","056","0044","Urbano","03"
+"98068","Villa Antigua","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","1649","Urbano","03"
+"98068","La Loma","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","0062","Urbano","03"
+"98068","Residencial Del Valle","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","0760","Urbano","03"
+"98068","Colonial Zacatecas","Colonia","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"09","056","0061","Urbano","03"
+"98068","Universitaria","Colonia","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"09","056","0063","Urbano","03"
+"98069","La Bufa","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0064","Semiurbano","03"
+"98070","Buenavista","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0065","Urbano","03"
+"98070","Ricardo Flores Magón","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0070","Urbano","03"
+"98070","Francisco E Garcia","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0066","Urbano","03"
+"98070","Los Caleros","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0068","Urbano","03"
+"98070","Pánfilo Natera","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0069","Urbano","03"
+"98070","La Plata","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0067","Urbano","03"
+"98077","21 de Julio","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0071","Urbano","03"
+"98077","Pedregal","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1239","Urbano","03"
+"98077","Las Cumbres","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0758","Urbano","03"
+"98078","Taxistas 2a Secc","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1429","Urbano","03"
+"98078","Ayuntamiento","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0072","Urbano","03"
+"98078","Taxistas 1a Secc","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1428","Urbano","03"
+"98079","El Mirador","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0073","Urbano","03"
+"98079","Privada de Caleros","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0074","Urbano","03"
+"98080","Benito Juárez","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0076","Urbano","03"
+"98080","Bellavista","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0075","Urbano","03"
+"98083","DIF","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0077","Urbano","03"
+"98084","Santos Bañuelos","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0078","Urbano","03"
+"98085","Lomas de Cristo","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1436","Semiurbano","03"
+"98085","Peñas de La Virgen","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1240","Urbano","03"
+"98085","Colinas Del Padre","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1232","Urbano","03"
+"98085","Lomas Del Lago","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0079","Urbano","03"
+"98085","Ojo de Agua de Meléndrez","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1435","Semiurbano","03"
+"98085","Constelaciones","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0767","Urbano","03"
+"98085","Camino Real","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0774","Urbano","03"
+"98085","Terrazas","Condominio","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"10","056","0775","Urbano","03"
+"98085","El Chabeño","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1432","Urbano","03"
+"98085","Santa Bárbara","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1433","Urbano","03"
+"98085","Villa Del Padre","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1533","Urbano","03"
+"98086","Privada de La Encantada","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0081","Urbano","03"
+"98086","Lomas de La Encantada","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1437","Urbano","03"
+"98086","Cerro Del Padre","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1231","Urbano","03"
+"98086","La Herradura","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0080","Urbano","03"
+"98087","J. Jesús González Ortega 5a Secc","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1443","Urbano","03"
+"98087","Issste Zac 1","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0083","Urbano","03"
+"98087","J. Jesús González Ortega 3a Secc","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0085","Urbano","03"
+"98087","Jardines Del Sol","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0768","Urbano","03"
+"98087","J. Jesús González Ortega 4a Secc","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0086","Urbano","03"
+"98087","Estrella de Oro","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0769","Urbano","03"
+"98087","Huerta Vieja","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0797","Urbano","03"
+"98087","El Orito 1a Sección","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0770","Urbano","03"
+"98087","Europa","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1234","Urbano","03"
+"98087","Las Huertas","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1236","Urbano","03"
+"98087","J. Jesús González Ortega 2a Secc","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0082","Urbano","03"
+"98087","Jardines Del Bosque","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1434","Urbano","03"
+"98087","J. Jesús González Ortega 1a Secc","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0084","Urbano","03"
+"98088","La Encantada","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0087","Urbano","03"
+"98089","5 Señores","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0088","Urbano","03"
+"98089","Las Haciendas","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0089","Urbano","03"
+"98090","Alma Obrera","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0090","Urbano","03"
+"98090","Los Periodistas","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0093","Urbano","03"
+"98090","Arturo Romo Macias","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1430","Semiurbano","03"
+"98090","Alma Obrera 3a Secc","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1440","Urbano","03"
+"98090","Barros Sierra","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0092","Urbano","03"
+"98090","Sahop","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0094","Urbano","03"
+"98090","Alma Obrera 4a Secc","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","1441","Urbano","03"
+"98090","Alma Obrera 2a Secc","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0091","Urbano","03"
+"98097","La Joya","Residencial","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"30","056","1235","Urbano","03"
+"98097","Médicos Veterinarios","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","0096","Urbano","03"
+"98097","La Estancia (las Colinas II)","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","1486","Urbano","03"
+"98097","Tahona","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","1537","Urbano","03"
+"98098","Las Colinas","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","0097","Urbano","03"
+"98098","Lomas Del Campestre","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","0098","Urbano","03"
+"98098","Villa Verde","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98061","32","98061",,"21","056","1243","Urbano","03"
+"98099","Popular CTM","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","0771","Urbano","03"
+"98099","Lomas de la Isabelica","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1237","Urbano","03"
+"98099","Rinconada La Isabelita","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1238","Urbano","03"
+"98099","Privada de La Fuente","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1242","Urbano","03"
+"98099","Lomas Bizantinas","Fraccionamiento","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"21","056","1431","Semiurbano","03"
+"98099","Tecnológica","Colonia","Zacatecas","Zacatecas","Zacatecas","98001","32","98001",,"09","056","0099","Urbano","03"
+"98100","Hacienda Nueva","Rancho o rancheria","Morelos","Zacatecas",,"98102","32","98102",,"29","032","0101","Rural",
+"98100","Las Pilas Morelos","Rancho o rancheria","Morelos","Zacatecas",,"98102","32","98102",,"29","032","1302","Rural",
+"98100","Noria de Gringo","Rancho o rancheria","Morelos","Zacatecas",,"98102","32","98102",,"29","032","1301","Rural",
+"98140","Sauceda de La Borda","Rancho o rancheria","Vetagrande","Zacatecas",,"98001","32","98001",,"29","050","0103","Rural",
+"98140","Vetagrande","Rancho o rancheria","Vetagrande","Zacatecas",,"98001","32","98001",,"29","050","0104","Rural",
+"98140","Del Puerto","Barrio","Vetagrande","Zacatecas",,"98001","32","98001",,"02","050","1654","Rural",
+"98150","La Era","Rancho o rancheria","Vetagrande","Zacatecas",,"98601","32","98601",,"29","050","0106","Rural",
+"98150","El Lampotal","Rancho o rancheria","Vetagrande","Zacatecas",,"98601","32","98601",,"29","050","0105","Rural",
+"98160","Ciudad Gobierno","Fraccionamiento","Zacatecas","Zacatecas",,"98001","32","98001",,"21","056","1531","Rural",
+"98160","El Orito","Rancho o rancheria","Zacatecas","Zacatecas",,"98001","32","98001",,"29","056","0107","Rural",
+"98160","La Escondida","Poblado comunal","Zacatecas","Zacatecas",,"98001","32","98001",,"27","056","1520","Rural",
+"98160","Las Boquillas","Poblado comunal","Zacatecas","Zacatecas",,"98001","32","98001",,"27","056","1521","Rural",
+"98170","Cieneguilla","Rancho o rancheria","Zacatecas","Zacatecas",,"98001","32","98001",,"29","056","0108","Rural",
+"98174","San Antonio de los Negros (los Negros)","Poblado comunal","Zacatecas","Zacatecas",,"98001","32","98001",,"27","056","1530","Rural",
+"98175","El Maguey","Poblado comunal","Zacatecas","Zacatecas",,"98001","32","98001",,"27","056","1523","Rural",
+"98176","Francisco I Madero","Poblado comunal","Zacatecas","Zacatecas",,"98001","32","98001",,"27","056","1485","Rural",
+"98177","La Pimienta","Poblado comunal","Zacatecas","Zacatecas",,"98001","32","98001",,"27","056","1522","Rural",
+"98180","Jesús Gonzalez Ortega","Rancho o rancheria","Zacatecas","Zacatecas",,"99001","32","99001",,"29","056","0109","Rural",
+"98183","Garcia de La Cadena (el Visitador)","Poblado comunal","Zacatecas","Zacatecas",,"98001","32","98001",,"27","056","1524","Rural",
+"98183","El Molino","Poblado comunal","Zacatecas","Zacatecas",,"98001","32","98001",,"27","056","1525","Rural",
+"98184","Las Chilitas","Poblado comunal","Zacatecas","Zacatecas",,"98001","32","98001",,"27","056","1526","Rural",
+"98185","La Soledad (la Chole)","Poblado comunal","Zacatecas","Zacatecas",,"98001","32","98001",,"27","056","1527","Rural",
+"98186","Benito Juárez (san Cayetano)","Poblado comunal","Zacatecas","Zacatecas",,"98001","32","98001",,"27","056","1528","Rural",
+"98186","Miguel Hidalgo (san Miguel)","Poblado comunal","Zacatecas","Zacatecas",,"98001","32","98001",,"27","056","1529","Rural",
+"98200","El Cruce","Colonia","Concepción del Oro","Zacatecas",,"98201","32","98201",,"09","007","1208","Rural",
+"98200","Guadalupe Garzaron","Ejido","Concepción del Oro","Zacatecas",,"98201","32","98201",,"15","007","0112","Rural",
+"98200","Bella Vista","Colonia","Concepción del Oro","Zacatecas",,"98201","32","98201",,"09","007","1203","Rural",
+"98200","Cabrestante","Colonia","Concepción del Oro","Zacatecas",,"98201","32","98201",,"09","007","1206","Rural",
+"98200","Las Lajas","Colonia","Concepción del Oro","Zacatecas",,"98201","32","98201",,"09","007","1207","Rural",
+"98200","El Gracero","Colonia","Concepción del Oro","Zacatecas",,"98201","32","98201",,"09","007","1201","Rural",
+"98200","Obrera","Colonia","Concepción del Oro","Zacatecas",,"98201","32","98201",,"09","007","1202","Rural",
+"98200","Chihuahua","Colonia","Concepción del Oro","Zacatecas",,"98201","32","98201",,"09","007","1205","Rural",
+"98200","Aranzazu","Ejido","Concepción del Oro","Zacatecas",,"98201","32","98201",,"15","007","0110","Rural",
+"98200","Estrella","Colonia","Concepción del Oro","Zacatecas",,"98201","32","98201",,"09","007","1204","Rural",
+"98200","Concepción Del Oro","Ciudad","Concepción del Oro","Zacatecas",,"98201","32","98201",,"08","007","0111","Rural",
+"98204","El Cobre","Ejido","Concepción del Oro","Zacatecas",,"98201","32","98201",,"15","007","0114","Rural",
+"98205","Anáhuac","Ejido","Concepción del Oro","Zacatecas",,"98201","32","98201",,"15","007","0115","Rural",
+"98205","Mesillas","Estacion","Concepción del Oro","Zacatecas",,"98201","32","98201",,"16","007","0116","Rural",
+"98209","Avalos","Estacion","Concepción del Oro","Zacatecas",,"98201","32","98201",,"16","007","0117","Rural",
+"98210","El Durazno","Rancho o rancheria","Concepción del Oro","Zacatecas",,"98201","32","98201",,"29","007","0118","Rural",
+"98210","Morelos","Ejido","Concepción del Oro","Zacatecas",,"98201","32","98201",,"15","007","0119","Rural",
+"98211","Coyotillos","Ejido","Concepción del Oro","Zacatecas",,"98201","32","98201",,"15","007","0120","Rural",
+"98211","Progreso de Agua Dulce","Ejido","Concepción del Oro","Zacatecas",,"98201","32","98201",,"15","007","0121","Rural",
+"98212","Tanque Del Alto","Ejido","Concepción del Oro","Zacatecas",,"98201","32","98201",,"15","007","0123","Rural",
+"98212","Los Encinos","Ejido","Concepción del Oro","Zacatecas",,"98201","32","98201",,"15","007","0122","Rural",
+"98220","San Jerónimo","Rancho o rancheria","Melchor Ocampo","Zacatecas",,"98201","32","98201",,"29","027","0125","Rural",
+"98220","Melchor Ocampo","Pueblo","Melchor Ocampo","Zacatecas",,"98201","32","98201",,"28","027","0124","Rural",
+"98222","San Miguel","Rancho o rancheria","Melchor Ocampo","Zacatecas",,"98201","32","98201",,"29","027","0126","Rural",
+"98223","Matamoros","Rancho o rancheria","Melchor Ocampo","Zacatecas",,"98201","32","98201",,"29","027","0127","Rural",
+"98229","Noche Buena","Pueblo","Melchor Ocampo","Zacatecas",,"98201","32","98201",,"28","027","0130","Rural",
+"98229","Mineral de Noche Buena","Rancho o rancheria","Melchor Ocampo","Zacatecas",,"98201","32","98201",,"29","027","0129","Rural",
+"98229","El Jagüey","Rancho o rancheria","Melchor Ocampo","Zacatecas",,"98201","32","98201",,"29","027","0128","Rural",
+"98230","Mazapil","Pueblo","Mazapil","Zacatecas",,"98201","32","98201",,"28","026","0131","Rural",
+"98236","Novillos","Rancho o rancheria","Mazapil","Zacatecas",,"98201","32","98201",,"29","026","0132","Rural",
+"98237","Salaverna","Rancho o rancheria","Mazapil","Zacatecas",,"98201","32","98201",,"29","026","0133","Rural",
+"98237","San Jose de Carbonerillas","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0134","Rural",
+"98238","Terminal de Providencia","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0135","Rural",
+"98239","Bonanza","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0136","Rural",
+"98240","Pozo Hidalgo","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0140","Rural",
+"98240","Coapas","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0138","Rural",
+"98240","Apizolaya","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0137","Rural",
+"98240","Hidalgo","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0139","Rural",
+"98241","Los Indios","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0141","Rural",
+"98245","Del Norte","Fraccionamiento","Mazapil","Zacatecas",,"98421","32","98421",,"21","026","0840","Semiurbano",
+"98245","Infonavit","Fraccionamiento","Mazapil","Zacatecas",,"98421","32","98421",,"21","026","0835","Semiurbano",
+"98250","El Jazmín","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0143","Rural",
+"98250","Camacho","Estacion","Mazapil","Zacatecas",,"98201","32","98201",,"16","026","0142","Rural",
+"98253","La Palmilla","Rancho o rancheria","Mazapil","Zacatecas",,"98201","32","98201",,"29","026","0144","Rural",
+"98254","La Tasajera","Rancho o rancheria","Mazapil","Zacatecas",,"98201","32","98201",,"29","026","0145","Rural",
+"98256","San Rafael","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0146","Rural",
+"98260","Opal","Estacion","Mazapil","Zacatecas",,"98201","32","98201",,"16","026","0147","Rural",
+"98261","Cedros","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0148","Rural",
+"98262","El Vergel","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0149","Rural",
+"98264","Candelaria","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0150","Rural",
+"98264","Sabana Grande","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0151","Rural",
+"98265","El Cardito","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0152","Rural",
+"98267","Gallegos","Rancho o rancheria","Mazapil","Zacatecas",,"98201","32","98201",,"29","026","0153","Rural",
+"98270","Nuevo Mercurio","Rancho o rancheria","Mazapil","Zacatecas",,"98201","32","98201",,"29","026","0154","Rural",
+"98270","San Felipe Nuevo Mercurio","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0155","Rural",
+"98275","Tanque de Hacheros","Rancho o rancheria","Mazapil","Zacatecas",,"98201","32","98201",,"29","026","0156","Rural",
+"98277","Rancho Nuevo","Rancho o rancheria","Mazapil","Zacatecas",,"98201","32","98201",,"29","026","0157","Rural",
+"98278","Concepción de La Norma","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0158","Rural",
+"98279","Majoma","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0159","Rural",
+"98280","San Tiburcio","Hacienda","Mazapil","Zacatecas",,"98201","32","98201",,"24","026","0160","Rural",
+"98281","Pozo de San Juan","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0161","Rural",
+"98285","Presa Del Junco","Rancho o rancheria","Mazapil","Zacatecas",,"98201","32","98201",,"29","026","0162","Rural",
+"98286","Tanquecillo","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0163","Rural",
+"98287","Tanque de Guadalupe","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0165","Rural",
+"98287","El Rosario","Ejido","Mazapil","Zacatecas",,"98201","32","98201",,"15","026","0164","Rural",
+"98290","Tanque Nuevo","Ejido","El Salvador","Zacatecas",,"78524","32","78524",,"15","041","0167","Rural",
+"98290","El Salvador","Congregacion","El Salvador","Zacatecas",,"78524","32","78524",,"11","041","0166","Rural",
+"98300","Juan Aldama Centro","Colonia","Juan Aldama","Zacatecas","Juan Aldama","98301","32","98301",,"09","022","0168","Semiurbano","19"
+"98300","Almoloya","Colonia","Juan Aldama","Zacatecas","Juan Aldama","98301","32","98301",,"09","022","1664","Urbano","19"
+"98300","La Pila","Barrio","Juan Aldama","Zacatecas","Juan Aldama","98301","32","98301",,"02","022","1652","Urbano","19"
+"98303","Bosques Del Pedregal","Colonia","Juan Aldama","Zacatecas","Juan Aldama","98301","32","98301",,"09","022","1195","Semiurbano","19"
+"98303","Nuevo Amanecer","Colonia","Juan Aldama","Zacatecas","Juan Aldama","98301","32","98301",,"09","022","1188","Semiurbano","19"
+"98303","Las Auroras","Colonia","Juan Aldama","Zacatecas","Juan Aldama","98301","32","98301",,"09","022","1187","Semiurbano","19"
+"98303","Oriente","Colonia","Juan Aldama","Zacatecas","Juan Aldama","98301","32","98301",,"09","022","1186","Semiurbano","19"
+"98304","Las Jarillas","Fraccionamiento","Juan Aldama","Zacatecas","Juan Aldama","98301","32","98301",,"21","022","1189","Semiurbano","19"
+"98304","7 de Marzo","Colonia","Juan Aldama","Zacatecas","Juan Aldama","98301","32","98301",,"09","022","1191","Semiurbano","19"
+"98307","Valle Verde","Fraccionamiento","Juan Aldama","Zacatecas","Juan Aldama","98301","32","98301",,"21","022","1194","Semiurbano","19"
+"98307","Villa Arechiga","Colonia","Juan Aldama","Zacatecas","Juan Aldama","98301","32","98301",,"09","022","1193","Semiurbano","19"
+"98307","El Mezquite","Colonia","Juan Aldama","Zacatecas","Juan Aldama","98301","32","98301",,"09","022","1190","Semiurbano","19"
+"98307","Magisterial","Fraccionamiento","Juan Aldama","Zacatecas","Juan Aldama","98301","32","98301",,"21","022","1192","Semiurbano","19"
+"98310","Gral. Juan Jose Ríos","Rancho o rancheria","Juan Aldama","Zacatecas",,"98421","32","98421",,"29","022","0171","Rural",
+"98310","Ojitos","Rancho o rancheria","Juan Aldama","Zacatecas",,"98421","32","98421",,"29","022","0170","Rural",
+"98311","Jalpa","Rancho o rancheria","Juan Aldama","Zacatecas",,"98421","32","98421",,"29","022","0172","Rural",
+"98320","Espiritu Santo","Rancho o rancheria","Juan Aldama","Zacatecas",,"98421","32","98421",,"29","022","0173","Rural",
+"98330","Los Conos","Colonia","Miguel Auza","Zacatecas",,"98331","32","98331",,"09","029","1671","Rural",
+"98330","Miguel Auza","Pueblo","Miguel Auza","Zacatecas",,"98331","32","98331",,"28","029","0174","Semiurbano",
+"98330","San Gabriel","Barrio","Miguel Auza","Zacatecas",,"98331","32","98331",,"02","029","1666","Rural",
+"98340","Tierra Generosa","Ejido","Miguel Auza","Zacatecas",,"98421","32","98421",,"15","029","0178","Rural",
+"98340","Menonitas","Ejido","Miguel Auza","Zacatecas",,"98421","32","98421",,"15","029","0177","Rural",
+"98340","Emilio Carranza","Ejido","Miguel Auza","Zacatecas",,"98421","32","98421",,"15","029","0176","Rural",
+"98340","20 de Noviembre","Ejido","Miguel Auza","Zacatecas",,"98421","32","98421",,"15","029","0179","Rural",
+"98350","Magisterial","Colonia","General Francisco R. Murguía","Zacatecas",,"98352","32","98352",,"09","014","1197","Rural",
+"98350","Nieves","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98352","32","98352",,"29","014","0181","Rural",
+"98350","Torrecilla","Barrio","General Francisco R. Murguía","Zacatecas",,"98352","32","98352",,"02","014","1199","Rural",
+"98350","La Cuesta","Barrio","General Francisco R. Murguía","Zacatecas",,"98352","32","98352",,"02","014","1200","Rural",
+"98350","Panteón Viejo","Barrio","General Francisco R. Murguía","Zacatecas",,"98352","32","98352",,"02","014","1196","Rural",
+"98350","Luis Moya I","Villa","General Francisco R. Murguía","Zacatecas",,"98352","32","98352",,"32","014","0180","Rural",
+"98350","Santa Rita","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98352","32","98352",,"29","014","0182","Rural",
+"98350","Tazajillo","Barrio","General Francisco R. Murguía","Zacatecas",,"98352","32","98352",,"02","014","1198","Rural",
+"98351","Francisco I Madero","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98421","32","98421",,"29","014","0183","Rural",
+"98360","Valenciana","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98421","32","98421",,"29","014","0185","Rural",
+"98367","Villa Lázaro Cárdenas","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98421","32","98421",,"29","014","0186","Rural",
+"98368","San Lucas","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98421","32","98421",,"29","014","0187","Rural",
+"98369","La Laguna","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98421","32","98421",,"29","014","0188","Rural",
+"98370","San Gil","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98421","32","98421",,"29","014","0190","Rural",
+"98370","Apaseo","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98421","32","98421",,"29","014","0189","Rural",
+"98370","San Jose de los Morteros","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98421","32","98421",,"29","014","0191","Rural",
+"98370","El Potrero","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98421","32","98421",,"29","014","1648","Rural",
+"98380","Atotonilco","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98421","32","98421",,"29","014","0192","Rural",
+"98380","Las Norias","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98421","32","98421",,"29","014","0193","Rural",
+"98387","Matías Ramos (El Tánger)","Rancho o rancheria","General Francisco R. Murguía","Zacatecas",,"98352","32","98352",,"29","014","1536","Rural",
+"98390","Pacheco","Estacion","General Francisco R. Murguía","Zacatecas",,"99001","32","99001",,"16","014","0194","Rural",
+"98400","Los Ramirez","Pueblo","Río Grande","Zacatecas",,"98421","32","98421",,"28","039","0200","Rural",
+"98400","Las Piedras","Rancho o rancheria","Río Grande","Zacatecas",,"98421","32","98421",,"29","039","0199","Rural",
+"98400","Las Esperanzas","Rancho o rancheria","Río Grande","Zacatecas",,"98421","32","98421",,"29","039","0198","Rural",
+"98400","La Florida","Rancho o rancheria","Río Grande","Zacatecas",,"98421","32","98421",,"29","039","0197","Rural",
+"98400","Las Palomas","Rancho o rancheria","Río Grande","Zacatecas",,"98421","32","98421",,"29","039","1276","Rural",
+"98400","Ignacio Allende","Ciudad","Río Grande","Zacatecas",,"98421","32","98421",,"08","039","0196","Rural",
+"98400","Tierra Blanca","Rancho o rancheria","Río Grande","Zacatecas",,"98421","32","98421",,"29","039","0203","Rural",
+"98401","El Fuerte","Ejido","Río Grande","Zacatecas",,"98421","32","98421",,"15","039","0204","Rural",
+"98403","La Luz","Rancho o rancheria","Río Grande","Zacatecas",,"98421","32","98421",,"29","039","0206","Rural",
+"98404","San Felipe","Ejido","Río Grande","Zacatecas",,"98421","32","98421",,"15","039","0207","Rural",
+"98405","Jose Maria Morelos y Pavón","Ejido","Río Grande","Zacatecas",,"98421","32","98421",,"15","039","0208","Rural",
+"98406","Loreto","Rancho o rancheria","Río Grande","Zacatecas",,"98421","32","98421",,"29","039","0209","Rural",
+"98409","Ignacio Zaragoza","Rancho o rancheria","Río Grande","Zacatecas",,"98421","32","98421",,"29","039","0211","Rural",
+"98410","Progreso de Alfonso Medina","Rancho o rancheria","Río Grande","Zacatecas",,"98421","32","98421",,"29","039","0213","Rural",
+"98410","Progreso","Ejido","Río Grande","Zacatecas",,"98421","32","98421",,"15","039","0212","Rural",
+"98413","Francisco Garcia Salinas","Rancho o rancheria","Río Grande","Zacatecas",,"98421","32","98421",,"29","039","0214","Rural",
+"98416","Tetillas","Rancho o rancheria","Río Grande","Zacatecas",,"98421","32","98421",,"29","039","0215","Rural",
+"98419","Pastelera","Ejido","Río Grande","Zacatecas",,"98421","32","98421",,"15","039","0201","Rural",
+"98419","Emiliano Zapata","Ejido","Río Grande","Zacatecas",,"98421","32","98421",,"15","039","0210","Rural",
+"98420","Rio Grande Centro","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","0857","Semiurbano","05"
+"98422","Los Duraznos","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0843","Semiurbano","05"
+"98422","Azteca","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","0829","Semiurbano","05"
+"98422","Buenos Aires","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","0830","Semiurbano","05"
+"98422","Tepeyac","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","0831","Semiurbano","05"
+"98422","Ricardo Flores Magón","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","0842","Semiurbano","05"
+"98422","México","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0849","Semiurbano","05"
+"98422","La Estrella","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0848","Semiurbano","05"
+"98423","Halcones","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","0826","Semiurbano","05"
+"98423","Sutsemop","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0841","Semiurbano","05"
+"98423","La Loma","Barrio","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"02","039","0825","Semiurbano","05"
+"98423","Lic Luis Donaldo Colosio M","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0850","Semiurbano","05"
+"98423","Snte D-II-12","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0851","Semiurbano","05"
+"98424","Vista Hermosa","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0834","Semiurbano","05"
+"98424","Loma Prieta","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","1304","Semiurbano","05"
+"98424","CTM","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","0833","Semiurbano","05"
+"98424","Victoria","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0853","Semiurbano","05"
+"98424","Las Lomas","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0854","Semiurbano","05"
+"98424","Jardines Del Rio","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","0832","Semiurbano","05"
+"98424","C I","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0852","Semiurbano","05"
+"98424","De La Vivienda Rural","Conjunto habitacional","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"12","039","0855","Semiurbano","05"
+"98424","El Mezquital","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","1303","Semiurbano","05"
+"98425","Adolfo Lopez Mateos 3a Sección","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","0836","Semiurbano","05"
+"98425","La Cuesta","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","0837","Semiurbano","05"
+"98425","Del Rosario","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0856","Semiurbano","05"
+"98425","Adolfo Lopez Mateos","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","0824","Semiurbano","05"
+"98425","Rio Agua Naval","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0839","Semiurbano","05"
+"98426","El Llano","Barrio","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"02","039","0822","Semiurbano","05"
+"98426","Ruiz Cortines","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0838","Semiurbano","05"
+"98426","El Cuero","Barrio","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"02","039","0823","Semiurbano","05"
+"98429","Cantarranas","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","0828","Semiurbano","05"
+"98429","Libertad","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0845","Semiurbano","05"
+"98429","Álamos","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0846","Semiurbano","05"
+"98429","Rio Grande","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0847","Semiurbano","05"
+"98429","La Trinidad","Colonia","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"09","039","0827","Semiurbano","05"
+"98429","La Hacienda","Fraccionamiento","Río Grande","Zacatecas","Rio grande","98421","32","98421",,"21","039","0844","Semiurbano","05"
+"98430","Bañoncito","Barrio","Villa de Cos","Zacatecas","Villa de Cos","98431","32","98431",,"02","051","0896","Rural","10"
+"98430","Villa de Cos Centro","Colonia","Villa de Cos","Zacatecas","Villa de Cos","98431","32","98431",,"09","051","0231","Rural","10"
+"98432","Fresnillito","Barrio","Villa de Cos","Zacatecas","Villa de Cos","98431","32","98431",,"02","051","0895","Rural","10"
+"98435","Las Haciendas","Colonia","Villa de Cos","Zacatecas","Villa de Cos","98431","32","98431",,"09","051","0897","Rural","10"
+"98435","Villa Jardín","Fraccionamiento","Villa de Cos","Zacatecas","Villa de Cos","98431","32","98431",,"21","051","0898","Rural","10"
+"98436","Del PRI","Colonia","Villa de Cos","Zacatecas","Villa de Cos","98431","32","98431",,"09","051","0894","Rural","10"
+"98436","Elias Mirador","Fraccionamiento","Villa de Cos","Zacatecas","Villa de Cos","98431","32","98431",,"21","051","0899","Rural","10"
+"98440","Guadalupe de las Corrientes","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0218","Rural",
+"98440","La Colorada","Estacion","Villa de Cos","Zacatecas",,"99001","32","99001",,"16","051","0216","Rural",
+"98445","Agua Nueva","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0217","Rural",
+"98450","Benito Juárez","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0219","Rural",
+"98450","Puerto Madero","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0220","Rural",
+"98450","San Andres Puerto Madero","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0221","Rural",
+"98451","Nueva Pastoría","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0223","Rural",
+"98451","Efigenia","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0222","Rural",
+"98452","Pabellón","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0224","Rural",
+"98453","Emiliano Zapata","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0226","Rural",
+"98453","Felipe Carrillo Puerto","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0227","Rural",
+"98453","Campechana","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0225","Rural",
+"98460","Cervantes","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0228","Rural",
+"98460","El Rucio","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0229","Rural",
+"98461","La Prieta","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0230","Rural",
+"98471","Bañon","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0232","Rural",
+"98471","El Celo","Colonia","Villa de Cos","Zacatecas",,"99001","32","99001",,"09","051","1667","Rural",
+"98471","Chupaderos","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0234","Rural",
+"98471","Tenango","Rancho o rancheria","Villa de Cos","Zacatecas",,"99001","32","99001",,"29","051","1656","Rural",
+"98471","Cañas","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0233","Rural",
+"98471","Chuparrosa","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0235","Rural",
+"98473","Charco Blanco","Ejido","Villa de Cos","Zacatecas",,"99001","32","99001",,"15","051","0237","Rural",
+"98480","Cañitas de Felipe Pescador","Congregacion","Cañitas de Felipe Pescador","Zacatecas",,"99001","32","99001",,"11","006","0239","Rural",
+"98480","Cañitas","Rancho o rancheria","Cañitas de Felipe Pescador","Zacatecas",,"99001","32","99001",,"29","006","0238","Rural",
+"98490","Boquilla de Abajo","Ejido","Cañitas de Felipe Pescador","Zacatecas",,"99001","32","99001",,"15","006","0241","Rural",
+"98500","Calera de Victor Rosales Centro","Colonia","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"09","005","0243","Semiurbano","12"
+"98502","Satélite","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0960","Semiurbano","12"
+"98502","Mario G Caloca","Colonia","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"09","005","0961","Semiurbano","12"
+"98502","La Noria","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","1669","Urbano","12"
+"98502","Magisterio","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0954","Semiurbano","12"
+"98502","Año de Juárez","Colonia","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"09","005","0948","Semiurbano","12"
+"98502","San Francisco","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0967","Semiurbano","12"
+"98502","El Bosque","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0966","Semiurbano","12"
+"98502","Florencia","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0947","Semiurbano","12"
+"98503","Cipreses","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0978","Semiurbano","12"
+"98503","El Edén","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0958","Semiurbano","12"
+"98503","Cruz Azul","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0944","Semiurbano","12"
+"98503","Villareal","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0945","Semiurbano","12"
+"98503","La Soledad","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0977","Semiurbano","12"
+"98503","América","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0946","Semiurbano","12"
+"98503","Villa Calera","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","1020","Semiurbano","12"
+"98504","La Moderna","Colonia","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"09","005","0941","Semiurbano","12"
+"98504","Cortez","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0942","Semiurbano","12"
+"98504","Nuevo Calera","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0956","Semiurbano","12"
+"98504","La Ladrillera","Colonia","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"09","005","0959","Semiurbano","12"
+"98504","Victor Rosales","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0957","Semiurbano","12"
+"98505","Elias Garcia","Colonia","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"09","005","0940","Semiurbano","12"
+"98505","El Sol","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0964","Semiurbano","12"
+"98505","2 Matías","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0963","Semiurbano","12"
+"98505","Estación Victor Rosales","Colonia","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"09","005","0962","Semiurbano","12"
+"98505","La Cantera Rosa","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0979","Semiurbano","12"
+"98506","Riafa Caranza","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0976","Semiurbano","12"
+"98506","Alborada","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0953","Semiurbano","12"
+"98507","La Escuelita","Colonia","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"09","005","0939","Semiurbano","12"
+"98507","El Pedregal","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0950","Semiurbano","12"
+"98507","Francisco I Madero","Colonia","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"09","005","0952","Semiurbano","12"
+"98507","Real de Calera","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","1658","Urbano","12"
+"98507","El Maguey","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0965","Semiurbano","12"
+"98507","Sutsemop","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0972","Semiurbano","12"
+"98507","Santa Maria","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0974","Semiurbano","12"
+"98507","Lindavista","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0951","Semiurbano","12"
+"98507","Lomas de La Unidad","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0971","Semiurbano","12"
+"98507","La Loma","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0973","Semiurbano","12"
+"98507","Jose Maria Morelos","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0975","Semiurbano","12"
+"98508","Las Flores","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0969","Semiurbano","12"
+"98508","La Huerta","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0949","Semiurbano","12"
+"98508","La Granja","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0968","Semiurbano","12"
+"98508","El Tambo","Colonia","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"09","005","0938","Semiurbano","12"
+"98508","Las Kilihuas","Colonia","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"09","005","0955","Semiurbano","12"
+"98508","Florencio Quezada","Fraccionamiento","Calera","Zacatecas","Calera de Victor Rosales","98501","32","98501",,"21","005","0970","Semiurbano","12"
+"98510","Francisco I Madero","Rancho o rancheria","Calera","Zacatecas",,"98501","32","98501",,"29","005","0246","Rural",
+"98510","Ramon Lopez Velarde","Rancho o rancheria","Calera","Zacatecas",,"98501","32","98501",,"29","005","0247","Rural",
+"98515","San Jose de La Palma","Rancho o rancheria","Calera","Zacatecas",,"98501","32","98501",,"29","005","0248","Rural",
+"98519","Zacatecas (Gral. Leobardo C. Ruiz)","Aeropuerto","Calera","Zacatecas",,"98501","32","98501",,"01","005","0245","Rural",
+"98520","Rio Frió","Rancho o rancheria","Calera","Zacatecas",,"98501","32","98501",,"29","005","0249","Rural",
+"98540","Panuco","Rancho o rancheria","Pánuco","Zacatecas",,"98001","32","98001",,"29","037","0250","Rural",
+"98541","San Antonio Del Ciprés","Pueblo","Pánuco","Zacatecas",,"98001","32","98001",,"28","037","0251","Rural",
+"98545","Casa Del Cerro","Rancho o rancheria","Pánuco","Zacatecas",,"98001","32","98001",,"29","037","0252","Rural",
+"98546","Muleros","Rancho o rancheria","Pánuco","Zacatecas",,"98001","32","98001",,"29","037","1639","Rural",
+"98548","Pozo de Gamboa","Rancho o rancheria","Pánuco","Zacatecas",,"98001","32","98001",,"29","037","0253","Rural",
+"98550","El Espejo","Rancho o rancheria","Pánuco","Zacatecas",,"98001","32","98001",,"29","037","1661","Rural",
+"98560","Gral. Enrique Estrada","Pueblo","General Enrique Estrada","Zacatecas",,"98501","32","98501",,"28","013","0254","Rural",
+"98561","Adjuntas Del Peñasco","Ejido","General Enrique Estrada","Zacatecas",,"98501","32","98501",,"15","013","0255","Rural",
+"98600","Guadalupe Centro","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0256","Semiurbano","04"
+"98600","Ramon Lopez Velarde","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0257","Semiurbano","04"
+"98600","La Industrial","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1592","Semiurbano","04"
+"98600","Linda Vista","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1566","Semiurbano","04"
+"98600","Santa Rita","Barrio","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"02","017","0258","Semiurbano","04"
+"98600","La Purísima","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1560","Semiurbano","04"
+"98600","1910","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1569","Semiurbano","04"
+"98600","Privada del Santuario","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1601","Semiurbano","04"
+"98604","La Ladrillera","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1562","Semiurbano","04"
+"98604","Zona Industrial","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0260","Semiurbano","04"
+"98605","Los Frailes","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1483","Semiurbano","04"
+"98605","Mina Azul","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1535","Urbano","04"
+"98605","El Hípico","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1580","Semiurbano","04"
+"98605","División del Norte","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1629","Semiurbano","04"
+"98605","La Esperanza","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0262","Semiurbano","04"
+"98605","Conquistadores","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1579","Semiurbano","04"
+"98605","Doroteo Arango","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1631","Semiurbano","04"
+"98605","Arcoiris","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1482","Semiurbano","04"
+"98605","Ampliación Campesina","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1553","Semiurbano","04"
+"98605","San José","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1568","Semiurbano","04"
+"98605","Ampliación Limantour","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1630","Semiurbano","04"
+"98605","Jose Ives Limantour","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1273","Semiurbano","04"
+"98605","Las Flores","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1563","Semiurbano","04"
+"98605","La Campesina","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0261","Semiurbano","04"
+"98605","El Manantial","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1581","Semiurbano","04"
+"98605","El Montecito","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1627","Semiurbano","04"
+"98606","Ojo de Agua de La Palma","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0264","Semiurbano","04"
+"98606","Villas de Nápoles","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1479","Semiurbano","04"
+"98606","La Martinica","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0263","Semiurbano","04"
+"98606","Jardines Del Sol II","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1481","Semiurbano","04"
+"98606","Campestre San José","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1576","Semiurbano","04"
+"98606","Jardines del Sol","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1589","Semiurbano","04"
+"98606","Las Palmas","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1564","Semiurbano","04"
+"98606","El Mezquital","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1484","Semiurbano","04"
+"98606","La Cantera","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1590","Semiurbano","04"
+"98606","Privada Manantiales","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1670","Urbano","04"
+"98606","La Palma","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1558","Semiurbano","04"
+"98606","Tonatiuh Magisterial","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1626","Semiurbano","04"
+"98606","Santa Fe","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1632","Semiurbano","04"
+"98607","Barrio de Los Moros","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1554","Semiurbano","04"
+"98607","Minas Del Real","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1480","Semiurbano","04"
+"98607","Barrio Loreto","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1556","Semiurbano","04"
+"98607","Las Quintas","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1565","Semiurbano","04"
+"98607","Condominios del Sol","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1578","Semiurbano","04"
+"98607","La Providencia","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1559","Semiurbano","04"
+"98607","Privada El Salero","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1602","Semiurbano","04"
+"98607","San Jose de La Piedrera","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0268","Semiurbano","04"
+"98607","Lomas de Guadalupe","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1256","Semiurbano","04"
+"98607","El Salero","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0266","Semiurbano","04"
+"98607","Barrio La Estación","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1555","Semiurbano","04"
+"98607","Margaritas","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0267","Semiurbano","04"
+"98607","La Estación","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1628","Semiurbano","04"
+"98607","Bellavista","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0265","Semiurbano","04"
+"98607","Los Angeles","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1255","Semiurbano","04"
+"98607","Justo Sierra","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1557","Semiurbano","04"
+"98607","Rincón Guadalupano","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1615","Semiurbano","04"
+"98608","Del Carmen","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0270","Semiurbano","04"
+"98608","Las Arboledas","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0273","Semiurbano","04"
+"98608","Villas Del Carmen","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0275","Semiurbano","04"
+"98608","Santas","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0274","Semiurbano","04"
+"98608","Hidráulica 13 de Octubre","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1586","Semiurbano","04"
+"98608","Garcia Salinas","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0271","Semiurbano","04"
+"98608","Jardines Del Carmen","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0272","Semiurbano","04"
+"98608","Campo Bravo","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0269","Semiurbano","04"
+"98609","La Bufa 1","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0276","Semiurbano","04"
+"98609","Bonaterra","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1573","Semiurbano","04"
+"98609","Privada Trueno","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1608","Semiurbano","04"
+"98609","Sector Santa Engracia","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1620","Semiurbano","04"
+"98609","Magisterio","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1596","Semiurbano","04"
+"98609","Puerta Dorada","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1610","Semiurbano","04"
+"98609","La Bufa 2","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0277","Semiurbano","04"
+"98609","Lomas Del Convento","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0278","Semiurbano","04"
+"98609","Mexicana de Aviación","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0279","Semiurbano","04"
+"98609","Stuaz","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0280","Semiurbano","04"
+"98609","Privada Santa Rosa","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1606","Semiurbano","04"
+"98610","Lomas de Bernárdez Sección Plata","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1593","Semiurbano","04"
+"98610","Nuevo Bernardez","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0285","Semiurbano","04"
+"98610","Privada del Bosque","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1540","Urbano","04"
+"98610","Arroyo de La Plata","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0281","Semiurbano","04"
+"98610","Los Prados","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1250","Semiurbano","04"
+"98610","Indeco","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0282","Semiurbano","04"
+"98610","Santa Rita","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0286","Semiurbano","04"
+"98610","Lomas de Bernardez","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0284","Semiurbano","04"
+"98610","Conde Santiago de La Laguna","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1577","Semiurbano","04"
+"98610","La Cima","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1591","Semiurbano","04"
+"98610","Lomas de Britania","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1594","Semiurbano","04"
+"98610","Jardines de Bernardez","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0283","Semiurbano","04"
+"98610","Lomas de Galicia","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1478","Semiurbano","04"
+"98610","Puerta de Plata","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1609","Semiurbano","04"
+"98610","Portanova","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1642","Urbano","04"
+"98612","Las Villas","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1449","Semiurbano","04"
+"98612","Las Américas","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1452","Semiurbano","04"
+"98612","Américas 4","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1456","Semiurbano","04"
+"98612","Lomas de San Cristóbal","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1473","Semiurbano","04"
+"98612","Los Conventos II","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1595","Semiurbano","04"
+"98612","Privada de Los Olivos","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1605","Semiurbano","04"
+"98612","La Condesa","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1268","Semiurbano","04"
+"98612","Villareal","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1269","Semiurbano","04"
+"98612","Magistrados","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1448","Semiurbano","04"
+"98612","Ampliación Américas","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1453","Semiurbano","04"
+"98612","Américas 3","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1459","Semiurbano","04"
+"98612","Villas de Guadalupe","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1261","Semiurbano","04"
+"98612","San Cosme","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1450","Semiurbano","04"
+"98612","Privada Real Del Sol","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1462","Semiurbano","04"
+"98612","Villas Mariana","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1467","Semiurbano","04"
+"98612","Antorcha","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1472","Semiurbano","04"
+"98612","Fovissste 2da Sección","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1270","Semiurbano","04"
+"98612","El Universo","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1463","Semiurbano","04"
+"98612","Galerías","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1583","Semiurbano","04"
+"98612","Montebello","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1597","Semiurbano","04"
+"98612","Quinta San Gabriel","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1611","Semiurbano","04"
+"98612","Real Del Conde","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1265","Semiurbano","04"
+"98612","Loma Bonita","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1475","Semiurbano","04"
+"98612","Montes Azules","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1598","Semiurbano","04"
+"98612","Campo Real","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1454","Semiurbano","04"
+"98612","Las Flores","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1455","Semiurbano","04"
+"98612","Villas de Guadalupe","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1468","Semiurbano","04"
+"98612","Privada La Condesa","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1624","Semiurbano","04"
+"98612","Del Bosque","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1262","Semiurbano","04"
+"98612","Valle Del Conde","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1264","Semiurbano","04"
+"98612","Los Conventos","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1469","Semiurbano","04"
+"98612","Culturas","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1471","Semiurbano","04"
+"98612","Manuel M Ponce","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1474","Semiurbano","04"
+"98612","Issstezac","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1476","Semiurbano","04"
+"98612","Las Torres","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1534","Urbano","04"
+"98612","Privada Sauceda","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1607","Semiurbano","04"
+"98612","Quinta San Nicolás","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1613","Semiurbano","04"
+"98612","Valles II","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1266","Semiurbano","04"
+"98612","Del Agua","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1451","Semiurbano","04"
+"98612","El Universo","Ampliacion","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"38","017","1457","Semiurbano","04"
+"98612","Unidad Deportiva","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1477","Semiurbano","04"
+"98612","Jardines de Sauceda","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1588","Semiurbano","04"
+"98612","Quinta San Jerónimo","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1612","Semiurbano","04"
+"98613","Las Joyas","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1460","Semiurbano","04"
+"98613","Virreyes","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1541","Semiurbano","04"
+"98613","Revolución Mexicana","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1614","Semiurbano","04"
+"98613","S.T.U.A.Z.","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1618","Semiurbano","04"
+"98613","Olimpia 4","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1466","Semiurbano","04"
+"98613","Privada La Esmeralda","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1603","Semiurbano","04"
+"98613","Valles I","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1267","Semiurbano","04"
+"98613","Olimpia","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1464","Semiurbano","04"
+"98613","S.P.A.U.A.Z.","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1617","Semiurbano","04"
+"98613","Camino Real","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1271","Semiurbano","04"
+"98613","Popular San Francisco","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1446","Semiurbano","04"
+"98613","Olimpia 2","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1465","Semiurbano","04"
+"98613","El Paraíso","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0288","Semiurbano","04"
+"98613","Villas de Don Fernando","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1263","Semiurbano","04"
+"98613","Las Fuentes","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1272","Semiurbano","04"
+"98613","Villas Del Monasterio","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1458","Semiurbano","04"
+"98613","Guadalupe Moderno","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0289","Semiurbano","04"
+"98613","Ampliación Bonito Pueblo","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1447","Semiurbano","04"
+"98613","Olimpia 3","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1461","Semiurbano","04"
+"98613","Ejidal","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0287","Semiurbano","04"
+"98614","Begonias","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0290","Semiurbano","04"
+"98614","La Victoria II","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1561","Semiurbano","04"
+"98614","La Victoria","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0292","Semiurbano","04"
+"98614","5 de Mayo","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0291","Semiurbano","04"
+"98614","Lomas Del Consuelo","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0293","Semiurbano","04"
+"98614","Primero de Mayo","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0294","Semiurbano","04"
+"98615","La Fe","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0296","Semiurbano","04"
+"98615","3ra. Sección de Tierra y Libertad","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1570","Semiurbano","04"
+"98615","Ampliación La fe","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1571","Semiurbano","04"
+"98615","Guadalupe Colonial","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1253","Semiurbano","04"
+"98615","Lomas Del Valle","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1254","Semiurbano","04"
+"98615","Luis Donaldo Colosio","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1567","Semiurbano","04"
+"98615","Ampliación Tierra y Libertad","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1572","Semiurbano","04"
+"98615","Ignacio Allende","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1587","Semiurbano","04"
+"98615","P.P.S.","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1599","Semiurbano","04"
+"98615","Francisco Villa","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0295","Semiurbano","04"
+"98615","Sutsemop","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1470","Semiurbano","04"
+"98615","FIRCO","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1582","Semiurbano","04"
+"98615","Popular del Bosque","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1600","Semiurbano","04"
+"98615","Progresistas","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1257","Semiurbano","04"
+"98615","Emiliano Zapata","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1258","Semiurbano","04"
+"98615","Privada las Águilas","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1604","Semiurbano","04"
+"98615","Toma de Zacatecas","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1260","Semiurbano","04"
+"98615","Grupo Tendencia Sindical","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1585","Semiurbano","04"
+"98615","Tierra y Libertad 1","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0297","Semiurbano","04"
+"98615","África","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1259","Semiurbano","04"
+"98615","Tierra y Libertad 2","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0298","Semiurbano","04"
+"98615","Ampliación Minas","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1538","Urbano","04"
+"98615","San Miguel del Cortijo","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1619","Semiurbano","04"
+"98616","California II","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1575","Semiurbano","04"
+"98616","California I","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1574","Semiurbano","04"
+"98616","Ganaderos","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0299","Semiurbano","04"
+"98616","La Cantera","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0300","Semiurbano","04"
+"98616","Rincón Colonial","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0301","Semiurbano","04"
+"98616","Uaz","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0302","Semiurbano","04"
+"98617","Militar","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0305","Semiurbano","04"
+"98617","Minas","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1251","Semiurbano","04"
+"98617","Villa Colonial","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1252","Semiurbano","04"
+"98617","El Dorado","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0304","Semiurbano","04"
+"98617","Conde de Bernardez","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0303","Semiurbano","04"
+"98617","Privada Minas","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1625","Semiurbano","04"
+"98618","Dependencias Federales","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0306","Semiurbano","04"
+"98618","La Florida","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0308","Semiurbano","04"
+"98618","Privada Eucaliptos","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0309","Semiurbano","04"
+"98618","Privada los Olivares","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1246","Semiurbano","04"
+"98618","Privada Geraneos","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1623","Semiurbano","04"
+"98618","Retorno de los Eucaliptos","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1274","Semiurbano","04"
+"98619","Geranios","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1248","Semiurbano","04"
+"98619","Geraneos II","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1584","Semiurbano","04"
+"98619","Issste Zac 3","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0314","Semiurbano","04"
+"98619","Los Pirules","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0315","Semiurbano","04"
+"98619","Camilo Torres","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0310","Semiurbano","04"
+"98619","Cañada de La Bufa","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","0311","Semiurbano","04"
+"98619","Rinconada de Los Pinos","Fraccionamiento","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"21","017","1616","Semiurbano","04"
+"98619","Ex Hacienda de Bernardez","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0312","Semiurbano","04"
+"98619","Gavilanes","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","0313","Semiurbano","04"
+"98619","Villa de las Flores","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1247","Semiurbano","04"
+"98619","Cañada de Bernardez","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1249","Semiurbano","04"
+"98619","Cañada Del Sol","Colonia","Guadalupe","Zacatecas","Guadalupe","98601","32","98601",,"09","017","1275","Semiurbano","04"
+"98620","Francisco E. García","Rancho o rancheria","Guadalupe","Zacatecas",,"98601","32","98601",,"29","017","1634","Rural",
+"98620","Casa Blanca","Ejido","Guadalupe","Zacatecas",,"98601","32","98601",,"15","017","0316","Rural",
+"98621","El Bordo","Rancho o rancheria","Guadalupe","Zacatecas",,"98601","32","98601",,"29","017","0317","Rural",
+"98630","Tacoaleche","Ejido","Guadalupe","Zacatecas",,"98601","32","98601",,"15","017","0318","Rural",
+"98631","Zoquite","Ejido","Guadalupe","Zacatecas",,"98601","32","98601",,"15","017","0320","Rural",
+"98631","La Luz","Rancho o rancheria","Guadalupe","Zacatecas",,"98601","32","98601",,"29","017","0319","Rural",
+"98640","Trancoso","Hacienda","Trancoso","Zacatecas",,"98601","32","98601",,"24","057","0322","Rural",
+"98644","La Blanquita","Poblado comunal","Trancoso","Zacatecas",,"98601","32","98601",,"27","057","1294","Rural",
+"98645","San Salvador Del Bajío","Poblado comunal","Trancoso","Zacatecas",,"98601","32","98601",,"27","057","1299","Rural",
+"98646","El Porvenir","Poblado comunal","Trancoso","Zacatecas",,"98601","32","98601",,"27","057","1296","Rural",
+"98647","San Jose Del Carmen","Poblado comunal","Trancoso","Zacatecas",,"98601","32","98601",,"27","057","1298","Rural",
+"98648","Los Insurgentes","Poblado comunal","Trancoso","Zacatecas",,"98601","32","98601",,"27","057","1295","Rural",
+"98648","Ruben Jaramillo (la Chiripa)","Poblado comunal","Trancoso","Zacatecas",,"98601","32","98601",,"27","057","1297","Rural",
+"98650","San Jerónimo","Ejido","Guadalupe","Zacatecas",,"98601","32","98601",,"15","017","0323","Rural",
+"98658","Cieneguitas","Pueblo","Guadalupe","Zacatecas",,"98601","32","98601",,"28","017","0324","Rural",
+"98659","Zacatecana","Pueblo","Guadalupe","Zacatecas",,"98601","32","98601",,"28","017","0325","Rural",
+"98659","Martínez Domínguez","Pueblo","Guadalupe","Zacatecas",,"98601","32","98601",,"28","017","1633","Rural",
+"98660","Santa Inés","Rancho o rancheria","Genaro Codina","Zacatecas",,"98601","32","98601",,"29","012","0328","Rural",
+"98660","Genaro Codina","Pueblo","Genaro Codina","Zacatecas",,"98601","32","98601",,"28","012","0326","Rural",
+"98660","San Jose de La Isla","Rancho o rancheria","Genaro Codina","Zacatecas",,"98601","32","98601",,"29","012","0327","Rural",
+"98667","La Toma","Rancho o rancheria","Genaro Codina","Zacatecas",,"98601","32","98601",,"29","012","1663","Rural",
+"98670","Santa Cruz de Piedras Cargadas","Rancho o rancheria","Genaro Codina","Zacatecas",,"98601","32","98601",,"29","012","1659","Rural",
+"98680","Piedra Gorda","Rancho o rancheria","Cuauhtémoc","Zacatecas",,"98691","32","98691",,"29","008","0330","Rural",
+"98680","San Pedro Piedra Gorda","Rancho o rancheria","Cuauhtémoc","Zacatecas",,"98691","32","98691",,"29","008","0332","Rural",
+"98680","Rancho Nuevo","Rancho o rancheria","Cuauhtémoc","Zacatecas",,"98691","32","98691",,"29","008","0331","Rural",
+"98689","Berriozabal","Rancho o rancheria","Cuauhtémoc","Zacatecas",,"98691","32","98691",,"29","008","0334","Rural",
+"98690","Ciudad Cuauhtémoc Centro","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","0329","Rural","06"
+"98692","Lázaro Cárdenas","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","0863","Rural","06"
+"98692","Lázaro Cárdenas 2a Sección","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","1415","Rural","06"
+"98693","Potrerillos","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","0862","Rural","06"
+"98693","Asencion Torres","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","1416","Rural","06"
+"98694","La Rinconada","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","0861","Rural","06"
+"98694","Castorena","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","1417","Rural","06"
+"98695","Morelos","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","0860","Rural","06"
+"98696","Independiente","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","1418","Rural","06"
+"98696","La Piedad","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","0858","Rural","06"
+"98696","Las Torres","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","1419","Rural","06"
+"98697","Independencia","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","0859","Rural","06"
+"98698","Las Gallinas","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","1413","Rural","06"
+"98698","La Gavia","Colonia","Cuauhtémoc","Zacatecas","Ciudad Cuauhtémoc","98691","32","98691",,"09","008","1414","Rural","06"
+"98700","San Pablo","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","0342","Rural",
+"98700","Palmira","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1374","Rural",
+"98700","El Refugio","Pueblo","Ojocaliente","Zacatecas",,"98711","32","98711",,"28","036","0336","Rural",
+"98700","Concepción","Pueblo","Ojocaliente","Zacatecas",,"98711","32","98711",,"28","036","0335","Rural",
+"98700","Sauceda de Mulatos","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","0343","Rural",
+"98700","Tlacotes","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","0344","Rural",
+"98700","Jarillas","Exhacienda","Ojocaliente","Zacatecas",,"98711","32","98711",,"18","036","0337","Rural",
+"98700","Milagros","Pueblo","Ojocaliente","Zacatecas",,"98711","32","98711",,"28","036","0338","Rural",
+"98700","Palmillas","Pueblo","Ojocaliente","Zacatecas",,"98711","32","98711",,"28","036","0340","Rural",
+"98700","Pastoría","Pueblo","Ojocaliente","Zacatecas",,"98711","32","98711",,"28","036","0341","Rural",
+"98704","Dolores","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1365","Rural",
+"98705","La Capilla","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1368","Rural",
+"98705","Nuevo Mundo","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1373","Rural",
+"98705","La Puerta de Fierro","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1369","Rural",
+"98706","Cerrito de La Cruz","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1364","Rural",
+"98706","La Verde","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1370","Rural",
+"98706","Las Coloradas","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1371","Rural",
+"98707","Pozo de Jarillas","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1375","Rural",
+"98707","Las Lajas","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1372","Rural",
+"98707","Perales","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1386","Rural",
+"98710","Ojocaliente Centro","Colonia","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"09","036","0339","Semiurbano","07"
+"98712","Las Lomas","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","0875","Semiurbano","07"
+"98712","Nuevo Ojocaliente","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","0880","Semiurbano","07"
+"98712","Nombre de Dios","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","0879","Semiurbano","07"
+"98712","San Miguel","Barrio","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"02","036","0889","Semiurbano","07"
+"98712","Las Cumbres","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","1361","Semiurbano","07"
+"98712","El Papanton","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","0870","Semiurbano","07"
+"98712","Real de Sacramento","Colonia","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"09","036","0884","Semiurbano","07"
+"98712","Indeco","Colonia","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"09","036","0873","Semiurbano","07"
+"98712","Reginaldo Sandoval","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","0887","Semiurbano","07"
+"98713","Renacimiento","Colonia","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"09","036","0885","Semiurbano","07"
+"98713","Veteranos de La Revolución","Colonia","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"09","036","0891","Semiurbano","07"
+"98713","Las Villitas","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","0876","Semiurbano","07"
+"98713","Huerta Santa Teresa","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","0872","Semiurbano","07"
+"98714","Parga","Colonia","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"09","036","0882","Semiurbano","07"
+"98714","El Trébol","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","1359","Semiurbano","07"
+"98715","Real Bastidas","Colonia","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"09","036","0883","Semiurbano","07"
+"98715","Luis Reyes","Colonia","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"09","036","0886","Semiurbano","07"
+"98715","San Jorge","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","0888","Semiurbano","07"
+"98715","Martel","Colonia","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"09","036","0878","Semiurbano","07"
+"98715","Jerusalem","Barrio","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"02","036","0874","Semiurbano","07"
+"98716","Lázaro Cárdenas","Colonia","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"09","036","0865","Semiurbano","07"
+"98717","El Húmedo","Barrio","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"02","036","0869","Semiurbano","07"
+"98717","Chinanpas","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","0867","Semiurbano","07"
+"98717","Chinanpas","Barrio","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"02","036","0866","Semiurbano","07"
+"98717","Magisterial","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","0877","Semiurbano","07"
+"98717","San Pedro","Barrio","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"02","036","0890","Semiurbano","07"
+"98717","El Fresno","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","0868","Semiurbano","07"
+"98718","El Portalillo","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","0871","Semiurbano","07"
+"98718","Fernando Pamanes Escobedo","Colonia","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"09","036","0881","Semiurbano","07"
+"98718","Elias Valadez","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","1358","Semiurbano","07"
+"98718","Industrial Ladrillero","Fraccionamiento","Ojocaliente","Zacatecas","Ojocaliente","98711","32","98711",,"21","036","1360","Semiurbano","07"
+"98720","San Cristóbal","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1378","Rural",
+"98723","San Blas de Copudas","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1377","Rural",
+"98723","San Jose de los Llanos","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1379","Rural",
+"98723","El Tildío","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1367","Rural",
+"98723","Santa Maria de La Paz","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1382","Rural",
+"98723","San Jose Del Vaquero","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1380","Rural",
+"98724","Buenavista","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1363","Rural",
+"98725","Boquillas","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1362","Rural",
+"98725","San Juan de Carboneras","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1381","Rural",
+"98725","Santo Tomas","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1383","Rural",
+"98726","Venaditos","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1384","Rural",
+"98726","Cerrito Del Agua","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1385","Rural",
+"98727","San Antonio Del Volcán","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1376","Rural",
+"98727","El Chepinque","Rancho o rancheria","Ojocaliente","Zacatecas",,"98711","32","98711",,"29","036","1366","Rural",
+"98730","Santa Fe","Colonia","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"09","016","1393","Rural",
+"98730","Magisterial","Colonia","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"09","016","1391","Rural",
+"98730","El Tule","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","0346","Rural",
+"98730","Presidentes","Colonia","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"09","016","1392","Rural",
+"98730","Las Animas","Colonia","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"09","016","1396","Rural",
+"98730","Buenavista","Colonia","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"09","016","1390","Rural",
+"98730","Santa Cruz","Colonia","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"09","016","1389","Rural",
+"98730","Gral. Pánfilo Natera Centro","Colonia","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"09","016","0347","Rural",
+"98730","Piedra Azul","Colonia","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"09","016","1395","Rural",
+"98730","San Juan Bautista","Colonia","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"09","016","1394","Rural",
+"98730","Barrio Alto","Colonia","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"09","016","1397","Rural",
+"98730","San Rafael","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1407","Rural",
+"98740","El Saucito","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","0349","Rural",
+"98740","Las Amapolas","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1400","Rural",
+"98740","Marin","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1403","Rural",
+"98740","Santa Maria","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1410","Rural",
+"98740","Guanajuatillo","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","0350","Rural",
+"98740","Noria Del Cerro","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1404","Rural",
+"98740","La Tesorera","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","0351","Rural",
+"98740","Unión de San Antonio","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1411","Rural",
+"98740","Presa Del Coloradito","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1405","Rural",
+"98750","El Saladillo","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","0352","Rural",
+"98750","Pamanes","Colonia","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"09","016","1398","Rural",
+"98750","Las Escobas","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1402","Rural",
+"98750","Valle Del San Juan","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1412","Rural",
+"98760","San Pablo","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","0354","Rural",
+"98760","Las Animas","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1401","Rural",
+"98760","La Haciendita","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1399","Rural",
+"98760","Rancho Nuevo","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","0353","Rural",
+"98760","Santa Elena","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","0355","Rural",
+"98760","Tahonas","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1408","Rural",
+"98760","San Ramon","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1409","Rural",
+"98760","Providencia","Rancho o rancheria","General Pánfilo Natera","Zacatecas",,"98711","32","98711",,"29","016","1406","Rural",
+"98770","Luis Moya Centro","Colonia","Luis Moya","Zacatecas","Luis Moya","98771","32","98771",,"09","025","0357","Rural","14"
+"98772","San Antonio","Fraccionamiento","Luis Moya","Zacatecas","Luis Moya","98771","32","98771",,"21","025","1018","Rural","14"
+"98772","Independencia","Colonia","Luis Moya","Zacatecas","Luis Moya","98771","32","98771",,"09","025","1011","Rural","14"
+"98772","De las Flores","Colonia","Luis Moya","Zacatecas","Luis Moya","98771","32","98771",,"09","025","1021","Rural","14"
+"98773","Campestre","Fraccionamiento","Luis Moya","Zacatecas","Luis Moya","98771","32","98771",,"21","025","1017","Rural","14"
+"98775","Magisterial","Colonia","Luis Moya","Zacatecas","Luis Moya","98771","32","98771",,"09","025","1013","Rural","14"
+"98775","Praderas Del Sol","Fraccionamiento","Luis Moya","Zacatecas","Luis Moya","98771","32","98771",,"21","025","1014","Rural","14"
+"98776","San Francisco","Colonia","Luis Moya","Zacatecas","Luis Moya","98771","32","98771",,"09","025","1012","Rural","14"
+"98776","San Miguel","Colonia","Luis Moya","Zacatecas","Luis Moya","98771","32","98771",,"09","025","1015","Rural","14"
+"98776","San Francisco II","Fraccionamiento","Luis Moya","Zacatecas","Luis Moya","98771","32","98771",,"21","025","1016","Rural","14"
+"98780","20 de Noviembre","Colonia","Luis Moya","Zacatecas",,"98771","32","98771",,"09","025","0361","Rural",
+"98780","Leyva","Rancho o rancheria","Luis Moya","Zacatecas",,"98771","32","98771",,"29","025","1421","Rural",
+"98780","Hidalgo","Colonia","Luis Moya","Zacatecas",,"98771","32","98771",,"09","025","0360","Rural",
+"98785","Los Pocitos","Rancho o rancheria","Luis Moya","Zacatecas",,"98771","32","98771",,"29","025","1424","Rural",
+"98785","Esteban Castorena","Rancho o rancheria","Luis Moya","Zacatecas",,"98771","32","98771",,"29","025","0356","Rural",
+"98785","Los Griegos","Rancho o rancheria","Luis Moya","Zacatecas",,"98771","32","98771",,"29","025","0358","Rural",
+"98790","Noria de Molinos","Rancho o rancheria","Luis Moya","Zacatecas",,"98771","32","98771",,"29","025","0363","Rural",
+"98794","El Coecillo","Rancho o rancheria","Luis Moya","Zacatecas",,"98771","32","98771",,"29","025","0362","Rural",
+"98794","La Manga","Rancho o rancheria","Luis Moya","Zacatecas",,"98771","32","98771",,"29","025","1423","Rural",
+"98795","Barranquillas","Rancho o rancheria","Luis Moya","Zacatecas",,"98771","32","98771",,"29","025","1420","Rural",
+"98795","ing. Julián Adame","Rancho o rancheria","Luis Moya","Zacatecas",,"98771","32","98771",,"29","025","1422","Rural",
+"98800","San Blas","Rancho o rancheria","Loreto","Zacatecas",,"98831","32","98831",,"29","024","0365","Rural",
+"98804","Santa Maria de los Angeles","Rancho o rancheria","Loreto","Zacatecas",,"98831","32","98831",,"29","024","0366","Rural",
+"98807","Crisóstomos","Rancho o rancheria","Loreto","Zacatecas",,"98831","32","98831",,"29","024","0370","Rural",
+"98810","El Tepetate","Rancho o rancheria","Loreto","Zacatecas",,"98831","32","98831",,"29","024","0371","Rural",
+"98810","Felipe Carrillo Puerto","Rancho o rancheria","Loreto","Zacatecas",,"98831","32","98831",,"29","024","0372","Rural",
+"98815","Tierra Blanca","Rancho o rancheria","Loreto","Zacatecas",,"98831","32","98831",,"29","024","0368","Rural",
+"98817","Bimbaletes","Pueblo","Loreto","Zacatecas",,"98831","32","98831",,"28","024","0369","Rural",
+"98820","San Marcos","Pueblo","Loreto","Zacatecas",,"98831","32","98831",,"28","024","0374","Rural",
+"98820","La Loma","Pueblo","Loreto","Zacatecas",,"98831","32","98831",,"28","024","0819","Rural",
+"98824","La Concepción","Rancho o rancheria","Loreto","Zacatecas",,"98831","32","98831",,"29","024","0375","Rural",
+"98825","El Hinojo","Rancho o rancheria","Loreto","Zacatecas",,"98831","32","98831",,"29","024","1638","Rural",
+"98827","El Lobo","Rancho o rancheria","Loreto","Zacatecas",,"98831","32","98831",,"29","024","0373","Rural",
+"98830","Loreto Centro","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","0364","Semiurbano","18"
+"98832","La Huerta","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1077","Semiurbano","18"
+"98832","La Esperanza II","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1078","Semiurbano","18"
+"98832","Acevedo","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1072","Semiurbano","18"
+"98832","El Mezquite","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1076","Semiurbano","18"
+"98832","La Esperanza I","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1075","Semiurbano","18"
+"98833","El Edén","Fraccionamiento","Loreto","Zacatecas","Loreto","98831","32","98831",,"21","024","1074","Semiurbano","18"
+"98833","San Marcos I","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1073","Semiurbano","18"
+"98833","San Marcos II","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1079","Semiurbano","18"
+"98833","Santa Cruz","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1101","Semiurbano","18"
+"98833","Valle Real","Fraccionamiento","Loreto","Zacatecas","Loreto","98831","32","98831",,"21","024","1082","Semiurbano","18"
+"98833","Revolución","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1102","Semiurbano","18"
+"98834","Torres","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1086","Semiurbano","18"
+"98834","La Martinica II","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1083","Semiurbano","18"
+"98834","Minera","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1084","Semiurbano","18"
+"98834","La Martinica I","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1085","Semiurbano","18"
+"98835","Reforma","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1087","Semiurbano","18"
+"98835","Vega","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1088","Semiurbano","18"
+"98836","Llanos de San Miguel","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1099","Semiurbano","18"
+"98837","San Manuel","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1092","Semiurbano","18"
+"98837","Esmeralda","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1091","Semiurbano","18"
+"98837","San Francisco","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1090","Semiurbano","18"
+"98838","Los Pirules","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1081","Semiurbano","18"
+"98838","Herrada","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1093","Semiurbano","18"
+"98838","Valle de Loreto","Fraccionamiento","Loreto","Zacatecas","Loreto","98831","32","98831",,"21","024","1094","Semiurbano","18"
+"98838","Lázaro Cárdenas","Fraccionamiento","Loreto","Zacatecas","Loreto","98831","32","98831",,"21","024","1089","Semiurbano","18"
+"98838","El Socorro","Fraccionamiento","Loreto","Zacatecas","Loreto","98831","32","98831",,"21","024","1080","Semiurbano","18"
+"98839","Escobedo","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1097","Semiurbano","18"
+"98839","Arboledas","Fraccionamiento","Loreto","Zacatecas","Loreto","98831","32","98831",,"21","024","1095","Semiurbano","18"
+"98839","Arenas","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1098","Semiurbano","18"
+"98839","La Victoria","Colonia","Loreto","Zacatecas","Loreto","98831","32","98831",,"09","024","1096","Semiurbano","18"
+"98840","Villa Gonzalez Ortega","Villa","Villa González Ortega","Zacatecas",,"98841","32","98841",,"32","053","0376","Rural",
+"98850","Bajío de San Nicolás","Rancho o rancheria","Villa González Ortega","Zacatecas",,"98923","32","98923",,"29","053","0378","Rural",
+"98870","Estancia de Animas","Pueblo","Villa González Ortega","Zacatecas",,"98841","32","98841",,"28","053","0379","Rural",
+"98880","El Rascon","Rancho o rancheria","Noria de Ángeles","Zacatecas",,"98841","32","98841",,"29","035","0381","Rural",
+"98880","Maravillas","Congregacion","Noria de Ángeles","Zacatecas",,"98841","32","98841",,"11","035","0382","Rural",
+"98880","Noria de Angeles","Pueblo","Noria de Ángeles","Zacatecas",,"98841","32","98841",,"28","035","0383","Rural",
+"98880","Playas Del Refugio","Rancho o rancheria","Noria de Ángeles","Zacatecas",,"98841","32","98841",,"29","035","0384","Rural",
+"98890","Gral. Guadalupe Victoria O La Honda","Pueblo","Noria de Ángeles","Zacatecas",,"98923","32","98923",,"28","035","0385","Rural",
+"98890","Ignacio Zaragoza","Ejido","Noria de Ángeles","Zacatecas",,"98923","32","98923",,"15","035","0386","Rural",
+"98890","San Francisco","Congregacion","Noria de Ángeles","Zacatecas",,"98923","32","98923",,"11","035","0387","Rural",
+"98900","Villa Garcia","Villa","Villa García","Zacatecas",,"98831","32","98831",,"32","052","0388","Rural",
+"98910","Agua Gorda","Ejido","Villa García","Zacatecas",,"98831","32","98831",,"15","052","0390","Rural",
+"98918","Montesa","Ejido","Villa García","Zacatecas",,"98831","32","98831",,"15","052","0391","Rural",
+"98919","Los Campos","Rancho o rancheria","Villa García","Zacatecas",,"98831","32","98831",,"29","052","0392","Rural",
+"98920","Pinos","Ciudad","Pinos","Zacatecas",,"98923","32","98923",,"08","038","0393","Rural",
+"98920","La Plazuela","Barrio","Pinos","Zacatecas",,"98923","32","98923",,"02","038","1647","Rural",
+"98921","La Victoria","Pueblo","Pinos","Zacatecas",,"98923","32","98923",,"28","038","0394","Rural",
+"98930","Espiritu Santo","Pueblo","Pinos","Zacatecas",,"98923","32","98923",,"28","038","0396","Rural",
+"98931","Santa Gertrudis","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0397","Rural",
+"98933","La Encarnación","Rancho o rancheria","Pinos","Zacatecas",,"98923","32","98923",,"29","038","1662","Rural",
+"98940","Saldaña","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0398","Rural",
+"98940","Santa Ana","Rancho o rancheria","Pinos","Zacatecas",,"98923","32","98923",,"29","038","0399","Rural",
+"98940","Santiago","Rancho o rancheria","Pinos","Zacatecas",,"98923","32","98923",,"29","038","0400","Rural",
+"98941","Trinidad Norte","Rancho o rancheria","Pinos","Zacatecas",,"98923","32","98923",,"29","038","0401","Rural",
+"98942","Tolosa","Estacion","Pinos","Zacatecas",,"98923","32","98923",,"16","038","0403","Rural",
+"98942","La Pendencia","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0402","Rural",
+"98950","El Nigromante","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0404","Rural",
+"98951","El Obraje","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0405","Rural",
+"98951","Laborcilla","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0406","Rural",
+"98955","Jaltomate","Rancho o rancheria","Pinos","Zacatecas",,"98923","32","98923",,"29","038","0407","Rural",
+"98959","El Pedregoso","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0408","Rural",
+"98959","Estancia de Guadalupe","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0409","Rural",
+"98959","La Lobena","Rancho o rancheria","Pinos","Zacatecas",,"98923","32","98923",,"29","038","0410","Rural",
+"98960","Jose Maria Pino Suárez","Rancho o rancheria","Pinos","Zacatecas",,"98923","32","98923",,"29","038","0412","Rural",
+"98960","La Estrella","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0413","Rural",
+"98960","El Mezquite","Rancho o rancheria","Pinos","Zacatecas",,"98923","32","98923",,"29","038","0411","Rural",
+"98961","Santa Elena","Rancho o rancheria","Pinos","Zacatecas",,"98923","32","98923",,"29","038","0414","Rural",
+"98965","La Cruz","Rancho o rancheria","Pinos","Zacatecas",,"98923","32","98923",,"29","038","0415","Rural",
+"98969","Cieneguilla","Rancho o rancheria","Pinos","Zacatecas",,"98923","32","98923",,"29","038","0416","Rural",
+"98969","San Martin","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0417","Rural",
+"98970","El Sitio","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0418","Rural",
+"98971","Agua Grande de los Patos","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0419","Rural",
+"98971","Jaulillas","Pueblo","Pinos","Zacatecas",,"98923","32","98923",,"28","038","0422","Rural",
+"98971","Jaula de Abajo","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0420","Rural",
+"98971","Jaula de Arriba","Pueblo","Pinos","Zacatecas",,"98923","32","98923",,"28","038","0421","Rural",
+"98979","Ojo de Agua de La Palma","Congregacion","Pinos","Zacatecas",,"98923","32","98923",,"11","038","0423","Rural",
+"98980","San Agustin","Rancho o rancheria","Villa Hidalgo","Zacatecas",,"98923","32","98923",,"29","054","0425","Rural",
+"98980","La Ballena","Rancho o rancheria","Villa Hidalgo","Zacatecas",,"98923","32","98923",,"29","054","0424","Rural",
+"98986","Refugio","Rancho o rancheria","Villa Hidalgo","Zacatecas",,"98991","32","98991",,"29","054","0428","Rural",
+"98988","Purísima Del Rocio O El Rocio","Rancho o rancheria","Villa Hidalgo","Zacatecas",,"98991","32","98991",,"29","054","0427","Rural",
+"98990","Villa Hidalgo Centro","Colonia","Villa Hidalgo","Zacatecas","Villa Hidalgo","98991","32","98991",,"09","054","0426","Rural","08"
+"98994","Francisco E Garcia","Colonia","Villa Hidalgo","Zacatecas","Villa Hidalgo","98991","32","98991",,"09","054","0893","Rural","08"
+"98995","Nueva","Colonia","Villa Hidalgo","Zacatecas","Villa Hidalgo","98991","32","98991",,"09","054","0892","Rural","08"
+"99000","Fresnillo Centro","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0431","Urbano","01"
+"99010","Solidaridad","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0787","Urbano","01"
+"99010","Emiliano Zapata","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0433","Urbano","01"
+"99010","Napoleón Gómez Sada","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0786","Urbano","01"
+"99010","Sector 7","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0788","Urbano","01"
+"99011","Lomas de Plateros","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0434","Urbano","01"
+"99013","Sector Popular","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0800","Urbano","01"
+"99013","Plutarco Elias Calles","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0801","Urbano","01"
+"99014","Francisco I Madero","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1334","Urbano","01"
+"99014","Plan de Ayala","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0803","Urbano","01"
+"99014","Azteca","Ampliacion","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"38","010","1328","Urbano","01"
+"99014","Petroleos Mexicanos","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1341","Urbano","01"
+"99014","Azteca","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0789","Urbano","01"
+"99014","Patria y Libertad","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0802","Urbano","01"
+"99014","Lázaro Cárdenas","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1348","Urbano","01"
+"99014","Nueva Esperanza","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0790","Urbano","01"
+"99020","Benito Juárez","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0435","Urbano","01"
+"99020","Magisterial","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0776","Urbano","01"
+"99020","Infonavit","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0805","Urbano","01"
+"99020","El Fresno","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0436","Urbano","01"
+"99020","Francisco Goytia Infonavit","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","0437","Urbano","01"
+"99020","Tecnológica","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0804","Urbano","01"
+"99030","San Miguel","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1287","Urbano","01"
+"99030","El Parque","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0438","Urbano","01"
+"99030","Las Américas","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0807","Urbano","01"
+"99030","Nueva Industrial","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0806","Urbano","01"
+"99030","Industrial","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0439","Urbano","01"
+"99030","Buenos Aires","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1291","Urbano","01"
+"99033","Ejidal 3","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1331","Urbano","01"
+"99034","Lienzo Del Charro","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0808","Urbano","01"
+"99034","La Joya","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1349","Urbano","01"
+"99034","Miguel Hidalgo","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0809","Urbano","01"
+"99036","Luis Donaldo Colosio","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0791","Urbano","01"
+"99039","Lindavista","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0440","Urbano","01"
+"99040","Jose Maria Vázquez","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0441","Urbano","01"
+"99040","Lasalle","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0442","Urbano","01"
+"99040","Periodistas","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0810","Urbano","01"
+"99040","Del Policía","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0779","Urbano","01"
+"99049","18 de Julio Indeco","Unidad habitacional","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"31","010","0443","Urbano","01"
+"99050","El Vergel","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0444","Urbano","01"
+"99050","Jesús Gonzalez Ortega","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0799","Urbano","01"
+"99050","Ejidal","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0811","Urbano","01"
+"99050","Del Fresno","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","0812","Urbano","01"
+"99050","Las Flores","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0445","Urbano","01"
+"99050","Obrera Norte","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0446","Urbano","01"
+"99050","Las Huertas de Abajo","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1290","Urbano","01"
+"99054","Las Haciendas","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","0794","Urbano","01"
+"99054","Huertas de Abajo","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0784","Urbano","01"
+"99054","Francisco Villa","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0447","Urbano","01"
+"99054","Ecología","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1330","Urbano","01"
+"99055","Zodiaco","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0785","Urbano","01"
+"99056","Felipe Angeles","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1332","Urbano","01"
+"99056","Villas de Plateros","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","1338","Urbano","01"
+"99056","Los Balcones","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","1347","Urbano","01"
+"99056","Real de Fresnillo","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","0792","Urbano","01"
+"99056","Arboledas","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0813","Urbano","01"
+"99059","Cnop","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0448","Urbano","01"
+"99060","Obrera Centro","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0450","Urbano","01"
+"99060","Lagunilla","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0449","Urbano","01"
+"99060","Sector Lagunilla","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0778","Urbano","01"
+"99070","Barrio Alto","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0451","Urbano","01"
+"99070","Manuel M Ponce","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1289","Urbano","01"
+"99070","El Olivar","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0783","Urbano","01"
+"99080","Fortuna","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0814","Urbano","01"
+"99080","Esparza","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0452","Urbano","01"
+"99080","Lomas de La Fortuna","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0453","Urbano","01"
+"99080","Roque Estrada R","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1288","Urbano","01"
+"99080","Fovissste","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0815","Urbano","01"
+"99080","Real de Minas","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0816","Urbano","01"
+"99080","El Vergel","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","1333","Urbano","01"
+"99080","La Paz","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1336","Urbano","01"
+"99084","Del Valle","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0817","Urbano","01"
+"99084","Ejidal","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0777","Urbano","01"
+"99084","Los Sotoles","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1345","Urbano","01"
+"99088","Fstse","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","0454","Urbano","01"
+"99089","Minera","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0455","Urbano","01"
+"99090","Electricistas","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0456","Urbano","01"
+"99090","Maravillas","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0457","Urbano","01"
+"99094","Los Olivos","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","1346","Urbano","01"
+"99094","San Jorge","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","0795","Urbano","01"
+"99094","Magisterio Unido","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1343","Urbano","01"
+"99094","Del Magisterio","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0781","Urbano","01"
+"99094","Del Bosque","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1329","Urbano","01"
+"99094","Muralista","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1342","Urbano","01"
+"99094","Magisterial","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1344","Urbano","01"
+"99094","Polvaderas","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0782","Urbano","01"
+"99094","San Felipe","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","0793","Urbano","01"
+"99094","Impresionistas","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1335","Urbano","01"
+"99094","La Victoria","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1339","Urbano","01"
+"99094","Mesoamerica","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0780","Urbano","01"
+"99094","Providencia","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","1340","Urbano","01"
+"99099","Venustiano Carranza","Colonia","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"09","010","0459","Urbano","01"
+"99099","Jesús Gonzalez Ortega","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","0458","Urbano","01"
+"99099","Venustiano Carranza","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","0796","Urbano","01"
+"99099","Villas Jardín","Fraccionamiento","Fresnillo","Zacatecas","Fresnillo","99001","32","99001",,"21","010","1337","Urbano","01"
+"99100","Sombrerete Centro","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","0462","Semiurbano","16"
+"99102","Lopez Mateos","Ampliacion","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"38","042","1045","Semiurbano","16"
+"99102","Loma La Colorada","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1054","Semiurbano","16"
+"99102","La Soledad","Barrio","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"02","042","1056","Semiurbano","16"
+"99102","Lopez Mateos","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1044","Semiurbano","16"
+"99102","El Sombreretillo","Rancho o rancheria","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"29","042","1053","Rural","16"
+"99102","La Urbaleja y los Músicos","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1034","Semiurbano","16"
+"99102","La Purísima","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1043","Semiurbano","16"
+"99102","Sombreretillo","Barrio","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"02","042","1047","Semiurbano","16"
+"99102","El Coronel","Fraccionamiento","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"21","042","1051","Semiurbano","16"
+"99103","La Cueva","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1031","Semiurbano","16"
+"99103","El Cerrito de Guadalupe","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1029","Semiurbano","16"
+"99103","Industrial","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1050","Semiurbano","16"
+"99103","San Pedro","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1026","Semiurbano","16"
+"99103","La Caridad y La Huerta","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1039","Semiurbano","16"
+"99103","Las Escobillas","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1028","Semiurbano","16"
+"99103","División del Norte","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1030","Semiurbano","16"
+"99103","Del Oro","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1033","Semiurbano","16"
+"99103","El Chepinque","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1027","Semiurbano","16"
+"99103","Santo Domingo","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1032","Semiurbano","16"
+"99103","Huerta de los Santos Niños","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1049","Semiurbano","16"
+"99103","Santa Rosa","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1025","Semiurbano","16"
+"99104","Lomas Del Consuelo","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1036","Semiurbano","16"
+"99104","La Palmilla","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1055","Semiurbano","16"
+"99104","El Ranchito","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1052","Semiurbano","16"
+"99104","La Santiaga","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1038","Semiurbano","16"
+"99104","Fovissste","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1042","Semiurbano","16"
+"99104","Huertas Grandes","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1293","Semiurbano","16"
+"99104","El Consuelo","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1035","Semiurbano","16"
+"99104","La Pila","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1037","Semiurbano","16"
+"99104","El Peñasco","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1046","Semiurbano","16"
+"99104","Infonavit II","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1041","Semiurbano","16"
+"99104","La Blanca","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1048","Semiurbano","16"
+"99104","Infonavit I","Colonia","Sombrerete","Zacatecas","Sombrerete","99101","32","99101",,"09","042","1040","Semiurbano","16"
+"99106","Frió","Hacienda","Sombrerete","Zacatecas",,"99101","32","99101",,"24","042","0460","Rural",
+"99106","Álvaro Obregón","Rancho o rancheria","Sombrerete","Zacatecas",,"99101","32","99101",,"29","042","0466","Rural",
+"99109","San Jose de Félix","Estacion","Sombrerete","Zacatecas",,"99101","32","99101",,"16","042","0468","Rural",
+"99109","Jose Maria Morelos","Ejido","Sombrerete","Zacatecas",,"99101","32","99101",,"15","042","0461","Rural",
+"99109","San Martin","Rancho o rancheria","Sombrerete","Zacatecas",,"99101","32","99101",,"29","042","0463","Rural",
+"99109","Ojo de Agua Calabazal","Rancho o rancheria","Sombrerete","Zacatecas",,"99101","32","99101",,"29","042","0467","Rural",
+"99109","Villa Insurgentes","Estacion","Sombrerete","Zacatecas",,"99101","32","99101",,"16","042","0470","Rural",
+"99109","Santa Rita","Rancho o rancheria","Sombrerete","Zacatecas",,"99101","32","99101",,"29","042","0469","Rural",
+"99110","Felipe Angeles","Ejido","Sombrerete","Zacatecas",,"98421","32","98421",,"15","042","0471","Rural",
+"99110","Francisco Murguía","Hacienda","Sombrerete","Zacatecas",,"98421","32","98421",,"24","042","0472","Rural",
+"99110","Hidalgo","Ejido","Sombrerete","Zacatecas",,"98421","32","98421",,"15","042","0474","Rural",
+"99110","Ignacio Zaragoza","Ejido","Sombrerete","Zacatecas",,"98421","32","98421",,"15","042","0475","Rural",
+"99110","Gonzalez Ortega","Ejido","Sombrerete","Zacatecas",,"98421","32","98421",,"15","042","0473","Rural",
+"99119","Benito Juárez","Ejido","Sombrerete","Zacatecas",,"98421","32","98421",,"15","042","0477","Rural",
+"99119","Ignacio Allende","Ejido","Sombrerete","Zacatecas",,"98421","32","98421",,"15","042","1636","Rural",
+"99119","Cuauhtémoc","Estacion","Sombrerete","Zacatecas",,"98421","32","98421",,"16","042","0478","Rural",
+"99119","Flores Garcia","Ejido","Sombrerete","Zacatecas",,"98421","32","98421",,"15","042","0479","Rural",
+"99120","Los Corrales","Ejido","Sombrerete","Zacatecas",,"99101","32","99101",,"15","042","0481","Rural",
+"99120","Lo de Mena","Estacion","Sombrerete","Zacatecas",,"99101","32","99101",,"16","042","0480","Rural",
+"99121","Menonita","Ejido","Sombrerete","Zacatecas",,"99101","32","99101",,"15","042","0484","Rural",
+"99121","Refugio de los Pozos","Hacienda","Sombrerete","Zacatecas",,"99101","32","99101",,"24","042","0486","Rural",
+"99121","Felipe Angeles Colonia","Rancho o rancheria","Sombrerete","Zacatecas",,"99101","32","99101",,"29","042","0483","Rural",
+"99121","Mesillas","Ejido","Sombrerete","Zacatecas",,"99101","32","99101",,"15","042","0485","Rural",
+"99121","Estancia de Guadalupe","Estacion","Sombrerete","Zacatecas",,"99101","32","99101",,"16","042","0482","Rural",
+"99128","San Jose de Ranchos","Ejido","Sombrerete","Zacatecas",,"99101","32","99101",,"15","042","0487","Rural",
+"99128","San Juan de La Tapia","Ejido","Sombrerete","Zacatecas",,"99101","32","99101",,"15","042","0488","Rural",
+"99129","Vergelitos","Estacion","Sombrerete","Zacatecas",,"99101","32","99101",,"16","042","0489","Rural",
+"99130","Jose Maria Morelos","Congregacion","Sain Alto","Zacatecas",,"99131","32","99131",,"11","040","0491","Rural",
+"99130","Sain Alto","Pueblo","Sain Alto","Zacatecas",,"99131","32","99131",,"28","040","0493","Rural",
+"99130","Rio de Medina","Congregacion","Sain Alto","Zacatecas",,"99131","32","99131",,"11","040","0492","Rural",
+"99130","Barrancas","Rancho o rancheria","Sain Alto","Zacatecas",,"99131","32","99131",,"29","040","0490","Rural",
+"99130","Sain Bajo","Pueblo","Sain Alto","Zacatecas",,"99131","32","99131",,"28","040","0494","Rural",
+"99130","San Antonio","Colonia","Sain Alto","Zacatecas",,"99131","32","99131",,"09","040","1651","Rural",
+"99132","El Cazadero","Rancho o rancheria","Sain Alto","Zacatecas",,"98421","32","98421",,"29","040","0496","Rural",
+"99138","Santa Eduviges","Rancho o rancheria","Sain Alto","Zacatecas",,"99131","32","99131",,"29","040","1644","Rural",
+"99138","Laguna Blanca","Rancho o rancheria","Sain Alto","Zacatecas",,"99131","32","99131",,"29","040","1643","Rural",
+"99140","Cantuna Norte","Rancho o rancheria","Sain Alto","Zacatecas",,"99101","32","99101",,"29","040","0498","Rural",
+"99140","Cantuna Sur","Rancho o rancheria","Sain Alto","Zacatecas",,"99101","32","99101",,"29","040","0499","Rural",
+"99140","Cantuna","Rancho o rancheria","Sain Alto","Zacatecas",,"99101","32","99101",,"29","040","0497","Rural",
+"99141","Emiliano Zapata","Rancho o rancheria","Sain Alto","Zacatecas",,"98421","32","98421",,"29","040","0501","Rural",
+"99141","Cañas","Rancho o rancheria","Sain Alto","Zacatecas",,"98421","32","98421",,"29","040","0500","Rural",
+"99141","Luis Moya","Rancho o rancheria","Sain Alto","Zacatecas",,"98421","32","98421",,"29","040","0502","Rural",
+"99150","El Modelo","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0504","Rural",
+"99150","El Pardillo 2","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0507","Rural",
+"99150","Purísima de Maguey","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0511","Rural",
+"99150","El Pardillo","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0505","Rural",
+"99150","El Pardillo 1","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0506","Rural",
+"99150","Miguel Hidalgo","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0510","Rural",
+"99150","Carrillo","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0503","Rural",
+"99150","Santiaguillo","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0512","Rural",
+"99150","Fresnillo","Estacion","Fresnillo","Zacatecas",,"99001","32","99001",,"16","010","0508","Rural",
+"99150","Las Catarinas","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0509","Rural",
+"99158","Plateros","Pueblo","Fresnillo","Zacatecas",,"99001","32","99001",,"28","010","0514","Rural",
+"99159","Chichimequillas","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0515","Rural",
+"99160","La Casita","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0518","Rural",
+"99160","Vicente Guerrero","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0519","Rural",
+"99160","El Centro","Hacienda","Fresnillo","Zacatecas",,"99001","32","99001",,"24","010","0516","Rural",
+"99160","Francisco I Madero","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0517","Rural",
+"99170","Jose Maria Morelos","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0521","Rural",
+"99170","Monte Mariana","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0522","Rural",
+"99170","6 de Enero","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0524","Rural",
+"99170","Rio Florido","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0523","Rural",
+"99170","Baluarte","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0520","Rural",
+"99170","San Ignacio","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","1292","Rural",
+"99178","El Plenitud","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0525","Rural",
+"99178","Plenitud","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0526","Rural",
+"99178","Los Álamos","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","1645","Rural",
+"99179","El Epazote","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0820","Rural",
+"99179","Tapias de Santa Cruz","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0528","Rural",
+"99179","El Salto","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0527","Rural",
+"99180","Gutiérrez","Estacion","Fresnillo","Zacatecas",,"99001","32","99001",,"16","010","0529","Rural",
+"99182","El Mezquite","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0531","Rural",
+"99188","San Pablo de Rancho Grande","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0534","Rural",
+"99188","Altamira","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0532","Rural",
+"99188","Rancho Grande","Hacienda","Fresnillo","Zacatecas",,"99001","32","99001",,"24","010","0533","Rural",
+"99189","San Jose de Lourdes","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0535","Rural",
+"99190","Guanajuato","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0538","Rural",
+"99190","Matías Ramos","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0539","Rural",
+"99190","San Isidro de Cabrales","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0540","Rural",
+"99190","Agrícola Guanajuato","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0536","Rural",
+"99190","Guadalupe de Trujillo","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0537","Rural",
+"99190","Santa Rosa","Hacienda","Fresnillo","Zacatecas",,"99001","32","99001",,"24","010","0541","Rural",
+"99198","Labor de Santa Bárbara","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0542","Rural",
+"99199","Trujillo","Hacienda","Fresnillo","Zacatecas",,"99001","32","99001",,"24","010","0544","Rural",
+"99199","San Jose Del Rio","Rancho o rancheria","Fresnillo","Zacatecas",,"99001","32","99001",,"29","010","0543","Rural",
+"99200","Cruces","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","0546","Rural",
+"99200","San Miguel","Ejido","Valparaíso","Zacatecas",,"99251","32","99251",,"15","049","0550","Rural",
+"99200","El Resbalón","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","1307","Rural",
+"99200","El Astillero","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","0547","Rural",
+"99200","Tejones","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","1308","Rural",
+"99200","El Tejujan","Ejido","Valparaíso","Zacatecas",,"99251","32","99251",,"15","049","0548","Rural",
+"99200","Trojes","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","0551","Rural",
+"99200","Capulín de La Sierra","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","0545","Rural",
+"99200","Mimbres","Ejido","Valparaíso","Zacatecas",,"99251","32","99251",,"15","049","0549","Rural",
+"99201","San Jose Del Vergel","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","0553","Rural",
+"99202","Vicente Escudero","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","0554","Rural",
+"99203","Felipe Angeles","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","0555","Rural",
+"99208","San Antonio de Padua","Pueblo","Valparaíso","Zacatecas",,"99251","32","99251",,"28","049","0569","Rural",
+"99209","Potrero de Gallego","Ejido","Valparaíso","Zacatecas",,"99251","32","99251",,"15","049","0557","Rural",
+"99210","Milpillas de La Sierra","Pueblo","Valparaíso","Zacatecas",,"99001","32","99001",,"28","049","0558","Rural",
+"99220","San Mateo","Pueblo","Valparaíso","Zacatecas",,"99251","32","99251",,"28","049","0560","Rural",
+"99220","Caracoles y Anexas","Ejido","Valparaíso","Zacatecas",,"99251","32","99251",,"15","049","0559","Rural",
+"99225","Peñitas de San Mateo","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","0561","Rural",
+"99230","Mala Noche","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","0563","Rural",
+"99230","Lobatos","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","0562","Rural",
+"99231","Xoconoxtle","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","0564","Rural",
+"99237","Cueva Grande","Ejido","Valparaíso","Zacatecas",,"99251","32","99251",,"15","049","0565","Rural",
+"99238","Boquilla Del Refugio","Rancho o rancheria","Valparaíso","Zacatecas",,"99251","32","99251",,"29","049","0566","Rural",
+"99239","San Jose de Llanetes","Ejido","Valparaíso","Zacatecas",,"99251","32","99251",,"15","049","0567","Rural",
+"99240","San Juan Capistrano","Ejido","Valparaíso","Zacatecas",,"99251","32","99251",,"15","049","0568","Rural",
+"99250","Valparaíso Centro","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","0552","Semiurbano","13"
+"99252","La Viña","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","0990","Semiurbano","13"
+"99252","Santo Domingo","Fraccionamiento","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"21","049","1001","Semiurbano","13"
+"99252","Las Rosas","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","1019","Semiurbano","13"
+"99252","La Lagunilla","Fraccionamiento","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"21","049","1010","Semiurbano","13"
+"99253","Simon Bolívar","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","1003","Semiurbano","13"
+"99253","La Joyita","Barrio","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"02","049","0989","Semiurbano","13"
+"99253","Ameca","Barrio","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"02","049","0981","Semiurbano","13"
+"99253","El Panalito","Barrio","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"02","049","0986","Semiurbano","13"
+"99253","Agua Fría","Fraccionamiento","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"21","049","0982","Semiurbano","13"
+"99254","El Lago","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","0987","Semiurbano","13"
+"99254","Bellavista","Fraccionamiento","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"21","049","1004","Semiurbano","13"
+"99254","Lomas Del Valle","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","0992","Semiurbano","13"
+"99254","Ranchito de La Cruz","Barrio","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"02","049","0998","Semiurbano","13"
+"99254","Magisterial","Fraccionamiento","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"21","049","0993","Semiurbano","13"
+"99254","Alameda","Barrio","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"02","049","0980","Semiurbano","13"
+"99254","Francisco I Madero","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","0994","Semiurbano","13"
+"99254","Mesita Del Valle","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","1305","Semiurbano","13"
+"99255","Ranchito Del Tanque","Barrio","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"02","049","0999","Semiurbano","13"
+"99255","Los Nogales","Fraccionamiento","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"21","049","0997","Semiurbano","13"
+"99256","Del Refugio","Barrio","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"02","049","1005","Semiurbano","13"
+"99256","De La Lentejita","Barrio","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"02","049","1006","Semiurbano","13"
+"99256","Puerta de Cadena Del Sur","Barrio","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"02","049","1007","Semiurbano","13"
+"99257","Emiliano Zapata","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","1008","Semiurbano","13"
+"99257","México","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","0995","Semiurbano","13"
+"99257","Sierra Dorada","Fraccionamiento","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"21","049","1002","Semiurbano","13"
+"99257","Buenavista","Fraccionamiento","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"21","049","0983","Semiurbano","13"
+"99257","Santa Rita","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","1000","Semiurbano","13"
+"99257","Enrique Estrada","Fraccionamiento","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"21","049","0988","Semiurbano","13"
+"99257","Mauro Talamantes","Fraccionamiento","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"21","049","0996","Semiurbano","13"
+"99258","Deportiva","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","0985","Semiurbano","13"
+"99258","Las Américas","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","1306","Semiurbano","13"
+"99258","Cumbres Del Valle","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","0984","Semiurbano","13"
+"99259","Atotonilco","Fraccionamiento","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"21","049","1009","Semiurbano","13"
+"99259","Lomas Del Paraíso","Colonia","Valparaíso","Zacatecas","Valparaíso","99251","32","99251",,"09","049","0991","Semiurbano","13"
+"99260","Colorada","Rancho o rancheria","Chalchihuites","Zacatecas",,"99261","32","99261",,"29","009","0570","Rural",
+"99260","Jose Maria Morelos","Rancho o rancheria","Chalchihuites","Zacatecas",,"99261","32","99261",,"29","009","0572","Rural",
+"99260","Chalchihuites","Rancho o rancheria","Chalchihuites","Zacatecas",,"99261","32","99261",,"29","009","0571","Rural",
+"99270","San Jose de Buenavista","Ejido","Chalchihuites","Zacatecas",,"99261","32","99261",,"15","009","0575","Rural",
+"99270","Canutillo","Estacion","Chalchihuites","Zacatecas",,"99261","32","99261",,"16","009","0574","Rural",
+"99279","Gualterio","Estacion","Chalchihuites","Zacatecas",,"99261","32","99261",,"16","009","0576","Rural",
+"99280","Jimenez Del Teul","Pueblo","Jiménez del Teul","Zacatecas",,"99261","32","99261",,"28","021","0577","Rural",
+"99300","Jerez Centro","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0578","Semiurbano","02"
+"99310","Guadalupe","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0580","Semiurbano","02"
+"99311","Magisterial","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0581","Semiurbano","02"
+"99312","CTM","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0582","Semiurbano","02"
+"99312","El Durazno","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1104","Semiurbano","02"
+"99312","El Vergel","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1103","Semiurbano","02"
+"99312","Magisterial III","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1105","Semiurbano","02"
+"99313","Jardines de La Victoria","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1514","Semiurbano","02"
+"99313","Organización Campesina","Ampliacion","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"38","020","0584","Semiurbano","02"
+"99313","Organización Campesina","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0583","Semiurbano","02"
+"99313","El Duraznillo","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1515","Semiurbano","02"
+"99313","Olimpia","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1106","Semiurbano","02"
+"99314","Cervantes Corona","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","0585","Semiurbano","02"
+"99315","Las Palmas","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0586","Semiurbano","02"
+"99316","Frente Popular Sur","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1350","Semiurbano","02"
+"99316","Frente Popular Norte","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1356","Semiurbano","02"
+"99316","Patria Nueva","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1115","Semiurbano","02"
+"99316","Infonavit El Molino Plan Maestro","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1139","Semiurbano","02"
+"99316","Matías Ramos","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1357","Semiurbano","02"
+"99316","Ciénega","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1542","Semiurbano","02"
+"99320","Guadalupe","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1108","Semiurbano","02"
+"99320","Zaragoza","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0588","Semiurbano","02"
+"99320","Las Huertas","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0587","Semiurbano","02"
+"99322","Magisterial II","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1126","Semiurbano","02"
+"99322","Jerez","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1549","Semiurbano","02"
+"99322","Candelario Huizar","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0589","Semiurbano","02"
+"99323","Azteca","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1543","Semiurbano","02"
+"99323","Candelario Huizar","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1544","Semiurbano","02"
+"99323","Camino Real","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1354","Semiurbano","02"
+"99323","P.R.D.","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1551","Semiurbano","02"
+"99323","San Isidro","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0590","Semiurbano","02"
+"99323","Deportivo II","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1352","Semiurbano","02"
+"99323","Don Durito","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1545","Semiurbano","02"
+"99323","Las Américas","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1351","Semiurbano","02"
+"99323","Popular Del Sol","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1353","Semiurbano","02"
+"99323","Valle Real","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1552","Semiurbano","02"
+"99324","El Valle","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1129","Semiurbano","02"
+"99330","Nuevo","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0591","Semiurbano","02"
+"99330","San Pedro","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0592","Semiurbano","02"
+"99340","Nueva Reforma","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0594","Semiurbano","02"
+"99340","Lagunita","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0593","Semiurbano","02"
+"99340","San Francisco","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0595","Semiurbano","02"
+"99340","Los Sauces","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1135","Semiurbano","02"
+"99340","Constituyentes","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1355","Semiurbano","02"
+"99340","Banrural","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1130","Semiurbano","02"
+"99342","Villa Flabia","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1131","Semiurbano","02"
+"99343","Artesanos","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0596","Semiurbano","02"
+"99344","Infonavit El Cortijo","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1133","Semiurbano","02"
+"99344","Bosques","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1132","Semiurbano","02"
+"99344","La Cruz","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1134","Semiurbano","02"
+"99350","Lo de Taura","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1622","Semiurbano","02"
+"99350","Carlos","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0597","Semiurbano","02"
+"99350","Chulavista","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0598","Semiurbano","02"
+"99350","Unión Santa Cruz","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1109","Semiurbano","02"
+"99350","Ejido de Ciénega","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1546","Semiurbano","02"
+"99350","Loma Dorada","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1107","Semiurbano","02"
+"99352","Concepción","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1137","Semiurbano","02"
+"99352","Montecillo","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1138","Rural","02"
+"99353","Granjas El Molino","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1136","Rural","02"
+"99353","El Molino","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1140","Semiurbano","02"
+"99360","Justo Sierra","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0600","Semiurbano","02"
+"99360","Real Del Valle","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1121","Semiurbano","02"
+"99360","Las Quintas","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1123","Semiurbano","02"
+"99360","Alamedas","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","0599","Semiurbano","02"
+"99360","INFONAVIT II","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1547","Semiurbano","02"
+"99360","Niños Héroes","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0601","Semiurbano","02"
+"99361","Alameda Parque","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0602","Semiurbano","02"
+"99362","Deportivo","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1125","Semiurbano","02"
+"99362","Pedregal","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1127","Semiurbano","02"
+"99362","La Noria","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1128","Semiurbano","02"
+"99363","Hidráulica","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1124","Semiurbano","02"
+"99363","Los Cardos","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1122","Semiurbano","02"
+"99363","Caxcán","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1655","Urbano","02"
+"99370","20 de Noviembre","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0603","Semiurbano","02"
+"99370","Villa Fontana","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","0604","Semiurbano","02"
+"99379","Huertas San Jose","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","0605","Semiurbano","02"
+"99380","Lopez Mateos","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1112","Semiurbano","02"
+"99380","Obrera","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0608","Semiurbano","02"
+"99380","Las Artes","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0606","Semiurbano","02"
+"99380","Fuenzanto","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1111","Semiurbano","02"
+"99380","Modelo","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0607","Semiurbano","02"
+"99382","Jardín del Álamo","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1548","Semiurbano","02"
+"99382","Las Brisas","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1550","Semiurbano","02"
+"99382","Delicias","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1110","Semiurbano","02"
+"99382","Los Pinos","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1516","Semiurbano","02"
+"99389","Ladrillera","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1113","Semiurbano","02"
+"99389","Mercaderes","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0609","Semiurbano","02"
+"99389","Baño Nuevo","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1114","Semiurbano","02"
+"99390","Jardines de Ramon Lopez Velarde","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","0611","Semiurbano","02"
+"99390","Fovissste","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1120","Semiurbano","02"
+"99390","Rancho Los Arquitos","Unidad habitacional","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"31","020","1621","Semiurbano","02"
+"99390","Álamos","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","0610","Semiurbano","02"
+"99390","Jardines de Jerez","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1116","Semiurbano","02"
+"99392","Granjas","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1117","Semiurbano","02"
+"99392","Cnop","Colonia","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"09","020","1118","Semiurbano","02"
+"99393","Alamitos","Fraccionamiento","Jerez","Zacatecas","Jerez (Jerez de García Salinas)","99301","32","99301",,"21","020","1119","Semiurbano","02"
+"99400","Las Mesitas","Colonia","Monte Escobedo","Zacatecas",,"99401","32","99401",,"09","031","1209","Rural",
+"99400","El Cristal","Fraccionamiento","Monte Escobedo","Zacatecas",,"99401","32","99401",,"21","031","1210","Rural",
+"99400","Manuel M Ponce","Colonia","Monte Escobedo","Zacatecas",,"99401","32","99401",,"09","031","1211","Rural",
+"99400","Monte Escobedo","Pueblo","Monte Escobedo","Zacatecas",,"99401","32","99401",,"28","031","0612","Rural",
+"99410","Adjuntas Del Refugio","Rancho o rancheria","Monte Escobedo","Zacatecas",,"99251","32","99251",,"29","031","0614","Rural",
+"99420","Laguna Grande","Pueblo","Monte Escobedo","Zacatecas",,"99301","32","99301",,"28","031","0615","Rural",
+"99430","Maria de La Torre","Rancho o rancheria","Monte Escobedo","Zacatecas",,"46261","32","46261",,"29","031","0617","Rural",
+"99440","Miguel Hidalgo","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0628","Rural",
+"99440","Vicente Guerrero","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","1244","Rural",
+"99442","Sáuz de los Garcia de Abajo","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0632","Rural",
+"99443","Ermita de los Correa","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0622","Rural",
+"99447","El Durazno","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0620","Rural",
+"99447","Los Haro","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0626","Rural",
+"99454","San Isidro Del Salto","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0631","Rural",
+"99456","Los Garcia","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0625","Rural",
+"99457","La Ciénega","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0624","Rural",
+"99458","Luis Moya","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0627","Rural",
+"99460","Tetillas","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0633","Rural",
+"99467","Ermita de Guadalupe","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0636","Rural",
+"99467","Nuevo","Barrio","Jerez","Zacatecas",,"99301","32","99301",,"02","020","1657","Rural",
+"99468","El Huejote","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0621","Rural",
+"99469","Los Ríos","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0635","Rural",
+"99471","Cieneguitas de Fernandez","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0618","Rural",
+"99473","Palmas Altas","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0629","Rural",
+"99476","Rio Florido","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0630","Rural",
+"99476","El Cargadero","Pueblo","Jerez","Zacatecas",,"99301","32","99301",,"28","020","0634","Rural",
+"99478","El Centro","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0619","Rural",
+"99479","Jomulquillo","Rancho o rancheria","Jerez","Zacatecas",,"99301","32","99301",,"29","020","0623","Rural",
+"99480","Susticacan","Pueblo","Susticacán","Zacatecas",,"99301","32","99301",,"28","043","0638","Rural",
+"99500","Tarasco","Rancho o rancheria","Villanueva","Zacatecas",,"99541","32","99541",,"29","055","0642","Rural",
+"99500","El Salto","Hacienda","Villanueva","Zacatecas",,"99541","32","99541",,"24","055","0639","Rural",
+"99500","El Tigre","Rancho o rancheria","Villanueva","Zacatecas",,"99541","32","99541",,"29","055","0640","Rural",
+"99500","Laguna Del Carretero","Rancho o rancheria","Villanueva","Zacatecas",,"99541","32","99541",,"29","055","0641","Rural",
+"99506","El Jagüey","Rancho o rancheria","Villanueva","Zacatecas",,"99541","32","99541",,"29","055","0645","Rural",
+"99510","Malpaso","Pueblo","Villanueva","Zacatecas",,"98001","32","98001",,"28","055","0646","Rural",
+"99520","Felipe Angeles","Hacienda","Villanueva","Zacatecas",,"99541","32","99541",,"24","055","0648","Rural",
+"99520","Gral. Francisco Murguía","Rancho o rancheria","Villanueva","Zacatecas",,"99541","32","99541",,"29","055","0649","Rural",
+"99530","Atitanac","Rancho o rancheria","Villanueva","Zacatecas",,"99541","32","99541",,"29","055","0650","Rural",
+"99530","El Vergel","Rancho o rancheria","Villanueva","Zacatecas",,"99541","32","99541",,"29","055","0651","Rural",
+"99530","La Quemada","Hacienda","Villanueva","Zacatecas",,"99541","32","99541",,"24","055","0652","Rural",
+"99540","Villanueva Centro","Colonia","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"09","055","0643","Semiurbano","09"
+"99542","Magisterial I","Fraccionamiento","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"21","055","0902","Semiurbano","09"
+"99542","De los Varela","Barrio","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"02","055","0926","Semiurbano","09"
+"99542","Panames Escobedo","Colonia","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"09","055","0901","Semiurbano","09"
+"99542","Gutiérrez Del Águila","Colonia","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"09","055","0919","Semiurbano","09"
+"99542","Beisbolera","Colonia","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"09","055","0920","Semiurbano","09"
+"99543","De Santa Gertrudis","Barrio","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"02","055","0911","Semiurbano","09"
+"99544","Tadeo","Fraccionamiento","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"21","055","0924","Semiurbano","09"
+"99544","De Guadalupe","Barrio","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"02","055","0910","Semiurbano","09"
+"99544","De los Ramirez","Colonia","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"09","055","0923","Semiurbano","09"
+"99545","Lindavista","Colonia","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"09","055","0907","Semiurbano","09"
+"99545","Los Geranios","Fraccionamiento","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"21","055","0925","Semiurbano","09"
+"99545","Arboledas","Fraccionamiento","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"21","055","0905","Semiurbano","09"
+"99545","Del Panteón","Colonia","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"09","055","0908","Semiurbano","09"
+"99545","Sierra Nevada","Colonia","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"09","055","0913","Semiurbano","09"
+"99545","Santa Anita","Barrio","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"02","055","0904","Semiurbano","09"
+"99545","Flores Del Pedregal","Colonia","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"09","055","0906","Semiurbano","09"
+"99546","Magisterial II (centenario)","Fraccionamiento","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"21","055","0914","Semiurbano","09"
+"99546","Lomas Verdes","Fraccionamiento","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"21","055","0912","Semiurbano","09"
+"99546","Magisterial III","Fraccionamiento","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"21","055","0915","Semiurbano","09"
+"99546","Arroyo Del Tigre","Colonia","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"09","055","0921","Semiurbano","09"
+"99546","Lomas Doradas","Fraccionamiento","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"21","055","0916","Semiurbano","09"
+"99546","Loma de Tlalpan","Colonia","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"09","055","0922","Semiurbano","09"
+"99546","Rescodillo","Barrio","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"02","055","0903","Semiurbano","09"
+"99547","Lomas Del Diezmo","Barrio","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"02","055","0917","Semiurbano","09"
+"99547","Nueva","Colonia","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"09","055","0900","Semiurbano","09"
+"99547","Colosio","Colonia","Villanueva","Zacatecas","Villanueva","99541","32","99541",,"09","055","0918","Semiurbano","09"
+"99550","La Encarnación","Hacienda","Villanueva","Zacatecas",,"99541","32","99541",,"24","055","0653","Rural",
+"99552","Tuxtuac","Rancho o rancheria","Villanueva","Zacatecas",,"99541","32","99541",,"29","055","0654","Rural",
+"99559","Adolfo Lopez Mateos","Rancho o rancheria","Villanueva","Zacatecas",,"99541","32","99541",,"29","055","0655","Rural",
+"99559","Gustavo Díaz Ordaz","Colonia","Villanueva","Zacatecas",,"99541","32","99541",,"09","055","1641","Rural",
+"99560","Lindavista","Colonia","Villanueva","Zacatecas",,"99631","32","99631",,"09","055","1640","Rural",
+"99560","Tayahua","Rancho o rancheria","Villanueva","Zacatecas",,"99631","32","99631",,"29","055","0656","Rural",
+"99570","América","Colonia","Tepetongo","Zacatecas",,"99571","32","99571",,"09","046","1212","Rural",
+"99570","Chihuahua","Colonia","Tepetongo","Zacatecas",,"99571","32","99571",,"09","046","1213","Rural",
+"99570","El Cuidado","Ejido","Tepetongo","Zacatecas",,"99571","32","99571",,"15","046","0657","Rural",
+"99570","El Salitre","Rancho o rancheria","Tepetongo","Zacatecas",,"99571","32","99571",,"29","046","0658","Rural",
+"99570","Tepetongo","Pueblo","Tepetongo","Zacatecas",,"99571","32","99571",,"28","046","0659","Rural",
+"99570","Víboras","Ejido","Tepetongo","Zacatecas",,"99571","32","99571",,"15","046","0660","Rural",
+"99580","Juanchorrey","Rancho o rancheria","Tepetongo","Zacatecas",,"99301","32","99301",,"29","046","0662","Rural",
+"99581","Buenavista","Ejido","Tepetongo","Zacatecas",,"99301","32","99301",,"15","046","0664","Rural",
+"99581","Aparicios","Rancho o rancheria","Tepetongo","Zacatecas",,"99301","32","99301",,"29","046","0663","Rural",
+"99590","Gral. Joaquín Amaro","Pueblo","El Plateado de Joaquín Amaro","Zacatecas",,"99301","32","99301",,"28","015","0665","Rural",
+"99592","Antonio R Vela","Pueblo","El Plateado de Joaquín Amaro","Zacatecas",,"99541","32","99541",,"28","015","0666","Rural",
+"99593","San Antonio de La Calera","Pueblo","El Plateado de Joaquín Amaro","Zacatecas",,"99541","32","99541",,"28","015","0667","Rural",
+"99600","El Rosario","Colonia","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"09","019","1286","Semiurbano","17"
+"99600","Sagrado Corazón","Barrio","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"02","019","1285","Semiurbano","17"
+"99600","Jalpa Centro","Colonia","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"09","019","0668","Semiurbano","17"
+"99602","Lindavista","Fraccionamiento","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"21","019","1057","Semiurbano","17"
+"99603","Parque La Mezquitera","Colonia","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"09","019","1058","Semiurbano","17"
+"99603","De La Cruz","Barrio","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"02","019","1071","Semiurbano","17"
+"99606","Jacarandas","Fraccionamiento","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"21","019","1065","Semiurbano","17"
+"99606","Hidalgo","Colonia","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"09","019","1067","Semiurbano","17"
+"99606","Morelos","Colonia","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"09","019","1066","Semiurbano","17"
+"99607","Reforma","Fraccionamiento","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"21","019","1064","Semiurbano","17"
+"99608","Fovissste","Colonia","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"09","019","1062","Semiurbano","17"
+"99608","Revolución","Fraccionamiento","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"21","019","1061","Semiurbano","17"
+"99608","Sarh","Colonia","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"09","019","1068","Semiurbano","17"
+"99608","Lomas Del Valle","Fraccionamiento","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"21","019","1060","Semiurbano","17"
+"99608","Loma Arroyo Blanco","Colonia","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"09","019","1063","Semiurbano","17"
+"99609","Obrera","Colonia","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"09","019","1069","Semiurbano","17"
+"99609","Loma de San Antonio","Colonia","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"09","019","1059","Semiurbano","17"
+"99609","Guerrero","Colonia","Jalpa","Zacatecas","Jalpa","99601","32","99601",,"09","019","1070","Semiurbano","17"
+"99620","Guadalupe Victoria","Rancho o rancheria","Jalpa","Zacatecas",,"99631","32","99631",,"29","019","0671","Rural",
+"99624","El Rodeo","Rancho o rancheria","Jalpa","Zacatecas",,"99601","32","99601",,"29","019","1637","Rural",
+"99630","Linda Vista","Colonia","Tabasco","Zacatecas",,"99631","32","99631",,"09","044","1218","Rural",
+"99630","Huiscolco","Rancho o rancheria","Tabasco","Zacatecas",,"99631","32","99631",,"29","044","0674","Rural",
+"99630","Balconcitos","Colonia","Tabasco","Zacatecas",,"99631","32","99631",,"09","044","1219","Rural",
+"99630","Tabasco","Rancho o rancheria","Tabasco","Zacatecas",,"99631","32","99631",,"29","044","0676","Rural",
+"99630","Secundaria","Colonia","Tabasco","Zacatecas",,"99631","32","99631",,"09","044","1216","Rural",
+"99630","Barrio San Nicolás","Colonia","Tabasco","Zacatecas",,"99631","32","99631",,"09","044","1217","Rural",
+"99630","Barrio San Jose","Colonia","Tabasco","Zacatecas",,"99631","32","99631",,"09","044","1220","Rural",
+"99630","El Jaralillo","Rancho o rancheria","Tabasco","Zacatecas",,"99631","32","99631",,"29","044","0673","Rural",
+"99630","San Luis de Custique","Rancho o rancheria","Tabasco","Zacatecas",,"99631","32","99631",,"29","044","0675","Rural",
+"99630","Cosalimita","Rancho o rancheria","Tabasco","Zacatecas",,"99631","32","99631",,"29","044","0672","Rural",
+"99630","Tenanguillo","Rancho o rancheria","Tabasco","Zacatecas",,"99631","32","99631",,"29","044","0677","Rural",
+"99630","Magisterial","Colonia","Tabasco","Zacatecas",,"99631","32","99631",,"09","044","1214","Rural",
+"99630","El Refugio","Colonia","Tabasco","Zacatecas",,"99631","32","99631",,"09","044","1215","Rural",
+"99650","Santiago","Estacion","Tabasco","Zacatecas",,"99631","32","99631",,"16","044","0679","Rural",
+"99670","Huanusco","Pueblo","Huanusco","Zacatecas",,"99631","32","99631",,"28","018","0680","Rural",
+"99670","La Luz","Hacienda","Huanusco","Zacatecas",,"99631","32","99631",,"24","018","0681","Rural",
+"99670","Lindavista","Colonia","Huanusco","Zacatecas",,"99631","32","99631",,"09","018","1646","Rural",
+"99700","Morones","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1318","Semiurbano",
+"99700","Hidráulica","Colonia","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"09","048","1322","Semiurbano",
+"99700","Los Ramos","Rancho o rancheria","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"29","048","0684","Rural",
+"99700","Lomas Del Calvario","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1317","Semiurbano",
+"99700","Las Lomitas","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1321","Semiurbano",
+"99700","Hacienda Real","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1325","Semiurbano",
+"99700","Brisas Del Rio","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1224","Semiurbano",
+"99700","San Pascual","Barrio","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"02","048","1323","Semiurbano",
+"99700","Las Moritas","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1324","Semiurbano",
+"99700","Tabachines","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1225","Semiurbano",
+"99700","Independencia","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1227","Semiurbano",
+"99700","Las Conchas","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1228","Semiurbano",
+"99700","Las Goteras","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1221","Semiurbano",
+"99700","Militar","Unidad habitacional","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"31","048","1319","Semiurbano",
+"99700","La Haciendita","Barrio","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"02","048","1326","Semiurbano",
+"99700","Valle Verde","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1320","Semiurbano",
+"99700","Los Guapos","Rancho o rancheria","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"29","048","0683","Rural",
+"99700","San Antonio","Rancho o rancheria","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"29","048","0685","Rural",
+"99700","Tlaltenango de Sanchez Román","Rancho o rancheria","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"29","048","0686","Semiurbano",
+"99700","Buena Vista","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1222","Semiurbano",
+"99700","Arboledas","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1223","Semiurbano",
+"99700","Lomas Del Country","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1226","Semiurbano",
+"99700","Santo Santiago","Fraccionamiento","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"21","048","1327","Semiurbano",
+"99704","La Palma","Rancho o rancheria","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"29","048","0688","Rural",
+"99705","Salazares","Rancho o rancheria","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"29","048","0689","Rural",
+"99707","Cicacalco","Pueblo","Tlaltenango de Sánchez Román","Zacatecas",,"99701","32","99701",,"28","048","0690","Rural",
+"99720","La Esperanza","Colonia","Momax","Zacatecas",,"99701","32","99701",,"09","030","1229","Rural",
+"99720","Nueva","Colonia","Momax","Zacatecas",,"99701","32","99701",,"09","030","1230","Rural",
+"99720","Momax","Pueblo","Momax","Zacatecas",,"99701","32","99701",,"28","030","0691","Rural",
+"99730","Laguna Grande","Rancho o rancheria","Atolinga","Zacatecas",,"99731","32","99731",,"29","003","0695","Rural",
+"99730","Atolinga","Pueblo","Atolinga","Zacatecas",,"99731","32","99731",,"28","003","0693","Rural",
+"99730","El Durazno","Rancho o rancheria","Atolinga","Zacatecas",,"99731","32","99731",,"29","003","0694","Rural",
+"99750","Tepechitlan","Pueblo","Tepechitlán","Zacatecas",,"99751","32","99751",,"28","045","0698","Rural",
+"99750","Magisterial","Colonia","Tepechitlán","Zacatecas",,"99751","32","99751",,"09","045","1309","Rural",
+"99750","La Cumbrita","Barrio","Tepechitlán","Zacatecas",,"99751","32","99751",,"02","045","1311","Rural",
+"99750","El Terrero","Barrio","Tepechitlán","Zacatecas",,"99751","32","99751",,"02","045","1310","Rural",
+"99750","Ocotlan Cerro Chino","Rancho o rancheria","Tepechitlán","Zacatecas",,"99751","32","99751",,"29","045","0697","Rural",
+"99755","Ojuelos","Pueblo","Tepechitlán","Zacatecas",,"99751","32","99751",,"28","045","0700","Rural",
+"99760","Santiago Nexcaltitan","Rancho o rancheria","Tepechitlán","Zacatecas",,"99751","32","99751",,"29","045","0702","Rural",
+"99760","Nexcaltitan","Rancho o rancheria","Tepechitlán","Zacatecas",,"99751","32","99751",,"29","045","0701","Rural",
+"99770","San Pedro Ocotlan","Rancho o rancheria","Tepechitlán","Zacatecas",,"99751","32","99751",,"29","045","0703","Rural",
+"99780","Florencia de Benito Juárez","Rancho o rancheria","Benito Juárez","Zacatecas",,"99801","32","99801",,"29","004","0704","Rural",
+"99781","Los Campos","Rancho o rancheria","Benito Juárez","Zacatecas",,"99801","32","99801",,"29","004","0705","Rural",
+"99800","Genaro Borrego","Colonia","Teúl de González Ortega","Zacatecas",,"99801","32","99801",,"09","047","1314","Rural",
+"99800","Los Maestros","Colonia","Teúl de González Ortega","Zacatecas",,"99801","32","99801",,"09","047","1315","Rural",
+"99800","El Agave","Colonia","Teúl de González Ortega","Zacatecas",,"99801","32","99801",,"09","047","1313","Rural",
+"99800","La Esperanza","Colonia","Teúl de González Ortega","Zacatecas",,"99801","32","99801",,"09","047","1312","Rural",
+"99800","Teul de Gonzalez Ortega","Villa","Teúl de González Ortega","Zacatecas",,"99801","32","99801",,"32","047","0707","Rural",
+"99800","Vallarta","Colonia","Teúl de González Ortega","Zacatecas",,"99801","32","99801",,"09","047","1316","Rural",
+"99806","Alamitos","Ejido","Teúl de González Ortega","Zacatecas",,"99801","32","99801",,"15","047","0710","Rural",
+"99810","Milpillas de Allende","Rancho o rancheria","Teúl de González Ortega","Zacatecas",,"99801","32","99801",,"29","047","0711","Rural",
+"99814","Huitzila","Pueblo","Teúl de González Ortega","Zacatecas",,"99801","32","99801",,"28","047","0712","Rural",
+"99820","Santa Maria de La Paz","Congregacion","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"11","058","0709","Rural",
+"99823","La Haciendita","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1490","Rural",
+"99823","Los Rodriguez","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1517","Rural",
+"99823","El Laurel","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1489","Rural",
+"99824","El Zapotito","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1492","Rural",
+"99824","Hidalgo (el Picacho)","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1493","Rural",
+"99824","El Pantano","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1491","Rural",
+"99824","La Mesa Grande","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1494","Rural",
+"99825","Marines","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1495","Rural",
+"99825","San Rafael","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1500","Rural",
+"99825","El Soto","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1496","Rural",
+"99825","La Laguna","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1497","Rural",
+"99825","San Vicente","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1498","Rural",
+"99825","Santa Fe","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1499","Rural",
+"99826","El Arenal","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1502","Rural",
+"99826","El Saucito","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1501","Rural",
+"99826","El Gato","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1518","Rural",
+"99826","Mesa El Pueblo","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1519","Rural",
+"99826","San Miguel Tepetitlan","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1503","Rural",
+"99826","San Isidro","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1504","Rural",
+"99827","Hacienda Vieja","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1508","Rural",
+"99827","Los Cedros","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1506","Rural",
+"99827","El Capulín","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1505","Rural",
+"99827","Los Horcones","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1507","Rural",
+"99827","Las Tablas","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1509","Rural",
+"99828","Los Polvos","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1512","Rural",
+"99828","Pajaritos","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1510","Rural",
+"99828","El Guitarrero","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1511","Rural",
+"99828","Mesa de Trigos","Rancho o rancheria","Santa María de la Paz","Zacatecas",,"99801","32","99801",,"29","058","1513","Rural",
+"99830","La Ceja","Rancho o rancheria","Trinidad García de la Cadena","Zacatecas",,"99831","32","99831",,"29","011","0714","Rural",
+"99830","Garcia de La Cadena","Pueblo","Trinidad García de la Cadena","Zacatecas",,"99831","32","99831",,"28","011","0713","Rural",
+"99860","Mezquital Del Oro","Rancho o rancheria","Mezquital del Oro","Zacatecas",,"99801","32","99801",,"29","028","0716","Rural",
+"99890","La Coronilla","Pueblo","Mezquital del Oro","Zacatecas",,"99801","32","99801",,"28","028","0718","Rural",
+"99900","Nochistlan Centro","Colonia","Nochistlán de Mejía","Zacatecas","Nochistlán","99901","32","99901",,"09","034","0719","Semiurbano","11"
+"99902","Santo Santiago","Barrio","Nochistlán de Mejía","Zacatecas","Nochistlán","99901","32","99901",,"02","034","0929","Semiurbano","11"
+"99902","La Gloria","Fraccionamiento","Nochistlán de Mejía","Zacatecas","Nochistlán","99901","32","99901",,"21","034","0930","Semiurbano","11"
+"99904","Arboledas","Fraccionamiento","Nochistlán de Mejía","Zacatecas","Nochistlán","99901","32","99901",,"21","034","0936","Semiurbano","11"
+"99904","Loma Bonita","Fraccionamiento","Nochistlán de Mejía","Zacatecas","Nochistlán","99901","32","99901",,"21","034","0928","Semiurbano","11"
+"99905","Gonzalez Sanchez","Fraccionamiento","Nochistlán de Mejía","Zacatecas","Nochistlán","99901","32","99901",,"21","034","0937","Semiurbano","11"
+"99905","San Miguel Oriente","Colonia","Nochistlán de Mejía","Zacatecas","Nochistlán","99901","32","99901",,"09","034","0927","Semiurbano","11"
+"99906","Santa Cecilia","Colonia","Nochistlán de Mejía","Zacatecas","Nochistlán","99901","32","99901",,"09","034","0935","Semiurbano","11"
+"99907","Bugambilias","Fraccionamiento","Nochistlán de Mejía","Zacatecas","Nochistlán","99901","32","99901",,"21","034","0934","Semiurbano","11"
+"99908","La Presa","Fraccionamiento","Nochistlán de Mejía","Zacatecas","Nochistlán","99901","32","99901",,"21","034","0933","Semiurbano","11"
+"99908","La Quinta","Fraccionamiento","Nochistlán de Mejía","Zacatecas","Nochistlán","99901","32","99901",,"21","034","1650","Rural","11"
+"99909","Los Arcos","Colonia","Nochistlán de Mejía","Zacatecas","Nochistlán","99901","32","99901",,"09","034","0932","Semiurbano","11"
+"99909","Sutsemop","Fraccionamiento","Nochistlán de Mejía","Zacatecas","Nochistlán","99901","32","99901",,"21","034","0931","Semiurbano","11"
+"99910","Monte de Yánez","Rancho o rancheria","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"29","034","0727","Rural",
+"99913","Las Delicias","Barrio","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"02","034","1300","Rural",
+"99913","Toyahua de Arriba","Rancho o rancheria","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"29","034","1388","Rural",
+"99913","Toyahua de Abajo","Rancho o rancheria","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"29","034","1387","Rural",
+"99913","Las Huertas","Rancho o rancheria","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"29","034","0725","Rural",
+"99914","Daniel Camarena","Rancho o rancheria","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"29","034","0726","Rural",
+"99915","La Villita","Rancho o rancheria","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"29","034","0729","Rural",
+"99915","Las Pilas","Rancho o rancheria","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"29","034","0721","Rural",
+"99917","El Molino","Rancho o rancheria","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"29","034","0723","Rural",
+"99917","Capellania","Rancho o rancheria","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"29","034","0722","Rural",
+"99917","Gabriel Lopez","Rancho o rancheria","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"29","034","0724","Rural",
+"99918","Fátima","Barrio","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"02","034","1665","Rural",
+"99918","Casas Grandes","Rancho o rancheria","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"29","034","1660","Rural",
+"99918","Tlachichila","Rancho o rancheria","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"29","034","0730","Rural",
+"99919","La Estancia","Rancho o rancheria","Nochistlán de Mejía","Zacatecas",,"99901","32","99901",,"29","034","0731","Rural",
+"99920","San Pedro Apulco","Pueblo","Apulco","Zacatecas",,"99922","32","99922",,"28","002","0732","Rural",
+"99921","Agua Blanca","Rancho o rancheria","Apulco","Zacatecas",,"99922","32","99922",,"29","002","0733","Rural",
+"99925","La Pitaya","Rancho o rancheria","Apulco","Zacatecas",,"99601","32","99601",,"29","002","0669","Rural",
+"99930","Tenayuca","Pueblo","Apulco","Zacatecas",,"99922","32","99922",,"28","002","0735","Rural",
+"99940","Apozol","Pueblo","Apozol","Zacatecas",,"99961","32","99961",,"28","001","0736","Rural",
+"99940","De Abajo","Barrio","Apozol","Zacatecas",,"99961","32","99961",,"02","001","1653","Rural",
+"99949","Los Llamas","Rancho o rancheria","Apozol","Zacatecas",,"99961","32","99961",,"29","001","0738","Rural",
+"99950","El Rescoldo","Rancho o rancheria","Apozol","Zacatecas",,"99961","32","99961",,"29","001","0739","Rural",
+"99960","Contitlan","Rancho o rancheria","Juchipila","Zacatecas",,"99961","32","99961",,"29","023","0740","Rural",
+"99960","La Quinta","Colonia","Juchipila","Zacatecas",,"99961","32","99961",,"09","023","1635","Rural",
+"99960","Juchipila","Pueblo","Juchipila","Zacatecas",,"99961","32","99961",,"28","023","0742","Rural",
+"99960","Pueblo Viejo","Rancho o rancheria","Juchipila","Zacatecas",,"99961","32","99961",,"29","023","0743","Rural",
+"99960","San Sebastián","Pueblo","Juchipila","Zacatecas",,"99961","32","99961",,"28","023","0744","Rural",
+"99960","Guadalupe Victoria","Rancho o rancheria","Juchipila","Zacatecas",,"99961","32","99961",,"29","023","0741","Rural",
+"99969","Mezquitera","Rancho o rancheria","Juchipila","Zacatecas",,"99961","32","99961",,"29","023","0746","Rural",
+"99970","Remolino","Rancho o rancheria","Juchipila","Zacatecas",,"99961","32","99961",,"29","023","0747","Rural",
+"99974","El Ranchito","Rancho o rancheria","Juchipila","Zacatecas",,"99961","32","99961",,"29","023","0748","Rural",
+"99979","Amazochitl","Rancho o rancheria","Juchipila","Zacatecas",,"99961","32","99961",,"29","023","0749","Rural",
+"99980","Moyahua Centro","Colonia","Moyahua de Estrada","Zacatecas","Moyahua de Estrada","99981","32","99981",,"09","033","0750","Rural","15"
+"99984","Santa Cruz","Fraccionamiento","Moyahua de Estrada","Zacatecas","Moyahua de Estrada","99981","32","99981",,"21","033","1022","Rural","15"
+"99984","Santa Maria","Fraccionamiento","Moyahua de Estrada","Zacatecas","Moyahua de Estrada","99981","32","99981",,"21","033","1024","Rural","15"
+"99987","Bajío Blanco","Fraccionamiento","Moyahua de Estrada","Zacatecas","Moyahua de Estrada","99981","32","99981",,"21","033","1023","Rural","15"
+"99990","Alameda Juárez","Rancho o rancheria","Moyahua de Estrada","Zacatecas",,"99961","32","99961",,"29","033","0754","Rural",
+"99993","Cuxpala","Pueblo","Moyahua de Estrada","Zacatecas",,"99981","32","99981",,"28","033","0753","Rural",
+"99994","Vicente Guerrero","Pueblo","Moyahua de Estrada","Zacatecas",,"99981","32","99981",,"28","033","0751","Rural",
+"99998","Jesús Maria","Rancho o rancheria","Moyahua de Estrada","Zacatecas",,"99961","32","99961",,"29","033","0755","Rural",
+"99998","Palmarejo","Rancho o rancheria","Moyahua de Estrada","Zacatecas",,"99961","32","99961",,"29","033","0756","Rural",
+"99998","San Jose de Palmarejo","Rancho o rancheria","Moyahua de Estrada","Zacatecas",,"99961","32","99961",,"29","033","0757","Rural",

@@ -1,0 +1,1011 @@
+"d_codigo","d_asenta","d_tipo_asenta","D_mnpio","d_estado","d_ciudad","d_CP","c_estado","c_oficina","c_CP","c_tipo_asenta","c_mnpio","id_asenta_cpcons","d_zona","c_cve_ciudad"
+"63000","Tepic Centro","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0001","Urbano","02"
+"63009","Centro SCT Nayarit","Gran usuario","Tepic","Nayarit","Tepic","63001","18","63001",,"22","017","0004","Urbano","02"
+"63010","Paseo de La Constitución","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0007","Urbano","02"
+"63010","Amado Nervo","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0005","Urbano","02"
+"63010","Amado Nervo","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0006","Urbano","02"
+"63010","Sacristán","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0008","Urbano","02"
+"63018","El Punto","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0009","Rural","02"
+"63019","Loma Hermosa","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1061","Urbano","02"
+"63019","Francisco Villa","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0010","Urbano","02"
+"63020","Santa Teresita","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0011","Urbano","02"
+"63020","Unidad Deportiva Santa Teresita","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0012","Urbano","02"
+"63021","Adolfo López Mateos","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0013","Urbano","02"
+"63022","INDECO","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0014","Urbano","02"
+"63023","Ojo de Agua","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0015","Urbano","02"
+"63030","Chapultepec","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0017","Urbano","02"
+"63030","San José","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0019","Urbano","02"
+"63030","Cuitlahuac","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0016","Urbano","02"
+"63030","Lomas de La Cruz Sutse","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0018","Urbano","02"
+"63035","Valle Verde 1ra. Sección","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1064","Urbano","02"
+"63035","Jardines del Valle 2a Secc.","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0022","Urbano","02"
+"63035","Valle Verde 2da. Sección","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1065","Urbano","02"
+"63035","Ampliación El Paraíso 2da. Sección","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1069","Urbano","02"
+"63035","Nueva Alemania","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0993","Urbano","02"
+"63035","Nuevo Progreso","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1070","Urbano","02"
+"63035","Valle de La Cruz  1ra. Sección","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1066","Urbano","02"
+"63035","Jardines del Valle","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0021","Urbano","02"
+"63035","El Paraíso Ampliación","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1068","Urbano","02"
+"63035","Ingenieros Agrónomos","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0020","Urbano","02"
+"63035","Valle de La Cruz 2da. Sección","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1063","Urbano","02"
+"63035","Valle de Zaragoza","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1067","Urbano","02"
+"63035","Jardines del Valle","Ampliacion","Tepic","Nayarit","Tepic","63001","18","63001",,"38","017","0023","Urbano","02"
+"63037","Los Viveros","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0026","Urbano","02"
+"63037","Los Arcos","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","1062","Urbano","02"
+"63037","Sindicalistas","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0027","Urbano","02"
+"63037","Valle Verde Conalep","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0992","Urbano","02"
+"63037","Tulipanes","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","1045","Urbano","02"
+"63037","Agrónomos","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0996","Urbano","02"
+"63037","La Loma","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","1043","Urbano","02"
+"63037","Lomas de La Cruz","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0025","Urbano","02"
+"63038","El Mirador Infonavit","Unidad habitacional","Tepic","Nayarit","Tepic","63001","18","63001",,"31","017","0029","Urbano","02"
+"63038","El Paraíso","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0030","Urbano","02"
+"63038","Los Pares","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0033","Urbano","02"
+"63038","El Mirador","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0028","Urbano","02"
+"63038","Emilio M González","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0031","Urbano","02"
+"63038","Reforma","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0034","Urbano","02"
+"63038","Las Conchas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0032","Urbano","02"
+"63039","Riveras de La Laguna","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1084","Urbano","02"
+"63039","Puerta de La Laguna","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0035","Urbano","02"
+"63039","Aztlán El Verde","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0991","Urbano","02"
+"63040","Magisterial","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0036","Urbano","02"
+"63050","El Parían","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0037","Urbano","02"
+"63050","Mololoa","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0039","Urbano","02"
+"63050","Miguel Ángel Paredes","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0038","Urbano","02"
+"63058","Rivas Allende","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0040","Urbano","02"
+"63058","Sanchez Ibarra","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0042","Urbano","02"
+"63058","San Dino","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0041","Urbano","02"
+"63059","Lomas de Cortes","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0043","Urbano","02"
+"63059","Lomas de La Laguna","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0044","Urbano","02"
+"63059","Villas de Matatipac","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0045","Urbano","02"
+"63059","San Juanito","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1071","Urbano","02"
+"63060","El Rodeo","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0046","Urbano","02"
+"63061","Lomas Altas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0047","Urbano","02"
+"63062","Lomas Bonitas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0049","Urbano","02"
+"63062","El Palomar","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0048","Urbano","02"
+"63066","Lomas del Valle Ampliación","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1060","Urbano","02"
+"63066","Lomas del Valle","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0050","Urbano","02"
+"63067","Las Flores","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0051","Urbano","02"
+"63068","Luis Echeverría A.","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0052","Urbano","02"
+"63068","América Manríquez","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0053","Urbano","02"
+"63069","Primero de Mayo","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0054","Urbano","02"
+"63069","Unidad Obrera","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0055","Urbano","02"
+"63069","Ampliación Unidad Obrera","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1055","Urbano","02"
+"63070","Emiliano Zapata","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0056","Urbano","02"
+"63070","La Huerta","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0057","Urbano","02"
+"63080","Heriberto Casas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0058","Urbano","02"
+"63081","Acayapan","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0059","Urbano","02"
+"63082","El Naranjal","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0061","Urbano","02"
+"63082","El Faisán","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0060","Urbano","02"
+"63083","Santa Teresita 2a Secc.","Ampliacion","Tepic","Nayarit","Tepic","63001","18","63001",,"38","017","0063","Urbano","02"
+"63083","Jauja","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0062","Urbano","02"
+"63084","Ingeniero Aguayo","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0064","Urbano","02"
+"63084","Los Pinos","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0065","Urbano","02"
+"63088","Santa Fe","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0067","Urbano","02"
+"63089","Santa Cecilia","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0068","Urbano","02"
+"63100","20 de Noviembre","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0069","Urbano","02"
+"63109","Estadios","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0070","Urbano","02"
+"63110","Rodeo de La Punta","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0072","Urbano","02"
+"63110","Lindavista","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0071","Urbano","02"
+"63114","Guadalupe","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1056","Urbano","02"
+"63114","Solidaridad INFONAVIT","Unidad habitacional","Tepic","Nayarit","Tepic","63001","18","63001",,"31","017","0073","Urbano","02"
+"63114","Aztlán Solidaridad","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","1058","Urbano","02"
+"63114","Ecologistas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1059","Urbano","02"
+"63114","Primavera","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0994","Urbano","02"
+"63114","Solidaridad Primavera","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1057","Urbano","02"
+"63115","SPAUAN","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0074","Urbano","02"
+"63116","FOVISSSTE 2a Etapa","Unidad habitacional","Tepic","Nayarit","Tepic","63001","18","63001",,"31","017","0075","Urbano","02"
+"63117","Las Brisas FOVISSSTE","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0077","Urbano","02"
+"63117","Las Brisas","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0076","Urbano","02"
+"63119","FOVISSSTE 1a Etapa","Unidad habitacional","Tepic","Nayarit","Tepic","63001","18","63001",,"31","017","0079","Urbano","02"
+"63120","Obrera","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0081","Urbano","02"
+"63120","IMSS","Unidad habitacional","Tepic","Nayarit","Tepic","63001","18","63001",,"31","017","0080","Urbano","02"
+"63120","Villa San Ángel","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0082","Urbano","02"
+"63125","El Aguacate","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0083","Rural","02"
+"63129","Tío Baltazar","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0088","Urbano","02"
+"63129","Rey Nayar","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0087","Urbano","02"
+"63129","Jagüey","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0085","Rural","02"
+"63129","Aves del Paraíso","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0084","Urbano","02"
+"63129","Cora","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0086","Urbano","02"
+"63130","San Juan","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0089","Urbano","02"
+"63135","El Tecolote Infonavit","Unidad habitacional","Tepic","Nayarit","Tepic","63001","18","63001",,"31","017","0091","Urbano","02"
+"63135","El Tecolote","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0090","Urbano","02"
+"63136","Independencia","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0092","Urbano","02"
+"63137","Residencial La Loma","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0093","Urbano","02"
+"63138","Versalles Sur","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0095","Urbano","02"
+"63138","Rincón de San Juan","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0094","Urbano","02"
+"63139","Versalles Norte","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0096","Urbano","02"
+"63147","Secretaria de La Reforma Agraria","Gran usuario","Tepic","Nayarit","Tepic","63001","18","63001",,"22","017","0097","Urbano","02"
+"63149","Palacio de Gobierno del Estado de Nayarit","Gran usuario","Tepic","Nayarit","Tepic","63001","18","63001",,"22","017","0098","Urbano","02"
+"63150","José María Menchaca","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0099","Urbano","02"
+"63155","Universidad Autónoma de Nayarit","Gran usuario","Tepic","Nayarit","Tepic","63001","18","63001",,"22","017","0101","Urbano","02"
+"63156","Burócrata Federal","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0102","Urbano","02"
+"63157","Ciudad del Valle","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0103","Urbano","02"
+"63158","Caja de Agua","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0104","Urbano","02"
+"63159","San Antonio","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0105","Urbano","02"
+"63160","Morelos","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0107","Urbano","02"
+"63160","Electricistas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0106","Urbano","02"
+"63163","Corralón","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0109","Urbano","02"
+"63164","Pedregal de San Juan","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1044","Urbano","02"
+"63164","El Pedregal","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0111","Rural","02"
+"63166","Benito Juárez","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0113","Urbano","02"
+"63166","Del Bosque","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0114","Urbano","02"
+"63167","Peñita","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0115","Urbano","02"
+"63168","Jardines de La Cruz","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0116","Urbano","02"
+"63169","Fray Junipero Serra","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0117","Urbano","02"
+"63170","Dr. Lucas Vallarta","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0119","Urbano","02"
+"63170","Flamingos","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","1046","Urbano","02"
+"63170","Las Aves","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0122","Urbano","02"
+"63170","12 de Diciembre","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0118","Urbano","02"
+"63170","Ferrocarrilero 2a Secc.","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0120","Urbano","02"
+"63170","Los Llanitos","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0123","Urbano","02"
+"63170","Nuevo México","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0995","Urbano","02"
+"63170","Gobierno del Cambio I","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","1072","Urbano","02"
+"63173","Ciudad Industrial","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0124","Urbano","02"
+"63173","Vistas de La Cantera Etapa 2","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","1047","Urbano","02"
+"63173","Jesús García","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0127","Rural","02"
+"63173","Nayarabastos","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0128","Rural","02"
+"63173","Justino Ávila Arce","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1049","Urbano","02"
+"63173","Gobierno del Cambio II","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","1076","Urbano","02"
+"63173","Ciudad Industrial Microindustria","Parque industrial","Tepic","Nayarit","Tepic","63001","18","63001",,"26","017","0125","Urbano","02"
+"63173","Jazmines","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0126","Rural","02"
+"63173","El Rubí","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1040","Urbano","02"
+"63173","Villas de La Cantera","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","1077","Urbano","02"
+"63173","Cantera del Nayar","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","1041","Urbano","02"
+"63173","Villas del Parque","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","1075","Urbano","02"
+"63174","Prieto Crispín","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0129","Urbano","02"
+"63174","El Limón","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0131","Rural","02"
+"63174","Genaro Vázquez","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0133","Urbano","02"
+"63174","4 Milpas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0130","Rural","02"
+"63174","La Esperanza","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0134","Urbano","02"
+"63174","Venceremos","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0136","Urbano","02"
+"63174","Flores Magón","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0132","Rural","02"
+"63174","Zitacua","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0137","Rural","02"
+"63175","Cuesta Barrios","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0140","Urbano","02"
+"63175","Benito Juárez Oriente","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0138","Urbano","02"
+"63175","Instituto Tecnológico de Tepic","Gran usuario","Tepic","Nayarit","Tepic","63001","18","63001",,"22","017","0143","Urbano","02"
+"63175","Oriental","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0145","Urbano","02"
+"63175","2 de Agosto","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0141","Urbano","02"
+"63175","Gobernadores","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0142","Urbano","02"
+"63175","Comerciantes","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0139","Urbano","02"
+"63175","Lagos del Country","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0144","Urbano","02"
+"63175","Valle del Country","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0951","Urbano","02"
+"63176","Cáp. Orozco","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0146","Urbano","02"
+"63176","Diaz Ordaz","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0148","Urbano","02"
+"63176","Colonial","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0147","Urbano","02"
+"63177","Esteban Baca Calderón","Unidad habitacional","Tepic","Nayarit","Tepic","63001","18","63001",,"31","017","0150","Urbano","02"
+"63177","18 de Agosto","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0149","Rural","02"
+"63177","Ferrocarrilero 1a Secc.","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0152","Rural","02"
+"63177","Universitario","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0155","Rural","02"
+"63177","Juventud","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0121","Rural","02"
+"63177","Heriberto Jara","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0153","Rural","02"
+"63177","Simancas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0154","Urbano","02"
+"63177","Los Colomos","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1042","Urbano","02"
+"63177","El Capomo","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0151","Rural","02"
+"63177","Tierra y Libertad","Ampliacion","Tepic","Nayarit","Tepic","63001","18","63001",,"38","017","0948","Urbano","02"
+"63178","Luis Donaldo Colosio","Unidad habitacional","Tepic","Nayarit","Tepic","63001","18","63001",,"31","017","0156","Urbano","02"
+"63178","Tierra y Libertad","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0157","Urbano","02"
+"63179","Flores Muñoz","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0158","Urbano","02"
+"63180","Cuauhtémoc","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0161","Urbano","02"
+"63180","Bethel","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1074","Urbano","02"
+"63180","Colinas del Rey","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0160","Urbano","02"
+"63180","Burócrata Estatal","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0159","Urbano","02"
+"63180","Moctezuma","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0162","Urbano","02"
+"63180","Valle Dorado","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0163","Urbano","02"
+"63180","Valle de Nayarit","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1073","Urbano","02"
+"63183","Insurgentes","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0164","Urbano","02"
+"63184","Gardenias","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0165","Rural","02"
+"63184","Miravalles","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0166","Urbano","02"
+"63185","Los Fresnos Poniente","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0169","Urbano","02"
+"63185","Félix Peña","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0168","Urbano","02"
+"63185","El 8","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0167","Urbano","02"
+"63186","Predio San Martín","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0172","Urbano","02"
+"63186","Leyva Medina","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0171","Urbano","02"
+"63186","IMSS","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0170","Urbano","02"
+"63189","Labores de Godínez","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0173","Urbano","02"
+"63190","Lázaro Cárdenas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0176","Urbano","02"
+"63190","Aviación","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0174","Urbano","02"
+"63190","15 de Mayo","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0178","Urbano","02"
+"63190","Los Fresnos Oriente","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0177","Urbano","02"
+"63190","Juan Escutia","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0175","Urbano","02"
+"63193","Miguel Hidalgo","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0180","Urbano","02"
+"63194","Nuevas Palomas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0183","Urbano","02"
+"63194","Puente de San Cayetano","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0184","Urbano","02"
+"63194","El Puerto","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0181","Urbano","02"
+"63194","El Armadillo","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1081","Urbano","02"
+"63194","Ladrilleras","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0182","Urbano","02"
+"63195","Koa","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0188","Urbano","02"
+"63195","Conasupo","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0185","Urbano","02"
+"63195","Islitas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0187","Urbano","02"
+"63195","Severiano Ocegueda","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0950","Urbano","02"
+"63195","Extamex","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0186","Urbano","02"
+"63195","Paseo del Valle Real","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","1078","Urbano","02"
+"63195","Los Sauces Infonavit","Unidad habitacional","Tepic","Nayarit","Tepic","63001","18","63001",,"31","017","0189","Urbano","02"
+"63195","Valle de Matatipac","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0190","Urbano","02"
+"63195","Jacarandas","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0949","Urbano","02"
+"63195","Islas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0954","Urbano","02"
+"63195","Las Palomas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","1079","Urbano","02"
+"63196","Caminera","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0191","Urbano","02"
+"63196","26 de Septiembre","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0195","Urbano","02"
+"63196","Nueva Aviación","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0193","Urbano","02"
+"63196","Periodistas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0194","Urbano","02"
+"63196","Castilla","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0192","Urbano","02"
+"63197","Hermosa Provincia","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0198","Urbano","02"
+"63197","Los Fresnos Infonavit","Unidad habitacional","Tepic","Nayarit","Tepic","63001","18","63001",,"31","017","0199","Urbano","02"
+"63197","Plan de Ayala","Zona industrial","Tepic","Nayarit","Tepic","63001","18","63001",,"37","017","0952","Urbano","02"
+"63197","Los Fresnos","Unidad habitacional","Tepic","Nayarit","Tepic","63001","18","63001",,"31","017","0997","Urbano","02"
+"63197","Niños Héroes","Ampliacion","Tepic","Nayarit","Tepic","63001","18","63001",,"38","017","0953","Urbano","02"
+"63197","Tabacos Aztecas","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0202","Urbano","02"
+"63197","5 de Febrero","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0196","Urbano","02"
+"63197","Los Sauces","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0200","Urbano","02"
+"63198","Villas de La Paz","Fraccionamiento","Tepic","Nayarit","Tepic","63001","18","63001",,"21","017","0204","Urbano","02"
+"63199","José María Martínez","Colonia","Tepic","Nayarit","Tepic","63001","18","63001",,"09","017","0206","Urbano","02"
+"63200","Tuxpan Centro","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0207","Semiurbano","03"
+"63202","Talpita","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0958","Semiurbano","03"
+"63202","Deportiva","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0217","Semiurbano","03"
+"63202","El Beis","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0990","Semiurbano","03"
+"63202","Morelos","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0216","Semiurbano","03"
+"63202","Estadio","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0218","Semiurbano","03"
+"63202","Antonio R. Laureles","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0959","Semiurbano","03"
+"63203","Independencia","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0210","Semiurbano","03"
+"63203","Francisco Villa","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0211","Semiurbano","03"
+"63203","Emiliano Zapata","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0209","Semiurbano","03"
+"63205","Magisterial","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0213","Semiurbano","03"
+"63205","Flores Magón","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0221","Semiurbano","03"
+"63205","Juan Escutia","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0220","Semiurbano","03"
+"63207","Ángel Flores","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0219","Semiurbano","03"
+"63207","Pueblo Nuevo","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0957","Semiurbano","03"
+"63225","Benito Juárez","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0214","Semiurbano","03"
+"63227","Cantarranas","Colonia","Tuxpan","Nayarit","Tuxpan","63201","18","63201",,"09","018","0212","Semiurbano","03"
+"63300","Benito Juárez","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0955","Semiurbano","01"
+"63300","Los Linos","Fraccionamiento","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"21","015","0956","Semiurbano","01"
+"63300","Santiago Ixcuintla Centro","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0222","Semiurbano","01"
+"63310","Amado Nervo","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0224","Semiurbano","01"
+"63311","Infonavit","Unidad habitacional","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"31","015","0225","Semiurbano","01"
+"63312","Independencia","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0226","Semiurbano","01"
+"63313","CTM","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0227","Semiurbano","01"
+"63320","Obrera","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0228","Semiurbano","01"
+"63321","Flores Magón","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0229","Semiurbano","01"
+"63330","19 de Septiembre","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","1005","Semiurbano","01"
+"63330","Cuauhtémoc","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0230","Semiurbano","01"
+"63330","Los Hornos","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","1004","Semiurbano","01"
+"63340","Nuevo México","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0231","Semiurbano","01"
+"63341","Primero de Enero","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0232","Semiurbano","01"
+"63350","Juárez","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0233","Semiurbano","01"
+"63351","12 de Octubre","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0234","Semiurbano","01"
+"63352","Los Pinos","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0235","Semiurbano","01"
+"63360","Cerro Grande","Colonia","Santiago Ixcuintla","Nayarit","Santiago Ixcuintla","63301","18","63301",,"09","015","0236","Semiurbano","01"
+"63400","Mesa de Pedro y Pablo","Pueblo","Acaponeta","Nayarit",,"63431","18","63431",,"28","001","0240","Rural",
+"63400","San José de Gracia","Pueblo","Acaponeta","Nayarit",,"63431","18","63431",,"28","001","0242","Rural",
+"63400","El Motaje","Pueblo","Acaponeta","Nayarit",,"63431","18","63431",,"28","001","0277","Rural",
+"63400","Saicota","Pueblo","Acaponeta","Nayarit",,"63431","18","63431",,"28","001","0241","Rural",
+"63400","El Recodo","Ejido","Acaponeta","Nayarit",,"63431","18","63431",,"15","001","0238","Rural",
+"63402","Invinay","Colonia","Acaponeta","Nayarit",,"63431","18","63431",,"09","001","0244","Rural",
+"63403","La Lagunita","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0246","Rural",
+"63403","Santa Cruz","Pueblo","Acaponeta","Nayarit",,"63431","18","63431",,"28","001","0247","Rural",
+"63404","San Diego Naranjo","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0248","Rural",
+"63405","San Dieguito de Abajo","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0249","Rural",
+"63405","San Dieguito de Arriba","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0250","Rural",
+"63406","El Carrizo","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0251","Rural",
+"63406","Los Murillos","Pueblo","Acaponeta","Nayarit",,"63431","18","63431",,"28","001","0252","Rural",
+"63407","El Oro","Congregacion","Acaponeta","Nayarit",,"63431","18","63431",,"11","001","0253","Rural",
+"63408","El Tigre","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0254","Rural",
+"63408","San Diego de Alcalá","Pueblo","Acaponeta","Nayarit",,"63431","18","63431",,"28","001","0255","Rural",
+"63410","El Aguaje","Ejido","Acaponeta","Nayarit",,"63431","18","63431",,"15","001","0257","Rural",
+"63410","El Cantón","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0258","Rural",
+"63410","La Bayona","Congregacion","Acaponeta","Nayarit",,"63431","18","63431",,"11","001","0259","Rural",
+"63411","El Tacote","Congregacion","Acaponeta","Nayarit",,"63451","18","63451",,"11","001","0260","Rural",
+"63412","Cerro Bola","Congregacion","Acaponeta","Nayarit",,"63431","18","63431",,"11","001","0261","Rural",
+"63413","La Haciendita","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0262","Rural",
+"63413","Las Casitas","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0263","Rural",
+"63415","Valle de La Urraca","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0264","Rural",
+"63420","El Zapote","Ejido","Acaponeta","Nayarit",,"63431","18","63431",,"15","001","0266","Rural",
+"63420","Sayulilla","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0268","Rural",
+"63420","Piedra Ancha","Congregacion","Acaponeta","Nayarit",,"63431","18","63431",,"11","001","0267","Rural",
+"63420","Casas Coloradas","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0265","Rural",
+"63421","Los Sandovales","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0270","Rural",
+"63421","Buenavista","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0269","Rural",
+"63424","Amado Nervo","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0271","Rural",
+"63425","La Guásima","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0272","Rural",
+"63426","Llano de La Cruz","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0273","Rural",
+"63427","San Miguel","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0276","Rural",
+"63427","San Pedro de Honor","Pueblo","Acaponeta","Nayarit",,"63431","18","63431",,"28","001","0278","Rural",
+"63429","San Francisco","Rancho o rancheria","Acaponeta","Nayarit",,"63431","18","63431",,"29","001","0274","Rural",
+"63429","El Resbalón","Pueblo","Acaponeta","Nayarit",,"63431","18","63431",,"28","001","0275","Rural",
+"63430","Acaponeta Centro","Colonia","Acaponeta","Nayarit","Acaponeta","63431","18","63431",,"09","001","0784","Semiurbano","04"
+"63432","Las Mojoneras","Colonia","Acaponeta","Nayarit","Acaponeta","63431","18","63431",,"09","001","1008","Semiurbano","04"
+"63433","Obrera","Colonia","Acaponeta","Nayarit","Acaponeta","63431","18","63431",,"09","001","1022","Semiurbano","04"
+"63434","Infonavit","Colonia","Acaponeta","Nayarit","Acaponeta","63431","18","63431",,"09","001","0786","Semiurbano","04"
+"63434","Antonio Chumacero","Colonia","Acaponeta","Nayarit","Acaponeta","63431","18","63431",,"09","001","0785","Semiurbano","04"
+"63434","Jardín","Colonia","Acaponeta","Nayarit","Acaponeta","63431","18","63431",,"09","001","0243","Rural","04"
+"63435","El Molino","Colonia","Acaponeta","Nayarit","Acaponeta","63431","18","63431",,"09","001","1021","Semiurbano","04"
+"63435","Independencia","Colonia","Acaponeta","Nayarit","Acaponeta","63431","18","63431",,"09","001","1018","Semiurbano","04"
+"63435","Porfirio Vázquez Cosío","Colonia","Acaponeta","Nayarit","Acaponeta","63431","18","63431",,"09","001","1023","Semiurbano","04"
+"63435","Nueva Galaxia","Colonia","Acaponeta","Nayarit","Acaponeta","63431","18","63431",,"09","001","1024","Semiurbano","04"
+"63436","Mazatlancito","Colonia","Acaponeta","Nayarit","Acaponeta","63431","18","63431",,"09","001","1026","Semiurbano","04"
+"63437","Juan Escutia","Colonia","Acaponeta","Nayarit","Acaponeta","63431","18","63431",,"09","001","1025","Semiurbano","04"
+"63437","Lázaro Cárdenas","Colonia","Acaponeta","Nayarit","Acaponeta","63431","18","63431",,"09","001","0239","Rural","04"
+"63440","Atotonilco","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0282","Rural",
+"63440","San Cayetano","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0289","Rural",
+"63440","Antonio R Laureles","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0280","Rural",
+"63440","El Roblito","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0284","Rural",
+"63440","Novillero","Pueblo","Tecuala","Nayarit",,"63451","18","63451",,"28","016","0285","Rural",
+"63440","El Filo","Rancho o rancheria","Tecuala","Nayarit",,"63451","18","63451",,"29","016","0283","Rural",
+"63440","Arrayán","Congregacion","Tecuala","Nayarit",,"63451","18","63451",,"11","016","0281","Rural",
+"63440","Los Esteros","Rancho o rancheria","Tecuala","Nayarit",,"63451","18","63451",,"29","016","0300","Rural",
+"63440","Pajaritos","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0286","Rural",
+"63440","Agua Verde O El Salto","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0279","Rural",
+"63440","Paso Hondo","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0287","Rural",
+"63440","Río Viejo","Pueblo","Tecuala","Nayarit",,"63451","18","63451",,"28","016","0288","Rural",
+"63441","Camalotita","Pueblo","Tecuala","Nayarit",,"63451","18","63451",,"28","016","0291","Rural",
+"63441","Huachotita","Rancho o rancheria","Tecuala","Nayarit",,"63451","18","63451",,"29","016","0292","Rural",
+"63442","Los Remos","Rancho o rancheria","Tecuala","Nayarit",,"63451","18","63451",,"29","016","0293","Rural",
+"63445","El Limón","Pueblo","Tecuala","Nayarit",,"63451","18","63451",,"28","016","0295","Rural",
+"63446","San Felipe Aztatán","Rancho o rancheria","Tecuala","Nayarit",,"63451","18","63451",,"29","016","0299","Rural",
+"63446","Milpas Viejas","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0296","Rural",
+"63447","La Presa","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0297","Rural",
+"63449","Huajuquilla","Congregacion","Tecuala","Nayarit",,"63451","18","63451",,"11","016","0298","Rural",
+"63450","Tecuala Centro","Colonia","Tecuala","Nayarit","Tecuala","63451","18","63451",,"09","016","0787","Semiurbano","05"
+"63453","Libertad","Colonia","Tecuala","Nayarit","Tecuala","63451","18","63451",,"09","016","1030","Semiurbano","05"
+"63454","Pueblo Nuevo","Colonia","Tecuala","Nayarit","Tecuala","63451","18","63451",,"09","016","1029","Semiurbano","05"
+"63454","Juan Escutia","Colonia","Tecuala","Nayarit","Tecuala","63451","18","63451",,"09","016","0788","Semiurbano","05"
+"63454","Revolución","Colonia","Tecuala","Nayarit","Tecuala","63451","18","63451",,"09","016","1033","Semiurbano","05"
+"63455","CNOP PRI","Colonia","Tecuala","Nayarit","Tecuala","63451","18","63451",,"09","016","1032","Semiurbano","05"
+"63455","Patria Nueva","Colonia","Tecuala","Nayarit","Tecuala","63451","18","63451",,"09","016","0789","Semiurbano","05"
+"63455","Vicente Guerrero","Colonia","Tecuala","Nayarit","Tecuala","63451","18","63451",,"09","016","0790","Semiurbano","05"
+"63455","Amado Nervo","Colonia","Tecuala","Nayarit","Tecuala","63451","18","63451",,"09","016","1031","Semiurbano","05"
+"63456","Prolongación Galeana","Colonia","Tecuala","Nayarit","Tecuala","63451","18","63451",,"09","016","1028","Semiurbano","05"
+"63457","Las Brisas","Colonia","Tecuala","Nayarit","Tecuala","63451","18","63451",,"09","016","0999","Semiurbano","05"
+"63460","Quimichis","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0302","Rural",
+"63463","Los Murillos","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0303","Rural",
+"63467","Cuautla","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0304","Rural",
+"63468","Playa Novillero","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0305","Rural",
+"63469","Chocota","Rancho o rancheria","Tecuala","Nayarit",,"63451","18","63451",,"29","016","0306","Rural",
+"63470","Tierra Generosa","Ejido","Tecuala","Nayarit",,"63431","18","63431",,"15","016","0307","Rural",
+"63477","Las Lumbres","Ejido","Tecuala","Nayarit",,"63451","18","63451",,"15","016","0308","Rural",
+"63478","Las Anonas","Rancho o rancheria","Tecuala","Nayarit",,"63451","18","63451",,"29","016","0309","Rural",
+"63479","Cuastecomate","Rancho o rancheria","Tecuala","Nayarit",,"63451","18","63451",,"29","016","0310","Rural",
+"63479","Palo Blanco","Rancho o rancheria","Tecuala","Nayarit",,"63451","18","63451",,"29","016","0311","Rural",
+"63480","Huajicori","Pueblo","Huajicori","Nayarit",,"63431","18","63431",,"28","005","0312","Rural",
+"63481","Quiviquinta","Rancho o rancheria","Huajicori","Nayarit",,"63431","18","63431",,"29","005","0313","Rural",
+"63482","San Francisco del Caimán","Pueblo","Huajicori","Nayarit",,"63431","18","63431",,"28","005","0314","Rural",
+"63483","Zapotillos","Rancho o rancheria","Huajicori","Nayarit",,"63431","18","63431",,"29","005","0315","Rural",
+"63489","Valle Morelos","Congregacion","Huajicori","Nayarit",,"63431","18","63431",,"11","005","0318","Rural",
+"63489","La Estancia","Rancho o rancheria","Huajicori","Nayarit",,"63431","18","63431",,"29","005","0317","Rural",
+"63490","Cucharas","Rancho o rancheria","Huajicori","Nayarit",,"63431","18","63431",,"29","005","0319","Rural",
+"63491","Guamuchilito","Rancho o rancheria","Huajicori","Nayarit",,"63431","18","63431",,"29","005","0320","Rural",
+"63492","Guamuchilar","Congregacion","Huajicori","Nayarit",,"63431","18","63431",,"11","005","0321","Rural",
+"63493","Picachos","Pueblo","Huajicori","Nayarit",,"63431","18","63431",,"28","005","0322","Rural",
+"63495","San Andrés Milpillas","Pueblo","Huajicori","Nayarit",,"63431","18","63431",,"28","005","0323","Rural",
+"63500","Lázaro Cárdenas","Colonia","Tepic","Nayarit","Francisco I Madero","63001","18","63001",,"09","017","0919","Rural","07"
+"63500","Francisco I Madero Centro","Colonia","Tepic","Nayarit","Francisco I Madero","63001","18","63001",,"09","017","0325","Rural","07"
+"63500","Caja de Agua","Colonia","Tepic","Nayarit","Francisco I Madero","63001","18","63001",,"09","017","0923","Rural","07"
+"63500","Nueva Valey","Colonia","Tepic","Nayarit","Francisco I Madero","63001","18","63001",,"09","017","0924","Rural","07"
+"63500","Francisco Velázquez","Colonia","Tepic","Nayarit","Francisco I Madero","63001","18","63001",,"09","017","0918","Rural","07"
+"63500","El Chorro","Colonia","Tepic","Nayarit","Francisco I Madero","63001","18","63001",,"09","017","0922","Rural","07"
+"63500","18 de Marzo","Colonia","Tepic","Nayarit","Francisco I Madero","63001","18","63001",,"09","017","0921","Rural","07"
+"63500","Las Parejas","Colonia","Tepic","Nayarit","Francisco I Madero","63001","18","63001",,"09","017","0925","Rural","07"
+"63500","El Campo","Colonia","Tepic","Nayarit","Francisco I Madero","63001","18","63001",,"09","017","0920","Rural","07"
+"63500","Las Cruces","Colonia","Tepic","Nayarit","Francisco I Madero","63001","18","63001",,"09","017","0926","Rural","07"
+"63500","El Cerro","Colonia","Tepic","Nayarit","Francisco I Madero","63001","18","63001",,"09","017","0927","Rural","07"
+"63501","Bellavista","Pueblo","Tepic","Nayarit",,"63001","18","63001",,"28","017","0328","Rural",
+"63502","El Rincón","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0329","Rural",
+"63502","San Andrés","Pueblo","Tepic","Nayarit",,"63001","18","63001",,"28","017","0330","Rural",
+"63502","Centro Federal de Readaptación Social No 4 El Rincón","Gran usuario","Tepic","Nayarit",,"63001","18","63001",,"22","017","1020","Rural",
+"63503","San Fernando","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0331","Rural",
+"63504","Mora","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0333","Rural",
+"63504","La Esperanza","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0332","Rural",
+"63504","6 de Enero","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0334","Rural",
+"63505","El Izote","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0335","Rural",
+"63505","El Pichón","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0336","Rural",
+"63505","Lo de Lamedo","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0337","Rural",
+"63505","La Fortuna","Congregacion","Tepic","Nayarit",,"63001","18","63001",,"11","017","0326","Rural",
+"63506","La Cantera","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0338","Rural",
+"63507","El Aguacate","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0339","Rural",
+"63507","Las Delicias","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0340","Rural",
+"63508","Camichin de Jauja","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0341","Rural",
+"63508","La Escondida","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0342","Rural",
+"63508","La Planta","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0343","Rural",
+"63509","El Refugio","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0344","Rural",
+"63510","El Jicote","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0346","Rural",
+"63510","5 de Mayo","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0345","Rural",
+"63511","Platanitos","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0347","Rural",
+"63511","Venustiano Carranza","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0349","Rural",
+"63511","Puente de San Cayetano","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0327","Rural",
+"63511","San Cayetano","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0348","Rural",
+"63512","Las Peñitas","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0350","Rural",
+"63512","Lo de García","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0351","Rural",
+"63513","Roseta","Estacion","Tepic","Nayarit",,"63001","18","63001",,"16","017","0352","Rural",
+"63514","Los Salazarez","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0354","Rural",
+"63514","Las Pilas","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0353","Rural",
+"63515","El Espino","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0356","Rural",
+"63515","Benito Juárez","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0355","Rural",
+"63516","Jumatan","Campamento","Tepic","Nayarit",,"63001","18","63001",,"04","017","0359","Rural",
+"63516","Buenos Aires","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0357","Rural",
+"63516","El Limón","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0358","Rural",
+"63517","Barranca Blanca","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0360","Rural",
+"63517","El Trapichillo","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0361","Rural",
+"63518","El Juanacaxtle o Pajuelazo","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0362","Rural",
+"63518","La Resolana","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0364","Rural",
+"63518","La Herradura","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0363","Rural",
+"63519","La Yerba","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0365","Rural",
+"63520","El Colorado de La Mora","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0366","Rural",
+"63520","Pochotitán","Pueblo","Tepic","Nayarit",,"63001","18","63001",,"28","017","0367","Rural",
+"63522","Jesús María Cortez","Congregacion","Tepic","Nayarit",,"63001","18","63001",,"11","017","0368","Rural",
+"63523","Atonalismo","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0369","Rural",
+"63524","Caleras de Cofrados","Rancho o rancheria","Tepic","Nayarit",,"63001","18","63001",,"29","017","0370","Rural",
+"63526","El Vicenteño","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0372","Rural",
+"63526","El Zapote de Picachos","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0373","Rural",
+"63527","San Luis de Losada","Pueblo","Tepic","Nayarit",,"63601","18","63601",,"28","017","0374","Rural",
+"63528","Mesa de Picachos","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0375","Rural",
+"63529","Carretones de Cerritos","Ejido","Tepic","Nayarit",,"63001","18","63001",,"15","017","0376","Rural",
+"63530","Jesús María","Rancho o rancheria","Del Nayar","Nayarit",,"63601","18","63601",,"29","009","0377","Rural",
+"63530","Nayar","Pueblo","Del Nayar","Nayarit",,"63601","18","63601",,"28","009","0378","Rural",
+"63530","San Miguel del Zapote","Congregacion","Del Nayar","Nayarit",,"63601","18","63601",,"11","009","0379","Rural",
+"63530","Las Hormigas","Rancho o rancheria","Del Nayar","Nayarit",,"63601","18","63601",,"29","009","1089","Rural",
+"63531","Las Ventanas","Congregacion","Del Nayar","Nayarit",,"63001","18","63001",,"11","009","0380","Rural",
+"63531","San Rafael 2","Rancho o rancheria","Del Nayar","Nayarit",,"63001","18","63001",,"29","009","0381","Rural",
+"63533","Santa Bárbara","Rancho o rancheria","Del Nayar","Nayarit",,"63601","18","63601",,"29","009","0383","Rural",
+"63533","Los Colomos","Rancho o rancheria","Del Nayar","Nayarit",,"63601","18","63601",,"29","009","0382","Rural",
+"63534","San Francisco","Pueblo","Del Nayar","Nayarit",,"63601","18","63601",,"28","009","0386","Rural",
+"63534","Los Gavilanes","Rancho o rancheria","Del Nayar","Nayarit",,"63601","18","63601",,"29","009","0384","Rural",
+"63534","Rancho Viejo Peyotán","Congregacion","Del Nayar","Nayarit",,"63601","18","63601",,"11","009","0385","Rural",
+"63535","La Cofradía","Rancho o rancheria","Del Nayar","Nayarit",,"63601","18","63601",,"29","009","0387","Rural",
+"63535","San Juan Peyotán","Pueblo","Del Nayar","Nayarit",,"63601","18","63601",,"28","009","0388","Rural",
+"63536","Zoquipan","Rancho o rancheria","Del Nayar","Nayarit",,"63601","18","63601",,"29","009","0390","Rural",
+"63536","Jazmines de Coyolita","Congregacion","Del Nayar","Nayarit",,"63601","18","63601",,"11","009","0389","Rural",
+"63537","Huaynomota","Rancho o rancheria","Del Nayar","Nayarit",,"63601","18","63601",,"29","009","0391","Rural",
+"63538","Cuyultita de Jazmines","Rancho o rancheria","Del Nayar","Nayarit",,"63601","18","63601",,"29","009","0392","Rural",
+"63538","Higuera Gorda","Ejido","Del Nayar","Nayarit",,"63601","18","63601",,"15","009","0393","Rural",
+"63539","El Plátano","Ejido","Del Nayar","Nayarit",,"63601","18","63601",,"15","009","0394","Rural",
+"63540","Santa Teresa","Pueblo","Del Nayar","Nayarit",,"63601","18","63601",,"28","009","0395","Rural",
+"63543","Dolores Viejo","Pueblo","Del Nayar","Nayarit",,"63601","18","63601",,"28","009","0396","Rural",
+"63546","Mesa del Nayar","Pueblo","Del Nayar","Nayarit",,"63601","18","63601",,"28","009","0397","Rural",
+"63546","San Rafael","Rancho o rancheria","Del Nayar","Nayarit",,"63601","18","63601",,"29","009","0398","Rural",
+"63550","Villa de Guadalupe","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0870","Semiurbano","08"
+"63550","Roma","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0878","Semiurbano","08"
+"63550","Benito Juárez","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0879","Semiurbano","08"
+"63550","Villa Hidalgo Centro","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0409","Semiurbano","08"
+"63550","San Martín","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0881","Semiurbano","08"
+"63550","Crispín Duran Z","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0877","Semiurbano","08"
+"63550","San José","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0880","Semiurbano","08"
+"63550","La Nayarita","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0882","Semiurbano","08"
+"63550","Solorceño","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0871","Semiurbano","08"
+"63550","Patroceño","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0872","Semiurbano","08"
+"63550","San Antonio","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0873","Semiurbano","08"
+"63550","Santa Cecilia","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0874","Semiurbano","08"
+"63550","Talpita","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0876","Semiurbano","08"
+"63550","Emiliano Zapata","Colonia","Santiago Ixcuintla","Nayarit","Villa Hidalgo","63551","18","63551",,"09","015","0875","Semiurbano","08"
+"63552","Paredones","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0405","Rural",
+"63552","El Tizate","Parque industrial","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"26","015","0412","Rural",
+"63552","Valle de Lerma","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0415","Rural",
+"63552","Valle Morelos","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0408","Rural",
+"63552","Puerta Azul","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0407","Rural",
+"63552","Ojo de Agua","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0403","Rural",
+"63552","Emiliano Zapata","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0413","Rural",
+"63552","El Novillero","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0400","Rural",
+"63552","Gavilán Grande","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0414","Rural",
+"63552","El Puente de Tuxpan","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0401","Rural",
+"63553","San Isidro","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0416","Rural",
+"63553","Leandro B Flores","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0402","Rural",
+"63553","Valle de Zaragoza","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0417","Rural",
+"63554","Amapa","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0418","Rural",
+"63554","Cerritos","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0399","Rural",
+"63555","La Presa","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0419","Rural",
+"63556","Pozo de Ibarra","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0411","Rural",
+"63558","Pani o Vado del Cora","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0404","Rural",
+"63558","El Tambor","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0421","Rural",
+"63560","Santa Cruz","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63201","18","63201",,"29","015","0423","Rural",
+"63560","Mexcatitlán de Uribe","Pueblo","Santiago Ixcuintla","Nayarit",,"63201","18","63201",,"28","015","0422","Rural",
+"63561","Cuautla","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63451","18","63451",,"29","015","0424","Rural",
+"63561","San Andrés","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63451","18","63451",,"29","015","0427","Rural",
+"63561","La Higuerita","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63451","18","63451",,"29","015","0425","Rural",
+"63561","Rancho Nuevo","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63451","18","63451",,"29","015","0426","Rural",
+"63562","Puerta de Palapares","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63201","18","63201",,"29","015","0428","Rural",
+"63563","Mallorquín","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63201","18","63201",,"29","015","0430","Rural",
+"63563","Las Labores","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63201","18","63201",,"29","015","0429","Rural",
+"63564","El Mezcal","Ejido","Santiago Ixcuintla","Nayarit",,"63201","18","63201",,"15","015","0431","Rural",
+"63565","Gavilán Chico","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0435","Rural",
+"63565","Aztlán","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0432","Rural",
+"63565","Campo de los Limones","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0433","Rural",
+"63565","El Limón","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0434","Rural",
+"63565","Pozo de Villa","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0436","Rural",
+"63565","Sentispac","Pueblo","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"28","015","0437","Rural",
+"63567","Pantano Grande","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0439","Rural",
+"63567","El Capomal","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0438","Rural",
+"63568","El Cantón de Lozada","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0443","Rural",
+"63568","Las Higueras","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0446","Rural",
+"63568","Paso Real","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0449","Rural",
+"63568","Acaponetilla","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0440","Rural",
+"63568","Emérita","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0444","Rural",
+"63568","Redención","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0450","Rural",
+"63568","Mojarritas","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0448","Rural",
+"63568","Hacienda Vieja","Pueblo","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"28","015","0445","Rural",
+"63568","Las Parejas","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0447","Rural",
+"63568","Acatan de las Piñas","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0441","Rural",
+"63568","Corral de Piedra","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0442","Rural",
+"63568","Yago Estación","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0451","Rural",
+"63569","El Colomo","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0452","Rural",
+"63569","Nanche","Estacion","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"16","015","0453","Rural",
+"63570","Sauta","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0455","Rural",
+"63573","Bocas de Camichin","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0456","Rural",
+"63574","Los Otates","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0457","Rural",
+"63575","Pueblo Nuevo","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0459","Rural",
+"63575","Patroneño 1","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0406","Rural",
+"63575","El Botadero","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0458","Rural",
+"63576","El Turco","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63551","18","63551",,"29","015","0461","Rural",
+"63576","El Corte","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63551","18","63551",,"29","015","0454","Rural",
+"63577","Puerta de Mangos","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0462","Rural",
+"63578","Cañada del Tabaco","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0460","Rural",
+"63578","Santa Rosa","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0463","Rural",
+"63579","Toro Mocho","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0465","Rural",
+"63579","Villa Juárez","Ejido","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"15","015","0466","Rural",
+"63579","Los Corchos","Rancho o rancheria","Santiago Ixcuintla","Nayarit",,"63301","18","63301",,"29","015","0464","Rural",
+"63580","La Yesca","Villa","La Yesca","Nayarit",,"63941","18","63941",,"32","019","0467","Rural",
+"63581","Corta Pico","Rancho o rancheria","La Yesca","Nayarit",,"63941","18","63941",,"29","019","0468","Rural",
+"63582","El Izote","Rancho o rancheria","La Yesca","Nayarit",,"63001","18","63001",,"29","019","0469","Rural",
+"63583","Apozolco","Rancho o rancheria","La Yesca","Nayarit",,"63941","18","63941",,"29","019","0471","Rural",
+"63584","Amatlán de Jora","Pueblo","La Yesca","Nayarit",,"63941","18","63941",,"28","019","0472","Rural",
+"63585","Ambas Aguas","Rancho o rancheria","La Yesca","Nayarit",,"63941","18","63941",,"29","019","0473","Rural",
+"63587","La Cofradía","Rancho o rancheria","La Yesca","Nayarit",,"63001","18","63001",,"29","019","0470","Rural",
+"63590","Puente de Camotlán","Rancho o rancheria","La Yesca","Nayarit",,"63001","18","63001",,"29","019","0474","Rural",
+"63594","El Trapiche","Rancho o rancheria","La Yesca","Nayarit",,"63001","18","63001",,"29","019","0475","Rural",
+"63594","San Juan Ixtapalapa","Rancho o rancheria","La Yesca","Nayarit",,"63001","18","63001",,"29","019","1091","Rural",
+"63595","Huajimic","Pueblo","La Yesca","Nayarit",,"63001","18","63001",,"28","019","0476","Rural",
+"63600","Laguna del Mar","Pueblo","Ruíz","Nayarit",,"63601","18","63601",,"28","011","0477","Rural",
+"63600","Vado de San Pedro","Pueblo","Ruíz","Nayarit",,"63601","18","63601",,"28","011","0481","Rural",
+"63600","Ruiz","Estacion","Ruíz","Nayarit",,"63601","18","63601",,"16","011","0478","Semiurbano",
+"63600","San Lorenzo","Pueblo","Ruíz","Nayarit",,"63601","18","63601",,"28","011","0479","Rural",
+"63600","Tijuanita","Rancho o rancheria","Ruíz","Nayarit",,"63601","18","63601",,"29","011","0480","Semiurbano",
+"63604","Heroico Batallón de San Blas","Rancho o rancheria","Ruíz","Nayarit",,"63601","18","63601",,"29","011","0483","Rural",
+"63605","La Jarretadera","Ejido","Ruíz","Nayarit",,"63601","18","63601",,"15","011","0484","Rural",
+"63606","Juan Escutia","Rancho o rancheria","Ruíz","Nayarit",,"63601","18","63601",,"29","011","0485","Rural",
+"63610","El Venado","Ejido","Ruíz","Nayarit",,"63601","18","63601",,"15","011","0486","Rural",
+"63613","Puerta de Platanar","Congregacion","Ruíz","Nayarit",,"63601","18","63601",,"11","011","0487","Rural",
+"63614","El Zopilote","Congregacion","Ruíz","Nayarit",,"63601","18","63601",,"11","011","0488","Rural",
+"63615","La Bolita","Rancho o rancheria","Ruíz","Nayarit",,"63601","18","63601",,"29","011","0489","Rural",
+"63616","Cordón del Jilguero","Rancho o rancheria","Ruíz","Nayarit",,"63601","18","63601",,"29","011","0490","Rural",
+"63618","El Carrizo","Rancho o rancheria","Ruíz","Nayarit",,"63601","18","63601",,"29","011","0491","Rural",
+"63619","Ixcatan del Pozolillo","Rancho o rancheria","Ruíz","Nayarit",,"63601","18","63601",,"29","011","0492","Rural",
+"63620","Ruiz Centro","Colonia","Ruíz","Nayarit","Ruiz","63601","18","63601",,"09","011","0791","Semiurbano","09"
+"63620","El Naranjo","Rancho o rancheria","Ruíz","Nayarit","Ruiz","63601","18","63601",,"29","011","0493","Rural","09"
+"63621","Ixcatán de los Presidios","Congregacion","Ruíz","Nayarit",,"63601","18","63601",,"11","011","0494","Rural",
+"63622","San Pedro Ixcatan","Pueblo","Ruíz","Nayarit","Ruiz","63601","18","63601",,"28","011","0495","Rural","09"
+"63622","Rey Nayar","Colonia","Ruíz","Nayarit","Ruiz","63601","18","63601",,"09","011","0792","Semiurbano","09"
+"63623","El Capomal","Colonia","Ruíz","Nayarit","Ruiz","63601","18","63601",,"09","011","0794","Semiurbano","09"
+"63623","Talpita","Colonia","Ruíz","Nayarit","Ruiz","63601","18","63601",,"09","011","0793","Semiurbano","09"
+"63625","San Antonio","Colonia","Ruíz","Nayarit","Ruiz","63601","18","63601",,"09","011","0795","Semiurbano","09"
+"63626","Tiro Al Blanco","Colonia","Ruíz","Nayarit","Ruiz","63601","18","63601",,"09","011","0796","Semiurbano","09"
+"63626","Unidad Deportiva","Colonia","Ruíz","Nayarit","Ruiz","63601","18","63601",,"09","011","0799","Semiurbano","09"
+"63626","Cerro","Colonia","Ruíz","Nayarit","Ruiz","63601","18","63601",,"09","011","0797","Semiurbano","09"
+"63626","Rastro","Colonia","Ruíz","Nayarit","Ruiz","63601","18","63601",,"09","011","0798","Semiurbano","09"
+"63628","Linda Vista","Colonia","Ruíz","Nayarit","Ruiz","63601","18","63601",,"09","011","0800","Semiurbano","09"
+"63628","Al Hota (achota)","Colonia","Ruíz","Nayarit","Ruiz","63601","18","63601",,"09","011","0801","Semiurbano","09"
+"63630","La Bonita","Ejido","Rosamorada","Nayarit",,"63632","18","63632",,"15","010","0497","Rural",
+"63630","Rosamorada","Villa","Rosamorada","Nayarit",,"63632","18","63632",,"32","010","0498","Rural",
+"63630","Chilapa","Ejido","Rosamorada","Nayarit",,"63632","18","63632",,"15","010","0496","Rural",
+"63631","Minitas","Ejido","Rosamorada","Nayarit",,"63632","18","63632",,"15","010","0499","Rural",
+"63633","Abelardo L Rodriguez","Rancho o rancheria","Rosamorada","Nayarit",,"63632","18","63632",,"29","010","0501","Rural",
+"63633","El Pescadero","Ejido","Rosamorada","Nayarit",,"63632","18","63632",,"15","010","0502","Rural",
+"63634","Providencia","Ejido","Rosamorada","Nayarit",,"63632","18","63632",,"15","010","0504","Rural",
+"63634","Lázaro Cárdenas","Ejido","Rosamorada","Nayarit",,"63632","18","63632",,"15","010","0503","Rural",
+"63634","Teponahuaxtla","Pueblo","Rosamorada","Nayarit",,"63632","18","63632",,"28","010","0505","Rural",
+"63635","Cofradía de Cuyutlán","Rancho o rancheria","Rosamorada","Nayarit",,"63632","18","63632",,"29","010","0506","Rural",
+"63635","Paramita","Pueblo","Rosamorada","Nayarit",,"63632","18","63632",,"28","010","0508","Rural",
+"63635","San Marcos Cuyutlán","Rancho o rancheria","Rosamorada","Nayarit",,"63632","18","63632",,"29","010","0510","Rural",
+"63635","San Juan Bautista","Pueblo","Rosamorada","Nayarit",,"63632","18","63632",,"28","010","0509","Rural",
+"63635","Los Arrayanes","Rancho o rancheria","Rosamorada","Nayarit",,"63632","18","63632",,"29","010","0507","Rural",
+"63636","Llano del Tigre","Rancho o rancheria","Rosamorada","Nayarit",,"63632","18","63632",,"29","010","0512","Rural",
+"63636","San Miguelito","Rancho o rancheria","Rosamorada","Nayarit",,"63632","18","63632",,"29","010","0513","Rural",
+"63637","Zomatlán","Ejido","Rosamorada","Nayarit",,"63632","18","63632",,"15","010","0514","Rural",
+"63637","18 de Marzo","Ejido","Rosamorada","Nayarit",,"63632","18","63632",,"15","010","0516","Rural",
+"63638","Las Pilas","Ejido","Rosamorada","Nayarit",,"63601","18","63601",,"15","010","0515","Rural",
+"63640","La Boquita","Ejido","Rosamorada","Nayarit",,"63201","18","63201",,"15","010","0517","Rural",
+"63640","Pericos","Ejido","Rosamorada","Nayarit",,"63201","18","63201",,"15","010","0519","Rural",
+"63640","Vicente Guerrero","Ejido","Rosamorada","Nayarit",,"63201","18","63201",,"15","010","0521","Rural",
+"63640","Los Medina","Ejido","Rosamorada","Nayarit",,"63201","18","63201",,"15","010","0518","Rural",
+"63640","Pimientillo","Ejido","Rosamorada","Nayarit",,"63201","18","63201",,"15","010","0520","Rural",
+"63645","San Vicente","Ejido","Rosamorada","Nayarit",,"63201","18","63201",,"15","010","0524","Rural",
+"63646","La Loma","Rancho o rancheria","Rosamorada","Nayarit",,"63201","18","63201",,"29","010","0525","Rural",
+"63648","Tamarindo","Rancho o rancheria","Rosamorada","Nayarit",,"63201","18","63201",,"29","010","0511","Rural",
+"63650","Coyotes","Congregacion","Rosamorada","Nayarit",,"63632","18","63632",,"11","010","0532","Rural",
+"63650","San Diego Naranjo","Pueblo","Rosamorada","Nayarit",,"63632","18","63632",,"28","010","0527","Rural",
+"63651","El Rosarito","Pueblo","Rosamorada","Nayarit",,"63632","18","63632",,"28","010","0528","Rural",
+"63652","Santa Fe","Ejido","Rosamorada","Nayarit",,"63601","18","63601",,"15","010","0529","Rural",
+"63655","San Juan Corapan","Poblado comunal","Rosamorada","Nayarit",,"63601","18","63601",,"27","010","0531","Rural",
+"63655","Mojocuautla","Rancho o rancheria","Rosamorada","Nayarit",,"63601","18","63601",,"29","010","0530","Rural",
+"63656","Paso Real del Bejuco","Ejido","Rosamorada","Nayarit",,"63632","18","63632",,"15","010","0526","Rural",
+"63658","El 80","Congregacion","Rosamorada","Nayarit",,"63632","18","63632",,"11","010","0533","Rural",
+"63660","Coamiles","Ejido","Tuxpan","Nayarit",,"63201","18","63201",,"15","018","0534","Rural",
+"63660","Palma Grande","Ejido","Tuxpan","Nayarit",,"63201","18","63201",,"15","018","0536","Rural",
+"63660","El Tecomate","Ejido","Tuxpan","Nayarit",,"63201","18","63201",,"15","018","0535","Rural",
+"63660","Peñitas","Ejido","Tuxpan","Nayarit",,"63201","18","63201",,"15","018","0537","Rural",
+"63670","Unión de Corrientes","Ejido","Tuxpan","Nayarit",,"63201","18","63201",,"15","018","0538","Rural",
+"63700","Compostela Centro","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0539","Semiurbano","06"
+"63702","Francisco Villa","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0892","Semiurbano","06"
+"63702","Lomas de San Cristóbal","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0896","Semiurbano","06"
+"63702","Lázaro Cárdenas","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0897","Semiurbano","06"
+"63702","Francisco Villa","Ampliacion","Compostela","Nayarit","Compostela","63701","18","63701",,"38","004","0883","Semiurbano","06"
+"63702","Emiliano Zapata","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0889","Semiurbano","06"
+"63702","Guadalupana","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0893","Semiurbano","06"
+"63703","Aviación","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0885","Semiurbano","06"
+"63703","Del Bosque","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0887","Semiurbano","06"
+"63704","Los Arrayanes","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0898","Semiurbano","06"
+"63704","Librado Rivera","Ejido","Compostela","Nayarit","Compostela","63701","18","63701",,"15","004","0888","Semiurbano","06"
+"63704","Nueva Galicia","Fraccionamiento","Compostela","Nayarit","Compostela","63701","18","63701",,"21","004","0900","Semiurbano","06"
+"63704","La Huerta","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0895","Semiurbano","06"
+"63705","Estadios","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0890","Semiurbano","06"
+"63705","Floresta","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0891","Semiurbano","06"
+"63705","Infonavit","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0894","Semiurbano","06"
+"63705","Tierra y Libertad","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0902","Semiurbano","06"
+"63705","Arroyo","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0884","Semiurbano","06"
+"63705","5 de Febrero","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0886","Semiurbano","06"
+"63705","Nueva Esperanza","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0899","Semiurbano","06"
+"63705","Subestación","Colonia","Compostela","Nayarit","Compostela","63701","18","63701",,"09","004","0901","Semiurbano","06"
+"63706","Tepiqueños","Ejido","Compostela","Nayarit",,"63701","18","63701",,"15","004","0544","Rural",
+"63706","Miravalles","Ejido","Compostela","Nayarit",,"63701","18","63701",,"15","004","0542","Rural",
+"63707","La Cumbre de Huicicila","Ejido","Compostela","Nayarit",,"63701","18","63701",,"15","004","0541","Rural",
+"63707","Huicicila","Rancho o rancheria","Compostela","Nayarit",,"63701","18","63701",,"29","004","0540","Rural",
+"63708","Cuastecomatillo","Ejido","Compostela","Nayarit",,"63716","18","63716",,"15","004","0546","Rural",
+"63708","La Cuata","Rancho o rancheria","Compostela","Nayarit",,"63716","18","63716",,"29","004","0555","Rural",
+"63708","La Puerta del Conchal","Rancho o rancheria","Compostela","Nayarit",,"63716","18","63716",,"29","004","0547","Rural",
+"63708","Chacala","Rancho o rancheria","Compostela","Nayarit",,"63716","18","63716",,"29","004","0554","Rural",
+"63708","El Paranal","Rancho o rancheria","Compostela","Nayarit",,"63716","18","63716",,"29","004","0545","Rural",
+"63708","Las Piedras","Ejido","Compostela","Nayarit",,"63716","18","63716",,"15","004","0556","Rural",
+"63708","Paso de las Palmas","Ejido","Compostela","Nayarit",,"63716","18","63716",,"15","004","0558","Rural",
+"63709","Ixtapa de La Concepción","Ejido","Compostela","Nayarit",,"63716","18","63716",,"15","004","0548","Rural",
+"63710","Zacualpan","Ejido","Compostela","Nayarit",,"63716","18","63716",,"15","004","0550","Rural",
+"63710","Otates y Cantarranas","Ejido","Compostela","Nayarit",,"63716","18","63716",,"15","004","0549","Rural",
+"63712","Paso de Mesillas","Ejido","Compostela","Nayarit",,"63701","18","63701",,"15","004","0552","Rural",
+"63714","Lima de Abajo","Ejido","Compostela","Nayarit",,"63716","18","63716",,"15","004","0575","Rural",
+"63714","El Divisadero","Rancho o rancheria","Compostela","Nayarit",,"63716","18","63716",,"29","004","0553","Rural",
+"63715","Tepeyac","Barrio","Compostela","Nayarit","Las Varas","63716","18","63716",,"02","004","0860","Semiurbano","13"
+"63715","Agua Azul","Barrio","Compostela","Nayarit","Las Varas","63716","18","63716",,"02","004","0863","Semiurbano","13"
+"63715","Jalisco","Fraccionamiento","Compostela","Nayarit","Las Varas","63716","18","63716",,"21","004","0868","Semiurbano","13"
+"63715","Niños Héroes","Colonia","Compostela","Nayarit","Las Varas","63716","18","63716",,"09","004","0869","Semiurbano","13"
+"63715","Celso Hernández","Colonia","Compostela","Nayarit","Las Varas","63716","18","63716",,"09","004","0864","Semiurbano","13"
+"63715","San José","Colonia","Compostela","Nayarit","Las Varas","63716","18","63716",,"09","004","0867","Semiurbano","13"
+"63715","Nueva Galicia","Colonia","Compostela","Nayarit","Las Varas","63716","18","63716",,"09","004","0865","Semiurbano","13"
+"63715","Atenas","Barrio","Compostela","Nayarit","Las Varas","63716","18","63716",,"02","004","0861","Semiurbano","13"
+"63715","Puerta de Oro","Barrio","Compostela","Nayarit","Las Varas","63716","18","63716",,"02","004","0862","Semiurbano","13"
+"63715","Las Fuentes","Barrio","Compostela","Nayarit","Las Varas","63716","18","63716",,"02","004","0859","Semiurbano","13"
+"63715","Las Varas Centro","Colonia","Compostela","Nayarit","Las Varas","63716","18","63716",,"09","004","0557","Semiurbano","13"
+"63715","Nueva Era","Colonia","Compostela","Nayarit","Las Varas","63716","18","63716",,"09","004","0866","Semiurbano","13"
+"63717","Mazatan","Rancho o rancheria","Compostela","Nayarit",,"63701","18","63701",,"29","004","0559","Rural",
+"63717","Felipe Carrillo Puerto","Pueblo","Compostela","Nayarit",,"63701","18","63701",,"28","004","0560","Rural",
+"63717","Juan Escutia","Pueblo","Compostela","Nayarit",,"63701","18","63701",,"28","004","0561","Rural",
+"63717","Zapotan","Pueblo","Compostela","Nayarit",,"63701","18","63701",,"28","004","0562","Rural",
+"63718","El Colomo","Ejido","Compostela","Nayarit",,"63731","18","63731",,"15","004","0563","Rural",
+"63720","El Campesino","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0909","Semiurbano","16"
+"63720","Isla del Verano","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0912","Semiurbano","16"
+"63720","Juan Escutia","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0914","Semiurbano","16"
+"63720","Playa Hermosa","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0904","Semiurbano","16"
+"63720","Pescadores","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0906","Semiurbano","16"
+"63720","Arroyo Zarco","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0907","Semiurbano","16"
+"63720","Las Cabras","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0917","Semiurbano","16"
+"63720","Garzas Rosas","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","1082","Semiurbano","16"
+"63720","La Peñita de Jaltemba Centro","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0577","Semiurbano","16"
+"63720","Paraíso","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0903","Semiurbano","16"
+"63720","Miramar","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0908","Semiurbano","16"
+"63720","Cerro de La Cruz","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0910","Semiurbano","16"
+"63720","Cedros","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0905","Semiurbano","16"
+"63720","Paraíso Escondido","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0915","Semiurbano","16"
+"63720","Mirasol","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0913","Semiurbano","16"
+"63720","Emiliano Zapata","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0916","Semiurbano","16"
+"63720","Lázaro Cárdenas","Colonia","Compostela","Nayarit","La peñita de Jaltemba","63721","18","63721",,"09","004","0911","Semiurbano","16"
+"63722","Bella Unión","Rancho o rancheria","Compostela","Nayarit",,"63716","18","63716",,"29","004","0567","Rural",
+"63722","El Capomo","Rancho o rancheria","Compostela","Nayarit",,"63716","18","63716",,"29","004","0565","Rural",
+"63722","Candido Salazar","Rancho o rancheria","Compostela","Nayarit",,"63716","18","63716",,"29","004","0568","Rural",
+"63722","Altavista","Ejido","Compostela","Nayarit",,"63716","18","63716",,"15","004","0573","Rural",
+"63722","El Porvenir","Ejido","Compostela","Nayarit",,"63716","18","63716",,"15","004","0574","Rural",
+"63722","El Tonino","Rancho o rancheria","Compostela","Nayarit",,"63716","18","63716",,"29","004","0576","Rural",
+"63722","El Mamey Grande de Arriba","Ejido","Compostela","Nayarit",,"63716","18","63716",,"15","004","0566","Rural",
+"63723","Puerta de La Lima","Ejido","Compostela","Nayarit",,"63716","18","63716",,"15","004","0569","Rural",
+"63724","Úrsulo Galván","Rancho o rancheria","Compostela","Nayarit",,"63721","18","63721",,"29","004","0571","Rural",
+"63724","Rincón de Guayabitos","Pueblo","Compostela","Nayarit",,"63721","18","63721",,"28","004","0579","Rural",
+"63724","Villa Morelos","Rancho o rancheria","Compostela","Nayarit",,"63721","18","63721",,"29","004","0572","Rural",
+"63724","Nuevo Ixtlán","Rancho o rancheria","Compostela","Nayarit",,"63721","18","63721",,"29","004","0583","Rural",
+"63724","Chulavista","Rancho o rancheria","Compostela","Nayarit",,"63721","18","63721",,"29","004","0570","Rural",
+"63724","Monteón","Rancho o rancheria","Compostela","Nayarit",,"63721","18","63721",,"29","004","0578","Rural",
+"63726","Sol Nuevo","Fraccionamiento","Bahía de Banderas","Nayarit",,"63721","18","63721",,"21","020","0979","Rural",
+"63726","La Colmena","Colonia","Bahía de Banderas","Nayarit",,"63721","18","63721",,"09","020","0981","Rural",
+"63726","La Islita","Colonia","Bahía de Banderas","Nayarit",,"63721","18","63721",,"09","020","0978","Rural",
+"63726","Los Ayala","Colonia","Bahía de Banderas","Nayarit",,"63721","18","63721",,"09","020","0980","Rural",
+"63728","Las Glorias","Rancho o rancheria","Bahía de Banderas","Nayarit",,"63731","18","63731",,"29","020","0581","Rural",
+"63728","Mesa del Rodeo","Rancho o rancheria","Bahía de Banderas","Nayarit",,"63731","18","63731",,"29","020","0582","Rural",
+"63729","Lo de Marcos","Rancho o rancheria","Bahía de Banderas","Nayarit",,"63721","18","63721",,"29","020","0585","Rural",
+"63729","San Francisco","Rancho o rancheria","Bahía de Banderas","Nayarit",,"63721","18","63721",,"29","020","0596","Rural",
+"63730","San Juan de Abajo","Pueblo","Bahía de Banderas","Nayarit",,"63731","18","63731",,"28","020","0586","Rural",
+"63730","Santa Fe","Fraccionamiento","Bahía de Banderas","Nayarit",,"63731","18","63731",,"21","020","1036","Rural",
+"63730","Jardines de San José","Fraccionamiento","Bahía de Banderas","Nayarit",,"63731","18","63731",,"21","020","1053","Rural",
+"63730","Valle de San José","Fraccionamiento","Bahía de Banderas","Nayarit",,"63731","18","63731",,"21","020","1035","Rural",
+"63730","Ramón Larios","Colonia","Bahía de Banderas","Nayarit",,"63731","18","63731",,"09","020","1052","Rural",
+"63730","Valle de Banderas","Pueblo","Bahía de Banderas","Nayarit",,"63731","18","63731",,"28","020","0588","Rural",
+"63730","El Mirador","Colonia","Bahía de Banderas","Nayarit",,"63731","18","63731",,"09","020","1051","Rural",
+"63730","Santa Rosa Tapachula","Poblado comunal","Bahía de Banderas","Nayarit",,"63731","18","63731",,"27","020","1034","Rural",
+"63730","Jardines del Sol","Fraccionamiento","Bahía de Banderas","Nayarit",,"63731","18","63731",,"21","020","1054","Rural",
+"63732","Lomas Huanacaxtle","Barrio","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"02","020","0846","Rural","12"
+"63732","Playas del Pacifico","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0847","Rural","12"
+"63732","Paraíso del Indio","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0852","Rural","12"
+"63732","Buenos Aires","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0855","Rural","12"
+"63732","Los Cocos","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0857","Rural","12"
+"63732","Las Palmas","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0858","Rural","12"
+"63732","Miguel Alemán","Barrio","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"02","020","0854","Rural","12"
+"63732","Vista Bahía","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0849","Rural","12"
+"63732","Paraíso","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0851","Rural","12"
+"63732","Francisco Javier Ovando","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0850","Rural","12"
+"63732","Dorada","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0592","Rural","12"
+"63732","Tintoc","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0982","Rural","12"
+"63732","Estadio","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0983","Rural","12"
+"63732","Brisas","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0590","Rural","12"
+"63732","Bucerías Centro","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0591","Rural","12"
+"63732","Playas de Huanacaxtle","Fraccionamiento","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"21","020","0595","Rural","12"
+"63732","Terralta II","Fraccionamiento","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"21","020","1050","Rural","12"
+"63732","La Unidad","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0853","Rural","12"
+"63732","Loma Bonita","Colonia","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"09","020","0848","Rural","12"
+"63732","Tule Dorado","Barrio","Bahía de Banderas","Nayarit","Bucerias","63733","18","63733",,"02","020","0856","Rural","12"
+"63734","Punta de Mita","Rancho o rancheria","Bahía de Banderas","Nayarit",,"63733","18","63733",,"29","020","0601","Rural",
+"63734","Cruz de Juanacaxtle","Rancho o rancheria","Bahía de Banderas","Nayarit",,"63733","18","63733",,"29","020","0599","Rural",
+"63734","Higuera Blanca","Ejido","Bahía de Banderas","Nayarit",,"63733","18","63733",,"15","020","0600","Rural",
+"63734","Nuevo Corral del Risco","Pueblo","Bahía de Banderas","Nayarit",,"63733","18","63733",,"28","020","0593","Rural",
+"63734","Sayulita","Ejido","Bahía de Banderas","Nayarit",,"63733","18","63733",,"15","020","0597","Rural",
+"63735","Las Ceibas","Fraccionamiento","Bahía de Banderas","Nayarit",,"63733","18","63733",,"21","020","1048","Rural",
+"63735","Las Jarretaderas","Ejido","Bahía de Banderas","Nayarit",,"63733","18","63733",,"15","020","0603","Rural",
+"63735","Nuevo Vallarta","Ejido","Bahía de Banderas","Nayarit",,"63733","18","63733",,"15","020","0594","Semiurbano",
+"63735","Rincón del Cielo","Fraccionamiento","Bahía de Banderas","Nayarit",,"63733","18","63733",,"21","020","1080","Rural",
+"63735","Valle Dorado","Fraccionamiento","Bahía de Banderas","Nayarit",,"63733","18","63733",,"21","020","1039","Rural",
+"63735","13 de Septiembre","Colonia","Bahía de Banderas","Nayarit",,"63733","18","63733",,"09","020","1083","Rural",
+"63735","Costa Coral","Fraccionamiento","Bahía de Banderas","Nayarit",,"63733","18","63733",,"21","020","1038","Rural",
+"63736","El Colomo","Ejido","Bahía de Banderas","Nayarit",,"63731","18","63731",,"15","020","0604","Rural",
+"63737","Haciendas de San Vicente","Fraccionamiento","Bahía de Banderas","Nayarit",,"63731","18","63731",,"21","020","1086","Rural",
+"63737","San Vicente","Ejido","Bahía de Banderas","Nayarit",,"63731","18","63731",,"15","020","0605","Rural",
+"63737","San José del Valle","Pueblo","Bahía de Banderas","Nayarit",,"63731","18","63731",,"28","020","0598","Rural",
+"63737","La Esperanza","Colonia","Bahía de Banderas","Nayarit",,"63731","18","63731",,"09","020","1087","Rural",
+"63737","La Primavera","Colonia","Bahía de Banderas","Nayarit",,"63731","18","63731",,"09","020","1088","Rural",
+"63738","Valle de las Magnolias","Colonia","Bahía de Banderas","Nayarit",,"63731","18","63731",,"09","020","1037","Rural",
+"63738","Mezcales","Rancho o rancheria","Bahía de Banderas","Nayarit",,"63731","18","63731",,"29","020","0608","Rural",
+"63738","Tapachula del Valle","Rancho o rancheria","Bahía de Banderas","Nayarit",,"63731","18","63731",,"29","020","0602","Rural",
+"63738","Aguamilpa","Rancho o rancheria","Bahía de Banderas","Nayarit",,"63731","18","63731",,"29","020","0606","Rural",
+"63738","El Porvenir","Ejido","Bahía de Banderas","Nayarit",,"63731","18","63731",,"15","020","0607","Rural",
+"63739","El Coatante","Rancho o rancheria","Bahía de Banderas","Nayarit",,"63731","18","63731",,"29","020","0609","Rural",
+"63739","Los Sauces","Rancho o rancheria","Bahía de Banderas","Nayarit",,"63731","18","63731",,"29","020","0611","Rural",
+"63739","Fortuna de Vallejo","Rancho o rancheria","Bahía de Banderas","Nayarit",,"63731","18","63731",,"29","020","0610","Rural",
+"63740","San Blas Centro","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0614","Rural","10"
+"63740","Pescadores","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0984","Rural","10"
+"63742","Luis Donaldo Colosio","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0930","Rural","10"
+"63742","Fray Junipero Serra","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0929","Rural","10"
+"63742","Gilberto Flores M.","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0942","Rural","10"
+"63742","Benito Juárez","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0928","Rural","10"
+"63743","H. Batallón","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0941","Rural","10"
+"63743","31 de Enero","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0940","Rural","10"
+"63743","El Conchal","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0931","Rural","10"
+"63743","Emilio M González","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0934","Rural","10"
+"63743","La Vaca y La Higuera","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0933","Rural","10"
+"63743","La Playa del Borrego","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0936","Rural","10"
+"63743","El Cerrito","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0947","Rural","10"
+"63743","José María Mercado","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0932","Rural","10"
+"63743","Progreso","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0935","Rural","10"
+"63743","Palmar de los Cocos","Fraccionamiento","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"21","012","0946","Rural","10"
+"63744","El Guayabal","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0938","Rural","10"
+"63744","Zona Portuaria","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0945","Rural","10"
+"63744","La Playita","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0937","Rural","10"
+"63744","10 de Mayo","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0939","Rural","10"
+"63744","Barrio Chino","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0943","Rural","10"
+"63744","Gómez Reyes","Colonia","San Blas","Nayarit","Puerto San Blas","63741","18","63741",,"09","012","0944","Rural","10"
+"63745","Singayta","Rancho o rancheria","San Blas","Nayarit",,"63741","18","63741",,"29","012","0615","Rural",
+"63745","José María Mercado","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0617","Rural",
+"63745","Chacalilla","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0613","Rural",
+"63750","Aután","Ejido","San Blas","Nayarit",,"63551","18","63551",,"15","012","0618","Rural",
+"63751","El Madrigaleño","Ejido","San Blas","Nayarit",,"63551","18","63551",,"15","012","0620","Rural",
+"63751","La Culebra","Ejido","San Blas","Nayarit",,"63551","18","63551",,"15","012","0621","Rural",
+"63751","La Goma","Ejido","San Blas","Nayarit",,"63551","18","63551",,"15","012","0622","Rural",
+"63751","Playa Ramirez","Ejido","San Blas","Nayarit",,"63551","18","63551",,"15","012","0623","Rural",
+"63751","Ciruelo","Ejido","San Blas","Nayarit",,"63551","18","63551",,"15","012","0612","Rural",
+"63751","El Limón","Ejido","San Blas","Nayarit",,"63551","18","63551",,"15","012","0619","Rural",
+"63752","Isla del Conde","Ejido","San Blas","Nayarit",,"63551","18","63551",,"15","012","0624","Rural",
+"63753","El Carleño","Ejido","San Blas","Nayarit",,"63551","18","63551",,"15","012","0625","Rural",
+"63754","Pimientillo","Ejido","San Blas","Nayarit",,"63551","18","63551",,"15","012","0626","Rural",
+"63755","Boca del Asadero","Rancho o rancheria","San Blas","Nayarit",,"63551","18","63551",,"29","012","0627","Rural",
+"63756","La Chiripa","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0630","Rural",
+"63757","El Capomo","Ejido","San Blas","Nayarit",,"63551","18","63551",,"15","012","0628","Rural",
+"63758","Guadalupe Victoria","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0629","Rural",
+"63760","Reforma Agraria","Ejido","San Blas","Nayarit",,"63551","18","63551",,"15","012","0633","Rural",
+"63762","Huaristemba","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0634","Rural",
+"63763","Huaynamota","Ejido","San Blas","Nayarit",,"63001","18","63001",,"15","012","0635","Rural",
+"63764","Las Palmas","Rancho o rancheria","San Blas","Nayarit",,"63741","18","63741",,"29","012","0637","Rural",
+"63764","Navarrete","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0632","Rural",
+"63764","La Chiltera","Rancho o rancheria","San Blas","Nayarit",,"63741","18","63741",,"29","012","0636","Rural",
+"63765","La Libertad","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0639","Rural",
+"63765","El Tepeyac","Rancho o rancheria","San Blas","Nayarit",,"63741","18","63741",,"29","012","0638","Rural",
+"63765","Pintadeño","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0640","Rural",
+"63766","Mecatán","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0641","Rural",
+"63770","Jalcocotán","Pueblo","San Blas","Nayarit",,"63741","18","63741",,"28","012","0643","Rural",
+"63771","Playa de los Cocos","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0644","Rural",
+"63772","Santa Cruz de Miramar","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0645","Rural",
+"63773","El Cora","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0646","Rural",
+"63774","La Bajada","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0647","Rural",
+"63775","La Palma","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0648","Rural",
+"63776","Matanchen","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0783","Rural",
+"63776","Aticama","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0649","Rural",
+"63777","Tecuitata","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0650","Rural",
+"63777","El Llano","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0652","Rural",
+"63777","Jolotemba","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0653","Rural",
+"63777","El Espino","Ejido","San Blas","Nayarit",,"63741","18","63741",,"15","012","0651","Rural",
+"63779","Hospital","Campamento","San Blas","Nayarit",,"63778","18","63778",,"04","012","0658","Rural",
+"63779","Papelillo","Campamento","San Blas","Nayarit",,"63778","18","63778",,"04","012","0662","Rural",
+"63779","Rehilete","Campamento","San Blas","Nayarit",,"63778","18","63778",,"04","012","0663","Rural",
+"63779","Aserradero","Campamento","San Blas","Nayarit",,"63778","18","63778",,"04","012","0655","Rural",
+"63779","Nayarit","Campamento","San Blas","Nayarit",,"63778","18","63778",,"04","012","0661","Rural",
+"63779","Bugambilias","Campamento","San Blas","Nayarit",,"63778","18","63778",,"04","012","0656","Rural",
+"63779","Isla María Madre","Campamento","San Blas","Nayarit",,"63778","18","63778",,"04","012","0665","Rural",
+"63779","Morelos","Campamento","San Blas","Nayarit",,"63778","18","63778",,"04","012","0660","Rural",
+"63779","Zacatal","Campamento","San Blas","Nayarit",,"63778","18","63778",,"04","012","0664","Rural",
+"63779","Camarón","Campamento","San Blas","Nayarit",,"63778","18","63778",,"04","012","0657","Rural",
+"63779","Laguna del Toro","Campamento","San Blas","Nayarit",,"63778","18","63778",,"04","012","0659","Rural",
+"63780","Xalisco Centro","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","0667","Semiurbano","14"
+"63782","Nuevo Progreso","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","0803","Semiurbano","14"
+"63782","Huertas de Matatipal","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","0804","Semiurbano","14"
+"63782","Lomas del Nayar","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","0806","Semiurbano","14"
+"63782","Progreso","Ampliacion","Xalisco","Nayarit","Xalisco","63781","18","63781",,"38","008","0805","Semiurbano","14"
+"63783","Puerta del Sol","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","1012","Semiurbano","14"
+"63783","1° de Mayo","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","1014","Semiurbano","14"
+"63783","José Santos Godínez","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","1013","Semiurbano","14"
+"63784","Ramos Millán","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","0807","Semiurbano","14"
+"63784","Jardines de Matatipac","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","0808","Semiurbano","14"
+"63784","25 de Abril","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","1015","Semiurbano","14"
+"63784","Landereñas","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","1016","Semiurbano","14"
+"63785","Ejidal","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","0809","Semiurbano","14"
+"63785","La Esperanza","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","0810","Semiurbano","14"
+"63785","Navarreño","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","0811","Semiurbano","14"
+"63786","24 de Febrero","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","0813","Semiurbano","14"
+"63786","La Cruz","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","0812","Semiurbano","14"
+"63787","Lomas Verdes","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","1010","Semiurbano","14"
+"63787","Canoas","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","1011","Semiurbano","14"
+"63787","Villas de Guadalupe","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","0814","Semiurbano","14"
+"63787","Bugambilias","Colonia","Xalisco","Nayarit","Xalisco","63781","18","63781",,"09","008","1009","Semiurbano","14"
+"63790","Malinal","Ejido","Xalisco","Nayarit",,"63781","18","63781",,"15","008","0676","Rural",
+"63790","El Cuarenteño","Hacienda","Xalisco","Nayarit",,"63781","18","63781",,"24","008","0670","Rural",
+"63791","Emiliano Zapata","Rancho o rancheria","Xalisco","Nayarit",,"63781","18","63781",,"29","008","0677","Rural",
+"63791","Trigomil","Congregacion","Xalisco","Nayarit",,"63781","18","63781",,"11","008","0678","Rural",
+"63792","Aquiles Serdán","Congregacion","Xalisco","Nayarit",,"63781","18","63781",,"11","008","0668","Rural",
+"63792","Pantanal","Congregacion","Xalisco","Nayarit",,"63781","18","63781",,"11","008","0674","Rural",
+"63792","San José de Costilla","Zona federal","Xalisco","Nayarit",,"63781","18","63781",,"34","008","0679","Rural",
+"63793","Adolfo López Mateos","Rancho o rancheria","Xalisco","Nayarit",,"63781","18","63781",,"29","008","0680","Rural",
+"63794","Las Majadas","Congregacion","Xalisco","Nayarit",,"63781","18","63781",,"11","008","0666","Rural",
+"63794","Testerazo","Rancho o rancheria","Xalisco","Nayarit",,"63781","18","63781",,"29","008","0669","Rural",
+"63794","Cofradía de Chocolón","Rancho o rancheria","Xalisco","Nayarit",,"63781","18","63781",,"29","008","0681","Rural",
+"63795","La Curva","Congregacion","Xalisco","Nayarit",,"63781","18","63781",,"11","008","0682","Rural",
+"63796","El Refugio","Rancho o rancheria","Xalisco","Nayarit",,"63781","18","63781",,"29","008","0675","Rural",
+"63797","Palapita","Rancho o rancheria","Xalisco","Nayarit",,"63781","18","63781",,"29","008","0671","Rural",
+"63797","El Tepozal","Ejido","Xalisco","Nayarit",,"63781","18","63781",,"15","008","0683","Rural",
+"63798","El Refilión","Rancho o rancheria","Xalisco","Nayarit",,"63701","18","63701",,"29","008","0684","Rural",
+"63799","Tepic (Poeta Amado Nervo)","Aeropuerto","Xalisco","Nayarit",,"63781","18","63781",,"01","008","0673","Rural",
+"63800","San Pedro Lagunillas","Pueblo","San Pedro Lagunillas","Nayarit","San pedro Lagunillas","63701","18","63701",,"28","013","0685","Rural","15"
+"63800","San Pedro Lagunillas Centro","Colonia","San Pedro Lagunillas","Nayarit","San pedro Lagunillas","63701","18","63701",,"09","013","0815","Semiurbano","15"
+"63804","Milpillas","Rancho o rancheria","San Pedro Lagunillas","Nayarit",,"63701","18","63701",,"29","013","0687","Rural",
+"63806","Emiliano Zapata","Colonia","San Pedro Lagunillas","Nayarit","San pedro Lagunillas","63701","18","63701",,"09","013","0816","Semiurbano","15"
+"63807","Lázaro Cárdenas","Colonia","San Pedro Lagunillas","Nayarit","San pedro Lagunillas","63701","18","63701",,"09","013","0817","Semiurbano","15"
+"63809","Tepetiltic","Rancho o rancheria","San Pedro Lagunillas","Nayarit",,"63001","18","63001",,"29","013","0688","Rural",
+"63810","Cuastecomate","Rancho o rancheria","San Pedro Lagunillas","Nayarit",,"63701","18","63701",,"29","013","0690","Rural",
+"63810","Tequilita","Rancho o rancheria","San Pedro Lagunillas","Nayarit",,"63701","18","63701",,"29","013","0691","Rural",
+"63810","Amado Nervo","Congregacion","San Pedro Lagunillas","Nayarit",,"63701","18","63701",,"11","013","0689","Rural",
+"63820","Las Guásimas","Rancho o rancheria","San Pedro Lagunillas","Nayarit",,"63701","18","63701",,"29","013","0692","Rural",
+"63826","Cerro Pelón","Zona federal","San Pedro Lagunillas","Nayarit",,"63701","18","63701",,"34","013","0693","Rural",
+"63830","San Leonel","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0695","Rural",
+"63830","La Cofradía de Acuitapilco","Pueblo","Santa María del Oro","Nayarit",,"63001","18","63001",,"28","014","0694","Rural",
+"63830","Del Bosque","Colonia","Santa María del Oro","Nayarit",,"63001","18","63001",,"09","014","1007","Urbano",
+"63830","Santa María del Oro","Pueblo","Santa María del Oro","Nayarit",,"63001","18","63001",,"28","014","0696","Rural",
+"63831","Zapotanito","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0697","Rural",
+"63833","La Galinda","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0699","Rural",
+"63834","El Limón","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0700","Rural",
+"63835","La Labor","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0701","Rural",
+"63836","El Ermitaño","Ejido","Santa María del Oro","Nayarit",,"63001","18","63001",,"15","014","0702","Rural",
+"63837","El Mirador","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0703","Rural",
+"63840","San José de Mojarras","Hacienda","Santa María del Oro","Nayarit",,"63001","18","63001",,"24","014","0705","Rural",
+"63843","Moderna","Ejido","Santa María del Oro","Nayarit",,"63001","18","63001",,"15","014","0706","Rural",
+"63844","Buckingham","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0707","Rural",
+"63845","Miguel Hidalgo","Ejido","Santa María del Oro","Nayarit",,"63001","18","63001",,"15","014","0708","Rural",
+"63846","Juanacaste","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0709","Rural",
+"63846","Las Cuevas","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0710","Rural",
+"63850","Tequepexpan","Pueblo","Santa María del Oro","Nayarit",,"63001","18","63001",,"28","014","0711","Rural",
+"63853","La Estanzuela","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0712","Rural",
+"63854","El Caracol","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0713","Rural",
+"63857","Acuitapilco de Baca Calderón","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0714","Rural",
+"63865","La Laguna","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0715","Rural",
+"63866","Cerro Blanco","Ejido","Santa María del Oro","Nayarit",,"63001","18","63001",,"15","014","0716","Rural",
+"63867","El Buruato","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0717","Rural",
+"63868","Rincón de Calimayo","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0718","Rural",
+"63870","Ahualamo","Ejido","Santa María del Oro","Nayarit",,"63901","18","63901",,"15","014","0719","Rural",
+"63870","Chapalilla","Pueblo","Santa María del Oro","Nayarit",,"63901","18","63901",,"28","014","0720","Rural",
+"63873","Las Mesitas","Rancho o rancheria","Santa María del Oro","Nayarit",,"63001","18","63001",,"29","014","0721","Rural",
+"63874","El Torreón","Rancho o rancheria","Santa María del Oro","Nayarit",,"63901","18","63901",,"29","014","0722","Rural",
+"63877","El Ocotillo","Rancho o rancheria","Santa María del Oro","Nayarit",,"63901","18","63901",,"29","014","0723","Rural",
+"63880","Jomulco","Pueblo","Jala","Nayarit",,"63891","18","63891",,"28","007","0732","Rural",
+"63880","Buenos Aires","Congregacion","Jala","Nayarit",,"63891","18","63891",,"11","007","0724","Rural",
+"63880","Severiano López","Colonia","Jala","Nayarit",,"63891","18","63891",,"09","007","1017","Rural",
+"63880","Cofradía de Juanacatlán","Ejido","Jala","Nayarit",,"63891","18","63891",,"15","007","0725","Rural",
+"63880","San Miguel de Buenavista","Villa","Jala","Nayarit",,"63891","18","63891",,"32","007","0727","Rural",
+"63881","Francisco I Madero","Pueblo","Jala","Nayarit",,"63891","18","63891",,"28","007","0728","Rural",
+"63882","Santa Fe","Congregacion","Jala","Nayarit",,"63891","18","63891",,"11","007","0733","Rural",
+"63883","Los Aguajes","Ejido","Jala","Nayarit",,"63891","18","63891",,"15","007","0730","Rural",
+"63884","Coapan","Ejido","Jala","Nayarit",,"63891","18","63891",,"15","007","0734","Rural",
+"63885","Pueblo Nuevo","Pueblo","Jala","Nayarit",,"63891","18","63891",,"28","007","1019","Rural",
+"63885","Rosa Blanca","Congregacion","Jala","Nayarit",,"63891","18","63891",,"11","007","0731","Rural",
+"63890","Jala Centro","Colonia","Jala","Nayarit","Jala","63891","18","63891",,"09","007","0726","Rural","17"
+"63892","El Naranjo","Colonia","Jala","Nayarit","Jala","63891","18","63891",,"09","007","0819","Rural","17"
+"63892","San Juan","Barrio","Jala","Nayarit","Jala","63891","18","63891",,"02","007","1006","Rural","17"
+"63892","Juan Escutia","Colonia","Jala","Nayarit","Jala","63891","18","63891",,"09","007","0820","Rural","17"
+"63896","El Llano","Colonia","Jala","Nayarit","Jala","63891","18","63891",,"09","007","0822","Rural","17"
+"63896","Independencia","Colonia","Jala","Nayarit","Jala","63891","18","63891",,"09","007","0821","Rural","17"
+"63897","Lucio Cabañas","Colonia","Jala","Nayarit","Jala","63891","18","63891",,"09","007","0823","Rural","17"
+"63898","La Quinta","Colonia","Jala","Nayarit","Jala","63891","18","63891",,"09","007","0824","Rural","17"
+"63898","La Cruz","Colonia","Jala","Nayarit","Jala","63891","18","63891",,"09","007","0826","Rural","17"
+"63898","El Tucán","Colonia","Jala","Nayarit","Jala","63891","18","63891",,"09","007","0825","Rural","17"
+"63898","Merced Ibarra","Colonia","Jala","Nayarit","Jala","63891","18","63891",,"09","007","0827","Rural","17"
+"63900","San Antonio","Rancho o rancheria","Ahuacatlán","Nayarit",,"63901","18","63901",,"29","002","0738","Rural",
+"63900","Ahuacatlán","Villa","Ahuacatlán","Nayarit",,"63901","18","63901",,"32","002","0735","Rural",
+"63900","Marquesado","Ejido","Ahuacatlán","Nayarit",,"63901","18","63901",,"15","002","0737","Rural",
+"63900","La Ciénega","Rancho o rancheria","Ahuacatlán","Nayarit",,"63901","18","63901",,"29","002","0736","Rural",
+"63900","Zoatlán","Ejido","Ahuacatlán","Nayarit",,"63901","18","63901",,"15","002","0739","Rural",
+"63904","La Campana","Rancho o rancheria","Ahuacatlán","Nayarit",,"63901","18","63901",,"29","002","0741","Rural",
+"63905","Heriberto Jara","Ejido","Ahuacatlán","Nayarit",,"63901","18","63901",,"15","002","0742","Rural",
+"63910","Tetitlán","Pueblo","Ahuacatlán","Nayarit",,"63901","18","63901",,"28","002","0743","Rural",
+"63911","Valle Verde","Estacion","Ahuacatlán","Nayarit",,"63901","18","63901",,"16","002","0744","Rural",
+"63915","Santa Isabel","Rancho o rancheria","Ahuacatlán","Nayarit",,"63001","18","63001",,"29","002","0745","Rural",
+"63920","Uzeta","Ejido","Ahuacatlán","Nayarit","Ahuacatlán","63901","18","63901",,"15","002","0746","Rural","18"
+"63920","Ahuacatlán","Colonia","Ahuacatlán","Nayarit","Ahuacatlán","63901","18","63901",,"09","002","0828","Rural","18"
+"63923","Benito Juárez","Colonia","Ahuacatlán","Nayarit","Ahuacatlán","63901","18","63901",,"09","002","0829","Rural","18"
+"63925","El Cerrito","Colonia","Ahuacatlán","Nayarit","Ahuacatlán","63901","18","63901",,"09","002","0830","Rural","18"
+"63927","Prisciliano Sanchez","Colonia","Ahuacatlán","Nayarit","Ahuacatlán","63901","18","63901",,"09","002","0831","Rural","18"
+"63927","Demetrio Vallejo","Colonia","Ahuacatlán","Nayarit","Ahuacatlán","63901","18","63901",,"09","002","0832","Rural","18"
+"63928","8 de Mayo","Colonia","Ahuacatlán","Nayarit","Ahuacatlán","63901","18","63901",,"09","002","0833","Rural","18"
+"63930","Camotlán","Pueblo","Ahuacatlán","Nayarit",,"63901","18","63901",,"28","002","0747","Rural",
+"63930","Santa Cruz de Camotlán","Pueblo","Ahuacatlán","Nayarit",,"63901","18","63901",,"28","002","0748","Rural",
+"63935","Las Guásimas","Rancho o rancheria","Ahuacatlán","Nayarit",,"63901","18","63901",,"29","002","0749","Rural",
+"63938","Las Palmas","Rancho o rancheria","Ahuacatlán","Nayarit",,"63901","18","63901",,"29","002","0750","Rural",
+"63940","Mexpan","Pueblo","Ixtlán del Río","Nayarit",,"63941","18","63941",,"28","006","0755","Rural",
+"63940","Milpillas","Rancho o rancheria","Ixtlán del Río","Nayarit",,"63941","18","63941",,"29","006","1090","Rural",
+"63940","El Terrero","Ejido","Ixtlán del Río","Nayarit",,"63941","18","63941",,"15","006","0751","Rural",
+"63940","La Haciendita","Rancho o rancheria","Ixtlán del Río","Nayarit",,"63941","18","63941",,"29","006","0753","Rural",
+"63940","La Sidra","Rancho o rancheria","Ixtlán del Río","Nayarit",,"63941","18","63941",,"29","006","0754","Rural",
+"63940","San José de Gracia","Pueblo","Ixtlán del Río","Nayarit",,"63941","18","63941",,"28","006","0756","Rural",
+"63940","Ixtlán del Río","Rancho o rancheria","Ixtlán del Río","Nayarit",,"63941","18","63941",,"29","006","0752","Rural",
+"63940","Ranchos de Arriba","Ejido","Ixtlán del Río","Nayarit",,"63941","18","63941",,"15","006","0761","Rural",
+"63940","San Miguel","Rancho o rancheria","Ixtlán del Río","Nayarit",,"63941","18","63941",,"29","006","0757","Rural",
+"63943","La Higuerita","Rancho o rancheria","Ixtlán del Río","Nayarit",,"63941","18","63941",,"29","006","0762","Rural",
+"63943","Los Mezquites","Rancho o rancheria","Ixtlán del Río","Nayarit",,"63941","18","63941",,"29","006","0763","Rural",
+"63944","Cacalutan","Pueblo","Ixtlán del Río","Nayarit",,"63941","18","63941",,"28","006","0760","Rural",
+"63948","San Clemente","Rancho o rancheria","Ixtlán del Río","Nayarit",,"63941","18","63941",,"29","006","0759","Rural",
+"63954","De Los Indios","Barrio","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"02","006","1085","Semiurbano","11"
+"63954","Esteban Baca Calderón","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","0835","Semiurbano","11"
+"63954","Juárez","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","0836","Semiurbano","11"
+"63954","Juan Zamora","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","0998","Semiurbano","11"
+"63957","Amado Nervo","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","0838","Semiurbano","11"
+"63957","Las Flores","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","0837","Semiurbano","11"
+"63958","Revolución","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","0841","Semiurbano","11"
+"63958","Moderna","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","0839","Semiurbano","11"
+"63958","El Pinar","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","0840","Semiurbano","11"
+"63959","Morelos","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","0843","Semiurbano","11"
+"63959","Eulogio Parra","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","1000","Semiurbano","11"
+"63959","Independencia","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","0844","Semiurbano","11"
+"63959","Juan Escutia","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","1002","Semiurbano","11"
+"63959","Everardo Peña Navarro","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","0842","Semiurbano","11"
+"63959","Santo Santiago","Colonia","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"09","006","0845","Semiurbano","11"
+"63959","Che Guevara","Ampliacion","Ixtlán del Río","Nayarit","Ixtlán del Rio","63941","18","63941",,"38","006","1001","Semiurbano","11"
+"63960","Amatlán de Cañas","Pueblo","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"28","003","0764","Rural",
+"63960","Jesús María","Ejido","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"15","003","0765","Rural",
+"63965","San Blasito","Ejido","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"15","003","0767","Rural",
+"63966","El Copalillo","Rancho o rancheria","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"29","003","0768","Rural",
+"63967","Pie de La Cuesta","Pueblo","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"28","003","0769","Rural",
+"63968","La Yerbabuena","Rancho o rancheria","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"29","003","0770","Rural",
+"63969","Agua Escondida","Rancho o rancheria","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"29","003","0771","Rural",
+"63970","Barranca del Oro","Pueblo","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"28","003","0772","Rural",
+"63971","Cerritos","Ejido","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"15","003","0773","Rural",
+"63973","El Pilón","Ejido","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"15","003","0774","Rural",
+"63974","San Valentín","Ejido","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"15","003","0775","Rural",
+"63975","Los Agrios","Ejido","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"15","003","0776","Rural",
+"63975","Mezquites","Ejido","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"15","003","0777","Rural",
+"63980","El Rosario","Pueblo","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"28","003","0778","Rural",
+"63985","Tepuzhuacan","Ejido","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"15","003","0779","Rural",
+"63990","Estancia de los López","Rancho o rancheria","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"29","003","0781","Rural",
+"63990","El Farito","Rancho o rancheria","Amatlán de Cañas","Nayarit",,"63961","18","63961",,"29","003","0780","Rural",
