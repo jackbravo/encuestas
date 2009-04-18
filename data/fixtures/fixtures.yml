@@ -76,7 +76,7 @@ Encuesta:
     telefono1: 3338373832
     tel_tipo1: 1
     Estado: Estado_1
-    ciudad: Guadalajara
+    ciudad_id: 1847
     colonia: Arboledas
     calle: Galileo Galilei
     numero: 3829-1A
@@ -95,7 +95,7 @@ Encuesta:
     telefono1: 3333373932
     tel_tipo1: 1
     Estado: Estado_2
-    ciudad: Guadalajara
+    ciudad_id: 2248
     colonia: Arboledas
     calle: Galileo Galilei
     numero: 1829-1A
@@ -117,7 +117,7 @@ Encuesta:
     tel_tipo1: 2
     email: alvaro@mail.com
     Estado: Estado_2
-    ciudad: Guadalajara
+    ciudad_id: 2248
     colonia: Arboledas
     calle: 'Galileo Galilei'
     numero: 3829-1A
@@ -139,7 +139,7 @@ Encuesta:
     tel_tipo2: 4
     email: cesar@mail.com
     Estado: Estado_2
-    ciudad: Zapopan
+    ciudad_id: 2255
     colonia: Ciudad del Sol
     calle: 'Tezozomoc'
     numero: 3289

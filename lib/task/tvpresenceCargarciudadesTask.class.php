@@ -43,6 +43,8 @@ EOF;
     $files = sfFinder::type('files')->name('*.csv')->in($options['dir']);
     foreach ($files as $file)
     {
+      $this->logSection('tvpresence', sprintf('cargando datos de "%s"', $file));
+
       $handle = fopen($file, 'r');
       fgetcsv($handle); // skip first
 
@@ -59,7 +61,6 @@ EOF;
 
         $localidad_old = $localidad;
       }
-      $this->logSection('tvpresence', sprintf('se cargaron localidades de "%s"', $estado));
     }
   }
 }

@@ -17,5 +17,8 @@ abstract class BaseCiudad extends sfDoctrineRecord
     {
         $this->hasOne('Estado', array('local' => 'estado_id',
                                       'foreign' => 'id'));
+
+        $this->hasMany('Encuesta as Encuestas', array('local' => 'id',
+                                                      'foreign' => 'ciudad_id'));
     }
 }

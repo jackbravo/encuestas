@@ -34,7 +34,7 @@ abstract class BaseEncuesta extends sfDoctrineRecord
         $this->hasColumn('tel_tipo3', 'integer', 1, array('type' => 'integer', 'length' => '1'));
         $this->hasColumn('email', 'string', 50, array('type' => 'string', 'length' => '50'));
         $this->hasColumn('estado_id', 'integer', 4, array('type' => 'integer', 'notnull' => true, 'length' => '4'));
-        $this->hasColumn('ciudad', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
+        $this->hasColumn('ciudad_id', 'integer', 4, array('type' => 'integer', 'notnull' => true, 'length' => '4'));
         $this->hasColumn('colonia', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
         $this->hasColumn('calle', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
         $this->hasColumn('numero', 'string', 50, array('type' => 'string', 'notnull' => true, 'length' => '50'));
@@ -64,6 +64,9 @@ abstract class BaseEncuesta extends sfDoctrineRecord
                                                                'foreign' => 'distribuidor_id'));
 
         $this->hasOne('Estado', array('local' => 'estado_id',
+                                      'foreign' => 'id'));
+
+        $this->hasOne('Ciudad', array('local' => 'ciudad_id',
                                       'foreign' => 'id'));
 
         $this->hasMany('Horario as Horarios', array('refClass' => 'EncuestaHorario',
