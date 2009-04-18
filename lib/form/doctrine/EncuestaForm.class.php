@@ -16,6 +16,15 @@ class EncuestaForm extends BaseEncuestaForm
       $this['my_dist_id'], $this['rangos_horario']);
 
     $this->widgetSchema['estado_id']->setOption('add_empty', true);
+    $this->widgetSchema['ciudad_id'] = new axaiWidgetFormJQuerySelect(array(
+      'model' => 'Ciudad',
+      'add_empty' => true,
+      'query' => Doctrine::getTable('Ciudad')
+        ->findByEstadoQuery($this->getObject()->get('estado_id')),
+      'parent' => 'encuesta[estado_id]',
+      'url' => sfContext::getInstance()->getRouting()
+        ->generate('ciudad_ajaxList'),
+    ));
 
     $this->widgetSchema['notas'] = new sfWidgetFormTextarea(array(), array(
       'rows' => '5', 'cols' => '50'

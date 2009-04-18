@@ -39,6 +39,16 @@ class EncuestaFormFilter extends BaseEncuestaFormFilter
       'with_empty' => false,
     ));
 
+    $this->widgetSchema['ciudad_id'] = new axaiWidgetFormJQuerySelect(array(
+      'model' => 'Ciudad',
+      'add_empty' => true,
+      'query' => Doctrine::getTable('Ciudad')
+        ->findByEstadoQuery($this->getDefault('estado_id')),
+      'parent' => 'encuesta_filters[estado_id]',
+      'url' => sfContext::getInstance()->getRouting()
+        ->generate('ciudad_ajaxList'),
+    ));
+
     $this->widgetSchema['nombre']->setOption('with_empty', false);
     $this->widgetSchema['nombre']->setAttribute('size', '15');
     $this->widgetSchema['apellido_p']->setOption('with_empty', false);
@@ -51,6 +61,7 @@ class EncuestaFormFilter extends BaseEncuestaFormFilter
       'apellido_p' => 'Apellido Paterno',
       'apellido_m' => 'Apellido Materno',
       'estado_id' => 'en',
+      'ciudad_id' => 'Ciudad',
       'created_at' => 'Fecha de Registro',
     ));
   }

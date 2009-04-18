@@ -31,6 +31,10 @@ seguimiento:
     model: Seguimiento
     object_actions: { finalizar: get, localizoDist: get, localizoLead: get }
 
+ciudad_ajaxList:
+  url:   /ciudad/ajaxList
+  param: { module: ciudad, action: ajaxList }
+
 # default rules
 homepage:
   url:   /

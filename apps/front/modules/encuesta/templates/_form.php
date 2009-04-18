@@ -44,10 +44,10 @@
   </div>
 
   <div class="grid_4">
-  <?php echo $form['ciudad_id']->renderRow() ?>
+  <?php echo $form['estado_id']->renderRow() ?>
   </div>
   <div class="grid_4">
-  <?php echo $form['estado_id']->renderRow() ?>
+  <?php echo $form['ciudad_id']->renderRow() ?>
   </div>
   <div class="grid_4">
   <?php echo $form['cp']->renderRow() ?>

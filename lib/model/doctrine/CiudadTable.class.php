@@ -4,5 +4,27 @@
  */
 class CiudadTable extends Doctrine_Table
 {
+  public function findByEstadoQuery($estado_id)
+  {
+    return $this->createQuery('c')
+      ->addWhere('c.estado_id = ?', array($estado_id))
+      ->addOrderBy('c.nombre');
+  }
 
+  public function findForAjax($id)
+  {
+    $ciudades = $this->createQuery('c')
+      ->select('c.id, c.nombre')
+      ->addWhere('c.estado_id = ?', $id)
+      ->addOrderBy('c.nombre')
+      ->execute();
+
+    $list = array();
+    foreach ($ciudades as $ciudad)
+    {
+      $list[$ciudad['id']] = $ciudad['nombre'];
+    }
+
+    return $list;
+  }
 }
