@@ -74,7 +74,7 @@
       {
         $yes = image_tag('/sf/sf_admin/images/save.png');
         $no = image_tag('/sf/sf_admin/images/cancel.png');
-        if ($last_segui->localizo_dist === null) {
+        if ($last_segui->localizo_dist === null && $last_segui->distribuidor_id) {
           echo link_to("$yes Sí", 'seguimiento_localizoDist', array('id' => $last_segui->id));
           echo link_to("$no No", 'seguimiento_localizoDist', array('id' => $last_segui->id, '_no' => ''));
         }
@@ -89,13 +89,14 @@
 
       if ( $last_segui == false ||
            ( $last_segui->localizo_dist === false ) ||
-           ( $last_segui->localizo_lead === false && $last_segui->intento < 2 )
+           ( $last_segui->localizo_lead === false && $last_segui->intento < 2 ) ||
+           ( !is_numeric($last_segui->distribuidor_id) )
         ) {
         $new = image_tag('/sf/sf_admin/images/default_icon.png');
         echo link_to("$new Asignar Miembro TAB", 'seguimiento_createForLead', array('id' => $encuesta->id));
       }
 
-      if ($last_segui)
+      if ($last_segui && $last_segui->distribuidor_id)
       {
         $editar = image_tag('/sf/sf_admin/images/edit.png');
         echo link_to("$editar Editar", 'seguimiento_edit', array('id' => $last_segui->id));
@@ -146,7 +147,8 @@
   </div>
 
   <?php if (sizeof($seguimientos) > 0) {
-          $dist = $seguimientos[sizeof($seguimientos) - 1]['Distribuidor']; ?>
+          $dist = $seguimientos[sizeof($seguimientos) - 1]['Distribuidor'];
+          if ($dist) { ?>
     <div class="box">
       <h2>TAB #<?php echo $dist->id ?></h2>
       <strong><?php echo $dist->name ?></strong>, <?php echo $dist->level ?><br/>
@@ -155,5 +157,5 @@
       <?php if ($dist->contact2) echo '<strong>Contacto 2: </strong>' . $dist->contact2 . '<br/>' ?>
       <?php if ($dist->contact3) echo '<strong>Contacto 3: </strong>' . $dist->contact3 . '<br/>' ?>
     </div>
-  <?php } ?>
+  <?php }} ?>
 </div> <!-- /grid_4 -->

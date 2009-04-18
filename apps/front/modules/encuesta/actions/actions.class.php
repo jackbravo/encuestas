@@ -56,7 +56,16 @@ class encuestaActions extends sfActions
     $this->encuesta = $this->getRoute()->getObject();
     $this->encuesta->lock($this->getUser()->getId());
     $this->seguimientos = Doctrine::getTable('Seguimiento')->findForLead($this->encuesta->id);
-    // TODO: #189
+
+    $last_seg = $this->seguimientos->getLast();
+    if ($last_seg && $last_seg->localizo_dist === null &&
+      $this->encuesta->viewer_id == $this->getUser()->getId() && // no esta bloqueado
+      $last_seg->agente_id != $this->getUser()->getId() // yo no creé este seguimiento
+    )
+    {
+      $last_seg->Distribuidor = null;
+      $last_seg->save();
+    }
   }
 
   public function executeNew(sfWebRequest $request)

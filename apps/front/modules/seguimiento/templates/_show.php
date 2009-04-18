@@ -5,6 +5,7 @@
     <small><?php echo $seguimiento['created_at'] ?></small>
   </p>
   <blockquote>
+    <?php if ($seguimiento->distribuidor_id): ?>
     <ol>
       <li>
         ¿Se contactó al miembro TAB?
@@ -23,6 +24,7 @@
       </li>
       <?php endif; ?>
     </ol>
+    <?php endif; ?>
   </blockquote>
   <?php echo simple_format_text($seguimiento['notas']) ?>
 </div>
