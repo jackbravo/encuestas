@@ -4,7 +4,7 @@
   <div class="subheader">
     <?php
     $last_segui = (sizeof($seguimientos) > 0) ? $seguimientos[sizeof($seguimientos) - 1] : false;
-    if (!is_numeric($encuesta->my_dist_id) || $sf_user->hasCredential('admin')) {
+    if (!($encuesta->my_dist_id) || $sf_user->hasCredential('admin')) {
       if ($last_segui && ($last_segui->localizo_lead || ($last_segui->intento == 2 && $last_segui->localizo_lead !== null))) {
         echo link_to('Asignar ID', '@encuesta_editId?id=' . $encuesta->id);
       }
@@ -90,7 +90,7 @@
       if ( $last_segui == false ||
            ( $last_segui->localizo_dist === false ) ||
            ( $last_segui->localizo_lead === false && $last_segui->intento < 2 ) ||
-           ( !is_numeric($last_segui->distribuidor_id) )
+           ( !($last_segui->distribuidor_id) )
         ) {
         $new = image_tag('/sf/sf_admin/images/default_icon.png');
         echo link_to("$new Asignar Miembro TAB", 'seguimiento_createForLead', array('id' => $encuesta->id));
