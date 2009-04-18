@@ -32,7 +32,7 @@ class DistribuidorTable extends Doctrine_Table
 
     return $q
       ->addOrderBy("$alias.tally asc")
-      ->addOrderBy("$alias.performance desc")
+      ->addOrderBy("$alias.performance asc")
     ;
   }
 
