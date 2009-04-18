@@ -63,8 +63,7 @@ class encuestaActions extends sfActions
       $last_seg->agente_id != $this->getUser()->getId() // yo no creé este seguimiento
     )
     {
-      $last_seg->Distribuidor = null;
-      $last_seg->save();
+      $last_seg->quitarDistribuidor();
     }
   }
 

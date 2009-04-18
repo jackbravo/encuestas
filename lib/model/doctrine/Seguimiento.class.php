@@ -52,4 +52,12 @@ class Seguimiento extends BaseSeguimiento
 
     return strtotime($this->fecha_localizo_dist . "+$tiempo_espera") < time();
   }
+
+  public function quitarDistribuidor()
+  {
+    $this->Distribuidor->tally--;
+    $this->Distribuidor->save();
+    $this->Distribuidor = null;
+    $this->save();
+  }
 }
