@@ -206,7 +206,7 @@ Distribuidor:
     name: Francisca
     level: Millionaria
     city: Zapotlanejo
-    state: "Baja California Norte"
+    state: "Baja California"
     contact1: 234432315
     contact2: 233232 ext 32
     performance: 200
@@ -215,7 +215,7 @@ Distribuidor:
     name: Pedro
     level: President
     city: guadalajara
-    state: "Baja California Norte"
+    state: "Baja California"
     contact1: 234432315
     contact2: 233232 ext 32
     performance: 329
