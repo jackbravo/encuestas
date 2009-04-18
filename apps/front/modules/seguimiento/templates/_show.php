@@ -2,7 +2,7 @@
   <p class="seguimiento-timestamp">
     <strong><?php echo $seguimiento['Agente']['username'] ?></strong> asignó a
     <strong><?php echo $seguimiento['Distribuidor']['name'] ?></strong>
-    <small><?php echo $seguimiento['created_at'] ?></small>
+    <small><?php echo $seguimiento['created_at'] . ' vuelta ' . $seguimiento->intento ?></small>
   </p>
   <blockquote>
     <?php if ($seguimiento->distribuidor_id): ?>
