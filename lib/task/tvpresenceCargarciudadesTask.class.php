@@ -38,6 +38,7 @@ EOF;
     $connection = $databaseManager->getDatabase($options['connection'] ? $options['connection'] : null)->getConnection();
 
     $estados = Doctrine::getTable('Estado')->findKeys();
+    $stmt = $connection->prepare("INSERT INTO ciudad(nombre, estado_id) VALUES (?, ?)");
 
     // add your code here
     $files = sfFinder::type('files')->name('*.csv')->in($options['dir']);
@@ -47,19 +48,14 @@ EOF;
 
       $handle = fopen($file, 'r');
       fgetcsv($handle); // skip first
+      $localidades = array();
+      $data = array();
+      while (($data = fgetcsv($handle)) !== FALSE) {
+        $localidades[empty($data[5]) ? $data[3] : $data[5]] = $estados[$data[4]];
+      }
 
-      $stmt = $connection->prepare("INSERT INTO ciudad(nombre, estado_id) VALUES (?, ?)");
-      while (($data = fgetcsv($handle)) !== FALSE)
-      {
-        $localidad = empty($data[5]) ? $data[3] : $data[5];
-        if ($localidad_old == $localidad) continue;
-
-        $estado = $data[4];
-        $estado_id = $estados[$estado];
-
+      foreach ($localidades as $localidad => $estado_id) {
         $stmt->execute(array($localidad, $estado_id));
-
-        $localidad_old = $localidad;
       }
     }
   }

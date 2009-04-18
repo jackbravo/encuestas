@@ -10,7 +10,7 @@ Encuesta:
     telefono1: 3338373832
     tel_tipo1: 1
     estado_id: 1
-    ciudad_id: 1847
+    ciudad_id: 1791
     colonia: Arboledas
     calle: Galileo Galilei
     numero: 3829-1A
@@ -29,7 +29,7 @@ Encuesta:
     telefono1: 3333373932
     tel_tipo1: 1
     estado_id: 2
-    ciudad_id: 2268
+    ciudad_id: 2196
     colonia: Arboledas
     calle: Galileo Galilei
     numero: 1829-1A
@@ -51,7 +51,7 @@ Encuesta:
     tel_tipo1: 2
     email: alvaro@mail.com
     estado_id: 2
-    ciudad_id: 2268
+    ciudad_id: 2196
     colonia: Arboledas
     calle: 'Galileo Galilei'
     numero: 3829-1A
@@ -73,7 +73,7 @@ Encuesta:
     tel_tipo2: 4
     email: cesar@mail.com
     estado_id: 2
-    ciudad_id: 2275
+    ciudad_id: 2199
     colonia: Ciudad del Sol
     calle: 'Tezozomoc'
     numero: 3289
