@@ -1,6 +1,10 @@
 all:
   max_encuestas_on_contacts: 50
 
+  tiempo_espera:
+    vuelta_1: "30 second"
+    vuelta_2: "30 second"
+
   sf_guard_plugin:
     success_signin_url: @homepage
     success_signout_url: @homepage
