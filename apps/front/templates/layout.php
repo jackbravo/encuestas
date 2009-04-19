@@ -27,7 +27,7 @@ $('#ajax-loader').ajaxStart(function(){
 
 <div class="fullspan clearfix" id="header">
   <div id="logo" class="grid_12">
-    <?php echo link_to(image_tag('logo_header.gif'), '@homepage') ?>
+    <?php echo link_to(image_tag('logo_header.gif'), '@encuesta_new') ?>
   </div>
 </div>
 

@@ -6,5 +6,5 @@ all:
     vuelta_2: "30 second"
 
   sf_guard_plugin:
-    success_signin_url: @homepage
+    success_signin_url: @encuesta_new
     success_signout_url: @homepage

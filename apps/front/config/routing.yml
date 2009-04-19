@@ -38,7 +38,7 @@ ciudad_ajaxList:
 # default rules
 homepage:
   url:   /
-  param: { module: encuesta, action: new }
+  param: { module: sfGuardAuth, action: signin }
 
 default_index:
   url:   /:module
