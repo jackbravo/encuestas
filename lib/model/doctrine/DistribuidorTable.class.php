@@ -56,10 +56,10 @@ class DistribuidorTable extends Doctrine_Table
 
   public function getTabsNoAsign()
   {
-    $sql = "SELECT d.id, d.name, d.city, d.state
+    $sql = "SELECT d.id, d.name, d.city, d.state, SUM(s.localizo_dist) AS localizo
       FROM distribuidor d
         LEFT JOIN seguimiento s ON s.distribuidor_id = d.id
-      WHERE s.distribuidor_id IS NULL
+      GROUP BY d.id HAVING localizo IS NULL OR localizo = 0
       ORDER BY d.state, d.city, d.name";
     $dbh = $this->getConnection();
     $stmt = $dbh->prepare($sql);
