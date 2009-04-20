@@ -6,7 +6,7 @@
   <caption>Segunda vuelta</caption>
   <thead>
     <tr>
-      <th>Int #</th>
+      <th>Registro</th>
       <th>Nombre lead</th>
       <th>Horario</th>
       <th>Nombre TAB</th>
@@ -37,7 +37,7 @@
   <caption>Primera vuelta</caption>
   <thead>
     <tr>
-      <th>Int #</th>
+      <th>Registro</th>
       <th>Nombre lead</th>
       <th>Horario</th>
       <th>Nombre TAB</th>

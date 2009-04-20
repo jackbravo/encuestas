@@ -1,5 +1,5 @@
 <?php
-echo '"Interacción #",' .
+echo '"Registro",' .
   '"Nombre",' .
   '"Apellido P.",' .
   '"Apellido M.",' .

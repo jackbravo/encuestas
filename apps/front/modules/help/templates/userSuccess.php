@@ -29,7 +29,7 @@ en ese momento (aunque no tengan un distribuidor asignado aún). El botón `Nuev
 permite regresar a la pantalla anterior para dar de alta un nuevo Lead.
 
 Para asignar un distribuidor a un Lead se selecciona un lead de la lista, ya sea
-seleccionando el nombre o el número de Interacción. Esta acción dirige a la
+seleccionando el nombre o el número de registro. Esta acción dirige a la
 pantalla de datos del lead:
 
 ![Datos del lead](<?php echo image_path('user/Screenshot_lea2_usr.jpg') ?>)

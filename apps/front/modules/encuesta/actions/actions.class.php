@@ -47,7 +47,7 @@ class encuestaActions extends sfActions
     if (is_numeric($id)) {
       $this->redirect('@encuesta_show?id=' . $id);
     } else {
-      $this->getUser()->setFlash('error', 'Interacción # debe ser sólo números');
+      $this->getUser()->setFlash('error', 'El registro debe ser sólo números');
     }
   }
 

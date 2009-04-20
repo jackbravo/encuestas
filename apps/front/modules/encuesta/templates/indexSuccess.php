@@ -5,7 +5,7 @@
 <table class="list">
   <thead>
     <tr>
-      <th>Interacción #</th>
+      <th>Registro</th>
       <th>Nombre</th>
       <th>Estado</th>
       <th>Ciudad</th>
@@ -39,7 +39,7 @@
   <?php echo $filter->renderHiddenFields() ?>
 
   <div class="form-item">
-    <label for="_id">Interacción #</label><br/> <input type="text" id="_id" name="_id" size="7" />
+    <label for="_id">Registro</label><br/> <input type="text" id="_id" name="_id" size="7" />
   </div>
   <?php echo $filter['nombre']->renderRow() ?>
   <?php echo $filter['apellido_p']->renderRow() ?>

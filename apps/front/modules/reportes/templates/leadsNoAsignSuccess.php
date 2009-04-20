@@ -22,7 +22,7 @@ Leads que después de la segunda vuelta de seguimiento no fueron contactados por
     <?php foreach($leads as $id => $lead): ?>
       <?php if (fmod($id, 15) == 0): ?>
         <tr>
-          <th>Interacción #</th>
+          <th>Registro</th>
           <th>Nombre</th>
           <th>Apellido P.</th>
           <th>Apellido M.</th>
