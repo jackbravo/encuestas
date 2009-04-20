@@ -47,7 +47,7 @@ class reportesActions extends sfActions
 
     if ($request->hasParameter('_export'))
     {
-      $this->getResponse()->setContentType('text/csv');
+      $this->getResponse()->setContentType('text/csv; charset=utf-8');
       $this->getResponse()->setHttpHeader('Content-Disposition', 'attachment; filename=agentes.csv');
       $this->setLayout(false);
       $this->setTemplate('index.csv'); return '';
@@ -82,7 +82,7 @@ class reportesActions extends sfActions
 
     if ($request->hasParameter('_export'))
     {
-      $this->getResponse()->setContentType('text/csv');
+      $this->getResponse()->setContentType('text/csv; charset=utf-8');
       $this->getResponse()->setHttpHeader('Content-Disposition', 'attachment; filename=tabs.csv');
       $this->setLayout(false);
       $this->setTemplate('tabs.csv'); return '';
@@ -98,7 +98,7 @@ class reportesActions extends sfActions
 
     if ($request->hasParameter('_export'))
     {
-      $this->getResponse()->setContentType('text/csv');
+      $this->getResponse()->setContentType('text/csv; charset=utf-8');
       $this->getResponse()->setHttpHeader('Content-Disposition', 'attachment; filename=leads_no_asign.csv');
       $this->setLayout(false);
       $this->setTemplate('leadsNoAsign.csv'); return '';
@@ -111,7 +111,7 @@ class reportesActions extends sfActions
 
     if ($request->hasParameter('_export'))
     {
-      $this->getResponse()->setContentType('text/csv');
+      $this->getResponse()->setContentType('text/csv; charset=utf-8');
       $this->getResponse()->setHttpHeader('Content-Disposition', 'attachment; filename=tabs_no_asign.csv');
       $this->setLayout(false);
       $this->setTemplate('tabsNoAsign.csv'); return '';
@@ -122,7 +122,7 @@ class reportesActions extends sfActions
   {
     $this->segs = Doctrine::getTable('Seguimiento')->getForExport();
 
-    $this->getResponse()->setContentType('text/csv');
+    $this->getResponse()->setContentType('text/csv; charset=utf-8');
     $this->getResponse()->setHttpHeader('Content-Disposition', 'attachment; filename=seguimientos.csv');
     $this->setLayout(false);
   }
@@ -131,7 +131,7 @@ class reportesActions extends sfActions
   {
     $this->segs = Doctrine::getTable('Encuesta')->getForExport();
 
-    $this->getResponse()->setContentType('text/csv');
+    $this->getResponse()->setContentType('text/csv; charset=utf-8');
     $this->getResponse()->setHttpHeader('Content-Disposition', 'attachment; filename=encuestas.csv');
     $this->setLayout(false);
   }
