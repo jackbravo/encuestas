@@ -31,7 +31,21 @@
 
 <hr />
 
-<h3>Leads asignados</h3>
+<h3>Leads asignados (total histórico)</h3>
+<?php foreach ($distribuidor->getLeadsAsignados() as $lead): ?>
+<ul>
+  <li><?php echo link_to("#$lead->id, $lead", 'encuesta_show', $lead) ?></li>
+</ul>
+<?php endforeach ?>
+
+<h3>Leads asignados actualmente</h3>
+<?php foreach ($distribuidor->getLeadsAsignadosActuales() as $lead): ?>
+<ul>
+  <li><?php echo link_to("#$lead->id, $lead", 'encuesta_show', $lead) ?></li>
+</ul>
+<?php endforeach ?>
+
+<h3>Leads asignados exitosamente</h3>
 <?php foreach ($distribuidor->getLeadsAsignadosExitosos() as $lead): ?>
 <ul>
   <li><?php echo link_to("#$lead->id, $lead", 'encuesta_show', $lead) ?></li>
