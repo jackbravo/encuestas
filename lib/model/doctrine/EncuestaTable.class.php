@@ -160,7 +160,7 @@ class EncuestaTable extends Doctrine_Table
       ->select('e.*')
       ->addSelect('a.username, edo.nombre, cty.nombre, area.id, prod.id, mc.descripcion')
       ->addSelect('d.name, d.state, d.city, d.id, d.level, d.contact1, d.contact2, d.contact3')
-      ->addSelect('s.created_at, s.localizo_dist, s.localizo_lead, s.notas')
+      ->addSelect('s.created_at, s.localizo_dist, s.localizo_lead, s.notas, s.intento')
       ->leftJoin('e.Agente a')
       ->leftJoin('e.Estado edo')
       ->leftJoin('e.Ciudad cty')
