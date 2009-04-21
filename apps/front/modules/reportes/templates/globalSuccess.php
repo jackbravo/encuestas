@@ -69,6 +69,7 @@ foreach ($registros as $reg)
     echo '"' . $seg['created_at'] . '",';
     echo '"' . $seg['localizo_dist'] . '",';
     echo '"' . $seg['localizo_lead'] . '",';
+    echo '"' . $seg['notas'] . '",';
     echo '"' . $seg['intento'] . '",';
   }
 
