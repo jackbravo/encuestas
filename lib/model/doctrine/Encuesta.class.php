@@ -48,16 +48,21 @@ class Encuesta extends BaseEncuesta
     }
   }
 
-  public function printTipo($tel)
+  public static function getTipoString($tipo)
   {
-    $tipo_tel = 'tel_tipo' . $tel;
-    switch ($this->$tipo_tel) {
+    switch ($tipo) {
       case '1': return 'casa'; break;
       case '2': return 'oficina'; break;
       case '3': return 'celular'; break;
       case '4': return 'nextel'; break;
       default: return '';
     }
+  }
+
+  public function printTipo($tel)
+  {
+    $tipo_tel = 'tel_tipo' . $tel;
+    return self::getTipoString($this->$tipo_tel);
   }
 
   public function lock($user_id)

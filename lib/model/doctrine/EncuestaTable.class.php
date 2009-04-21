@@ -154,6 +154,24 @@ class EncuestaTable extends Doctrine_Table
     return $stmt->fetchAll();
   }
 
+  public function getGlobal()
+  {
+    return $this->createQuery('e')
+      ->select('e.*')
+      ->addSelect('a.username, edo.nombre, cty.nombre, area.id, prod.id, mc.descripcion')
+      ->addSelect('d.name, d.state, d.city, d.id, d.level, d.contact1, d.contact2, d.contact3')
+      ->addSelect('s.created_at, s.localizo_dist, s.localizo_lead, s.notas')
+      ->leftJoin('e.Agente a')
+      ->leftJoin('e.Estado edo')
+      ->leftJoin('e.Ciudad cty')
+      ->leftJoin('e.AreasInteres area')
+      ->leftJoin('e.ProductosInteres prod')
+      ->leftJoin('e.MedioContacto mc')
+      ->leftJoin('e.Seguimiento s')
+      ->leftJoin('s.Distribuidor d')
+      ->fetchArray();
+  }
+
   public function getForExport()
   {
     $sql = "

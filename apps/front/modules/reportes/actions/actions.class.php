@@ -122,6 +122,19 @@ class reportesActions extends sfActions
     }
   }
 
+  public function executeExportar(sfWebRequest $request)
+  {
+  }
+
+  public function executeGlobal(sfWebRequest $request)
+  {
+    $this->registros = Doctrine::getTable('Encuesta')->getGlobal();
+
+    $this->getResponse()->setContentType('text/csv; charset=utf-8');
+    $this->getResponse()->setHttpHeader('Content-Disposition', 'attachment; filename=global.csv');
+    $this->setLayout(false);
+  }
+
   public function executeSeguimientos(sfWebRequest $request)
   {
     $this->segs = Doctrine::getTable('Seguimiento')->getForExport();
