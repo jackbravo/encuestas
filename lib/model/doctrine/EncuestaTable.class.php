@@ -161,6 +161,8 @@ class EncuestaTable extends Doctrine_Table
       ->addSelect('a.username, edo.nombre, cty.nombre, area.id, prod.id, mc.descripcion')
       ->addSelect('d.name, d.state, d.city, d.id, d.level, d.contact1, d.contact2, d.contact3')
       ->addSelect('s.created_at, s.localizo_dist, s.localizo_lead, s.notas, s.intento')
+      ->addSelect('s.fecha_localizo_dist, a_dist.username')
+      ->addSelect('s.fecha_localizo_lead, a_lead.username')
       ->leftJoin('e.Agente a')
       ->leftJoin('e.Estado edo')
       ->leftJoin('e.Ciudad cty')
@@ -169,6 +171,8 @@ class EncuestaTable extends Doctrine_Table
       ->leftJoin('e.MedioContacto mc')
       ->leftJoin('e.Seguimiento s')
       ->leftJoin('s.Distribuidor d')
+      ->leftJoin('s.AgenteLocalizoDist a_dist')
+      ->leftJoin('s.AgenteLocalizoLead a_lead')
       ->fetchArray();
   }
 
