@@ -58,7 +58,7 @@ class encuestaActions extends sfActions
     $this->seguimientos = Doctrine::getTable('Seguimiento')->findForLead($this->encuesta->id);
 
     $last_seg = $this->seguimientos->getLast();
-    if ($last_seg && $last_seg->localizo_dist === null &&
+    if ($last_seg && $last_seg->distribuidor_id && $last_seg->localizo_dist === null &&
       $this->encuesta->viewer_id == $this->getUser()->getId() && // no esta bloqueado
       $last_seg->agente_id != $this->getUser()->getId() // yo no creé este seguimiento
     )
