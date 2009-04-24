@@ -45,9 +45,6 @@
 
   <div class="grid_4">
   <?php echo $form['estado_id']->renderRow() ?>
-    <script type="text/javascript">
-      setTimeout("$('#encuesta_estado_id').change()", 1000);
-    </script>
   </div>
   <div class="grid_4">
   <?php echo $form['ciudad_id']->renderRow() ?>

@@ -135,6 +135,10 @@ class encuestaActions extends sfActions
         $this->getUser()->setFlash('error', 'El lead especificado ya existe en la base de datos');
       }
     }
+    else
+    {
+      $form->reconstruirQuerydeCiudad();
+    }
   }
 
   protected function getPager($request, $filter)
