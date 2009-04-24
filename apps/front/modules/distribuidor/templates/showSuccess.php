@@ -45,7 +45,7 @@
 </ul>
 <?php endforeach ?>
 
-<h3>Leads asignados exitosamente</h3>
+<h3>Leads con seguimiento</h3>
 <?php foreach ($distribuidor->getLeadsAsignadosExitosos() as $lead): ?>
 <ul>
   <li><?php echo link_to("#$lead->id, $lead", 'encuesta_show', $lead) ?></li>

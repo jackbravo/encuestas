@@ -1,18 +1,18 @@
 <?php
 
 echo '"TAB",' .
-  '"Intentos de Asignaciones 1a vuelta",' .
-  '"Intentos de Asignaciones 2a vuelta",' .
-  '"Intentos de Asignaciones (total)",' .
-  '"Asignaciones 1a vuelta",' .
-  '"Asignaciones 2a vuelta",' .
-  '"Asignaciones (total)",' .
-  '"Asignaciones actuales 1a vuelta",' .
-  '"Asignaciones actuales 2a vuelta",' .
-  '"Asignaciones actuales (total)",' .
+  '"Intentos de asignaciones 1a vuelta",' .
+  '"Intentos de asignaciones 2a vuelta",' .
+  '"Intentos de asignaciones (total)",' .
   '"Asignaciones exitosas 1a vuelta",' .
   '"Asignaciones exitosas 2a vuelta",' .
   '"Asignaciones exitosas (total)",' .
+  '"Asignaciones actuales 1a vuelta",' .
+  '"Asignaciones actuales 2a vuelta",' .
+  '"Asignaciones actuales (total)",' .
+  '"Seguimientos exitosos 1a vuelta",' .
+  '"Seguimientos exitosos 2a vuelta",' .
+  '"Seguimientos exitosos (total)",' .
   '"IDs de distribuidor asignados"' .
   "\n";
 

@@ -23,9 +23,9 @@
     <tr>
       <th></th>
       <th colspan="3">Intentos de Asignaciones</th>
-      <th colspan="3">Asignaciones<br><small>Total histórico</small></th>
-      <th colspan="3">Asignaciones Actuales<br><small>Falta localizar al lead</small></th>
-      <th colspan="3">Asignaciones Exitosas<br><small>Leads que fueron contactados por el tab</small></th>
+      <th colspan="3">Asignaciones Exitosas<br><small>Total histórico</small></th>
+      <th colspan="3">Asignaciones Actuales</th>
+      <th colspan="3">Seguimientos Exitosos<br><small>Leads que fueron contactados por el tab</small></th>
       <th>IDs de distribuidor asignados</th>
     </tr>
     <tr>
