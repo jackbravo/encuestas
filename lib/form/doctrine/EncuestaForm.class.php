@@ -91,6 +91,13 @@ class EncuestaForm extends BaseEncuestaForm
     ));
   }
 
+  public function reconstruirQuerydeCiudad()
+  {
+    $this->widgetSchema['ciudad_id']->setOption('query',
+      Doctrine::getTable('Ciudad')->findByEstadoQuery($this->taintedValues['estado_id'])
+    );
+  }
+
   public function yaExiste()
   {
     return $this->getObject()->getTable()->createQuery('e')
