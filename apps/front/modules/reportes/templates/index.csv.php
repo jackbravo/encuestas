@@ -1,9 +1,9 @@
 <?php
 echo '"Agente",' .
   '"Leads registrados",' .
-  '"Asignaciones de TAB 1a vuelta",' .
-  '"Asignaciones de TAB 2a vuelta",' .
-  '"Asignaciones de TAB (total)",' .
+  '"Intentos de Asignaciones de TAB 1a vuelta",' .
+  '"Intentos de Asignaciones de TAB 2a vuelta",' .
+  '"Intentos de Asignaciones de TAB (total)",' .
   '"Asignaciones exitosas de TAB 1a vuelta",' .
   '"Asignaciones exitosas de TAB 2a vuelta",' .
   '"Asignaciones exitosas de TAB (total)",' .

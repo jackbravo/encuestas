@@ -183,7 +183,7 @@ class SeguimientoTable extends Doctrine_Table
   public function getForExport()
   {
     $sql = "
-      SELECT s.id AS seguimiento_id, s.distribuidor_id AS tab_id, lead_id AS registro, u.username AS agente_creo,
+      SELECT s.id AS asignacion_id, s.distribuidor_id AS tab_id, lead_id AS registro, u.username AS agente_creo, s.created_at AS fecha_asignacion,
         localizo_dist AS localizo_tab, user_dist.username AS agente_localizo_tab, fecha_localizo_dist AS fecha_localizo_tab,
         localizo_lead, user_lead.username AS agente_localizo_lead, fecha_localizo_lead,
         intento AS vuelta 

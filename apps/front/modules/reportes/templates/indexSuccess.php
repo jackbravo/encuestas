@@ -23,7 +23,7 @@
             <tr>
               <th></th>
               <th></th>
-              <th colspan="3">Asignaciones de TAB</th>
+              <th colspan="3">Intentos de Asignaciones de TAB</th>
               <th colspan="3">Asignaciones exitosas de TAB</th>
               <th colspan="3">Seguimientos<br><small>Monitoreo de seguimientos a leads</small></th>
               <th></th>
