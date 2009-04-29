@@ -179,7 +179,7 @@ class EncuestaTable extends Doctrine_Table
   public function getForExport()
   {
     $sql = "
-      SELECT e.id AS registro, u.username AS agente, d.id AS tab_id,
+      SELECT e.id AS registro, u.username AS agente,
         CASE WHEN origen_datos = 1 then 'tel'
              WHEN origen_datos = 2 then 'mail'
         END AS origen_datos,
@@ -203,10 +203,10 @@ class EncuestaTable extends Doctrine_Table
              WHEN tel_tipo3 = 4 then 'nextel'
         END AS tel_tipo_3,
         e.email, c.nombre AS ciudad, edo.nombre as estado, colonia, calle, numero, cp, notas,
-        ai.descripcion AS area_interes, pi.descripcion AS producto_interes
+        ai.descripcion AS area_interes, pi.descripcion AS producto_interes,
+        e.my_dist_id AS dist_id
       FROM encuesta e
         LEFT JOIN sf_guard_user u ON u.id = e.agente_id
-        LEFT JOIN distribuidor d ON d.id = e.last_dist_id
         LEFT JOIN medio_contacto mc ON mc.id = e.medio_contacto_id
         LEFT JOIN estado edo ON edo.id = e.estado_id
         LEFT JOIN ciudad c ON c.id = e.ciudad_id
