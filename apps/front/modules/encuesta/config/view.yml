@@ -1,3 +1,8 @@
+showSuccess:
+  http_metas:
+    Pragma: no-cache
+    Cache-Control: no-cache
+
 indexSuccess:
   stylesheets: [start/jquery-ui.custom.css]
   javascripts: [jquery-ui.js, ui.datepicker-es.js]
