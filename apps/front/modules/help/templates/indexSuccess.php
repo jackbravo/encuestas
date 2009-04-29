@@ -9,7 +9,6 @@
 - [Manual de usuario](<?php echo _compute_public_path('manual_usuario.pdf', 'files', 'pdf') ?>)
 <?php if ($sf_user->hasCredential('admin')): ?>
 - [Manual de administrador](<?php echo _compute_public_path('manual_admin.pdf', 'files', 'pdf') ?>)
-- [Documentación técnica](<?php echo _compute_public_path('documentacion-tecnica.pdf', 'files', 'pdf') ?>)
 <?php endif ?>
 
 <!---
