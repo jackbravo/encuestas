@@ -18,6 +18,8 @@ distribuidor:
     model: Distribuidor
     collection_actions: { filter: post }
     model_methods: { object: getForShow }
+  requirements:
+    id: ".+"
 
 seguimiento_createForLead:
   url: /seguimiento/:id/create
