@@ -1,8 +1,18 @@
 <?php echo pack("CCC",0xef,0xbb,0xbf); // BOM para UTF-8 ?>
-registro,nombre,"Apellido Paterno","Apellido Materno","Fecha de Nacimiento","Género",Calle,Número,Colonia,"Ciudad/Población",Estado,CP,tel 1,ext 1,tel tipo 1,tel 2,ext 2,tel tipo 2,tel 3,ext 3,tel tipo 3,email,mejor horario para contactarte,interesado en distribuir,interesado en comprar,nutricion interna,nutricion externa,como se entero de este numero,notas,origen datos,fecha registro,agente registro,ID dist,num intentos de asignaciones,<?php
+registro,nombre,"Apellido Paterno","Apellido Materno","Fecha de Nacimiento","Género",Calle,Número,Colonia,"Ciudad/Población",Estado,CP,tel 1,ext 1,tel tipo 1,tel 2,ext 2,tel tipo 2,tel 3,ext 3,tel tipo 3,email,mejor horario para contactarte,interesado en distribuir,interesado en comprar,nutricion interna,nutricion externa,como se entero de este numero,notas,origen datos,fecha registro,agente registro,ID dist,fecha de asignacion ID dist,agente que asigno el ID dist,num intentos de asignaciones,<?php
 foreach (range(1,5) as $i)
 {
-  echo "nombre tab $i,id tab $i,rango tab $i,estado tab $i,ciudad tab $i,contacto 1 tab $i,contacto 2 tab $i,contacto 3 tab $i,fecha asignacion $i,se contacto al tab $i,fecha contacto tab $i,agente contacto tab $i,se contacto al lead $i,fecha contacto lead $i,agente contacto lead $i,notas $i,num vuelta $i,";
+  echo "nombre tab $i,id tab $i,rango tab $i,estado tab $i,ciudad tab $i,contacto 1 tab $i,contacto 2 tab $i,contacto 3 tab $i,fecha de intento de asignacion $i,se contacto al tab $i,fecha contacto tab $i,agente contacto tab $i,se contacto al lead $i,fecha contacto lead $i,agente contacto lead $i,notas $i,num vuelta $i,";
+}
+
+function print_bool($bool) {
+  if ($bool === NULL) {
+    return '';
+  } else if ($bool) {
+    return '1';
+  } else {
+    return '0';
+  }
 }
 
 echo "\n";
@@ -54,6 +64,8 @@ foreach ($registros as $reg)
   echo '"' . $reg['created_at'] . '",';
   echo '"' . $reg['Agente']['username'] . '",';
   echo '"' . $reg['my_dist_id'] . '",';
+  echo '"' . $reg['fecha_my_dist_id'] . '",';
+  echo '"' . $reg['AgenteDistId']['username'] . '",';
 
   echo '"' . sizeof($reg['Seguimiento']) . '",';
 
@@ -67,10 +79,10 @@ foreach ($registros as $reg)
     echo '"' . $seg['Distribuidor']['contact2'] . '",';
     echo '"' . $seg['Distribuidor']['contact3'] . '",';
     echo '"' . $seg['created_at'] . '",';
-    echo '"' . $seg['localizo_dist'] . '",';
+    echo '"' . print_bool($seg['localizo_dist']) . '",';
     echo '"' . $seg['fecha_localizo_dist'] . '",';
     echo '"' . $seg['AgenteLocalizoDist']['username'] . '",';
-    echo '"' . $seg['localizo_lead'] . '",';
+    echo '"' . print_bool($seg['localizo_lead']) . '",';
     echo '"' . $seg['fecha_localizo_lead'] . '",';
     echo '"' . $seg['AgenteLocalizoLead']['username'] . '",';
     echo '"' . $seg['notas'] . '",';
