@@ -15,7 +15,7 @@ function print_bool($bool) {
   }
 }
 
-echo "\n";
+echo "\r\n";
 
 foreach ($registros as $reg)
 {
@@ -59,7 +59,7 @@ foreach ($registros as $reg)
   }
   echo ",";
   echo '"' . $reg['MedioContacto']['descripcion'] . '",';
-  echo '"' . $reg['notas'] . '",';
+  echo '"' . preg_replace('/\r\n/', "\n", $reg['notas']) . '",';
   echo '"' . ($reg['origen_datos'] == 1 ? 'tel' : 'mail') . '",';
   echo '"' . $reg['created_at'] . '",';
   echo '"' . $reg['Agente']['username'] . '",';
@@ -85,11 +85,11 @@ foreach ($registros as $reg)
     echo '"' . print_bool($seg['localizo_lead']) . '",';
     echo '"' . $seg['fecha_localizo_lead'] . '",';
     echo '"' . $seg['AgenteLocalizoLead']['username'] . '",';
-    echo '"' . $seg['notas'] . '",';
+    echo '"' . preg_replace('/\r\n/', "\n", $seg['notas']) . '",';
     echo '"' . $seg['intento'] . '",';
   }
 
-  echo "\n";
+  echo "\r\n";
 }
 
 ?>

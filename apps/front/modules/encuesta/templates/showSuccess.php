@@ -143,7 +143,7 @@
     <?php echo $encuesta->Estado ?> - 
     CP <?php echo $encuesta->cp ?><br/>
     <strong>Notas:</strong><br/>
-    <?php echo $encuesta->notas ?>
+    <?php echo nl2br($encuesta->notas) ?>
   </div>
 
   <?php if (sizeof($seguimientos) > 0) {
