@@ -59,7 +59,7 @@ foreach ($registros as $reg)
   }
   echo ",";
   echo '"' . $reg['MedioContacto']['descripcion'] . '",';
-  echo '"' . preg_replace('/\r\n/', "\n", $reg['notas']) . '",';
+  echo '"' . str_replace(array("\r\n", '"'), array("\n", "'"), $reg['notas']) . '",';
   echo '"' . ($reg['origen_datos'] == 1 ? 'tel' : 'mail') . '",';
   echo '"' . $reg['created_at'] . '",';
   echo '"' . $reg['Agente']['username'] . '",';
@@ -85,7 +85,7 @@ foreach ($registros as $reg)
     echo '"' . print_bool($seg['localizo_lead']) . '",';
     echo '"' . $seg['fecha_localizo_lead'] . '",';
     echo '"' . $seg['AgenteLocalizoLead']['username'] . '",';
-    echo '"' . preg_replace('/\r\n/', "\n", $seg['notas']) . '",';
+    echo '"' . str_replace(array("\r\n", '"'), array("\n", "'"), $seg['notas']) . '",';
     echo '"' . $seg['intento'] . '",';
   }
 
