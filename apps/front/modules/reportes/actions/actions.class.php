@@ -153,6 +153,19 @@ class reportesActions extends sfActions
     $this->setLayout(false);
   }
 
+  public function executeMetricas(sfWebRequest $request)
+  {
+    $this->filter = $this->getFilter($request);
+    $fecha = $this->filter->getValue('fecha');
+
+    $this->leads_by_email = Doctrine::getTable('Encuesta')->getLeadsByEmail($fecha['from'], $fecha['to']);
+    $this->leads_by_phone = Doctrine::getTable('Encuesta')->getLeadsByPhone($fecha['from'], $fecha['to']);
+    $this->leads_received = Doctrine::getTable('Encuesta')->getLeadsReceived($fecha['from'], $fecha['to']);
+    $this->leads_assigned = Doctrine::getTable('Seguimiento')->getLeadsAssigned($fecha['from'], $fecha['to']);
+    $this->leads_followed_up = Doctrine::getTable('Seguimiento')->getLeadsFollowedUp($fecha['from'], $fecha['to']);
+    $this->leads_converted = Doctrine::getTable('Encuesta')->getLeadsConverted($fecha['from'], $fecha['to']);
+  }
+
   public function getFilter($request)
   {
     $filter = new ReportFilter();

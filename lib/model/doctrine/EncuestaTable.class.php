@@ -223,4 +223,56 @@ class EncuestaTable extends Doctrine_Table
 
     return $stmt->fetchAll(PDO::FETCH_ASSOC);
   }
+
+  public function getLeadsByEmail($from, $to)
+  {
+    $sql = "SELECT COUNT(*) count FROM encuesta WHERE origen_datos = 2";
+    if ($from !== null) {
+      $sql .= " AND created_at BETWEEN ? AND ? + interval 1 day";
+    }
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute(array($from, $to));
+
+    return $stmt->fetchColumn();
+  }
+
+  public function getLeadsByPhone($from, $to)
+  {
+    $sql = "SELECT COUNT(*) count FROM encuesta WHERE origen_datos = 1";
+    if ($from !== null) {
+      $sql .= " AND created_at BETWEEN ? AND ? + interval 1 day";
+    }
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute(array($from, $to));
+
+    return $stmt->fetchColumn();
+  }
+
+  public function getLeadsReceived($from, $to)
+  {
+    $sql = "SELECT COUNT(*) count FROM encuesta";
+    if ($from !== null) {
+      $sql .= " WHERE created_at BETWEEN ? AND ? + interval 1 day";
+    }
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute(array($from, $to));
+
+    return $stmt->fetchColumn();
+  }
+
+  public function getLeadsConverted($from, $to)
+  {
+    $sql = "SELECT COUNT(*) count FROM encuesta WHERE my_dist_id IS NOT NULL";
+    if ($from !== null) {
+      $sql .= " AND fecha_my_dist_id BETWEEN ? AND ? + interval 1 day";
+    }
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute(array($from, $to));
+
+    return $stmt->fetchColumn();
+  }
 }

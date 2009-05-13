@@ -198,4 +198,30 @@ class SeguimientoTable extends Doctrine_Table
 
     return $stmt->fetchAll(PDO::FETCH_ASSOC);
   }
+
+  public function getLeadsAssigned($from, $to)
+  {
+    $sql = "SELECT COUNT(distinct lead_id) count FROM seguimiento WHERE localizo_dist = 1";
+    if ($from !== null) {
+      $sql .= " AND fecha_localizo_dist BETWEEN ? AND ? + interval 1 day";
+    }
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute(array($from, $to));
+
+    return $stmt->fetchColumn();
+  }
+
+  public function getLeadsFollowedUp($from, $to)
+  {
+    $sql = "SELECT COUNT(distinct lead_id) count FROM seguimiento WHERE localizo_lead = 1";
+    if ($from !== null) {
+      $sql .= " AND fecha_localizo_lead BETWEEN ? AND ? + interval 1 day";
+    }
+    $dbh = $this->getConnection();
+    $stmt = $dbh->prepare($sql);
+    $stmt->execute(array($from, $to));
+
+    return $stmt->fetchColumn();
+  }
 }
