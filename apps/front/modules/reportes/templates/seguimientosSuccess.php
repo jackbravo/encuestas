@@ -5,6 +5,5 @@ echo '"' . implode('","', array_keys($segs[0])) . "\"\r\n";
 
 foreach ($segs as $seg)
 {
-  $seg['notas'] = str_replace(array("\r\n", '"'), array("\n", "'"), $seg['notas']);
   echo '"' . implode('","', $seg) . "\"\r\n";
 }
