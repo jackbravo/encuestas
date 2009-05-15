@@ -1,5 +1,5 @@
 all:
-  max_encuestas_on_contacts: 50
+  max_encuestas_on_index: 50
 
   tiempo_espera:
     vuelta_1: "30 second"

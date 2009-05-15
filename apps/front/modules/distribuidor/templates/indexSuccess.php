@@ -43,3 +43,5 @@
   </tbody>
 </table>
 
+<?php include_partial('encuesta/pager', array('pager' => $pager)) ?>
+

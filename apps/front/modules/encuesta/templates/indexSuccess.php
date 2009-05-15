@@ -27,8 +27,10 @@
   </tbody>
 </table>
 
+<?php include_partial('encuesta/pager', array('pager' => $pager)) ?>
+
   <div class="actions">
-    <a href="<?php echo url_for('encuesta_new') ?>">Nueva encuesta</a>
+    <p><a href="<?php echo url_for('encuesta_new') ?>">Nueva encuesta</a></p>
   </div>
 </div>
 
