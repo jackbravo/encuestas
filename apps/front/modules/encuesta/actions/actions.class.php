@@ -46,9 +46,14 @@ class encuestaActions extends sfActions
   public function goToEncuesta($id)
   {
     if (is_numeric($id)) {
-      $this->redirect('@encuesta_show?id=' . $id);
+      $encuesta = Doctrine::getTable('Encuesta')->find($id);
+      if ($encuesta) {
+        $this->redirect('@encuesta_show?id=' . $id);
+      } else {
+        $this->getUser()->setFlash('notice', 'No existe el registro especificado');
+      }
     } else {
-      $this->getUser()->setFlash('error', 'El registro debe ser sólo números');
+      $this->getUser()->setFlash('notice', 'El registro debe ser sólo números');
     }
   }
 
