@@ -15,34 +15,38 @@ class SeguimientoTable extends Doctrine_Table
       ->execute();
   }
 
-  public function findVuelta1()
+  public function findVuelta1(Doctrine_Query $q)
   {
-    return $this->findVueltaQuery()
+    $alias = $q->getRootAlias();
+
+    return $this->findVueltaQuery($q)
       ->addWhere('s.intento = 1')
       ->addWhere('s.fecha_localizo_dist < (NOW() - interval ' . sfConfig::get('app_tiempo_espera_vuelta_1') . ')') // 2 day
-      ->execute(array(), Doctrine::HYDRATE_ARRAY);
   }
 
-  public function findVuelta2()
+  public function findVuelta2(Doctrine_Query $q)
   {
-    return $this->findVueltaQuery()
+    $alias = $q->getRootAlias();
+
+    return $this->findVueltaQuery($q)
       ->addWhere('s.intento >= 2')
       ->addWhere('s.fecha_localizo_dist < (NOW() - interval ' . sfConfig::get('app_tiempo_espera_vuelta_2') . ')') // 1 day
-      ->execute(array(), Doctrine::HYDRATE_ARRAY);
   }
 
-  public function findVueltaQuery()
+  public function findVueltaQuery(Doctrine_Query $q)
   {
-    return Doctrine::getTable('Encuesta')->createQuery('l')
-      ->select('l.id, l.nombre, l.apellido_p, l.apellido_m, d.state, c.nombre')
-      ->addSelect('s.fecha_localizo_dist, d.name, h.rango, l.rangos_horario')
-      ->leftJoin('l.Seguimiento s')
-      ->leftJoin('l.Ciudad c')
+    $alias = $q->getRootAlias();
+
+    return $q
+      ->addSelect("$alias.id, $alias.nombre, $alias.apellido_p, $alias.apellido_m")
+      ->addSelect('d.state, c.nombre')
+      ->addSelect("s.fecha_localizo_dist, d.name, h.rango, $alias.rangos_horario")
+      ->leftJoin("$alias.Seguimiento s")
+      ->leftJoin("$alias.Ciudad c")
       ->leftJoin('s.Distribuidor d')
-      ->addWhere('l.viewer_id IS NULL')
+      ->addWhere("$alias.viewer_id IS NULL")
       ->addWhere('s.status = 1')
       ->addOrderBy('s.fecha_localizo_dist ASC')
-      ->limit(100);
   }
 
   public function closeForLead($lead_id)
